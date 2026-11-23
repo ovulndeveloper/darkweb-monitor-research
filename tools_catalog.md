@@ -107,77 +107,6 @@ Each tool entry includes:
    - Smaller, curated index
    - Focus on legitimacy
 • Best For: Privacy-conscious searching, finding verified services
-## 2. Dark Web Exposure & Monitoring
-
-### Darkwatch
-- GitHub: https://github.com/Daemon-VI/darkwatch
-- Rank: ⭐⭐⭐⭐
-- Primary Focus: Ransomware leak site monitoring, breach data exposure
-- Windows: ✅ (via schtasks, desktop alerts)
-- Linux: ✅ (via systemd, cron)
-- Key Features:
-  - Watches ransomware leak sites over managed Tor
-  - Scores every hit by context
-  - Remediation recommendations (change passwords, enable MFA, etc.)
-  - Tor Expert Bundle auto-download
-  - Desktop alerts and daily scheduled runs
-  - SARIF format for GitHub code scanning
-- Best For: Organization exposure monitoring, ransomware risk assessment, individual/digital identity protection
-
-### TorBot
-- GitHub: https://github.com/A-deker0/TorBot
-- Rank: ⭐⭐⭐
-- Primary Focus: Onion service crawling and data collection
-- Windows: ❌
-- Linux: ✅ (Python-based)
-- Key Features:
-  - Python-based onion service crawler
-  - Configurable depth and breadth
-  - Extracts metadata, keywords, documents
-  - Can be used for dark web monitoring setups
-- Best For: Custom dark web crawling, research data collection, academic studies
-
-## 3. Search Engines & Directories
-
-### Ahmia
-- Website: https://ahmia.fi
-- Rank: ⭐⭐⭐⭐⭐
-- Primary Focus: Filtered dark web search engine
-- Windows: ✅ (via Tor Browser)
-- Linux: ✅ (via Tor Browser)
-- Key Features:
-  - Clearnet-accessible .onion search
-  - Strict abuse filtering
-  - Indexes Tor hidden services only
-  - API available
-  - Search statistics and reports
-- Best For: Safe dark web searching, research with filtering, discovering onion services
-
-### Torch
-- Address: http://xmh57jrzrnw6iuq7.onion
-- Rank: ⭐⭐⭐⭐
-- Primary Focus: General dark web search
-- Windows: ✅ (via Tor Browser)
-- Linux: ✅ (via Tor Browser)
-- Key Features:
-  - One of oldest/darkweb search engines
-  - Large index of .onion sites
-  - Simple .onion address
-  - No filtering (broad results)
-- Best For: General dark web exploration, finding lesser-known services
-
-### NotEvil
-- Address: http://noteilv6w5w.onion
-- Rank: ⭐⭐⭐
-- Primary Focus: Privacy-focused dark web search
-- Windows: ✅ (via Tor Browser)
-- Linux: ✅ (via Tor Browser)
-- Key Features:
-  - Privacy-oriented indexing
-  - Smaller, curated index
-  - Focus on legitimacy
-- Best For: Privacy-conscious searching, finding verified services
-
 ## 4. Breach & Credential Monitoring
 
 ### HaveIBeenPwned Integration
@@ -211,7 +140,7 @@ Each tool entry includes:
 ## 5. Commercial/Enterprise Solutions
 
 ### ZeroFox
-- Website: https://www.zeroxfox.com
+- Website: https://www.zerofox.com
 - Rank: ⭐⭐⭐⭐⭐
 - Primary Focus: Enterprise dark web monitoring
 - Windows: ✅ (dashboard, agents)
@@ -279,4 +208,4 @@ Ranking scale:
 - ⭐⭐ Basic functionality, limited features
 - ⭐ Experimental or very niche
 
-*Updated: November 2026*
+*Last verified: 2026-11-23 (UTC)*
