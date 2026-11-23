@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/mthcht/threatcheck>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 35
+- **Reviewed:** 2026-11-23
 
 ThreatCheck - Select any indicator of compromise on any web page - or highlight an entire paragraph from a threat report - and instantly extract and look up every IOC across multiple platforms. No copy-pasting between tabs.
 

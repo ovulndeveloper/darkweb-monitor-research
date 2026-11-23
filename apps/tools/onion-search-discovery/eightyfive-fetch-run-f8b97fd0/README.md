@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/eightyfive/fetch-run>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 11
+- **Reviewed:** 2026-11-23
 
 Fetch middleware for the modern minimalist
 

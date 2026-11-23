@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Eshan00/Phisher-Fisher>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
+- **Reviewed:** 2026-11-23
 
 A simple browser plugin (supported on Google Chrome/Canary, Firefox) to identify websites with suspecious links which could possibly be phishing links and the website itself..
 

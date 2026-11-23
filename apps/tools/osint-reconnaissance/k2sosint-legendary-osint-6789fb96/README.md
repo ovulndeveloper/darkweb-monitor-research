@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/K2SOsint/Legendary_OSINT>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1827
-- **License:** CC0-1.0
+- **Reviewed:** 2026-11-23
 
 A list of OSINT tools & resources for (fraud-)investigators, CTI-analysts, KYC, AML and more.
 

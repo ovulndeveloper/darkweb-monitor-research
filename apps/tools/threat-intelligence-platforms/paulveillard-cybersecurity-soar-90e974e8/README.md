@@ -4,10 +4,8 @@
 - **Type:** [awesome-list](../../../by-type/awesome-list/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/paulveillard/cybersecurity-SOAR>
-- **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 125
-- **License:** Apache-2.0
+- **Sources:** `github-search:topic:cyber-threat-intelligence`, `github-search:topic:incident-response`, `github-search:topic:siem`
+- **Reviewed:** 2026-11-23
 
 A collection of awesome framework, libraries, learning tutorials, videos, webcasts, technical resources and cool stuff about Security Orchestration, Automation and Response (SOAR).
 

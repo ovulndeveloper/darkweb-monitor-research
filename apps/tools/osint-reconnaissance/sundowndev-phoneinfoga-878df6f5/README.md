@@ -4,10 +4,8 @@
 - **Type:** [framework](../../../by-type/framework/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/sundowndev/phoneinfoga>
-- **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 18657
-- **License:** GPL-3.0
+- **Sources:** `awesome:TinuolaRotimi/Awesome-OSINT`, `awesome:edwardtay/awesome-OSINT`, `awesome:jivoi/awesome-osint`, `github-search:topic:osint`
+- **Reviewed:** 2026-11-23
 
 Information gathering framework for phone numbers
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/alexlinos/threat-feed-me>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 29
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 On-prem threat intelligence aggregator: normalize, dedupe, and score threat feeds into confidence tiers served as URLs your firewall polls.
 

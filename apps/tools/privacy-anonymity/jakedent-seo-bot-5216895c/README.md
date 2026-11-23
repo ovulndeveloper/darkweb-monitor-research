@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/jakedent/seo-bot>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 24
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Simple SEO bot written in Python. Runs on OSX with Tor Browser Bundle Installed.
 

@@ -4,10 +4,8 @@
 - **Type:** [directory](../../../by-type/directory/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/trickest/elasticsearch_index>
-- **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 27
-- **License:** MIT
+- **Sources:** `github-search:topic:recon`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 Manage attack surface data on Elasticsearch
 

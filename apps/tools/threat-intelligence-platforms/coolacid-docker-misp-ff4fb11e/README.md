@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/coolacid/docker-misp>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 227
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 A (nearly) production ready Dockered MISP
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ralphwetzel/theonionbox>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 118
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Dashboard to monitor Tor node operations
 

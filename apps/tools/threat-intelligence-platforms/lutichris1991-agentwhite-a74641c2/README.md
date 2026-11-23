@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/lutichris1991/agentwhite>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
+- **Reviewed:** 2026-11-23
 
 Local-first authorized security validation console for networks, wireless devices, hardware, and protocols with guided and advanced operator modes.
 

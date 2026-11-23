@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Pushpenderrathore/OSINT>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 An organized repository of OSINT tools and methodologies for digital investigations, cybersecurity, and threat intelligence.
 

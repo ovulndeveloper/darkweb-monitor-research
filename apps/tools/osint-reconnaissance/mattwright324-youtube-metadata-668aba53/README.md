@@ -4,10 +4,8 @@
 - **Type:** [api-service](../../../by-type/api-service/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/mattwright324/youtube-metadata>
-- **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 518
-- **License:** MIT
+- **Sources:** `awesome:edwardtay/awesome-OSINT`, `github-search:topic:osint`
+- **Reviewed:** 2026-11-23
 
 A quick way to gather all the metadata about a video, playlist, or channel from the YouTube API.
 

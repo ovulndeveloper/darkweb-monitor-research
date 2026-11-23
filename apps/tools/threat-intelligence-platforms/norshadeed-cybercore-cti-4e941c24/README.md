@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/NorShadeed/cybercore-cti>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 Source-traceable cyber threat intelligence workspace with STIX 2.1 exports, ATT&CK mapping, and local-first persistence.
 

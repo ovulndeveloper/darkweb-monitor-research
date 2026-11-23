@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/0u44/USB-Ransom>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 37
+- **Reviewed:** 2026-11-23
 
 USB Ransomware, will encrypt SOME files and steal some, you can change what it steals.
 

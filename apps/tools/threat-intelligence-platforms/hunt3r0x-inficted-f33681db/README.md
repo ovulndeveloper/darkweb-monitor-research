@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Hunt3r0x/inficted>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 11
+- **Reviewed:** 2026-11-23
 
 An open-source engine for monitoring data breaches and leaks from various sources.
 

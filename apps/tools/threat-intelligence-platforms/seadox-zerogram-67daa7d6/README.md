@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Seadox/Zerogram>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 5
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 A CLI for bot token login to hunt malicious Telegram bots
 

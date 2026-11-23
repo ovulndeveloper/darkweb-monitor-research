@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/gayanku/NBC-Softmax>
 - **Sources:** `github-search:topic:darkweb`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 7
+- **Reviewed:** 2026-11-23
 
 Code for the Paper : NBC-Softmax : Darkweb Author fingerprinting and migration tracking (https://arxiv.org/abs/2212.08184)
 

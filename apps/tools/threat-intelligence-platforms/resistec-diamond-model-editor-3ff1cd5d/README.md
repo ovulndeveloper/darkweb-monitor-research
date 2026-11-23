@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/resistec/diamond-model-editor>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 A self-hostable web application that lets you form and export the Diamond Model of Intrusion Analysis in a structured format.
 

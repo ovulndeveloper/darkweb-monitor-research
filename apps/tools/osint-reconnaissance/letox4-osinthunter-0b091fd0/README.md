@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/letox4/OsintHunter>
 - **Sources:** `github-search:topic:osint-framework`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 177
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 🎯 The ultimate OSINT toolkit: investigation graph, confidence scoring, alias families, map, timeline and reports. 49 modules, 400+ sites, no API keys required.
 

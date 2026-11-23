@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ajuelosemmanuel/philINT>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 29
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 OSINT tool that allows to gather information from an email address, an username, and more !
 

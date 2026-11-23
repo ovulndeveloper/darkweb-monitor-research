@@ -4,10 +4,8 @@
 - **Type:** [research-project](../../../by-type/research-project/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/AlephNullSK/dnsgen>
-- **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1084
-- **License:** MIT
+- **Sources:** `awesome:edwardtay/awesome-OSINT`, `github-search:topic:osint`, `github-search:topic:recon`
+- **Reviewed:** 2026-11-23
 
 DNSGen is a powerful and flexible DNS name permutation tool designed for security researchers and penetration testers. It generates intelligent domain name variations to assist in subdomain discovery and security assessments.
 

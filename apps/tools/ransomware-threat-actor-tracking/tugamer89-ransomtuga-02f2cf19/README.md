@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Tugamer89/RansomTuga>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 99
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 An advanced Ransomware written in C++ and fully customizable
 

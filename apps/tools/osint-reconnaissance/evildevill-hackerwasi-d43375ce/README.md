@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/evildevill/Hackerwasi>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 154
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Hackerwasii is an information collection tool (OSINT) which aims to carry out research on a French, Swiss, Luxembourgish or Belgian person. It provides various modules that allow efficient searches. Hackerwasii does not require an API key or login ID. you Can Run This Tool ON command Port Linux & Termux
 

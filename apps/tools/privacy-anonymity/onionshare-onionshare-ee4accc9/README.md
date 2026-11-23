@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/onionshare/onionshare>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 7242
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Securely and anonymously share files, host websites, and chat with friends using the Tor network
 

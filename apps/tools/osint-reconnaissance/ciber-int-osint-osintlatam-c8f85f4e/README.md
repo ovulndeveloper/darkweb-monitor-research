@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ciber-int-osint/OsintLatam>
 - **Sources:** `github-search:topic:osint-framework`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 5
+- **Reviewed:** 2026-11-23
 
 Framework orientado a distribuir herramientas Osint
 

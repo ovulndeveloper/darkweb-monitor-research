@@ -4,10 +4,8 @@
 - **Type:** [dataset](../../../by-type/dataset/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/phishdestroy/namesilo-evidence>
-- **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 140
-- **License:** MIT
+- **Sources:** `github-search:topic:phishing`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 NameSilo registrar abuse investigation (IANA 1479): public evidence, domain history, classified IOC feeds and reproducible analytics.
 

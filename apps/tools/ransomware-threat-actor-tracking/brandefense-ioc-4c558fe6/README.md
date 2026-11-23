@@ -4,10 +4,8 @@
 - **Type:** [research-project](../../../by-type/research-project/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/BRANDEFENSE/IoC>
-- **Sources:** `github-search:topic:cti`, `github-search:topic:ransomware`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 25
-- **License:** CC-BY-4.0
+- **Sources:** `github-search:topic:cti`, `github-search:topic:phishing`, `github-search:topic:ransomware`, `github-search:topic:threat-hunting`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 Indicators of compromise (IOCs), YARA and Sigma rules from Brandefense threat research on APT groups, ransomware and infostealers.
 

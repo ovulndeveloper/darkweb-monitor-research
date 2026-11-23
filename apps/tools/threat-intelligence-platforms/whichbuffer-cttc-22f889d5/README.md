@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/whichbuffer/CTTC>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 11
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Analyze cyber threat research post from given URLs and get insights with the help of ChatGPT
 

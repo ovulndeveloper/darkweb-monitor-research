@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Hildaboo/NotPetyaFileEncryptor>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 18
+- **Reviewed:** 2026-11-23
 
 Decompiled NotPetya File Encryptor Code
 

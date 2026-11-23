@@ -5,8 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/id-cpe/public>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
+- **Reviewed:** 2026-11-23
 
 Intrusion Detection in Cloud Productivity Environments (2024)
 

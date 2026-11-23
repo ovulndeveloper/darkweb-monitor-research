@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Reinvicta-Tech/beatrooter>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Beat roots. Beat them all. Be a BeatRooter.
 

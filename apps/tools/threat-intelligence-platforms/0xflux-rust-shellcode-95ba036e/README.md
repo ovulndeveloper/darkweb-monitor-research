@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/0xflux/rust_shellcode>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 28
+- **Reviewed:** 2026-11-23
 
 Pipeline for creating shellcode from a nostd rust project.
 

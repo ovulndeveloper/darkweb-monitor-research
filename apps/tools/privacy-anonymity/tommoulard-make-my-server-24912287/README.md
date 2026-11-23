@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/tomMoulard/make-my-server>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 590
+- **Reviewed:** 2026-11-23
 
 Docker Compose with Traefik and lots of services
 

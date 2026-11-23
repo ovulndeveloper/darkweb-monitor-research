@@ -4,10 +4,8 @@
 - **Type:** [web-platform](../../../by-type/web-platform/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/ValtteriL/OnionFermenter>
-- **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 37
-- **License:** MIT
+- **Sources:** `github-search:topic:phishing`, `github-search:topic:tor`
+- **Reviewed:** 2026-11-23
 
 A tool for creating bitcoin stealing phishing clones of onion services on large scale
 

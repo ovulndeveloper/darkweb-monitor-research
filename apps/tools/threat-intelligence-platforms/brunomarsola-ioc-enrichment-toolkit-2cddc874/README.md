@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/brunomarsola/ioc-enrichment-toolkit>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 CLI tool for IOC enrichment via VirusTotal, AbuseIPDB and AlienVault OTX
 

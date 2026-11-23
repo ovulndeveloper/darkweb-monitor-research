@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/AdvOR/advor>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 32
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Advanced Onion Router client and server written by Albu Cristian
 

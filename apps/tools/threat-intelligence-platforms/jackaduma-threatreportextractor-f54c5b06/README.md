@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/jackaduma/ThreatReportExtractor>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 79
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Extracting Attack Behavior from Threat Reports
 

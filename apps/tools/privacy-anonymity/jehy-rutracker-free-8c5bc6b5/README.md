@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/jehy/rutracker-free>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 38
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 Android thin client for rutracker.org, using Tor to avoid block.
 

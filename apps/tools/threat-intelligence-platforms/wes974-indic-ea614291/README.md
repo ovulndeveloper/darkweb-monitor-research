@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Wes974/indic>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Single-binary CTI/OSINT enrichment platform in Rust — 13 observable types, ~75 sources, weighted verdict, pivot graph, comparator, proactive veille.
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/blackstork-io/blackstork-cli>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 72
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 A source-available command-line tool for cybersecurity reporting
 

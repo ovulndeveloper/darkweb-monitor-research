@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/LeenAdeeb/IOC-Enricher>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Python CLI that enriches IOCs (VirusTotal, AbuseIPDB, Shodan, OTX, abuse.ch), maps infrastructure with graph pivoting, and ranks possible APT groups using MITRE ATT&CK and MISP Galaxy.
 

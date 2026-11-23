@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Hex1629/Ac0ddRansom>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 10
+- **Reviewed:** 2026-11-23
 
 RANSOMWARE BUILDER FOR WINDOWS
 

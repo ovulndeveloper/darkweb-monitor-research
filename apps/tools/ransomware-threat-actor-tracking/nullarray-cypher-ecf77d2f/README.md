@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/NullArray/Cypher>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 220
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Pythonic ransomware proof of concept.
 

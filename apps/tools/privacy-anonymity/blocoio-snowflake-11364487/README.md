@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/blocoio/snowflake>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 100
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Snowflake Volunteer – Android app for Tor Snowflake volunteers
 

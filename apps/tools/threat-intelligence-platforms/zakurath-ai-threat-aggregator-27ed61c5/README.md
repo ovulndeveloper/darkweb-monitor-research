@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Zakurath/AI-Threat-Aggregator>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 The AI Threat Intelligence Aggregator is a Python-based cybersecurity tool designed to help analysts identify and prioritize emerging threats involving artificial intelligence.
 

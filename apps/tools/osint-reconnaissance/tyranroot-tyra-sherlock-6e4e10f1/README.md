@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/tyranroot/Tyra-SherLock>
 - **Sources:** `github-search:topic:osint-framework`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
+- **Reviewed:** 2026-11-23
 
 SherLock Type Osint Apk
 

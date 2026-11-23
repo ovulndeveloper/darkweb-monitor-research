@@ -4,10 +4,8 @@
 - **Type:** [tool](../../../by-type/tool/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/lissy93/web-check>
-- **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 35572
-- **License:** MIT
+- **Sources:** `awesome:edwardtay/awesome-OSINT`, `github-search:topic:osint`, `github-search:topic:security-tools`
+- **Reviewed:** 2026-11-23
 
 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 

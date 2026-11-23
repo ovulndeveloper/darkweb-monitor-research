@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Dalistin/steam-osint>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 8
+- **Reviewed:** 2026-11-23
 
 Актуальная подборка OSINT-инструментов для поиска информации по аккаунту Steam: поиск SteamID, история ников и аватаров, статистика игр (TF2, CS:GO, Dota 2, FACEIT), потраченные деньги, взаимодействия и многое другое. OSINT 2025
 

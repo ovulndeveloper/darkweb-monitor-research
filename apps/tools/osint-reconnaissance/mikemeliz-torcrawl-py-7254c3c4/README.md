@@ -4,10 +4,8 @@
 - **Type:** [tool](../../../by-type/tool/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/MikeMeliz/TorCrawl.py>
-- **Sources:** `github-search:topic:onion`, `github-search:topic:osint`, `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 551
-- **License:** GPL-3.0
+- **Sources:** `awesome:edwardtay/awesome-OSINT`, `github-search:topic:onion`, `github-search:topic:osint`, `github-search:topic:tor`
+- **Reviewed:** 2026-11-23
 
 Crawl and extract (regular or onion) webpages through TOR network
 

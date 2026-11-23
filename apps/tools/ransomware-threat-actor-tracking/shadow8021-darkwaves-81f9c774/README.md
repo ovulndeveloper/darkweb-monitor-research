@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Shadow8021/darkwaves>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 9
+- **Reviewed:** 2026-11-23
 
 This is a minimal, proof-of-concept (PoC) ransomware and decryption tool designed for educational and research purposes
 

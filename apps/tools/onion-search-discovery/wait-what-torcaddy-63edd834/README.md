@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/wait-what/torcaddy>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** Unlicense
+- **Reviewed:** 2026-11-23
 
 Easily host clearnet/darknet sites using caddy in docker
 

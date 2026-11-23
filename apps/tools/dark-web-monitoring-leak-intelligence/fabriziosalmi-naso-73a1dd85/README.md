@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/fabriziosalmi/naso>
 - **Sources:** `github-search:topic:dark-web`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 11
-- **License:** AGPL-3.0
+- **Reviewed:** 2026-11-23
 
 Self-hosted breach and dark-web exposure monitoring: ingest leaks, correlate identities, triage with a local LLM. Your infrastructure, your data.
 

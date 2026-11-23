@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Pranav-ai-cyber/SCT_CS_2>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Python tool for encrypting and decrypting images using pixel-wise XOR manipulation. Demonstrates simple image cryptography by applying a numeric key to each pixel. Includes command-line interface and example images for learning and experimentation
 

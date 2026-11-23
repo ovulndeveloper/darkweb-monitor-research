@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Yearning9/onion-bot>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 oooooooomaaaannnnnnnnnnnnn plllleeeeassseeeeeeee to HEEAAAAAAllLLp wiTH coMpUTER
 

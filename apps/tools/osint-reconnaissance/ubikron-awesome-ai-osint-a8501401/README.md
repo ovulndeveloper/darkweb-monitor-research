@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ubikron/Awesome-AI-OSINT>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 806
+- **Reviewed:** 2026-11-23
 
 A list of articles, videos, and tools related to the use of AI for OSINT.
 

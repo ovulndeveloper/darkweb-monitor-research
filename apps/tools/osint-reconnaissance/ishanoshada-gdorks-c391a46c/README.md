@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Ishanoshada/GDorks>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 724
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Google Dork List - Uncover the Hidden Gems of the Internet ( There are at least 320+ categories ) + Web App
 

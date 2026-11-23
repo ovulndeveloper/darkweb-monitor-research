@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/privtools/ransomposts>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 48
-- **License:** EUPL-1.2
+- **Reviewed:** 2026-11-23
 
 Ransomware groups posts
 

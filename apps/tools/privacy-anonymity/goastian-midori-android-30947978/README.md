@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/goastian/midori-android>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 100
-- **License:** MPL-2.0
+- **Reviewed:** 2026-11-23
 
 Midori for Android web browser for Android
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/webdragon63/Inspy>
 - **Sources:** `github-search:topic:darkweb`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 23
+- **Reviewed:** 2026-11-23
 
 An Advanced Darkweb OSINT Tool
 

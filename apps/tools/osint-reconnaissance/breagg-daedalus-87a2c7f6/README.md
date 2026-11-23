@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/BreaGG/DAEDALUS>
 - **Sources:** `github-search:topic:osint-framework`
-- **Indexed:** 2026-11-23
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Open-source, self-hosted link analysis and OSINT workbench. Turn a single clue (an alias, email, domain, IP or wallet) into an investigation graph with 46 transforms, automated machines, Ariadne’s thread path finding and graph analytics. Runs locally, on Docker or on Railway.
 

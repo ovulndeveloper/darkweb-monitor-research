@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/AiGptCode/Ai-Security-URL>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 93
+- **Reviewed:** 2026-11-23
 
 functions to exploit common web application vulnerabilities such as SQL Injection, Cross-Site Scripting (XSS), Server-Side Request Forgery (SSRF), and Path Traversal.
 

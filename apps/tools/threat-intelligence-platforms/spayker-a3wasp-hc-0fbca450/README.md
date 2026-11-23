@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Spayker/a3wasp-hc>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
+- **Reviewed:** 2026-11-23
 
 Headless client mod to reduce server side load
 

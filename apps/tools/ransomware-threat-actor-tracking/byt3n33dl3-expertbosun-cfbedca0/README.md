@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/byt3n33dl3/ExpertBosun>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 11
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Encrypting directory and access. Execute the commands based on external inputs RCE, single-C2 and key-logging.
 

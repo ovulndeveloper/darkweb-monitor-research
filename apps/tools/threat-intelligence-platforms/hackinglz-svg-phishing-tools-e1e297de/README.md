@@ -4,10 +4,8 @@
 - **Type:** [research-project](../../../by-type/research-project/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/HackingLZ/svg_phishing_tools>
-- **Sources:** `github-search:topic:malware-analysis`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 57
-- **License:** MIT
+- **Sources:** `github-search:topic:malware-analysis`, `github-search:topic:phishing`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 SVG Analysis and generation tools for commonly seen SVG attachment phishing
 

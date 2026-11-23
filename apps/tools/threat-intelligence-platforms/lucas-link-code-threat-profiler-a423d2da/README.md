@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/lucas-link-code/Threat-Profiler>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
+- **Reviewed:** 2026-11-23
 
 Automates searches to pull IOC data from 15 APIs against public databases and community threat intelligence services
 

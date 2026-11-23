@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/blubskye/yunonet>
 - **Sources:** `github-search:topic:darkweb`
-- **Indexed:** 2026-11-23
-- **License:** AGPL-3.0
+- **Reviewed:** 2026-11-23
 
 A C fork of Hyphanet called YunoNET
 

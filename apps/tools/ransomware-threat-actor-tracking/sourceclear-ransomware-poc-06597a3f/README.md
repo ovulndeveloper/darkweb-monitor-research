@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/sourceclear/ransomware-poc>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 10
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 A poc to demonstrate how ransomware can spread to enterprise apps through libraries
 

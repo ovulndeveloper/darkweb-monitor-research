@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/SEKOIA-IO/automation-library>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 24
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Automate your SOC with SEKOIA.IO's Automation Library. Pull Requests are always welcome and highly appreciated!
 

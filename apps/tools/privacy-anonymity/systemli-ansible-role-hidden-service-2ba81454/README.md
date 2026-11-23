@@ -5,8 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/systemli/ansible-role-hidden-service>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 26
+- **Reviewed:** 2026-11-23
 
 Ansible role to install & maintain Tor Hidden Services
 

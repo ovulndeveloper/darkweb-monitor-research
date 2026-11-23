@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/cibr-qcri/dizzy-datasets>
 - **Sources:** `github-search:topic:darkweb`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Public datasets from Dizzy
 

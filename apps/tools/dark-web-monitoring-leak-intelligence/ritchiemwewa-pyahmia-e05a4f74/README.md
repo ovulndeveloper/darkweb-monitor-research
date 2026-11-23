@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ritchiemwewa/pyahmia>
 - **Sources:** `github-search:topic:darkweb`, `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 22
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Search hidden services on the Tor network.
 

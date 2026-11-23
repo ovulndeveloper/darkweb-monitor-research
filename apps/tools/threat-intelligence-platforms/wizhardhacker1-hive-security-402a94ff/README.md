@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/wizhardhacker1/HIVE-SECURITY>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 One operational picture — move from signal to investigation, remediation, compliance, validation, and learning without siloed tools
 

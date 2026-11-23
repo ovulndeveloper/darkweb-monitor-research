@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/haooah01/Hyper-Interacting-MORE---Code-Reverside-Intelligence-2In1>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Mật Mã Định Danh Kỹ Thuật Cấp Cao ( Mang Tính Truy Quét Học Thuật Kỹ Thuật - Bao Phủ)
 

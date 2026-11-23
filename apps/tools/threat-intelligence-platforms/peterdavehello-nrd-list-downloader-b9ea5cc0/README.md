@@ -4,10 +4,8 @@
 - **Type:** [cli-tool](../../../by-type/cli-tool/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/PeterDaveHello/nrd-list-downloader>
-- **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 70
-- **License:** GPL-3.0
+- **Sources:** `github-search:topic:phishing`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 Shell Script to download NRD(Newly Registered Domain) list for free
 

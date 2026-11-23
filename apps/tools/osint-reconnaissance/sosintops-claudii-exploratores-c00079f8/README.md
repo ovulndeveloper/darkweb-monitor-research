@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/SOsintOps/claudii-exploratores>
 - **Sources:** `github-search:topic:osint-tools`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 26
-- **License:** AGPL-3.0
+- **Reviewed:** 2026-11-23
 
 OSINT suite for Claude — 909 curated OSINT tools from Exploratores as an Agent Skill + offline MCP server: indicator classifier, URL builder with VPN/geo-lock warnings, IBAN check, PII redactor. ALPHA.
 

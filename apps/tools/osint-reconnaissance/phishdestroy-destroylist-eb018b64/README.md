@@ -4,10 +4,8 @@
 - **Type:** [api-service](../../../by-type/api-service/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/phishdestroy/destroylist>
-- **Sources:** `github-search:topic:osint`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1847
-- **License:** MIT
+- **Sources:** `github-search:topic:osint`, `github-search:topic:phishing`, `github-search:topic:security-tools`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 Real-time phishing & scam domain blocklist - 205k+ curated threats, 1M+ community, free API, multiple formats
 

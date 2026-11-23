@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Postuf/telegram-osint-lib>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 320
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Telegram scenario-based API aimed at OSINT
 

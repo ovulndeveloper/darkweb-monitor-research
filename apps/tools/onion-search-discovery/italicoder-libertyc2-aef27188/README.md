@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ITALICOder/LibertyC2>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** Unlicense
+- **Reviewed:** 2026-11-23
 
 Esempio di C2 server su Tor in rust con multi-connessione e annessa shell.py di prova
 

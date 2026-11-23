@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/tomrsae/ronion>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 Library for using the onion protocol to securely and anonymously connect to servers through onion relay nodes.
 

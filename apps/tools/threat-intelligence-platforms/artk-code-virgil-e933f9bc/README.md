@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/artk-code/virgil>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 VIRGIL is the Vendor Independent Response Governance Intelligence Layer
 

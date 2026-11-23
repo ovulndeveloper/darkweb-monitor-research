@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/center-for-threat-informed-defense/adversary_emulation_library>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2193
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 An open library of adversary emulation plans designed to empower organizations to test their defenses based on real-world TTPs.
 

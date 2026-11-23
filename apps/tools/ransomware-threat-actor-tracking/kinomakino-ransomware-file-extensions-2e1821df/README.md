@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/kinomakino/ransomware_file_extensions>
 - **Sources:** `github-search:topic:ransomware`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 29
+- **Reviewed:** 2026-11-23
 
 Extensiones de ficheros de Ransomware
 

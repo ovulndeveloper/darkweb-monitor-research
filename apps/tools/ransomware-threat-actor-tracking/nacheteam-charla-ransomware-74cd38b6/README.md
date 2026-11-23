@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/nacheteam/charla-ransomware>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 6
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Charla sobre ransomware con Wannacry como ejemplo.
 

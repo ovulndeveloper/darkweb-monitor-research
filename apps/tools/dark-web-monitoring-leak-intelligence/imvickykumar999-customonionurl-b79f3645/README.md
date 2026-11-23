@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/imvickykumar999/CustomOnionURL>
 - **Sources:** `github-search:topic:dark-web`, `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
+- **Reviewed:** 2026-11-23
 
 git clone https://github.com/cathugger/mkp224o
 

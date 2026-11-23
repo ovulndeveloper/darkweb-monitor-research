@@ -4,10 +4,8 @@
 - **Type:** [tool](../../../by-type/tool/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/A3sal0n/CyberThreatHunting>
-- **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 921
-- **License:** GPL-3.0
+- **Sources:** `github-search:topic:incident-response`, `github-search:topic:threat-hunting`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 A collection of resources for Threat Hunters
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/AnarchoTechNYC/ansible-role-tor>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 53
+- **Reviewed:** 2026-11-23
 
 eight_spoked_asterisk::shield: Securely build a system Tor and optionally configure numerous high-security Onion services.
 

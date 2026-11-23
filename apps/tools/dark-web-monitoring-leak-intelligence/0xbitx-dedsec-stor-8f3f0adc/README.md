@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/0xbitx/DEDSEC_STOR>
 - **Sources:** `github-search:topic:darkweb`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Linux-based command-line toolkit engineered for seamless deployment of websites as Tor hidden services on the dark web.
 

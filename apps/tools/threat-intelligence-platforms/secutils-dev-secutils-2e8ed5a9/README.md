@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/secutils-dev/secutils>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 100
-- **License:** AGPL-3.0
+- **Reviewed:** 2026-11-23
 
 Secutils.dev is an open-source, versatile, yet simple security toolbox for engineers and researchers
 

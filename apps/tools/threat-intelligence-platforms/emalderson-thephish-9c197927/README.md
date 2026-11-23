@@ -4,10 +4,8 @@
 - **Type:** [tool](../../../by-type/tool/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/emalderson/ThePhish>
-- **Sources:** `github-search:topic:digital-forensics`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1384
-- **License:** AGPL-3.0
+- **Sources:** `github-search:topic:digital-forensics`, `github-search:topic:incident-response`, `github-search:topic:phishing`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 ThePhish: an automated phishing email analysis tool
 

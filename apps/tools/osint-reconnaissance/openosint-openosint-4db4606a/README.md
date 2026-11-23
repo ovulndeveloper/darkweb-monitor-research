@@ -4,10 +4,8 @@
 - **Type:** [plugin](../../../by-type/plugin/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/OpenOSINT/OpenOSINT>
-- **Sources:** `github-search:topic:osint`, `github-search:topic:osint-tools`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1963
-- **License:** MIT
+- **Sources:** `github-search:topic:attack-surface`, `github-search:topic:osint`, `github-search:topic:osint-tools`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 Open-source OSINT agent: 21 public-source tools behind natural-language chat, an MCP server and a Claude Code plugin. Passive by default, no keys to start.
 

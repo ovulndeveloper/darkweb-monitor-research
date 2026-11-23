@@ -4,10 +4,8 @@
 - **Type:** [awesome-list](../../../by-type/awesome-list/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/obitouka/InstagramPrivSniffer>
-- **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1166
-- **License:** MIT
+- **Sources:** `awesome:jivoi/awesome-osint`, `github-search:topic:osint`
+- **Reviewed:** 2026-11-23
 
 First ever tool to view "Instagram private posts" anonymously
 

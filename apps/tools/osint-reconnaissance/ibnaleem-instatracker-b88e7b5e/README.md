@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ibnaleem/instatracker>
 - **Sources:** `github-search:topic:osint-framework`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 107
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 📸 an Instagram tracking script that logs any changes to an Instagram account (followers, following, posts, and bio) written in Python.
 

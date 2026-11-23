@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/renkagod/osint-toolbox-mcp>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 MCP server that lets AI agents run 12 classic OSINT tools locally, no API keys needed
 

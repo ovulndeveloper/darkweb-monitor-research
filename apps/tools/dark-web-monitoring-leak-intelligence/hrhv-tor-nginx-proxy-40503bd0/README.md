@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/hrhv/tor-nginx-proxy>
 - **Sources:** `github-search:topic:dark-web`, `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 32
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Host your website on the Tor 🧅 network in less than 2 minutes with this tiny docker image 🎊
 

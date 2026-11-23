@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/rcmaehl/Cisco-Enhancer>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
+- **Reviewed:** 2026-11-23
 
 Cisco CTI & Finesse Toolkit for keeping agent downtime to a minimum. Download under Releases
 

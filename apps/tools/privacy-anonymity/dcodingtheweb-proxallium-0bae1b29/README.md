@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/DcodingTheWeb/ProxAllium>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 58
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Tor Proxy Bundle
 

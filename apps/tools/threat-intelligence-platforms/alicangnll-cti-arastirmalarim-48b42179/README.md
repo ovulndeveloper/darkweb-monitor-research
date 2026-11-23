@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/alicangnll/CTI_Arastirmalarim>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 CTI (Cyber Thread Intelligence) Araştırmalarım #StopRansomware
 

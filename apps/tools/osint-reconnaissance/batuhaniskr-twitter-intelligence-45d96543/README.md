@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/batuhaniskr/twitter-intelligence>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 240
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Twitter Intelligence OSINT project performs tracking and analysis of the Twitter
 

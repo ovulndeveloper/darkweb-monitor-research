@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/n11xY/n1xYosint>
 - **Sources:** `github-search:topic:osint-framework`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 10
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Async, plugin-based OSINT recon for usernames, emails, phones, names & domains — 260+ sources, evidence-linked accounts, confidence-scored. Linux · macOS · Windows
 

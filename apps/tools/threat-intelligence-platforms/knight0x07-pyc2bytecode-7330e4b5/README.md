@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/knight0x07/pyc2bytecode>
 - **Sources:** `github-search:topic:malware-analysis`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 143
+- **Reviewed:** 2026-11-23
 
 A Python Bytecode Disassembler helping reverse engineers in dissecting Python binaries by disassembling and analyzing the compiled python byte-code(.pyc) files across all python versions (including Python 3.10.*)
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/LoomisLoud/onion-crawler>
 - **Sources:** `github-search:topic:onion`, `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 22
+- **Reviewed:** 2026-11-23
 
 Tor website crawler (specific for Alphabay at the time)
 

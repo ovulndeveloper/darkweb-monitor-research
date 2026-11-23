@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Morgan-Sell/darknet-economics>
 - **Sources:** `github-search:topic:darkweb`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
-- **License:** MPL-2.0
+- **Reviewed:** 2026-11-23
 
 Applied NLP to analyze the operations and trends of Wall Street Market, one of the most successful darknet markets in the 2010s.
 

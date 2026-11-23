@@ -4,10 +4,8 @@
 - **Type:** [api-service](../../../by-type/api-service/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/eschultze/phishstats-api-network>
-- **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 79
-- **License:** MIT
+- **Sources:** `github-search:topic:incident-response`, `github-search:topic:phishing`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 Visualize networks of phishing by querying the phishstats.info API
 

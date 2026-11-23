@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/MISP/misp-warninglists>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 664
+- **Reviewed:** 2026-11-23
 
 Warning lists to inform users of MISP about potential false-positives or other information in indicators
 

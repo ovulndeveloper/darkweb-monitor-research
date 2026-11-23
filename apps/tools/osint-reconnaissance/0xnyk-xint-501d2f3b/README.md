@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/0xNyk/xint>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 262
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Local-first X Intelligence CLI for search, monitoring, analysis, exports, OAuth actions, and agent tooling.
 

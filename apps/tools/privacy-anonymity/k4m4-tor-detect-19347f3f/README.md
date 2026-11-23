@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/k4m4/tor-detect>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 21
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Detect whether an IP address belongs to a Tor exit node.
 

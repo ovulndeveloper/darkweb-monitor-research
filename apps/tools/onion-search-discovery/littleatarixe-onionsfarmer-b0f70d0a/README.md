@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/LittleAtariXE/OnionsFarmer>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 5
+- **Reviewed:** 2026-11-23
 
 Onion Farmer for planting onions. A python class to manage multiple instances of Tor.
 

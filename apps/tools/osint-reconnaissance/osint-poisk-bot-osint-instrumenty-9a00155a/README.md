@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/osint-poisk-bot/osint-instrumenty>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 OSINT инструменты для поиска по телефону, email, username, Telegram, фотографии, доменам, архивам и цифровому следу.
 

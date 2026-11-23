@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/xploitstech/Xteam>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1372
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Xteam All in one Instagram,Android,phishing osint and wifi hacking tool available
 

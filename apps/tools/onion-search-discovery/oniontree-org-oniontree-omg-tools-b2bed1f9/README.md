@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/oniontree-org/oniontree-omg-tools>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 6
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Tools for manipulating Onion Mirror Guidelines messages.
 

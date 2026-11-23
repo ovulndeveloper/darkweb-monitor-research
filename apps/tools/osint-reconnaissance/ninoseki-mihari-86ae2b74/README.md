@@ -4,10 +4,8 @@
 - **Type:** [tool](../../../by-type/tool/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/ninoseki/mihari>
-- **Sources:** `github-search:topic:osint`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 948
-- **License:** MIT
+- **Sources:** `github-search:topic:osint`, `github-search:topic:threat-hunting`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 A query aggregator for OSINT based threat hunting
 

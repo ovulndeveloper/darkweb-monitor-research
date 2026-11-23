@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/AnonCatalyst/OpenZenith>
 - **Sources:** `github-search:topic:osint-framework`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 The OpenZenith Project is a conceptual/ongoing initiative focused on creating tools and solutions for open-source intelligence (OSINT) practitioners.
 

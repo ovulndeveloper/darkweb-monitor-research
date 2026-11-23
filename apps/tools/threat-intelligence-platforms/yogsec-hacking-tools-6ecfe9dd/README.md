@@ -4,10 +4,8 @@
 - **Type:** [awesome-list](../../../by-type/awesome-list/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/yogsec/Hacking-Tools>
-- **Sources:** `github-search:topic:malware-analysis`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2581
-- **License:** MIT
+- **Sources:** `github-search:topic:malware-analysis`, `github-search:topic:security-tools`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 A curated list of 900+ penetration testing and ethical hacking tools.
 

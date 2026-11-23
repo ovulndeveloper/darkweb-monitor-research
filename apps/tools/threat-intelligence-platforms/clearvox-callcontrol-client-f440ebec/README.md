@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/clearvox/Callcontrol-Client>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 5
+- **Reviewed:** 2026-11-23
 
 A realtime client for ClearVox Call Control
 

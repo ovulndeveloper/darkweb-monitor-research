@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/C3n7ral051nt4g3ncy/cURL_for_OSINT>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 264
+- **Reviewed:** 2026-11-23
 
 cURL Tool Usage for OSINT (Open-Source Intelligence)
 

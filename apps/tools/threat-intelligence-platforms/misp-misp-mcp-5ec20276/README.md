@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/MISP/misp-mcp>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 16
+- **Reviewed:** 2026-11-23
 
 Turn your MISP into an MCP service
 

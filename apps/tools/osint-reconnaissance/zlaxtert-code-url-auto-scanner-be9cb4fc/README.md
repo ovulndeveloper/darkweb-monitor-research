@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/zlaxtert-code/URL-AUTO-SCANNER>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Automated URL security scanner running 10 ordered recon modules (SSL, headers, CMS, WAF, subdomain, DNS, IP, port, reverse IP) with threaded scanning and per-module .txt/.json reports.
 

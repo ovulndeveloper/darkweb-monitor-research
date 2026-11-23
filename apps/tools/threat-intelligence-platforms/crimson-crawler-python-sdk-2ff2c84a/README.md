@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/crimson-crawler/python-sdk>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 Typed async Python client for the Crimson Crawler API. Turn a CVE into a complete attack briefing with one call.
 

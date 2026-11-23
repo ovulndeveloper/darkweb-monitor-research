@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/pvaviloff/php-guidelines-example>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 5
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 PHP Guidelines example. Implementation according to the https://github.com/pvaviloff/php-guidelines.
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/zhaow-de/rotating-tor-http-proxy>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 269
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 A multi-arch image provides one HTTP proxy endpoint with many concurrent tunnels to the Tor network.
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/sayan9168/nexus-osint>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 AI-Native OSINT & 3D Link Analysis Platform
 

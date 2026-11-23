@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Iankulani/war-crab-v2>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 6
+- **Reviewed:** 2026-11-23
 
 War Crab is an advanced cybersecurity software solution developed to support security professionals, system administrators, penetration testers, and cybersecurity researchers in identifying vulnerabilities, testing network security, and strengthening digital infrastructure. Designed to support modern cybersecurity operations, War Crab provides a ce
 

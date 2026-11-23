@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/henriqclaro/INI3A-EQ2>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
+- **Reviewed:** 2026-11-23
 
 Trabalho de Conclusão de Curso da Equipe 2, turma INI-3A.
 

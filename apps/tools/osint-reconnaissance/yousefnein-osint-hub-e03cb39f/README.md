@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/YousefNein/OSINT-Hub>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 19
+- **Reviewed:** 2026-11-23
 
 A collection of OSINT websites and tools to aid penetration testers with their info gathering tasks
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Amitpnk/Onion-architecture-ASP.NET-Core>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 926
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 WhiteApp API solution template which is built on Onion Architecture with all essential feature using .NET 10!
 

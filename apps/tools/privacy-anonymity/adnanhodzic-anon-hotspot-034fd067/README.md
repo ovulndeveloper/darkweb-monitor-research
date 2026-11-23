@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/AdnanHodzic/anon-hotspot>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 42
+- **Reviewed:** 2026-11-23
 
 On demand Debian Linux (Tor) Hotspot setup tool
 

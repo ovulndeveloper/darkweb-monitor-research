@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Muhib-Mehdi/OSINT-NEXUS>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 46
+- **Reviewed:** 2026-11-23
 
 A powerful, cross-platform Open Source Intelligence tool featuring AI-driven entity correlation, advanced graph analytics, breach intelligence, and professional reporting. Built with Python & PyQt6
 

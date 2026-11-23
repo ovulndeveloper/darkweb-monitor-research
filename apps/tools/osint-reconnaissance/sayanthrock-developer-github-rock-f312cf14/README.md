@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Sayanthrock-Developer/GitHub-Rock>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 GitHub Rock: a native Android app to manage repos, issues, PRs, and Actions — plus one-tap Android build workflows, secure APK downloads, and APK inspection. Built with Kotlin, Compose & Clean Architecture. Your GitHub, natively on Android.
 

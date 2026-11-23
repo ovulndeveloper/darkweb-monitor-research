@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/u1234x1234/torpool>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 58
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Containerized pool of multiple Tor instances with load balancing and HTTP proxy.
 

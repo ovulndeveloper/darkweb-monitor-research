@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/DigneZzZ/remnawave-scripts>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 613
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Collection of automation scripts and utilities for RemnaWave project. Features deployment tools, configuration management, and workflow automation scripts to streamline development and operations
 

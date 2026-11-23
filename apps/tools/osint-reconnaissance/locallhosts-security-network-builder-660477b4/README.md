@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/locallhosts/security-network-builder>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 A security engineering intelligence platform for discovering, analyzing, and connecting with engineers working in similar cybersecurity domains
 

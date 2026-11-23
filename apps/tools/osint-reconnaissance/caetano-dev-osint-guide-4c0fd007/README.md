@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/caetano-dev/OSINT-guide>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 15
+- **Reviewed:** 2026-11-23
 
 This is a collection of everything I have and am learning about OSINT. Feel free to send pull requests adding more stuff! I want to learn more!
 

@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Hiroxx-glichter/IZ-OSINT-TOOLS>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 Custom OSINT Suite by Iz4cxz_by
 

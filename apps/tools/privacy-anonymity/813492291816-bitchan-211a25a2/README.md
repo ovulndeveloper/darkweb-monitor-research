@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/813492291816/BitChan>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 89
+- **Reviewed:** 2026-11-23
 
 BitChan is a decentralized anonymous imageboard inspired by BitBoard and built on top of BitMessage with Tor and GnuPG.
 

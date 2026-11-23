@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Largo-m/Ransomware-Analyzer>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 5
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Ransomware-Analyzer is an advanced Python tool designed to simulate ransomware behavior in a **safe and controlled environment**. It provides cybersecurity professionals, researchers, and learners with a hands-on platform to study, analyze, and test ransomware mechanics .
 

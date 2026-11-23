@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Vimwix/Dll-Database>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
+- **Reviewed:** 2026-11-23
 
 A repository of malicious dynamic-link libraries (DLL) categorized for security research.
 

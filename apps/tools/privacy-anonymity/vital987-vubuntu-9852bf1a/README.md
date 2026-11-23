@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/vital987/vubuntu>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 62
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Full-fledged Ubuntu with fluxbox & NoVNC/PureVNC(Direct VNC).
 

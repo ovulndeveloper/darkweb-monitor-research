@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/keithhetrick/hidden-coffee>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 A minimalist Tor hidden service that serves a static 'Hidden Coffee' page over the dark web using Docker and Nginx — for educational purposes only.
 

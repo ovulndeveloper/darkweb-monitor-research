@@ -4,9 +4,8 @@
 - **Type:** [web-platform](../../../by-type/web-platform/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/emrekybs/Douglas-042>
-- **Sources:** `github-search:topic:forensics`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 45
+- **Sources:** `github-search:topic:forensics`, `github-search:topic:incident-response`, `github-search:topic:threat-hunting`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 Triages a suspect Windows machine in minutes. Collects processes, services, autoruns, event logs and forensic artifacts, flags attacker activity, and hands you a single report to act on.
 

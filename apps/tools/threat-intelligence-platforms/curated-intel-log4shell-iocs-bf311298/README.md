@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/curated-intel/Log4Shell-IOCs>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 181
+- **Reviewed:** 2026-11-23
 
 A collection of intelligence about Log4Shell and its exploitation activity.
 

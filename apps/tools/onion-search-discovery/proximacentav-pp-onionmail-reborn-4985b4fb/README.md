@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/proximacentav-pp/onionmail-reborn>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Улучшенная версия сервера OnionMail (onionmail.info) в Docker. Упрощенное администрирование, улучшенный веб-интерфейс и сохраненный оригинальный бэкенд. Неофициальный форк, не связанный с авторами оригинального onionmail.info .
 

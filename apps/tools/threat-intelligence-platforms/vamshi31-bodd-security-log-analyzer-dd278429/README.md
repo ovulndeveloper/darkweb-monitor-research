@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Vamshi31-bodd/security-log-analyzer>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 No description provided by the source.
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/megadose/toutatis-maltego>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 59
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Toutatis transform for maltego
 

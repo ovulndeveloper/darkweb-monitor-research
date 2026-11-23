@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/TheTorGuy/Tornado>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Tornado is a PHP generator and validator for Tor onion addresses with support for vanity and client authorization.
 

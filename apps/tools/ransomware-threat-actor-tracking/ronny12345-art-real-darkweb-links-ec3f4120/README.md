@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Ronny12345-art/Real-darkweb-links>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 this is a collection of real and working darkweb links . it includes sensitive links , please be responsible . made for cyber investigation and analysis .
 

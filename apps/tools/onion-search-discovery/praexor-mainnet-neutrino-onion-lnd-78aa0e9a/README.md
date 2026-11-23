@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Praexor/mainnet-neutrino-onion-lnd>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
+- **Reviewed:** 2026-11-23
 
 ⚡ Install a Bitcoin Lightning Network Neutrino Node With Onion Tor 😋
 

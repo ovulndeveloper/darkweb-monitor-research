@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/UseOSINT/Skills>
 - **Sources:** `github-search:topic:digital-forensics`, `github-search:topic:osint-tools`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 66
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 28 OSINT Agent Skills that turn Cursor, Claude & AI coding agents into a full open-source intelligence platform — reconnaissance, attribution, GEOINT, breach checks & due diligence. Ethical, sourced, passive-first.
 

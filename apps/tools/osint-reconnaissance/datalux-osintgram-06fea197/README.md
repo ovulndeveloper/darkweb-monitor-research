@@ -4,10 +4,8 @@
 - **Type:** [api-service](../../../by-type/api-service/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/Datalux/Osintgram>
-- **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 15815
-- **License:** GPL-3.0
+- **Sources:** `awesome:TinuolaRotimi/Awesome-OSINT`, `awesome:edwardtay/awesome-OSINT`, `awesome:jivoi/awesome-osint`, `github-search:topic:osint`
+- **Reviewed:** 2026-11-23
 
 Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
 

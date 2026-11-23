@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/a0zhar/NotPetya>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 7
+- **Reviewed:** 2026-11-23
 
 My own custom fork of Hildaboo's repository containing the "decompiled file encryptor code" of the notpetya ransomware.
 

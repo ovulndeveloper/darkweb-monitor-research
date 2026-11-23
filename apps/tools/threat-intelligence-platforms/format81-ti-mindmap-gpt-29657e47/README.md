@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/format81/TI-Mindmap-GPT>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 112
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 AI-powered tool designed to help producing Threat Intelligence Mindmap.
 

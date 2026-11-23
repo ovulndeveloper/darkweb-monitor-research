@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/khutsosandlana/khutsosandlana>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
+- **Reviewed:** 2026-11-23
 
 Cybersecurity portfolio focused on CTI, detection engineering, and network security
 

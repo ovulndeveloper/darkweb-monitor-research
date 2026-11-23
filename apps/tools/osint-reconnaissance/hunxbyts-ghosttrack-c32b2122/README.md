@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/HunxByts/GhostTrack>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 20844
+- **Reviewed:** 2026-11-23
 
 Useful tool to track location or mobile number
 

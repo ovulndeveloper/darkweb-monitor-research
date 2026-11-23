@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/arnold117/iOS-NOIR>
 - **Sources:** `github-search:topic:forensics`, `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 327
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 No-jailbreak iOS privacy, entitlement, sandbox & telemetry forensic auditor (inspired by Verlintas/NOIR)
 

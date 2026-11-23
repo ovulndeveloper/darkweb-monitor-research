@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/exploreourbrain/MicinWare-PHP-Ransomware>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 6
+- **Reviewed:** 2026-11-23
 
 PHP Ransomware targeted at Web Server
 

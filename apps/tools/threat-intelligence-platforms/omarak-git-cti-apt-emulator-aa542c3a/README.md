@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/OmarAK-Git/cti-apt-emulator>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 Agent-based CTI pipeline that converts raw threat reports into ATT&CK-aligned, red-team-ready intelligence
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/dimondevceo/glazboga>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 213
+- **Reviewed:** 2026-11-23
 
 Это моя версия бота Глаз Бога. Работает прекрасно и выдает много информации.
 

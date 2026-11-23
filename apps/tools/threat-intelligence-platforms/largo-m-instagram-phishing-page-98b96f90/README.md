@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Largo-m/Instagram-Phishing-Page>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 7
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 A legal and educational tool for cybersecurity testing and ethical hacking.
 

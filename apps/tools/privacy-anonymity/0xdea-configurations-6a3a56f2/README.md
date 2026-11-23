@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/0xdea/configurations>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 27
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Configuration templates for common network security platforms.
 

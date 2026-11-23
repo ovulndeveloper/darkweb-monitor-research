@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/en3ra/cyber-incident-analysis>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 One prompt for evidence-graded incident analysis, interactive reports, and actionable security takeaways.
 

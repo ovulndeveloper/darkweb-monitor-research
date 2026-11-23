@@ -4,10 +4,8 @@
 - **Type:** [api-service](../../../by-type/api-service/README.md)
 - **Status:** `archived`
 - **URL:** <https://github.com/opsdisk/pagodo>
-- **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3416
-- **License:** GPL-3.0
+- **Sources:** `awesome:edwardtay/awesome-OSINT`, `github-search:topic:osint`
+- **Reviewed:** 2026-11-23
 
 pagodo (Passive Google Dork) - Automate Google Hacking Database scraping and searching
 

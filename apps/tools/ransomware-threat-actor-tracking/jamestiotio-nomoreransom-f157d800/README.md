@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/jamestiotio/NoMoreRansom>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 57
+- **Reviewed:** 2026-11-23
 
 All-in-One Ransomware Decryption Tools (Unofficial Mirror)
 

@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/sichutancha/TelegramCommentScraper>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 Telegram Comment Scraper for OSINT
 

@@ -4,10 +4,8 @@
 - **Type:** [container](../../../by-type/container/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/mantisfury/ArkhamMirror>
-- **Sources:** `github-search:topic:digital-forensics`, `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 508
-- **License:** MIT
+- **Sources:** `awesome:jivoi/awesome-osint`, `github-search:topic:digital-forensics`, `github-search:topic:osint`
+- **Reviewed:** 2026-11-23
 
 Local-first AI-powered document intelligence platform for investigative journalism
 

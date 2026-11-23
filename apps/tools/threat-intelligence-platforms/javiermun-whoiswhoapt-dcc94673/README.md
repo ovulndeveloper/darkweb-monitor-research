@@ -4,10 +4,8 @@
 - **Type:** [tool](../../../by-type/tool/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/JavierMun/WhoIsWhoAPT>
-- **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 12
-- **License:** AGPL-3.0
+- **Sources:** `github-search:topic:cti`, `github-search:topic:threat-hunting`
+- **Reviewed:** 2026-11-23
 
 Behavioral similarity engine for APT groups and TTP profiles. Powered by MITRE ATT&CK® and OpenCTI.
 

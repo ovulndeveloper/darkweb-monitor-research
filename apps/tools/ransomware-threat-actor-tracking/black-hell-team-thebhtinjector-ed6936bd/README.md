@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Black-Hell-Team/TheBhTiNjector>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 16
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 TheBhTiNjector is a filebinder that can concatenate two or more files of some extensions that preserves the integrity of the files and gives you the option of injecting shellcode into them.
 

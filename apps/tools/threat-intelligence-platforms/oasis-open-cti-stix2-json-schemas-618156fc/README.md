@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/oasis-open/cti-stix2-json-schemas>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 145
-- **License:** BSD-3-Clause
+- **Reviewed:** 2026-11-23
 
 OASIS TC Open Repository: Non-normative schemas and examples for STIX 2
 

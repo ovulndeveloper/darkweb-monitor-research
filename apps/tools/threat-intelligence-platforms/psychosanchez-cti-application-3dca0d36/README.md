@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/PsychoSanchez/CTI-Application>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 7
+- **Reviewed:** 2026-11-23
 
 Asterisk CTI Application for Windows build on .NET 5
 

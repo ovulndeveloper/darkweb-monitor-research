@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/reuelmagistrado/cartint>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:cyber-threat-intelligence`, `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 6
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 AI-Native Automotive Threat Intelligence
 

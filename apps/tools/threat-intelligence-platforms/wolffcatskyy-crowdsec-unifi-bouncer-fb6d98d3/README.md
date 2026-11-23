@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/wolffcatskyy/crowdsec-unifi-bouncer>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 62
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Install and persist the official CrowdSec firewall bouncer on UniFi OS devices (UDM, UDM SE, UDR) with automatic recovery from firmware updates
 

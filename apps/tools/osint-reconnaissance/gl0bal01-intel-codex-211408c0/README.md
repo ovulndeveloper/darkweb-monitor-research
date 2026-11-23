@@ -4,10 +4,8 @@
 - **Type:** [framework](../../../by-type/framework/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/gl0bal01/intel-codex>
-- **Sources:** `github-search:topic:digital-forensics`, `github-search:topic:malware-analysis`, `github-search:topic:osint-framework`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 71
-- **License:** MIT
+- **Sources:** `github-search:topic:bug-bounty`, `github-search:topic:digital-forensics`, `github-search:topic:incident-response`, `github-search:topic:malware-analysis`, `github-search:topic:osint-framework`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 Open-source field manual for OSINT, DFIR and cybersecurity investigations. Operational SOPs, browsable online or clonable as an Obsidian vault.
 

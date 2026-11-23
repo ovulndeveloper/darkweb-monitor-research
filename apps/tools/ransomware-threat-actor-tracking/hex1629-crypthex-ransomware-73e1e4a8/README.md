@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Hex1629/CRYPTHEX_RANSOMWARE>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Ransomware for simple with python ( CODE=https://github.com/DoxingMethod/HolyCrypt/ )
 

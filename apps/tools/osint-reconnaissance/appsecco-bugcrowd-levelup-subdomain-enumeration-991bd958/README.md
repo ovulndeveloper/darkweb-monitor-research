@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/appsecco/bugcrowd-levelup-subdomain-enumeration>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 635
+- **Reviewed:** 2026-11-23
 
 This repository contains all the material from the talk "Esoteric sub-domain enumeration techniques" given at Bugcrowd LevelUp 2017 virtual conference
 

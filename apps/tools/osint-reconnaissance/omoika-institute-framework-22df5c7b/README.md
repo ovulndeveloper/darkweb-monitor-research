@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/omoika-institute/framework>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 The Python OMOIKA plugins framework. Add entities and transforms to your OMOIKA app
 

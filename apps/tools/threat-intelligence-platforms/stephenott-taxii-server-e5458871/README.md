@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/StephenOTT/TAXII-Server>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 21
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 TAXII Server supporting the 2.1 spec.
 

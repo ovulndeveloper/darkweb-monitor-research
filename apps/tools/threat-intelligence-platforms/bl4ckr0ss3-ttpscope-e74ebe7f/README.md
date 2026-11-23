@@ -4,10 +4,8 @@
 - **Type:** [cli-tool](../../../by-type/cli-tool/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/bl4ckr0ss3/ttpscope>
-- **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 22
-- **License:** MIT
+- **Sources:** `github-search:topic:cti`, `github-search:topic:threat-hunting`
+- **Reviewed:** 2026-11-23
 
 Terminal research and study client for MITRE ATT&CK®
 

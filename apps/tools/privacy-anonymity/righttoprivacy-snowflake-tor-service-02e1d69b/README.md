@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/RightToPrivacy/snowflake-tor-service>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 30
-- **License:** GPL-2.0
+- **Reviewed:** 2026-11-23
 
 Automated 🧅 Tor ❄️ Snowflake Proxy (any Linux device). Run install.sh and you have a new Snowflake ProxyService (every boot)
 

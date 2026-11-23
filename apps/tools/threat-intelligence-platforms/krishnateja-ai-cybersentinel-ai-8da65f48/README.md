@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/krishnateja-ai/CyberSentinel-AI>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 Self-Healing AI for Cybersecurity Systems
 

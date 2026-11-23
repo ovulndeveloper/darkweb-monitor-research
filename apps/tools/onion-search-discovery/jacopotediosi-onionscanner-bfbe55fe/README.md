@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/jacopotediosi/Onionscanner>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 A basic multithreaded python bruteforcer / checker for Onion Services V2 links
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/w0h1v/mcp-maigret>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 274
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 MCP server that lets AI agents run maigret, an OSINT tool that searches a username across thousands of sites
 

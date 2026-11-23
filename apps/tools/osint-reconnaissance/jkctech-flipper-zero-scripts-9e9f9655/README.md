@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/jkctech/Flipper-Zero-Scripts>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 735
+- **Reviewed:** 2026-11-23
 
 Collection of Flipper Zero scripts dumps and tools
 

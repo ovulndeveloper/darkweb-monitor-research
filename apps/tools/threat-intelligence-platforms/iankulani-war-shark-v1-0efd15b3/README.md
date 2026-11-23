@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Iankulani/war-shark-v1>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 6
+- **Reviewed:** 2026-11-23
 
 War Shark is a cybersecurity research and command platform designed to provide security professionals, researchers, penetration testers, red-team practitioners, and ethical hackers with a centralized way to interact with cybersecurity tools and authorized testing environments. The platform is built around the idea of making security operations more
 

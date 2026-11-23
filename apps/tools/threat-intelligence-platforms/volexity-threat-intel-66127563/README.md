@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/volexity/threat-intel>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 374
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Signatures and IoCs from public Volexity blog posts.
 

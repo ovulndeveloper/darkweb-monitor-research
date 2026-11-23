@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/typosquatter/ail-typo-squatting>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 109
-- **License:** BSD-2-Clause
+- **Reviewed:** 2026-11-23
 
 Generate list of potential typo squatting domains with domain name permutation engine to feed AIL and other systems.
 

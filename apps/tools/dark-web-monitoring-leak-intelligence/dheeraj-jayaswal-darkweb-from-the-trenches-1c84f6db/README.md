@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/dheeraj-jayaswal/DarkWeb-From-The-Trenches>
 - **Sources:** `github-search:topic:dark-web`, `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Built in the trenches—this repository explores dark web reconnaissance, threat intelligence, and real-world security insights.
 

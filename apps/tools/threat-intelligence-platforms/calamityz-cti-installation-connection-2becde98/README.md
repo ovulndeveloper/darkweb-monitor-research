@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/calamityz/CTI-Installation-Connection>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
+- **Reviewed:** 2026-11-23
 
 An installation guide to help install OpenCTI, MISP and CAPE Sandbox but also to interconnect them
 

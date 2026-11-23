@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/frangelbarrera/aegistrace-threat-intelligence>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 9
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Open-source Python CTI pipeline that collects and enriches IoCs from five feeds, generates a Plotly dashboard and CSV export, and forecasts seven-day threat trends for SOC analysts.
 

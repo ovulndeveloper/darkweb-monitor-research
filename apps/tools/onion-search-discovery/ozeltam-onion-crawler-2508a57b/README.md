@@ -5,8 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/OzelTam/onion-crawler>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 6
+- **Reviewed:** 2026-11-23
 
 C# based Tor/Onion Web crawler.
 

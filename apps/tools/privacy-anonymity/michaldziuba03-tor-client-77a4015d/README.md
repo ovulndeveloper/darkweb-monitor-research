@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/michaldziuba03/tor-client>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 31
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Node.js Tor client without dependencies 🧅
 

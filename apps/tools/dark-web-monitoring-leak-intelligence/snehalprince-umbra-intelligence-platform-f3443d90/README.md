@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/SnehalPrince/UMBRA-Intelligence-platform>
 - **Sources:** `github-search:topic:dark-web`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 🕵️ AI-native dark web & cyber threat intelligence platform. Monitors Tor, Telegram, paste sites & breach databases. Sub-60min credential alerts, LLM-powered threat analysis, real-time dashboard.
 

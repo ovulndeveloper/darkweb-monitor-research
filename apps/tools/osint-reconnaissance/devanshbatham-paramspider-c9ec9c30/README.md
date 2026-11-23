@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/devanshbatham/ParamSpider>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3214
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing
 

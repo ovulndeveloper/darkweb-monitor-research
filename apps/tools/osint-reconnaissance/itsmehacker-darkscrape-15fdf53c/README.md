@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/itsmehacker/DarkScrape>
 - **Sources:** `github-search:topic:osint`, `github-search:topic:osint-framework`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 512
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 OSINT Tool For Scraping Dark Websites
 

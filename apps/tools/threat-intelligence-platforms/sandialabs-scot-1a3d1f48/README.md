@@ -4,10 +4,8 @@
 - **Type:** [tool](../../../by-type/tool/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/sandialabs/scot>
-- **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 253
-- **License:** NOASSERTION
+- **Sources:** `github-search:topic:incident-response`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 Sandia Cyber Omni Tracker (SCOT)
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/CloudlyHack/CloudlyHost>
 - **Sources:** `github-search:topic:darkweb`, `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Official repository for the bulb [Tor Browser]
 

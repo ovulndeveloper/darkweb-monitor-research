@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/parthdmaniar/coronavirus-covid-19-SARS-CoV-2-IoCs>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 65
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 All the IOC's I have gathered which are used directly involved coronavirus / covid-19 / SARS-CoV-2 cyber attack campaigns
 

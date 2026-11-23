@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/NOXCIS/Wiregate>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 619
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 🥷🏼 AmneziaWG + WireGuard VPN Server with Web UI + TOR + DnsCrypt + Pihole +AdGuard
 

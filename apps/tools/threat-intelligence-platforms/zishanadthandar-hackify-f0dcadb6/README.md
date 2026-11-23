@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ZishanAdThandar/hackify>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 63
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 A single script to install important Pentesting Tools and wordlists on Debian based Linux OS.
 

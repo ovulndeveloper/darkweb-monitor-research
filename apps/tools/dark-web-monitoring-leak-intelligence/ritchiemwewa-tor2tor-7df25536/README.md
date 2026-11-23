@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/ritchiemwewa/tor2tor>
 - **Sources:** `github-search:topic:darkweb`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 103
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Capture screenshots of onion services on an onion service.
 

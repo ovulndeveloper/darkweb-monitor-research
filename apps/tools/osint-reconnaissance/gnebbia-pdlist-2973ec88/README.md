@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/gnebbia/pdlist>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 332
-- **License:** BSD-3-Clause
+- **Reviewed:** 2026-11-23
 
 A passive subdomain finder
 

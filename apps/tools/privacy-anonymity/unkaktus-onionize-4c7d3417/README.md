@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/unkaktus/onionize>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 34
-- **License:** CC0-1.0
+- **Reviewed:** 2026-11-23
 
 create an onion site from a directory, file, zip or an HTTP(S) site
 

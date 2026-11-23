@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/kakashi-kx/apt-emulation-platform>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 apt-emulation-platform
 

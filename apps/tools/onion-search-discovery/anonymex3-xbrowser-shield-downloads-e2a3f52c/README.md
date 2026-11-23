@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/anonymex3/XBrowser-SHIELD-DOWNLOADS>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 Sichtschutz Browser (früher XBrowser SHIELD): privater Browser für Windows, Android und iPhone mit eingebautem Tor, nur HTTPS und strengem Tracker-Schutz. Kostenlos, ohne Werbung, ohne Konto.
 

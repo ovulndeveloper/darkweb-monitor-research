@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/SOUMAJYOTI/Hacker_Social_Networks>
 - **Sources:** `github-search:topic:darkweb`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 6
+- **Reviewed:** 2026-11-23
 
 Mining user networks for predicting cyber attacks
 

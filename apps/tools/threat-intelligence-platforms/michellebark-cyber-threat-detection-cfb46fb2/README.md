@@ -5,8 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/MichelleBark/Cyber-Threat-Detection>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
+- **Reviewed:** 2026-11-23
 
 Machine Learning predictive model to detect impersonation attacks
 

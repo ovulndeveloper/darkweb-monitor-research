@@ -4,10 +4,8 @@
 - **Type:** [tool](../../../by-type/tool/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/t4d/PhishingKitHunter>
-- **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 242
-- **License:** AGPL-3.0
+- **Sources:** `github-search:topic:phishing`, `github-search:topic:threat-hunting`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 Find phishing kits which use your brand/organization's files and image.
 

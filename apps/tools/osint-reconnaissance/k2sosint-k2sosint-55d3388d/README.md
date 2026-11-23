@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/K2SOsint/K2SOsint>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 12
+- **Reviewed:** 2026-11-23
 
 Find out more about K2Sosint!
 

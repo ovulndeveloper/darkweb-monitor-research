@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/EddyErkel/Powershell_updateHostsFile>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 9
+- **Reviewed:** 2026-11-23
 
 PowerShell script for @StevenBlack 's hosts project
 

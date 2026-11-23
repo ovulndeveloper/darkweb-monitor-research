@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/eshlomo1/Ransomware-NOTE>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 14
+- **Reviewed:** 2026-11-23
 
 All about ransomware notes and extension files.
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/0xTnxl/silentlink>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 This is an experimental offline communication protocol that uses ultrasonic handshakes, bluetooth-based data transfer, and dynamic app-based vectors to enable encrypted, anonymous and infra-free message delivery between nearby devices
 

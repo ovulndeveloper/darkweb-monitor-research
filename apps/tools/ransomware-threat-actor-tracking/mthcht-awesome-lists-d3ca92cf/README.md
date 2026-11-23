@@ -4,10 +4,8 @@
 - **Type:** [awesome-list](../../../by-type/awesome-list/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/mthcht/awesome-lists>
-- **Sources:** `github-search:topic:cti`, `github-search:topic:ransomware`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1978
-- **License:** MIT
+- **Sources:** `github-search:topic:cti`, `github-search:topic:incident-response`, `github-search:topic:ransomware`, `github-search:topic:siem`, `github-search:topic:threat-hunting`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 Awesome Security lists for SOC/CERT/CTI
 

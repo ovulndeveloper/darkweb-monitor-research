@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/anubhavanonymous/HostOnion>
 - **Sources:** `github-search:topic:darkweb`, `github-search:topic:onion`, `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 102
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Host A Hidden Service on TOR with an Onion Address !
 

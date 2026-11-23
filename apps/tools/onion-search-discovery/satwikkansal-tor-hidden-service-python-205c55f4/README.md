@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/satwikkansal/tor-hidden-service-python>
 - **Sources:** `github-search:topic:onion`, `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 34
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 A very basic project creating a `.onion` website for Tor using Flask framework and python.
 

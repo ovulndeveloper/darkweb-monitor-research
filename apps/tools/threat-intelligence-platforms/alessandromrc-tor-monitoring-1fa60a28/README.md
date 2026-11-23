@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/alessandromrc/tor-monitoring>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
+- **Reviewed:** 2026-11-23
 
 This repository provides live Tor network data through simple HTTPS endpoints.
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/malvuln/RansomDLLs>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 11
+- **Reviewed:** 2026-11-23
 
 Reference list for my Ransomware exploitation research. Lists current DLLs I have seen to date that some ransomware search for, which I have used successfully to hijack and intercept vulnerable strains executing arbitrary code pre-encryption.
 

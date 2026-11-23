@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/MrX0955/SecurityNexus>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`, `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 📌 🛡️ SecurityNexus: An advanced cybersecurity toolkit offering professional-grade security analysis through integrated modules for DNS analysis, network scanning, threat intelligence, OSINT, anomaly detection, and blockchain security. Built on Python, powered by machine learning, and equipped with a multilingual user interface.
 

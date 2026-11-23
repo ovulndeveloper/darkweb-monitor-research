@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/hectorm/hblock>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2011
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Improve your security and privacy by blocking ads, tracking and malware domains.
 

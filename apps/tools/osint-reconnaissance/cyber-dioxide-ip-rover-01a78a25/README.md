@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Cyber-Dioxide/IP_Rover>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 307
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 An Excellent OSINT tool to get information of any ip address. All details are explained in below screenshot
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/vixkram/OSINTBox-data>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 75
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Community-driven repository of OSINT tools and resources.
 

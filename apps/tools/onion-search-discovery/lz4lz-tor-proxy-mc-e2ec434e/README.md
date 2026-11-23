@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Lz4Lz/tor-proxy-mc>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Routes Minecraft traffic through a Tor proxy, allowing you to play with extra privacy and join .onion servers.
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/bing0o/simple_ransomware>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 7
+- **Reviewed:** 2026-11-23
 
 No description provided by the source.
 

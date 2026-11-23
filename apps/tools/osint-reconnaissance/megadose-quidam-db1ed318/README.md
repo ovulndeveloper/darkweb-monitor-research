@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/megadose/Quidam>
 - **Sources:** `github-search:topic:osint`, `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 234
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Quidam allows you to retrieve information thanks to the forgotten password function of some sites.
 

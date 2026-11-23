@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/bakhirev/assayo>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 299
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Creates an HTML-report with analysis of commit statistics
 

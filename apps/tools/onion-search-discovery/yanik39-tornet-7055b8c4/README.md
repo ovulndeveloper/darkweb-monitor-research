@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Yanik39/TORNet>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 14
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Full featured web server for TOR Hidden Services with Vanguards, NGINX, PHP-FPM, MariaDB, NYX, Supervisor and dnsmasq. One Container for all.
 

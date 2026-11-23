@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/parazyd/tordam>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 28
-- **License:** AGPL-3.0
+- **Reviewed:** 2026-11-23
 
 A library for peer discovery inside the Tor network
 

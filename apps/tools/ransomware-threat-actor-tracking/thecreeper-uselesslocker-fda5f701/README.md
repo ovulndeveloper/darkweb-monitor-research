@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/TheCreeper/UselessLocker>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 7
-- **License:** BSD-2-Clause
+- **Reviewed:** 2026-11-23
 
 Randomware-like sample that can be easily modified and used. For educational purposes.
 

@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/daijro/EssayGen>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 52
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 Essay generator
 

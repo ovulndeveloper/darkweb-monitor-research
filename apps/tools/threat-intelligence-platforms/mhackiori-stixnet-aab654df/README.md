@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Mhackiori/STIXnet>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 33
+- **Reviewed:** 2026-11-23
 
 A Novel and Modular Solution for Extracting All STIX Objects in CTI Reports
 

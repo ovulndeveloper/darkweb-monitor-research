@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/plan44/p44sbbd>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 p44sbbd is a free (opensource, GPLv3) daemon for controlling Swiss Railway (SBB) electromechanical display modules (Fallblattanzeigen) via a RS485 serial interface.
 

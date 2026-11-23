@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/SyedShaheerHussain/Ransomware-Simulation-and-Defense-Mechanism-Python-GUI>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 11
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 A high-fidelity, educational cybersecurity sandbox for simulating ransomware attacks and deploying multi-layered Défense mechanisms in a safe, controlled environment.
 

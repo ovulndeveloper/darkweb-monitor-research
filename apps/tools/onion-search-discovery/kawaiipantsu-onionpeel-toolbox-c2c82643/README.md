@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/kawaiipantsu/onionpeel-toolbox>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Onionpeel-toolbox is a set of tools designed to make life easier when doing reconnaissance on Tor onion addresses. To crawl, scan, validate and so on.
 

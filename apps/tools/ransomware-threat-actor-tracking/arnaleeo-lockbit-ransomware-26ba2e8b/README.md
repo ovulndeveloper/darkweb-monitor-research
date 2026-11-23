@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Arnaleeo/LockBit-RansomWare>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** EPL-2.0
+- **Reviewed:** 2026-11-23
 
 Cracked version of LockBit Ransomware Including the missing Locker files. Including source code.
 

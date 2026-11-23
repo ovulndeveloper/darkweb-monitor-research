@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/amnestywebsite/onion-website>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 7
+- **Reviewed:** 2026-11-23
 
 Public information on our Amnesty onion website
 

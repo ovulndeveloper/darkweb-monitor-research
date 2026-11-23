@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/AmmarAikan/AmmarAikan>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
+- **Reviewed:** 2026-11-23
 
 Cybersecurity profile: red teaming, penetration testing, ethical hacking, and cyber threat intelligence
 

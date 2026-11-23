@@ -4,10 +4,8 @@
 - **Type:** [research-project](../../../by-type/research-project/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/frknaykc/Dragon-ThreatResearchHQ>
-- **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 20
-- **License:** MIT
+- **Sources:** `github-search:topic:ransomware`, `github-search:topic:threat-hunting`
+- **Reviewed:** 2026-11-23
 
 A comprehensive repository for malware analysis and threat intelligence, including Cobalt Strike Beacon configurations, YARA rules, IOCs, Suricata rules, and malware samples to support cybersecurity efforts.
 

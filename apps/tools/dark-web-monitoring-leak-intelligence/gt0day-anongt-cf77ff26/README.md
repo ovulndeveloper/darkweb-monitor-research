@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/gt0day/AnonGT>
 - **Sources:** `github-search:topic:darkweb`, `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 238
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Redirect All Traffic Through Tor Network For Kali Linux
 

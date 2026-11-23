@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/AnnusShahzad/Threadline>
 - **Sources:** `github-search:topic:osint-framework`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 Open-source, Maltego-style OSINT link-analysis framework: typed entities, pluggable transforms, interactive graph canvas.
 

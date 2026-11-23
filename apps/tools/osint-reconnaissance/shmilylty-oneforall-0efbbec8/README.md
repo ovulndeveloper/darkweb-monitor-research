@@ -4,10 +4,8 @@
 - **Type:** [tool](../../../by-type/tool/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/shmilylty/OneForAll>
-- **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 10159
-- **License:** GPL-3.0
+- **Sources:** `github-search:topic:osint`, `github-search:topic:recon`
+- **Reviewed:** 2026-11-23
 
 OneForAll是一款功能强大的子域收集工具
 

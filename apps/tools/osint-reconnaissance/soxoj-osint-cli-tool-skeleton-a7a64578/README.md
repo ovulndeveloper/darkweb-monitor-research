@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/soxoj/osint-cli-tool-skeleton>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 87
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Template for new OSINT command-line tools
 

@@ -4,10 +4,8 @@
 - **Type:** [api-service](../../../by-type/api-service/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/C3n7ral051nt4g3ncy/Masto>
-- **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 273
-- **License:** NOASSERTION
+- **Sources:** `awesome:edwardtay/awesome-OSINT`, `github-search:topic:osint`
+- **Reviewed:** 2026-11-23
 
 Masto is an OSINT tool written in python to gather intelligence on Mastodon users and instances.
 

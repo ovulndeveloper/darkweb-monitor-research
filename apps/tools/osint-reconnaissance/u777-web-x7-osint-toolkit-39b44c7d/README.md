@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/u777-web/x7-osint-toolkit>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 A modular, command-line OSINT & Reconnaissance suite written in Python
 

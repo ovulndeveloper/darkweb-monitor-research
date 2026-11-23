@@ -4,9 +4,8 @@
 - **Type:** [tool](../../../by-type/tool/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/RetroPackets/Fugitive>
-- **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 38
+- **Sources:** `github-search:topic:osint-tools`, `github-search:topic:recon`
+- **Reviewed:** 2026-11-23
 
 [Fugitive was made to offer resourcfulness to 'Osint Investigations' Fugitive will allow you to collect detailed information about "subjects" and in further development will become one of the best OSINT tools for your personal or professional activities]
 

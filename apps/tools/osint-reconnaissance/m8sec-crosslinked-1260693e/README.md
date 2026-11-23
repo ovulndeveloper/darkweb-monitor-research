@@ -4,10 +4,8 @@
 - **Type:** [api-service](../../../by-type/api-service/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/m8sec/CrossLinked>
-- **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1649
-- **License:** GPL-3.0
+- **Sources:** `awesome:edwardtay/awesome-OSINT`, `github-search:topic:osint`
+- **Reviewed:** 2026-11-23
 
 LinkedIn enumeration tool to extract valid employee names from an organization through search engine scraping
 

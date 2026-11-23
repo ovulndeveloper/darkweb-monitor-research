@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/hasherezade/petya_key>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 64
+- **Reviewed:** 2026-11-23
 
 A decoder for Petya victim keys, using the Janus' masterkey.
 

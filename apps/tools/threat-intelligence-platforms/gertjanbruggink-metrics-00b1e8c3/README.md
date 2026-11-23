@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/gertjanbruggink/metrics>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 116
+- **Reviewed:** 2026-11-23
 
 This directory features proven systems that demonstrate value to your threat-informed efforts using metrics.
 

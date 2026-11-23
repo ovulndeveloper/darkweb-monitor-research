@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/opsdisk/metagoofil>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 610
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Search Google and download specific file types
 

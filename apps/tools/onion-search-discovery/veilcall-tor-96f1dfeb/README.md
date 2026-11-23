@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/veilcall/tor>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 Anonymous virtual numbers — Tor hidden service gateway
 

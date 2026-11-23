@@ -4,9 +4,8 @@
 - **Type:** [tool](../../../by-type/tool/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/six2dez/dorks_hunter>
-- **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 349
+- **Sources:** `github-search:topic:osint`, `github-search:topic:recon`
+- **Reviewed:** 2026-11-23
 
 Simple Google Dorks search tool
 

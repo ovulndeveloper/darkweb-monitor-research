@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/paulmillr/micro-key-producer>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 82
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Produces secure keys and passwords. SSH, PGP, OTP, TOR, X509, OTP, SLIP10
 

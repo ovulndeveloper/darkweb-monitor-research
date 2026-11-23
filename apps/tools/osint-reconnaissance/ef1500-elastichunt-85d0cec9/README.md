@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ef1500/Elastichunt>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 23
+- **Reviewed:** 2026-11-23
 
 Locate, search and download open Elasticsearch databases
 

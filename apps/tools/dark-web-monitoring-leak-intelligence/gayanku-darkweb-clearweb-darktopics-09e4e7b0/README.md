@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/gayanku/darkweb_clearweb_darktopics>
 - **Sources:** `github-search:topic:darkweb`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 15
+- **Reviewed:** 2026-11-23
 
 This repository contains 7 darkweb market forum datasets, with usernames obfuscated.
 

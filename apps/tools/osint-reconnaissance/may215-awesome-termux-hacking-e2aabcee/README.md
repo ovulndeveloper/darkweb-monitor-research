@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/may215/awesome-termux-hacking>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4959
+- **Reviewed:** 2026-11-23
 
 ⚡️An awesome list of the best Termux hacking tools
 

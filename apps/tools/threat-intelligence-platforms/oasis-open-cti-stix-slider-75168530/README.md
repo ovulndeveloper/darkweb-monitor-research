@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/oasis-open/cti-stix-slider>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 22
-- **License:** BSD-3-Clause
+- **Reviewed:** 2026-11-23
 
 OASIS TC Open Repository: The repository cti-stix-slider supports development of a Python application to convert STIX 2.0 content to STIX 1.x content
 

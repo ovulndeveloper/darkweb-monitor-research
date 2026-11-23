@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/tdex-network/tor-proxy>
 - **Sources:** `github-search:topic:onion`, `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 21
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Tor2Web HTTP/1.x reverse proxy to consume onion endpoints without installing a tor client
 

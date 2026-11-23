@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/shadawck/awesome-darknet>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 60
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Networks and Tools that are used to access and navigate on "darknets"
 

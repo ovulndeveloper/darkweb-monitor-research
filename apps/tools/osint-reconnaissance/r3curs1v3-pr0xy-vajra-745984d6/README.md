@@ -4,10 +4,8 @@
 - **Type:** [web-platform](../../../by-type/web-platform/README.md)
 - **Status:** `archived`
 - **URL:** <https://github.com/r3curs1v3-pr0xy/vajra>
-- **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 698
-- **License:** GPL-3.0
+- **Sources:** `github-search:topic:bug-bounty`, `github-search:topic:osint`, `github-search:topic:recon`
+- **Reviewed:** 2026-11-23
 
 Vajra is a highly customizable target and scope based automated web hacking framework to automate boring recon tasks and same scans for multiple target during web applications penetration testing.
 

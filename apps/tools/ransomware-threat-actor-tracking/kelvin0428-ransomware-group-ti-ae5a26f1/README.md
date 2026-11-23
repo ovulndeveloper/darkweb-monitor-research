@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Kelvin0428/Ransomware-Group-TI>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 7
+- **Reviewed:** 2026-11-23
 
 A compilation of Tactics, Techniques, and Procedures (TTPs) employed by ransomware groups over the past five years.
 

@@ -4,10 +4,8 @@
 - **Type:** [tool](../../../by-type/tool/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/pwnfoo/NTLMRecon>
-- **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 508
-- **License:** MIT
+- **Sources:** `github-search:topic:osint`, `github-search:topic:recon`
+- **Reviewed:** 2026-11-23
 
 Enumerate information from NTLM authentication enabled web endpoints 🔎
 

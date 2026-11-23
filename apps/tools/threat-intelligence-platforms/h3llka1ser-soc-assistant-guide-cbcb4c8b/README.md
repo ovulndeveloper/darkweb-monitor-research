@@ -4,10 +4,8 @@
 - **Type:** [dashboard](../../../by-type/dashboard/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/H3llKa1ser/SOC-Assistant-Guide>
-- **Sources:** `github-search:topic:cyber-threat-intelligence`, `github-search:topic:digital-forensics`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 35
-- **License:** MIT
+- **Sources:** `github-search:topic:cyber-threat-intelligence`, `github-search:topic:digital-forensics`, `github-search:topic:incident-response`, `github-search:topic:threat-hunting`
+- **Reviewed:** 2026-11-23
 
 A Security Operations playbook to assist blue teamers from day-to-day tasks to Digital Forensics and Incident Response (DFIR) activities.
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/anpa1200/cvss_4.0>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 CVSS v4.0 BTE enrichment CLI using NVD, CISA KEV, EPSS, and asset profiles for vulnerability prioritization.
 

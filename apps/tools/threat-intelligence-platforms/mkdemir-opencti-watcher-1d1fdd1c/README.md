@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/mkdemir/opencti-watcher>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 9
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Watcher is a solution that integrates with security products using IoC (Indicator of Compromise) information gathered through the OpenCTI platform. This integration makes it possible to detect and respond to threats faster.
 

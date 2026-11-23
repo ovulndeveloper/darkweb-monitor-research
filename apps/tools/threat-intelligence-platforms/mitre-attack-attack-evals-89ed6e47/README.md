@@ -5,8 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/mitre-attack/attack-evals>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 62
+- **Reviewed:** 2026-11-23
 
 ATT&CK Evaluations website (DEPRECATED)
 

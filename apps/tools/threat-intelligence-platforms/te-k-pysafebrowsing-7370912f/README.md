@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Te-k/pysafebrowsing>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 28
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Python 3 Google Safe Browsing library
 

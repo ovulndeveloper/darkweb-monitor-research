@@ -5,8 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/AiGptCode/iphoneprofile>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 128
+- **Reviewed:** 2026-11-23
 
 ساخت پروفایل برای وصل انتن ایفون بدون رجیستر 🦹‍♀️ Configuration Profile Generator
 

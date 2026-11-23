@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/center-for-threat-informed-defense/threat-modeling-with-attack>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 18
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 Threat Modeling with ATT&CK defines how to integreate MITRE ATT&CK® into your organization’s existing threat modeling methodology.
 

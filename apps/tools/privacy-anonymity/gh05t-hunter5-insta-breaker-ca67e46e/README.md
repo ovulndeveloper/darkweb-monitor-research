@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/GH05T-HUNTER5/insta-breaker>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 419
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Simple Instagram Brute Force Tool
 

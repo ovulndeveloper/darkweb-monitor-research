@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/9aylas/S3X-B3B4S-ransomware-decryption>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
+- **Reviewed:** 2026-11-23
 
 A way to scriptkiddie ransomware decryption.
 

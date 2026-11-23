@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/leplusorg/docker-tor>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 34
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 Run TOR conveniently from a multi-platform docker container.
 

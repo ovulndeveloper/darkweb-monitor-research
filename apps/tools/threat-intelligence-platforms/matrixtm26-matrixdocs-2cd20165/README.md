@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/MatrixTM26/MatrixDocs>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 All you need to know about the art of ethical hacking
 

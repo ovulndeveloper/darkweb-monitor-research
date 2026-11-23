@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/alok-kumar8765/cybersecurity-osint-ai-productivity-guide>
 - **Sources:** `github-search:topic:darkweb`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 5
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 A visual, curated list of essential Dark Web/OSINT search engines and 100+ powerful AI tools for hacking productivity and automation.
 

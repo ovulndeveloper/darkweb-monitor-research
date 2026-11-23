@@ -4,10 +4,8 @@
 - **Type:** [framework](../../../by-type/framework/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/activecm/rita>
-- **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 678
-- **License:** GPL-3.0
+- **Sources:** `github-search:topic:incident-response`, `github-search:topic:security-tools`, `github-search:topic:threat-hunting`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis.
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/PanagiotisDrakatos/JavaRansomware>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 137
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Java Ransomware
 

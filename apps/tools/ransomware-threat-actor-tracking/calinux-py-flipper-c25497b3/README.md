@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/calinux-py/Flipper>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 30
+- **Reviewed:** 2026-11-23
 
 FlipperZero - Mix of random flipper zero ducky scripts
 

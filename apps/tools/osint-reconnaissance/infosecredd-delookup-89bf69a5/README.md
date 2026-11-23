@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/InfoSecREDD/DeLookup>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 8
+- **Reviewed:** 2026-11-23
 
 REDD's DeHashed API Lookup Tool - DeLookup tool allows users to search the DeHashed database, while also doing a reverse lookup on the results.
 

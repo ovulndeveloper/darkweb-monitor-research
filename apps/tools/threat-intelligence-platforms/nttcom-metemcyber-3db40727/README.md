@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/nttcom/metemcyber>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 27
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 Decentralized Cyber Threat Intelligence Kaizen Framework
 

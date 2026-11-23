@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/n3mu3lw/Zamok>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 14
+- **Reviewed:** 2026-11-23
 
 FUD Linux Ransomware
 

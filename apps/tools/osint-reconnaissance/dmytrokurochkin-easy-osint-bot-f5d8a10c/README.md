@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/dmytrokurochkin/Easy-Osint-Bot>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 Telegram OSINT bot: look up usernames, emails and phone numbers via Blackbird, Maigret, Sherlock, Holehe and GHunt. Multi-user access control, EN/UK/PL interface, zero-setup first run.
 

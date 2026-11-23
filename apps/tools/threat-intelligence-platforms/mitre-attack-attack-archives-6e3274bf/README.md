@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/mitre-attack/attack-archives>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 8
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 Previous ATT&CK releases as seen at https://attack.mitre.org/resources/previous-versions/
 

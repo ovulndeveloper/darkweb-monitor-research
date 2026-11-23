@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/PrivAtlas/Jet-USDJJ>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Stablecoin on Lightning Network
 

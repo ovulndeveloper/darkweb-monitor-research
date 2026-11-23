@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/CyberSoldiers/onion_check>
 - **Sources:** `github-search:topic:darkweb`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 26
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Handy Tool to check the availability of onion site and to extract the title of submitted onion links.
 

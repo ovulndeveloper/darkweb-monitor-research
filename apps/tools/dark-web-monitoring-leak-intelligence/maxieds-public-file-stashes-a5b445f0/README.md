@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/maxieds/public-file-stashes>
 - **Sources:** `github-search:topic:darkweb`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
+- **Reviewed:** 2026-11-23
 
 Datasets available FREELY on the PUBLIC Internet. (punctuation)
 

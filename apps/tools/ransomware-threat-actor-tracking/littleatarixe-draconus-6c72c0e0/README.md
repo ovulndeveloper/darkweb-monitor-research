@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/LittleAtariXE/Draconus>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4
+- **Reviewed:** 2026-11-23
 
 Malware, Shellcode builder with C2, tools and compilers. Easily create your own malware, small or large.
 

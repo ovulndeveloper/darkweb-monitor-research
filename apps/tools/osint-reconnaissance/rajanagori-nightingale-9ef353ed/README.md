@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/RAJANAGORI/Nightingale>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 318
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Nightingale Docker for Pentesters is a comprehensive Dockerized environment tailored for penetration testing and vulnerability assessment. It comes preconfigured with all essential tools and utilities required for efficient Vulnerability Assessment and Penetration Testing (VAPT), streamlining the setup process for security professionals.
 

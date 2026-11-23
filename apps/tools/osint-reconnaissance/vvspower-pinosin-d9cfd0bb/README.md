@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/vvspower/pinosin>
 - **Sources:** `github-search:topic:osint-framework`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 19
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 An Open Source Intelligence Framework to investigate and keep track of the investigation of a certain individual
 

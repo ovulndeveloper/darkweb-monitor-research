@@ -4,9 +4,8 @@
 - **Type:** [api-service](../../../by-type/api-service/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/rix4uni/originiphunter>
-- **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 52
+- **Sources:** `github-search:topic:bug-bounty`, `github-search:topic:recon`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 A powerful Go tool for finding origin IPs of domains by querying multiple security APIs and validating results with built-in HTTP client.
 

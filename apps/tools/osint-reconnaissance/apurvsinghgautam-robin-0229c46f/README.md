@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/apurvsinghgautam/robin>
 - **Sources:** `github-search:topic:darkweb`, `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 8083
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 AI-Powered Dark Web OSINT Tool
 

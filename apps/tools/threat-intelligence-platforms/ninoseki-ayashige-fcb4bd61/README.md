@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ninoseki/ayashige>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 39
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Ayashige provides a list of suspicious newly updated domains as a JSON feed
 

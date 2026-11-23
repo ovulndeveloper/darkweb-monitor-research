@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/JethroPhuah/CTI-Agent-Project>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
+- **Reviewed:** 2026-11-23
 
 Multi-agent CTI platform — LangGraph + MCP + RAG + STIX KG + human-in-the-loop feedback
 

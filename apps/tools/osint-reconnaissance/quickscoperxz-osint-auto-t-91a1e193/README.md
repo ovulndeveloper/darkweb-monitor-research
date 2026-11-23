@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/QuickscoperXZ/osint_auto_t>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 Инструмент для автоматизации скучных af осинтов | Tool to automate boooring af osint tasks
 

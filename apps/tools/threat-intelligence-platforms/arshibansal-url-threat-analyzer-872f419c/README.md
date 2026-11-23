@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ArshiBansal/URL_Threat_Analyzer>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 An AI-powered URL threat analysis system leveraging machine learning, deep learning, and NLP for phishing detection, explainable risk assessment, URL pattern discovery, and comparative model evaluation, with MongoDB-backed analytics and interactive visualisation.
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/MechaDragonX/Fafnir.NET>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4
+- **Reviewed:** 2026-11-23
 
 A simple malware program that enrypts files with an XOR cipher. DANGEROUD DO NOT USE (C# version of Fafnir-CPP)
 

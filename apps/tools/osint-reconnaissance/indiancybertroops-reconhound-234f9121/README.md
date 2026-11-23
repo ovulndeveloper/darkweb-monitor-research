@@ -4,9 +4,8 @@
 - **Type:** [api-service](../../../by-type/api-service/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/indiancybertroops/ReconHound>
-- **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 19
+- **Sources:** `github-search:topic:osint-tools`, `github-search:topic:recon`
+- **Reviewed:** 2026-11-23
 
 ReconHound is Best OSINT Tool For Enumeration We've Given 10 Different Type Of Enumeration Sub Tools Its Recon Framework Based On Api
 

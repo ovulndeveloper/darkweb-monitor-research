@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/1in9e/icp-domains>
 - **Sources:** `github-search:topic:osint`, `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 253
+- **Reviewed:** 2026-11-23
 
 输入一个域名，输出ICP备案所有关联域名
 

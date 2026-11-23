@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/shesek/onionfile>
 - **Sources:** `github-search:topic:onion`, `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 28
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Simple file sharing over tor hidden services (v3)
 

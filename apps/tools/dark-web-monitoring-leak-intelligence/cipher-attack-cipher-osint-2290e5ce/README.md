@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/cipher-attack/cipher-osint>
 - **Sources:** `github-search:topic:dark-web`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 11
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 CIPHER-OSINT is a high-performance information gathering framework built with Golang. It leverages LLM integration for automated data analysis and utilizes Tor-based routing for secure, anonymous reconnaissance
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/sayeedjoy/Date-Sniffer>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 6
+- **Reviewed:** 2026-11-23
 
 Extract Dates from TikTok Video and LinkedIn Post
 

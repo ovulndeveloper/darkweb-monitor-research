@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/s41r4j/phomber>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 629
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 [PH0MBER]: An open source infomation grathering & reconnaissance framework!
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Avenge-hacker/Instainsane>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 118
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Use for instagram hack
 

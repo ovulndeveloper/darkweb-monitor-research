@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Pranav-ai-cyber/network-security-basics>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 This repository contains the results and analysis of a local network port scanning task using Nmap. It includes scan outputs, screenshots, and a detailed report identifying open ports and potential security risks on network devices. The project aims to develop basic network reconnaissance skills and understand network exposure.
 

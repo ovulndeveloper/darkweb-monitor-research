@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/referefref/spamhole-ng>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** GPL-2.0
+- **Reviewed:** 2026-11-23
 
 A fork of Spamhole by Dustin Trammell with added safety
 

@@ -4,10 +4,8 @@
 - **Type:** [tool](../../../by-type/tool/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/initstring/cloud_enum>
-- **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2167
-- **License:** MIT
+- **Sources:** `awesome:edwardtay/awesome-OSINT`, `github-search:topic:osint`
+- **Reviewed:** 2026-11-23
 
 Multi-cloud OSINT tool. Enumerate public resources in AWS, Azure, and Google Cloud.
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/NullHypothesis/scramblesuit>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 95
+- **Reviewed:** 2026-11-23
 
 The ScrambleSuit traffic obfuscation protocol.
 

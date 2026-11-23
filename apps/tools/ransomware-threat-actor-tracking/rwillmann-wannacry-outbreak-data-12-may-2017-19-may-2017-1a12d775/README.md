@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/rwillmann/WannaCry-Outbreak-Data-12-May-2017---19-May-2017->
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Data about ransom payments for WannaCry attack in Europa
 

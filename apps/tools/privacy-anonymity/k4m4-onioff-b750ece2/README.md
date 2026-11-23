@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/k4m4/onioff>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 723
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 🌰 An onion url inspector for inspecting deep web links.
 

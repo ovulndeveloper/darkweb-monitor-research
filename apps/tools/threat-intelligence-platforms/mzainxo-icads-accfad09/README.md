@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/mzainxo/ICADS>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Intelligent Cyber Attacks Detection System (ICADS) uses Machine Learning (anomaly-based) techniques to detect sophisticated DDoS attacks and generate alerts on Suricata IDS.
 

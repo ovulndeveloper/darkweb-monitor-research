@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/DrowLink/osint-toolkit>
 - **Sources:** `github-search:topic:osint-framework`, `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Fast, dependency-free Python CLI for passive domain reconnaissance, multi-platform username hunting (56+ sites), OpSec proxies, and local AI (Ollama) threat synthesis.
 

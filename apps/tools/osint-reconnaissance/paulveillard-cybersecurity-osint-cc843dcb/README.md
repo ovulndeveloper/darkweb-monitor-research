@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/paulveillard/cybersecurity-osint>
 - **Sources:** `github-search:topic:osint-framework`, `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 40
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 An ongoing collection of awesome tools and frameworks, best security software practices, libraries, learning tutorials, frameworks, academic and practical resources about Open-source intelligence (OSINT) in cybersecurity.
 

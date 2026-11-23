@@ -5,8 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/wille/cry>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 255
+- **Reviewed:** 2026-11-23
 
 Cross platform PoC ransomware written in Go
 

@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/onion-wiki/onionwiki>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 onionwiki.to
 

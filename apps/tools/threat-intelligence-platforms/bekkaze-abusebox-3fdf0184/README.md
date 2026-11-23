@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/bekkaze/abusebox>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 90
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Know your mail server is blacklisted before your users do. Self-hosted monitoring for the IPs and domains you run: DNS blacklists for IPv4, IPv6 and domain names, SSL and domain expiry, SPF/DKIM/DMARC and uptime, with a risk score that ranks what to fix first.
 

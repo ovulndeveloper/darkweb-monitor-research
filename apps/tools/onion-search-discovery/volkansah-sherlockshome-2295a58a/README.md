@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/VolkanSah/SherlocksHome>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 9
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 This Black Python script is not a game! It is a powerful tool to monitor the traffic between clients and malicious .onion sites. We use a code like this to capture bad actors
 

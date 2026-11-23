@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/muzi5622/CTI_Platform>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
+- **Reviewed:** 2026-11-23
 
 Comprehensive Cyber Threat Intelligence Platform with Automated Collection, Analysis, and Dissemination
 

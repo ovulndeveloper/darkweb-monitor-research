@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/lost-rob0t/quasar>
 - **Sources:** `github-search:topic:osint-framework`
-- **Indexed:** 2026-11-23
-- **License:** AGPL-3.0
+- **Reviewed:** 2026-11-23
 
 Common Lisp Experiment, Porting Quasar Ui into a common lisp runtime
 

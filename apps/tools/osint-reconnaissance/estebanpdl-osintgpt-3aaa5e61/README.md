@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/estebanpdl/osintgpt>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 537
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 An open-source intelligence (OSINT) analysis tool leveraging GPT-powered embeddings and vector search engines for efficient data processing
 

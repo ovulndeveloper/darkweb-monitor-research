@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ancientswede/Huginn>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 30
-- **License:** AGPL-3.0
+- **Reviewed:** 2026-11-23
 
 Attacker intelligence for a homelab honeypot: a page per attacker, campaigns, session replays, bait detection and firewall blocklists. Python stdlib, no dependencies.
 

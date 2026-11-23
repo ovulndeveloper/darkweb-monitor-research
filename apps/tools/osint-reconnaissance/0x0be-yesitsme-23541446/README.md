@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/0x0be/yesitsme>
 - **Sources:** `github-search:topic:osint`, `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3186
+- **Reviewed:** 2026-11-23
 
 Simple OSINT script to find Instagram profiles by name and e-mail/phone
 

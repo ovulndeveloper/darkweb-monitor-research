@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/FrenchEthicalsHackers/WSL-KaliLinux-AutoInstaller>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Kali Linux WSL Auto Installer: A simple batch script that automates the installation of Kali Linux on Windows Subsystem for Linux (WSL), enabling WSL and the Virtual Machine Platform if needed, and provides an option to restart the system.
 

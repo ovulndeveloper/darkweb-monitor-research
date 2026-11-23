@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/dbeley/gsmarena-scraper>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 25
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Scraper for gsmarena.com (deprecated)
 

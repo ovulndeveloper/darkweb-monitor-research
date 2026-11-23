@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Sifir-io/react-native-tor>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 103
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Tor Daemon and Socks5 client for React Native iOS and Android projects!
 

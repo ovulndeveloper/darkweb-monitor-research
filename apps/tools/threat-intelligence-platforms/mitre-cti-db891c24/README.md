@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/mitre/cti>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2174
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Cyber Threat Intelligence Repository expressed in STIX 2.0
 

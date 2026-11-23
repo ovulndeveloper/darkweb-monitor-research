@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/deepfield/public-research>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 76
+- **Reviewed:** 2026-11-23
 
 DDoS botnet research and indicators of compromise from Nokia Deepfield ERT
 

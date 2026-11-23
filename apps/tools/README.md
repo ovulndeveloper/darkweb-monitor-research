@@ -1,27 +1,18 @@
 # Tool directories
 
-One generated directory per entry, grouped by category. 5,117 directories total.
+One directory per dark-web / investigation URL. 6,780 directories total.
 
-[← Master index](../README.md) · [← Categories](../CATEGORIES.md)
+[← Master index](../README.md) · [← Categories](../CATEGORIES.md) · [← Types](../TYPES.md)
 
-| Category | Entries | Directory |
+| Category | URLs | Directory |
 |---|---:|---|
-| Attack Surface & Exposure | 1 | [browse](attack-surface-exposure/) |
-| Attack Surface & Internet Intelligence | 2 | [browse](attack-surface-internet-intelligence/) |
-| Cryptocurrency & Financial Intelligence | 7 | [browse](cryptocurrency-financial-intelligence/) |
-| Dark Web Monitoring & Leak Intelligence | 214 | [browse](dark-web-monitoring-leak-intelligence/) |
-| Digital Forensics & Incident Response | 880 | [browse](digital-forensics-incident-response/) |
-| Identity & Breach Intelligence | 8 | [browse](identity-breach-intelligence/) |
-| Leak Site & Ransomware Tracking | 2 | [browse](leak-site-ransomware-tracking/) |
-| Malware Analysis & Detection | 426 | [browse](malware-analysis-detection/) |
-| OSINT & Reconnaissance | 1093 | [browse](osint-reconnaissance/) |
+| Cryptocurrency & Financial Intelligence | 10 | [browse](cryptocurrency-financial-intelligence/) |
+| Dark Web Monitoring & Leak Intelligence | 227 | [browse](dark-web-monitoring-leak-intelligence/) |
+| Identity & Breach Intelligence | 34 | [browse](identity-breach-intelligence/) |
+| OSINT & Reconnaissance | 3319 | [browse](osint-reconnaissance/) |
 | Onion Search & Discovery | 393 | [browse](onion-search-discovery/) |
-| Onion Service Assessment | 1 | [browse](onion-service-assessment/) |
-| Phishing & Fraud Intelligence | 2 | [browse](phishing-fraud-intelligence/) |
-| Privacy & Anonymity | 410 | [browse](privacy-anonymity/) |
-| Privacy & Research Environment | 4 | [browse](privacy-research-environment/) |
-| Ransomware & Threat Actor Tracking | 491 | [browse](ransomware-threat-actor-tracking/) |
-| Resource Lists & Directories | 1 | [browse](resource-lists-directories/) |
-| Security Automation & Orchestration | 1 | [browse](security-automation-orchestration/) |
-| Security Tooling & Research | 8 | [browse](security-tooling-research/) |
-| Threat Intelligence Platforms | 1173 | [browse](threat-intelligence-platforms/) |
+| Phishing & Fraud Intelligence | 431 | [browse](phishing-fraud-intelligence/) |
+| Privacy & Anonymity | 415 | [browse](privacy-anonymity/) |
+| Ransomware & Threat Actor Tracking | 505 | [browse](ransomware-threat-actor-tracking/) |
+| Resource Lists & Directories | 5 | [browse](resource-lists-directories/) |
+| Threat Intelligence Platforms | 1441 | [browse](threat-intelligence-platforms/) |

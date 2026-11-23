@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/BushidoUK/CTI-Regex>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 5
+- **Reviewed:** 2026-11-23
 
 compilation of regex for CTI
 

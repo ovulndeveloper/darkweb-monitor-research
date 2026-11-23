@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/DarkHater01/K4L1NUX-DarkWeb-Monitor>
 - **Sources:** `github-search:topic:darkweb`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Self-hosted, privacy-first dark web leak monitor. Detects leaked cards, emails and hashes — stores only SHA-256 fingerprints, never raw data. Python + Tor.
 

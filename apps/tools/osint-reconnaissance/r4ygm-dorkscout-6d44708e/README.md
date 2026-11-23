@@ -4,10 +4,8 @@
 - **Type:** [tool](../../../by-type/tool/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/R4yGM/dorkscout>
-- **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 244
-- **License:** Apache-2.0
+- **Sources:** `github-search:topic:bug-bounty`, `github-search:topic:osint`
+- **Reviewed:** 2026-11-23
 
 DorkScout - Golang tool to automate google dork scan against the entiere internet or specific targets
 

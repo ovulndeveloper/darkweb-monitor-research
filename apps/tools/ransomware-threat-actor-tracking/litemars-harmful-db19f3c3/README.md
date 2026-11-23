@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/litemars/hARMful>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4
+- **Reviewed:** 2026-11-23
 
 A Linux Ransomware Framework demonstrating EDR evasion using io_uring and direct syscalls.
 

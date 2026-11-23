@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/StevenBlack/hosts>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 31513
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 

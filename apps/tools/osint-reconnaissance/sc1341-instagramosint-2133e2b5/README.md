@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/sc1341/InstagramOSINT>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1714
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 An Instagram Open Source Intelligence Tool - Archive
 

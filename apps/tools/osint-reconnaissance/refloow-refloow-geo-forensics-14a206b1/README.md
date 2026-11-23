@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Refloow/Refloow-Geo-Forensics>
 - **Sources:** `github-search:topic:digital-forensics`, `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 237
-- **License:** AGPL-3.0
+- **Reviewed:** 2026-11-23
 
 ❤️ Free batch image & video geolocation digital forensics tool. Automatically extract EXIF data, visualize GPS coordinates on maps, and reconstruct event timelines for OSINT
 

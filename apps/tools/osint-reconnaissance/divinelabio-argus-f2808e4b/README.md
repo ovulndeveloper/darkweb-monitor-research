@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/divinelabio/Argus>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4359
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 The Ultimate Information Gathering Toolkit
 

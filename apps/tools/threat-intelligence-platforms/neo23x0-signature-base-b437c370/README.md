@@ -4,10 +4,8 @@
 - **Type:** [dataset](../../../by-type/dataset/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/Neo23x0/signature-base>
-- **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3073
-- **License:** NOASSERTION
+- **Sources:** `github-search:topic:threat-hunting`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 YARA signature and IOC database for my scanners and tools
 

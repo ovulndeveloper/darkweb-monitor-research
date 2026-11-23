@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/zahidayturan/go-tor-scraper>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
+- **Reviewed:** 2026-11-23
 
 Go web scraper that routes traffic through the Tor SOCKS5 proxy fetch and archive web content.
 

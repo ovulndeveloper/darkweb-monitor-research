@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/HackUnderway/SearchPhone>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2175
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Phone number OSINT toolkit with multi-API search (Google, GitHub, Numverify, Reddit, DuckDuckGo), Hudson Rock infostealer intelligence, and automatic report generation.
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/reloading01/certstream-server-rust>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 56
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 High-performance Certificate Transparency (CT) monitoring tool written in Rust. Real-time stream of newly issued SSL/TLS certificates from CT logs. Rust implementation of certstream-server with improved performance and memory efficiency.
 

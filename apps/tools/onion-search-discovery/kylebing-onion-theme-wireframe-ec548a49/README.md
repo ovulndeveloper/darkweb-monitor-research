@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/KyleBing/onion-theme-wireframe>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
+- **Reviewed:** 2026-11-23
 
 A theme for MiyooMiniPlus's Onion OS
 

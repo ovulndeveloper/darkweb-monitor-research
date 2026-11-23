@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/furk4n0zturk/MachinePreparer>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
+- **Reviewed:** 2026-11-23
 
 Machine Preparer for hackers | This bash script makes the hacking working environment of newly installed servers ready without manual effort.
 

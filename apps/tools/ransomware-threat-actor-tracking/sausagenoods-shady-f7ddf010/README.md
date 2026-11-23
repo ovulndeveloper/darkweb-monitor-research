@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/sausagenoods/shady>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 9
-- **License:** WTFPL
+- **Reviewed:** 2026-11-23
 
 Simple Monero ransomware implementation.
 

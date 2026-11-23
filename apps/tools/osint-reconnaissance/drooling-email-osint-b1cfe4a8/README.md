@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/drooling/email-osint>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 21
-- **License:** AGPL-3.0
+- **Reviewed:** 2026-11-23
 
 A email OSINT tool written in python3
 

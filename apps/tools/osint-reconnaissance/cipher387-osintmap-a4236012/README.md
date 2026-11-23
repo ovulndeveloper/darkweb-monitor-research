@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/cipher387/osintmap>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 242
+- **Reviewed:** 2026-11-23
 
 Worldwide map of OSINT tools. 614 services (cadastral maps, business registries, public transport maps, passengers lists, venicle information).
 

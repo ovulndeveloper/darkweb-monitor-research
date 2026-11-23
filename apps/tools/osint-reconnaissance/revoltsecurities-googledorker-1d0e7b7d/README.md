@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/RevoltSecurities/GoogleDorker>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 301
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 GoogleDorker - Unleash the power of Google dorking for ethical hackers with custom search precision.
 

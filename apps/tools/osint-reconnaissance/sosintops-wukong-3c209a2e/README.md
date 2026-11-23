@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/SOsintOps/Wukong>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 China-focused OSINT workstation — a Debian 13 installer for investigating the Chinese-language internet and Chinese corporate due diligence. Standalone fork of the Speculator Project.
 

@@ -4,10 +4,8 @@
 - **Type:** [api-service](../../../by-type/api-service/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/akamhy/waybackpy>
-- **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 618
-- **License:** MIT
+- **Sources:** `awesome:TinuolaRotimi/Awesome-OSINT`, `awesome:jivoi/awesome-osint`, `github-search:topic:osint`
+- **Reviewed:** 2026-11-23
 
 Wayback Machine API interface & a command-line tool
 

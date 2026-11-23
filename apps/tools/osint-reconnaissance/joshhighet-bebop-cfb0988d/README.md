@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/joshhighet/bebop>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 39
+- **Reviewed:** 2026-11-23
 
 reveal origins behind reverse proxies & hidden services
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/hippiiee/Hippie-OSINT-Toolkit>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 251
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 A web based OSINT ressource and tool
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/juev/tor-relay-scanner-go>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 24
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Tor Relay availability checker, for using it as a bridge in countries with censorship
 

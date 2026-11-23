@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/JMousqueton/RansomSim>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 7
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Educational ransomware leak site simulator with multi-language support, victim chat system, and admin dashboard for security awareness training
 

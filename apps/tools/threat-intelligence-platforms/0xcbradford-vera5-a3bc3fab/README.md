@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/0xCBradford/Vera5>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Local-first IOC enrichment tooling for SOC, CTI, DFIR, and threat hunting workflows.
 

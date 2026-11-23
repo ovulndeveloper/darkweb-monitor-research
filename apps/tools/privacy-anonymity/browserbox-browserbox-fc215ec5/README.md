@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/BrowserBox/BrowserBox>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3936
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 💚🇺🇸🗽Secure browser infrastructure for regulated enterprises, AI and agentic microtasks
 

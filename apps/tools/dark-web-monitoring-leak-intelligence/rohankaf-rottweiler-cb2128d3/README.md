@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Rohankaf/Rottweiler>
 - **Sources:** `github-search:topic:darkweb`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4
+- **Reviewed:** 2026-11-23
 
 ROTTWEILER automates dark web search and AI-driven intelligence analysis over Tor.
 

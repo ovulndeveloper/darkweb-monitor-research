@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/shaktavist/Online-Security-Tools>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 6
+- **Reviewed:** 2026-11-23
 
 Threat Detection, Reputation Check, Malware Analysis, Incident Response and Security Tips
 

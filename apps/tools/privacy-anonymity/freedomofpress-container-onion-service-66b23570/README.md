@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/freedomofpress/container-onion-service>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 20
-- **License:** AGPL-3.0
+- **Reviewed:** 2026-11-23
 
 A container that proxies a website as a hidden Onion Service on the Tor network
 

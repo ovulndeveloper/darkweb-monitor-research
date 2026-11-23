@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/vshulcz/darkweb_search_engine>
 - **Sources:** `github-search:topic:darkweb`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 A simple modular dark web crawler and search engine.
 

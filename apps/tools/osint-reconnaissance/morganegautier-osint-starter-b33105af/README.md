@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/morganegautier/osint-starter>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 6
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 A compilation of resources and tools to help you begin with Open Source Intelligence (OSINT).
 

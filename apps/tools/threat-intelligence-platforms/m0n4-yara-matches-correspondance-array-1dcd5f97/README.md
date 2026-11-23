@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/m0n4/YARA-Matches-Correspondance-Array>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 A tool designed to help writing and updating YARA rules.
 

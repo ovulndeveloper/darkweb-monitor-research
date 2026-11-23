@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/CyberDemon73/DorkSide>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 DorkSide is an advanced security reconnaissance tool that automates Google dorking to uncover sensitive information and potential vulnerabilities across web domains. Designed for ethical hackers and security researchers, it features intelligent URL extraction, user-agent rotation, proxy support, and comprehensive reporting
 

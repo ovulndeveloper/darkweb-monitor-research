@@ -4,10 +4,8 @@
 - **Type:** [dashboard](../../../by-type/dashboard/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/Realynx/PolySIEM>
-- **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 8
-- **License:** MIT
+- **Sources:** `github-search:topic:cyber-threat-intelligence`, `github-search:topic:siem`
+- **Reviewed:** 2026-11-23
 
 Open-source homelab SIEM — your whole lab mapped, logged, and watched. Proxmox + OPNsense + Elastic sync, Suricata threat intel, and security scoring in one self-hosted dashboard.
 

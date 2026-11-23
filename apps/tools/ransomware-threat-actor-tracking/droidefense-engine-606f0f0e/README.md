@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/droidefense/engine>
 - **Sources:** `github-search:topic:malware-analysis`, `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 480
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Droidefense: Advance Android Malware Analysis Framework
 

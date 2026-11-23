@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ArnoSXE/Inversia>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 🔍 Inversia – Reverse Image Search across Google, Yandex, and Bing.
 

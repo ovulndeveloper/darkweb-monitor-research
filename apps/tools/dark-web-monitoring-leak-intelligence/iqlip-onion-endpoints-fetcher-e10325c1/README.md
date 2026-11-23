@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/iqlip/Onion_Endpoints_Fetcher>
 - **Sources:** `github-search:topic:darkweb`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 6
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Onion Endpoints Fetcher is a web-based tool designed to fetch and display endpoints from onion sites on the TOR network.
 

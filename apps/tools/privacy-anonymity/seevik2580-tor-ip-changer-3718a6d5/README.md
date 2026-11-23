@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/seevik2580/tor-ip-changer>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 526
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 request new identity every X seconds interval using TOR client
 

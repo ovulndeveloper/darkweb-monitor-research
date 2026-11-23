@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/samsesh/tor-in-termux>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 90
+- **Reviewed:** 2026-11-23
 
 proxy for telegram and twitter
 

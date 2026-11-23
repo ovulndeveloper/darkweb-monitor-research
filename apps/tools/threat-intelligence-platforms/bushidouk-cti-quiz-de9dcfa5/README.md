@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/BushidoUK/CTI-Quiz>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 13
+- **Reviewed:** 2026-11-23
 
 Practice CTI Quiz
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/elblaxican/Tankvill-OSINT-Photo-Hunter>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Tankvill OSINT Photo Hunter collects, downloads, and analyzes a target’s photos across the public web. It uses dorking, scraping, headless browsing, facial recognition, and EXIF extraction to build a unified visual footprint for OSINT and red‑team investigations.
 

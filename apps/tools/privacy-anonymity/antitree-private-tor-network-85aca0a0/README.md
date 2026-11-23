@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/antitree/private-tor-network>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 162
-- **License:** GPL-2.0
+- **Reviewed:** 2026-11-23
 
 Run an isolated instance of a tor network in Docker containers
 

@@ -4,10 +4,8 @@
 - **Type:** [tool](../../../by-type/tool/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/NagaSivaGunturu/ioc-insight>
-- **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 10
-- **License:** MIT
+- **Sources:** `github-search:topic:cyber-threat-intelligence`, `github-search:topic:threat-hunting`
+- **Reviewed:** 2026-11-23
 
 An explainable multi-source threat intelligence assessment tool for IOC analysis.
 

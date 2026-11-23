@@ -4,10 +4,8 @@
 - **Type:** [dataset](../../../by-type/dataset/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/drb-ra/C2IntelFeeds>
-- **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 754
-- **License:** NOASSERTION
+- **Sources:** `github-search:topic:threat-hunting`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 Automatically created C2 Feeds
 

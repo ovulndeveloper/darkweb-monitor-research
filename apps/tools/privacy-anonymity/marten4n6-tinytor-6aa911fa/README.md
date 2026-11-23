@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Marten4n6/TinyTor>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 135
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 A tiny Tor client implementation (in pure python).
 

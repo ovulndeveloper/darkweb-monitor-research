@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/robo3945/RaTS>
 - **Sources:** `github-search:topic:digital-forensics`, `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 6
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Ransomware Traces Scanner: a file system scanner to find ransomware's manifest files or crypted files
 

@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/TheLinuxndroid/F-OSINT>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 A Complete OSINT+FORENSIC Course in Hindi, Real-Life Scam Catching
 

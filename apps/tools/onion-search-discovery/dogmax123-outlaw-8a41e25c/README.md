@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Dogmax123/Outlaw>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 Chat P2P criado para Termux usando o Tor
 

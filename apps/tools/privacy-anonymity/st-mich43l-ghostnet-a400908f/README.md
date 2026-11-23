@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/st-mich43l/ghostnet>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 63
+- **Reviewed:** 2026-11-23
 
 GhostNET script that will help you be safer on the cyber
 

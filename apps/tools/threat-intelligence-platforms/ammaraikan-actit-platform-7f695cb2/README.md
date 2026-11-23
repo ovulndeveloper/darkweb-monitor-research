@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/AmmarAikan/ACTIT-Platform>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 8
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 ACTIT is a unified AI-assisted cyber threat intelligence platform that fuses internal telemetry with external threat sources to deliver explainable, actionable intelligence.
 

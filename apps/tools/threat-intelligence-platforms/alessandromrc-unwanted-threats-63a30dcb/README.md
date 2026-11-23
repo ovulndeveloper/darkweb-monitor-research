@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/alessandromrc/unwanted-threats>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
+- **Reviewed:** 2026-11-23
 
 Aggregated threat intelligence feeds providing continuously updated IP, domain, and network blocklists for firewalls and security tools.
 

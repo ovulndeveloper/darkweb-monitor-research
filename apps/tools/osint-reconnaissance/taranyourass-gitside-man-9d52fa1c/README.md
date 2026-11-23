@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/TaranYourAss/gitside-man>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4
+- **Reviewed:** 2026-11-23
 
 Easily search through all GitHub repositories for keywords.
 

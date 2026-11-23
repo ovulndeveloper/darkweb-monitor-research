@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/mateofumis/dumpdork>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 41
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 Search-driven OSINT and reconnaissance toolkit for web and GitHub discovery.
 

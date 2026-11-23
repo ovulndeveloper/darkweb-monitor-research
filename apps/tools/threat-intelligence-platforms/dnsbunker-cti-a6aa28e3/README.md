@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/DNSBunker/CTI>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 25
-- **License:** CC0-1.0
+- **Reviewed:** 2026-11-23
 
 Cyber Threat intelligence without the marketing
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/megadose/Fl0wj0b>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 33
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Fl0wj0b est un script qui permet d'extraire des informations d'annuaires et de les exporter .csv
 

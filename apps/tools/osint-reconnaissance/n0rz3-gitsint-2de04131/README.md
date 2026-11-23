@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/N0rz3/GitSint>
 - **Sources:** `github-search:topic:osint`, `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 267
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 🕵️ OSINT Tool (github tracker)
 

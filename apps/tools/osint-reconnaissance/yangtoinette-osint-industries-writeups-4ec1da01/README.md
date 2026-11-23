@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Yangtoinette/OSINT-Industries-Writeups>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 Résumés (writeups) pour les challenges du site OSINT Industries.
 

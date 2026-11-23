@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/HunxByts/INSTA-OSINT>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 358
+- **Reviewed:** 2026-11-23
 
 is a tool to find as much information as possible on Instagram accounts, such as username, full username, post target, account type, number of followers, number of followings and so on.
 

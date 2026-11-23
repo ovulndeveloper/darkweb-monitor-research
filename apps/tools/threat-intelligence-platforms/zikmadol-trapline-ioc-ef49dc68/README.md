@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Zikmadol/trapline-ioc>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Free, first-party honeypot IOC feed — the only one focused on attacks against AI infrastructure: LLMjacking, GPU-probing, and prompt-abuse against exposed Ollama/vLLM/Jupyter/Ray servers. Plain IP lists + CSV/JSON, updated hourly. CC BY 4.0.
 

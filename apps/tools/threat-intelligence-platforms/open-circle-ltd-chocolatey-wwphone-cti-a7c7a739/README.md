@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/open-circle-ltd/chocolatey.wwphone-cti>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
+- **Reviewed:** 2026-11-23
 
 wwphone is a Softphone Solution from wwcom, this is the CTI-Client
 

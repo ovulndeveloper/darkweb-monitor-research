@@ -4,10 +4,8 @@
 - **Type:** [tool](../../../by-type/tool/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/thewhiteh4t/nexfil>
-- **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2651
-- **License:** MIT
+- **Sources:** `awesome:TinuolaRotimi/Awesome-OSINT`, `awesome:edwardtay/awesome-OSINT`, `awesome:jivoi/awesome-osint`, `github-search:topic:osint`
+- **Reviewed:** 2026-11-23
 
 OSINT tool for finding profiles by username
 

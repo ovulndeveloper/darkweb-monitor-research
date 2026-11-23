@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/xnoncywer/email-osint>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 This Python script performs OSINT (Open-Source Intelligence) checks on email addresses, allowing you to gather useful information for security, research, or investigative purposes. The tool is designed to help identify potential risks associated with email addresses, including: Email Validation, Breach Detection, WHOIS lookup,ect.
 

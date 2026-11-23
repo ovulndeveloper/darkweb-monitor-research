@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/paulpogoda/OSINT-Tools-UK>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 30
+- **Reviewed:** 2026-11-23
 
 A list of OSINT resources and tools that may be useful to you when conducting investigations related to The United Kingdom
 

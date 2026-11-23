@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ology/Chess-Inspector>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 101
-- **License:** Artistic-2.0
+- **Reviewed:** 2026-11-23
 
 Visualize move, protection and threat status
 

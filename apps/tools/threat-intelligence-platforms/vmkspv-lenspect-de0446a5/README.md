@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/vmkspv/lenspect>
 - **Sources:** `github-search:topic:malware-analysis`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 204
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 A lightweight security threat scanner intended to make malware detection more accessible and efficient.
 

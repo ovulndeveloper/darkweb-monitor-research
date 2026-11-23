@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/brunosergi/tldr-threat-reports>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 8
+- **Reviewed:** 2026-11-23
 
 An AI-automated tool designed to help Threat Intelligence (CTI) Analysts process the overwhelming volume of daily cybersecurity news and vendor reports.
 

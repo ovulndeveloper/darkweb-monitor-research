@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/jgamblin/isthisipbad>
 - **Sources:** `github-search:topic:threat-intelligence`, `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 226
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Checks an IP address against DNS blocklists and threat intel feeds, with GeoIP and Tor exit node lookup
 

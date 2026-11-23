@@ -4,10 +4,8 @@
 - **Type:** [framework](../../../by-type/framework/README.md)
 - **Status:** `archived`
 - **URL:** <https://github.com/hm-seclab/YAFRA>
-- **Sources:** `github-search:topic:cyber-threat-intelligence`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 27
-- **License:** Apache-2.0
+- **Sources:** `github-search:topic:cyber-threat-intelligence`, `github-search:topic:incident-response`, `github-search:topic:threat-hunting`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 YAFRA is a semi-automated framework for analyzing and representing reports about IT Security incidents.
 

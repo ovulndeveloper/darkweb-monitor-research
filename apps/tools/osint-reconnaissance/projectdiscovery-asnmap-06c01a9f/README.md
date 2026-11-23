@@ -4,10 +4,8 @@
 - **Type:** [library](../../../by-type/library/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/projectdiscovery/asnmap>
-- **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1157
-- **License:** MIT
+- **Sources:** `awesome:edwardtay/awesome-OSINT`, `github-search:topic:osint`, `github-search:topic:recon`
+- **Reviewed:** 2026-11-23
 
 Go CLI and Library for quickly mapping organization network ranges using ASN information.
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Hitarashi/dhap>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 Composable, generic asynchronous chain-of-responsibility (onion) execution pipeline for Rust.
 

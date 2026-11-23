@@ -4,9 +4,8 @@
 - **Type:** [tool](../../../by-type/tool/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/CScorza/Data-Protection>
-- **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 22
+- **Sources:** `github-search:topic:phishing`, `github-search:topic:tor`
+- **Reviewed:** 2026-11-23
 
 Cookie - Phishing - Altri strumenti utili - Rendersi Anonimi nel WEB - Messaggistica Sicura
 

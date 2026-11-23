@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/michenriksen/aquatone>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 5959
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 A Tool for Domain Flyovers
 

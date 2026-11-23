@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/TheShivNand/Adversarial-Training-for-Robust-Intrusion-Detection-using-CIC-IDS2018>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 IoT Malware Detection using Machine Learning techniques on the CTU-IoT dataset with data preprocessing, feature engineering, and classification models for network traffic analysis.IoT Malware Detection using Machine Learning techniques on the CTU-IoT dataset with data preprocessing, feature engineering, and classification models for network traffic
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/HelenaReallyHateCoding/nightwire>
 - **Sources:** `github-search:topic:dark-web`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Enable secure, phone-based coding and development through Signal with Claude AI for autonomous tasks, code support, and reliable execution.
 

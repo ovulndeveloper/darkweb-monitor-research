@@ -4,10 +4,8 @@
 - **Type:** [tool](../../../by-type/tool/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/HackingLZ/gibson>
-- **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 212
-- **License:** MIT
+- **Sources:** `github-search:topic:osint`, `github-search:topic:threat-hunting`
+- **Reviewed:** 2026-11-23
 
 Network monitoring tool that maps process-to-network connections, identifies cloud providers, and detects beaconing activity. Zero-flag agent binary for deployment, aggregation server, offline ASN lookup.
 

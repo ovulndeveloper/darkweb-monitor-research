@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/igorbrigadir/twitter-advanced-search>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1621
+- **Reviewed:** 2026-11-23
 
 Advanced Search for Twitter.
 

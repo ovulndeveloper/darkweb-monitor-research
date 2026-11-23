@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/sarun2003/Onion-Router-Path-Visualization>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 This project simulates an Onion Router, visualizing how messages traverse through a series of nodes securely. It demonstrates core networking and cybersecurity concepts while providing an interactive GUI for visualization.
 

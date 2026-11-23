@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/KawaCoder/GhostRecon>
 - **Sources:** `github-search:topic:osint`, `github-search:topic:osint-framework`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 310
-- **License:** MPL-2.0
+- **Reviewed:** 2026-11-23
 
 Popular OSINT framework for online investigations.
 

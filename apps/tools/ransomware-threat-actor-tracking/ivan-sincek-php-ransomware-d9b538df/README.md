@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/ivan-sincek/php-ransomware>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 113
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 PHP ransomware that encrypts your files, as well as file and directory names.
 

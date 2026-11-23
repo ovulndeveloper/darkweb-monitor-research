@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/karthi-the-hacker/SocialEngineer>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 66
+- **Reviewed:** 2026-11-23
 
 A multi-functional toolkit for social engineering, phishing, email spoofing, SMS/OTP bombing, keylogging, and security audits — built for ethical hacking and penetration testing.
 

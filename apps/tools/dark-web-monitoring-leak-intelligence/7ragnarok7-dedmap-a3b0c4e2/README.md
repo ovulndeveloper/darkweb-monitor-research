@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/7Ragnarok7/DEDMAP>
 - **Sources:** `github-search:topic:darkweb`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 47
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 A Network Automation framework focused on Cyber-Security
 

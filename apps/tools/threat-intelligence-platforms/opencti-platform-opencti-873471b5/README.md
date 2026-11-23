@@ -4,10 +4,8 @@
 - **Type:** [web-platform](../../../by-type/web-platform/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/OpenCTI-Platform/opencti>
-- **Sources:** `github-search:topic:cti`, `github-search:topic:osint`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 10422
-- **License:** NOASSERTION
+- **Sources:** `awesome:edwardtay/awesome-OSINT`, `github-search:topic:cti`, `github-search:topic:osint`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 Open Cyber Threat Intelligence Platform
 

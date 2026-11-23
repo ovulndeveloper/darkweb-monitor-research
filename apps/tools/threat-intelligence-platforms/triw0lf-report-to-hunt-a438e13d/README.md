@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/triw0lf/report-to-hunt>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Turn published threat reports into runnable hunt hypotheses — a tool-neutral LLM method + agent skill
 

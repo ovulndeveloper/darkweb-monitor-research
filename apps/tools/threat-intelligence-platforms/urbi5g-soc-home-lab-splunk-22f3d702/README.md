@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Urbi5g/SOC-Home-Lab-Splunk>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 A hands-on SOC Home Lab built with Splunk Enterprise to simulate real-world cyber attacks, develop detection rules, create dashboards, investigate security incidents, and practice SOC Level 1 workflows using MITRE ATT&CK.
 

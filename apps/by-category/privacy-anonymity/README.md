@@ -1,8 +1,8 @@
 # Privacy & Anonymity
 
-410 entries. Generated from [`apps/data/catalog.json`](../data/catalog.json); do not edit by hand.
+415 dark-web / investigation URLs. Last reviewed 2026-11-23T09:00:17Z.
 
-[← All categories](../CATEGORIES.md) · [Master index](../README.md)
+[← All categories](../../CATEGORIES.md) · [← Master index](../../README.md)
 
 | Name | Type | Status | URL | Directory |
 |---|---|---|---|---|
@@ -39,7 +39,6 @@
 | ArchiveBox/good-karma-kit | container | indexed | <https://github.com/ArchiveBox/good-karma-kit> | [dir](../../tools/privacy-anonymity/archivebox-good-karma-kit-c0d83ebe/README.md) |
 | arminkz/TorPi | tool | indexed | <https://github.com/arminkz/TorPi> | [dir](../../tools/privacy-anonymity/arminkz-torpi-43d24d5e/README.md) |
 | assafmo/IsTorExit | cli-tool | indexed | <https://github.com/assafmo/IsTorExit> | [dir](../../tools/privacy-anonymity/assafmo-istorexit-47130a09/README.md) |
-| atorrescogollo/offensive-tor-toolkit | web-platform | indexed | <https://github.com/atorrescogollo/offensive-tor-toolkit> | [dir](../../tools/privacy-anonymity/atorrescogollo-offensive-tor-toolkit-fe396350/README.md) |
 | atx/prometheus-tor_exporter | tool | indexed | <https://github.com/atx/prometheus-tor_exporter> | [dir](../../tools/privacy-anonymity/atx-prometheus-tor-exporter-2414a6f9/README.md) |
 | audibleblink/doxycannon | container | indexed | <https://github.com/audibleblink/doxycannon> | [dir](../../tools/privacy-anonymity/audibleblink-doxycannon-efed4e92/README.md) |
 | Avenge-hacker/Instainsane | tool | indexed | <https://github.com/Avenge-hacker/Instainsane> | [dir](../../tools/privacy-anonymity/avenge-hacker-instainsane-202fec00/README.md) |
@@ -53,15 +52,14 @@
 | bezumiya/GoLiveBypass | plugin | indexed | <https://github.com/bezumiya/GoLiveBypass> | [dir](../../tools/privacy-anonymity/bezumiya-golivebypass-62ebe118/README.md) |
 | bhikandeshmukh/instainsane | cli-tool | indexed | <https://github.com/bhikandeshmukh/instainsane> | [dir](../../tools/privacy-anonymity/bhikandeshmukh-instainsane-683ae0c5/README.md) |
 | blckbx/lnd-hybrid-mode | dashboard | indexed | <https://github.com/blckbx/lnd-hybrid-mode> | [dir](../../tools/privacy-anonymity/blckbx-lnd-hybrid-mode-e45381a2/README.md) |
+| bleachbit.org | tool | indexed | <https://bleachbit.org/> | [dir](../../tools/privacy-anonymity/bleachbit-org-3ef5a468/README.md) |
 | blocoio/snowflake | mobile-app | indexed | <https://github.com/blocoio/snowflake> | [dir](../../tools/privacy-anonymity/blocoio-snowflake-11364487/README.md) |
 | blueprint-freespeech/gosling | web-platform | indexed | <https://github.com/blueprint-freespeech/gosling> | [dir](../../tools/privacy-anonymity/blueprint-freespeech-gosling-c469ebd0/README.md) |
 | brainfucksec/archtorify | tool | indexed | <https://github.com/brainfucksec/archtorify> | [dir](../../tools/privacy-anonymity/brainfucksec-archtorify-e30daf32/README.md) |
-| brainfucksec/kalitorify | tool | indexed | <https://github.com/brainfucksec/kalitorify> | [dir](../../tools/privacy-anonymity/brainfucksec-kalitorify-20c30fd4/README.md) |
 | BrowserBox/BrowserBox | tool | indexed | <https://github.com/BrowserBox/BrowserBox> | [dir](../../tools/privacy-anonymity/browserbox-browserbox-fc215ec5/README.md) |
 | brunneis/scihub-downloader | container | indexed | <https://github.com/brunneis/scihub-downloader> | [dir](../../tools/privacy-anonymity/brunneis-scihub-downloader-7013024b/README.md) |
 | bulwark-crypto/Bulwark | tool | indexed | <https://github.com/bulwark-crypto/Bulwark> | [dir](../../tools/privacy-anonymity/bulwark-crypto-bulwark-4195919f/README.md) |
 | ByteBreach/tornet | tool | indexed | <https://github.com/ByteBreach/tornet> | [dir](../../tools/privacy-anonymity/bytebreach-tornet-5c695033/README.md) |
-| CalfCrusher/Poiana | web-platform | archived | <https://github.com/CalfCrusher/Poiana> | [dir](../../tools/privacy-anonymity/calfcrusher-poiana-7db75eb3/README.md) |
 | captn3m0/cosmere-books | tool | indexed | <https://github.com/captn3m0/cosmere-books> | [dir](../../tools/privacy-anonymity/captn3m0-cosmere-books-ffcb60f5/README.md) |
 | cbeuw/Cloak | tool | indexed | <https://github.com/cbeuw/Cloak> | [dir](../../tools/privacy-anonymity/cbeuw-cloak-33a55889/README.md) |
 | cea-sec/TorPylle | research-project | archived | <https://github.com/cea-sec/TorPylle> | [dir](../../tools/privacy-anonymity/cea-sec-torpylle-66212110/README.md) |
@@ -80,6 +78,7 @@
 | cretz/bine | library | indexed | <https://github.com/cretz/bine> | [dir](../../tools/privacy-anonymity/cretz-bine-8ddec4c9/README.md) |
 | cretz/tor-dht-poc | tool | indexed | <https://github.com/cretz/tor-dht-poc> | [dir](../../tools/privacy-anonymity/cretz-tor-dht-poc-fd8a34d0/README.md) |
 | cristiancmoises/torando | tool | indexed | <https://github.com/cristiancmoises/torando> | [dir](../../tools/privacy-anonymity/cristiancmoises-torando-ae0af0bf/README.md) |
+| cryptomator.org | cli-tool | indexed | <https://cryptomator.org/> | [dir](../../tools/privacy-anonymity/cryptomator-org-053aa386/README.md) |
 | CScorza/Data-Protection | tool | indexed | <https://github.com/CScorza/Data-Protection> | [dir](../../tools/privacy-anonymity/cscorza-data-protection-e5cf2a26/README.md) |
 | CyberAndi/CyberSecurity-Box | tool | indexed | <https://github.com/CyberAndi/CyberSecurity-Box> | [dir](../../tools/privacy-anonymity/cyberandi-cybersecurity-box-dbcb207a/README.md) |
 | cybersertex/Tor-Proxychains | tool | indexed | <https://github.com/cybersertex/Tor-Proxychains> | [dir](../../tools/privacy-anonymity/cybersertex-tor-proxychains-a90bb723/README.md) |
@@ -106,6 +105,7 @@
 | digitalblossom/alternative-frontends | awesome-list | indexed | <https://github.com/digitalblossom/alternative-frontends> | [dir](../../tools/privacy-anonymity/digitalblossom-alternative-frontends-3bc8c0fa/README.md) |
 | DigneZzZ/remnawave-scripts | tool | indexed | <https://github.com/DigneZzZ/remnawave-scripts> | [dir](../../tools/privacy-anonymity/dignezzz-remnawave-scripts-6777eda6/README.md) |
 | disappeerlabs/disappeer | dashboard | indexed | <https://github.com/disappeerlabs/disappeer> | [dir](../../tools/privacy-anonymity/disappeerlabs-disappeer-0284f4d6/README.md) |
+| Disconnect Search | tool | indexed | <https://search.disconnect.me/> | [dir](../../tools/privacy-anonymity/search-disconnect-me-05282e6a/README.md) |
 | dockage/tor-privoxy | container | archived | <https://github.com/dockage/tor-privoxy> | [dir](../../tools/privacy-anonymity/dockage-tor-privoxy-84b4e02e/README.md) |
 | dockur/tor | container | indexed | <https://github.com/dockur/tor> | [dir](../../tools/privacy-anonymity/dockur-tor-4ca74701/README.md) |
 | DotNetAge/scrapy_plus | plugin | indexed | <https://github.com/DotNetAge/scrapy_plus> | [dir](../../tools/privacy-anonymity/dotnetage-scrapy-plus-c11acb29/README.md) |
@@ -113,6 +113,7 @@
 | drduh/Debian-Privacy-Server-Guide | dashboard | indexed | <https://github.com/drduh/Debian-Privacy-Server-Guide> | [dir](../../tools/privacy-anonymity/drduh-debian-privacy-server-guide-7ccce8fa/README.md) |
 | dryruby/tor.rb | library | indexed | <https://github.com/dryruby/tor.rb> | [dir](../../tools/privacy-anonymity/dryruby-tor-rb-e3070351/README.md) |
 | du82/nonograph | web-platform | indexed | <https://github.com/du82/nonograph> | [dir](../../tools/privacy-anonymity/du82-nonograph-08e7ea46/README.md) |
+| DuckDuckGo | tool | indexed | <https://duckduckgo.com> | [dir](../../tools/privacy-anonymity/duckduckgo-com-dea05d82/README.md) |
 | dunglas/php-torcontrol | library | indexed | <https://github.com/dunglas/php-torcontrol> | [dir](../../tools/privacy-anonymity/dunglas-php-torcontrol-363989f9/README.md) |
 | DusanMadar/ScrapeMeAgain | container | indexed | <https://github.com/DusanMadar/ScrapeMeAgain> | [dir](../../tools/privacy-anonymity/dusanmadar-scrapemeagain-8ae7c02b/README.md) |
 | DusanMadar/TorIpChanger | container | indexed | <https://github.com/DusanMadar/TorIpChanger> | [dir](../../tools/privacy-anonymity/dusanmadar-toripchanger-08ee9c88/README.md) |
@@ -143,13 +144,13 @@
 | GH05T-HUNTER5/insta-breaker | tool | indexed | <https://github.com/GH05T-HUNTER5/insta-breaker> | [dir](../../tools/privacy-anonymity/gh05t-hunter5-insta-breaker-ca67e46e/README.md) |
 | gh4rib/lyrebird | tool | indexed | <https://github.com/gh4rib/lyrebird> | [dir](../../tools/privacy-anonymity/gh4rib-lyrebird-255d047f/README.md) |
 | Gianguyen1234/A-section-to-know-about-Tor | web-platform | indexed | <https://github.com/Gianguyen1234/A-section-to-know-about-Tor> | [dir](../../tools/privacy-anonymity/gianguyen1234-a-section-to-know-about-tor-06440919/README.md) |
+| Gibiru | tool | indexed | <https://gibiru.com/> | [dir](../../tools/privacy-anonymity/gibiru-com-27fcf1f1/README.md) |
 | givps/AutoScriptXray | tool | indexed | <https://github.com/givps/AutoScriptXray> | [dir](../../tools/privacy-anonymity/givps-autoscriptxray-7352fb35/README.md) |
 | globaleaks/globaleaks-whistleblowing-software | web-platform | indexed | <https://github.com/globaleaks/globaleaks-whistleblowing-software> | [dir](../../tools/privacy-anonymity/globaleaks-globaleaks-whistleblowing-software-fcad4a96/README.md) |
 | GnosiWorks/Kryfo | tool | indexed | <https://github.com/GnosiWorks/Kryfo> | [dir](../../tools/privacy-anonymity/gnosiworks-kryfo-4becf574/README.md) |
 | go-compile/localrelay | web-platform | indexed | <https://github.com/go-compile/localrelay> | [dir](../../tools/privacy-anonymity/go-compile-localrelay-88e1b671/README.md) |
 | goastian/midori-android | tool | indexed | <https://github.com/goastian/midori-android> | [dir](../../tools/privacy-anonymity/goastian-midori-android-30947978/README.md) |
 | gosuda/portal-tunnel | web-platform | indexed | <https://github.com/gosuda/portal-tunnel> | [dir](../../tools/privacy-anonymity/gosuda-portal-tunnel-a8f90041/README.md) |
-| gourcetools/spamster | cli-tool | indexed | <https://github.com/gourcetools/spamster> | [dir](../../tools/privacy-anonymity/gourcetools-spamster-d79fdd68/README.md) |
 | grishmadev/conan | tool | indexed | <https://github.com/grishmadev/conan> | [dir](../../tools/privacy-anonymity/grishmadev-conan-d774620d/README.md) |
 | gSpotx2f/ruantiblock | research-project | archived | <https://github.com/gSpotx2f/ruantiblock> | [dir](../../tools/privacy-anonymity/gspotx2f-ruantiblock-28c32e55/README.md) |
 | gSpotx2f/ruantiblock_openwrt | tool | indexed | <https://github.com/gSpotx2f/ruantiblock_openwrt> | [dir](../../tools/privacy-anonymity/gspotx2f-ruantiblock-openwrt-94c42da3/README.md) |
@@ -194,9 +195,10 @@
 | Jugendhackt/haskell-ricochet | web-platform | indexed | <https://github.com/Jugendhackt/haskell-ricochet> | [dir](../../tools/privacy-anonymity/jugendhackt-haskell-ricochet-9f9c5fa2/README.md) |
 | k4m4/onioff | tool | indexed | <https://github.com/k4m4/onioff> | [dir](../../tools/privacy-anonymity/k4m4-onioff-b750ece2/README.md) |
 | k4m4/tor-detect | tool | indexed | <https://github.com/k4m4/tor-detect> | [dir](../../tools/privacy-anonymity/k4m4-tor-detect-19347f3f/README.md) |
+| Kagi Search | tool | indexed | <https://kagi.com/> | [dir](../../tools/privacy-anonymity/kagi-com-58ec4276/README.md) |
 | karthi-the-hacker/SocialEngineer | api-service | indexed | <https://github.com/karthi-the-hacker/SocialEngineer> | [dir](../../tools/privacy-anonymity/karthi-the-hacker-socialengineer-e5401b66/README.md) |
 | kdmukai/raspi4_bitcoin_node_tutorial | dashboard | indexed | <https://github.com/kdmukai/raspi4_bitcoin_node_tutorial> | [dir](../../tools/privacy-anonymity/kdmukai-raspi4-bitcoin-node-tutorial-f8aa5bb5/README.md) |
-| keeganjk/kali-anonymous | tool | indexed | <https://github.com/keeganjk/kali-anonymous> | [dir](../../tools/privacy-anonymity/keeganjk-kali-anonymous-aa6257a9/README.md) |
+| keepassxc.org | tool | indexed | <https://keepassxc.org/> | [dir](../../tools/privacy-anonymity/keepassxc-org-7bb9cc52/README.md) |
 | keroserene/snowflake | tool | indexed | <https://github.com/keroserene/snowflake> | [dir](../../tools/privacy-anonymity/keroserene-snowflake-7c7f6f63/README.md) |
 | KevinColemanInc/awesome-privacy | awesome-list | indexed | <https://github.com/KevinColemanInc/awesome-privacy> | [dir](../../tools/privacy-anonymity/kevincolemaninc-awesome-privacy-f9fc5803/README.md) |
 | KNG7-P/Se7en-Pro | cli-tool | indexed | <https://github.com/KNG7-P/Se7en-Pro> | [dir](../../tools/privacy-anonymity/kng7-p-se7en-pro-58604970/README.md) |
@@ -243,9 +245,9 @@
 | mritd/dockerfile | container | archived | <https://github.com/mritd/dockerfile> | [dir](../../tools/privacy-anonymity/mritd-dockerfile-60e5b5e0/README.md) |
 | MrMatin0/Aether | cli-tool | indexed | <https://github.com/MrMatin0/Aether> | [dir](../../tools/privacy-anonymity/mrmatin0-aether-79a9cc76/README.md) |
 | mthbernardes/ipChecker | container | indexed | <https://github.com/mthbernardes/ipChecker> | [dir](../../tools/privacy-anonymity/mthbernardes-ipchecker-d6f04d07/README.md) |
+| mullvad.net | tool | indexed | <https://mullvad.net/> | [dir](../../tools/privacy-anonymity/mullvad-net-2b68676f/README.md) |
 | multivoltage/adflyroboTOR | cli-tool | indexed | <https://github.com/multivoltage/adflyroboTOR> | [dir](../../tools/privacy-anonymity/multivoltage-adflyrobotor-bddbbc54/README.md) |
 | mytechnotalent/TOR-Everything | dashboard | indexed | <https://github.com/mytechnotalent/TOR-Everything> | [dir](../../tools/privacy-anonymity/mytechnotalent-tor-everything-7de12717/README.md) |
-| mytechnotalent/turbo-scanner | web-platform | indexed | <https://github.com/mytechnotalent/turbo-scanner> | [dir](../../tools/privacy-anonymity/mytechnotalent-turbo-scanner-18b2519f/README.md) |
 | naborajs/Termux-Tor-IP-Rotator | web-platform | indexed | <https://github.com/naborajs/Termux-Tor-IP-Rotator> | [dir](../../tools/privacy-anonymity/naborajs-termux-tor-ip-rotator-632c7f65/README.md) |
 | negyio/negy | container | indexed | <https://github.com/negyio/negy> | [dir](../../tools/privacy-anonymity/negyio-negy-96361a14/README.md) |
 | NetworkCats/Merged-IP-Data | dataset | indexed | <https://github.com/NetworkCats/Merged-IP-Data> | [dir](../../tools/privacy-anonymity/networkcats-merged-ip-data-4d3dc9ca/README.md) |
@@ -269,6 +271,7 @@
 | Obscurix/Obscurix | tool | indexed | <https://github.com/Obscurix/Obscurix> | [dir](../../tools/privacy-anonymity/obscurix-obscurix-9615fc2f/README.md) |
 | offset/onion-vanity-address | web-platform | indexed | <https://github.com/offset/onion-vanity-address> | [dir](../../tools/privacy-anonymity/offset-onion-vanity-address-ac3f6f50/README.md) |
 | Onion-Search-Engine/Onion-Search-Engine-Android | mobile-app | indexed | <https://github.com/Onion-Search-Engine/Onion-Search-Engine-Android> | [dir](../../tools/privacy-anonymity/onion-search-engine-onion-search-engine-android-dc664e48/README.md) |
+| onionshare.org | tool | indexed | <https://onionshare.org/> | [dir](../../tools/privacy-anonymity/onionshare-org-16368b9f/README.md) |
 | onionshare/onionshare | web-platform | indexed | <https://github.com/onionshare/onionshare> | [dir](../../tools/privacy-anonymity/onionshare-onionshare-ee4accc9/README.md) |
 | onionshare/onionshare-android | web-platform | indexed | <https://github.com/onionshare/onionshare-android> | [dir](../../tools/privacy-anonymity/onionshare-onionshare-android-1aad984b/README.md) |
 | opsxcq/docker-tor | container | indexed | <https://github.com/opsxcq/docker-tor> | [dir](../../tools/privacy-anonymity/opsxcq-docker-tor-71f3ffd3/README.md) |
@@ -289,12 +292,13 @@
 | pogzyb/asyncwhois | cli-tool | indexed | <https://github.com/pogzyb/asyncwhois> | [dir](../../tools/privacy-anonymity/pogzyb-asyncwhois-b01c2e64/README.md) |
 | Polycarbohydrate/awesome-tor | awesome-list | indexed | <https://github.com/Polycarbohydrate/awesome-tor> | [dir](../../tools/privacy-anonymity/polycarbohydrate-awesome-tor-474bea4a/README.md) |
 | privcycoin/privcy | tool | indexed | <https://github.com/privcycoin/privcy> | [dir](../../tools/privacy-anonymity/privcycoin-privcy-e4aabe4a/README.md) |
+| proton.me | tool | indexed | <https://proton.me/> | [dir](../../tools/privacy-anonymity/proton-me-8c395fff/README.md) |
+| protonvpn.com | tool | indexed | <https://protonvpn.com/> | [dir](../../tools/privacy-anonymity/protonvpn-com-cd6aa46c/README.md) |
 | qeeqbox/woodpecker | tool | indexed | <https://github.com/qeeqbox/woodpecker> | [dir](../../tools/privacy-anonymity/qeeqbox-woodpecker-970d226d/README.md) |
 | quantumcore/iris | tool | indexed | <https://github.com/quantumcore/iris> | [dir](../../tools/privacy-anonymity/quantumcore-iris-335d6fb3/README.md) |
 | QuiteAFancyEmerald/InvisiProxy-Legacy | container | archived | <https://github.com/QuiteAFancyEmerald/InvisiProxy-Legacy> | [dir](../../tools/privacy-anonymity/quiteafancyemerald-invisiproxy-legacy-8472a459/README.md) |
 | r0oth3x49/Tor | plugin | indexed | <https://github.com/r0oth3x49/Tor> | [dir](../../tools/privacy-anonymity/r0oth3x49-tor-00082e62/README.md) |
 | r3bo0tbx1/tor-guard-relay | container | indexed | <https://github.com/r3bo0tbx1/tor-guard-relay> | [dir](../../tools/privacy-anonymity/r3bo0tbx1-tor-guard-relay-94edd961/README.md) |
-| R3LI4NT/road-to-hacking | tool | indexed | <https://github.com/R3LI4NT/road-to-hacking> | [dir](../../tools/privacy-anonymity/r3li4nt-road-to-hacking-d1225746/README.md) |
 | r3nt0n/torDDoS | web-platform | indexed | <https://github.com/r3nt0n/torDDoS> | [dir](../../tools/privacy-anonymity/r3nt0n-torddos-7c3f448a/README.md) |
 | R4yGM/garlicshare | web-platform | indexed | <https://github.com/R4yGM/garlicshare> | [dir](../../tools/privacy-anonymity/r4ygm-garlicshare-e1de6134/README.md) |
 | Raffy27/OrionBot | api-service | indexed | <https://github.com/Raffy27/OrionBot> | [dir](../../tools/privacy-anonymity/raffy27-orionbot-e7470232/README.md) |
@@ -341,6 +345,7 @@
 | Speek-App/Speek | tool | indexed | <https://github.com/Speek-App/Speek> | [dir](../../tools/privacy-anonymity/speek-app-speek-52962809/README.md) |
 | srixivas/PcapXray | tool | indexed | <https://github.com/srixivas/PcapXray> | [dir](../../tools/privacy-anonymity/srixivas-pcapxray-8eb9e7e9/README.md) |
 | st-mich43l/ghostnet | web-platform | indexed | <https://github.com/st-mich43l/ghostnet> | [dir](../../tools/privacy-anonymity/st-mich43l-ghostnet-a400908f/README.md) |
+| Startpage | tool | indexed | <https://www.startpage.com/> | [dir](../../tools/privacy-anonymity/www-startpage-com-0d7fd716/README.md) |
 | stevenengler/socksns | tool | indexed | <https://github.com/stevenengler/socksns> | [dir](../../tools/privacy-anonymity/stevenengler-socksns-52db414b/README.md) |
 | Stintik-123/StintikVPN | tool | indexed | <https://github.com/Stintik-123/StintikVPN> | [dir](../../tools/privacy-anonymity/stintik-123-stintikvpn-34921013/README.md) |
 | storopoli/dead-man-switch | library | archived | <https://github.com/storopoli/dead-man-switch> | [dir](../../tools/privacy-anonymity/storopoli-dead-man-switch-db460884/README.md) |
@@ -348,12 +353,13 @@
 | sudodevdante/enchat | cli-tool | indexed | <https://github.com/sudodevdante/enchat> | [dir](../../tools/privacy-anonymity/sudodevdante-enchat-a415bca3/README.md) |
 | sumithemmadi/ghost-over-tor-on-heroku | web-platform | archived | <https://github.com/sumithemmadi/ghost-over-tor-on-heroku> | [dir](../../tools/privacy-anonymity/sumithemmadi-ghost-over-tor-on-heroku-5e296286/README.md) |
 | suuhm/unblock-proxy.sh | tool | indexed | <https://github.com/suuhm/unblock-proxy.sh> | [dir](../../tools/privacy-anonymity/suuhm-unblock-proxy-sh-e5a6a039/README.md) |
+| swisscows | tool | indexed | <https://swisscows.com/en> | [dir](../../tools/privacy-anonymity/swisscows-com-en-5c2a0110/README.md) |
+| syncthing.net | tool | indexed | <https://syncthing.net/> | [dir](../../tools/privacy-anonymity/syncthing-net-4b36344a/README.md) |
 | systemli/ansible-role-hidden-service | web-platform | archived | <https://github.com/systemli/ansible-role-hidden-service> | [dir](../../tools/privacy-anonymity/systemli-ansible-role-hidden-service-2ba81454/README.md) |
 | szorfein/dotfiles | awesome-list | indexed | <https://github.com/szorfein/dotfiles> | [dir](../../tools/privacy-anonymity/szorfein-dotfiles-e68cbd40/README.md) |
 | szorfein/paranoid-ninja | container | indexed | <https://github.com/szorfein/paranoid-ninja> | [dir](../../tools/privacy-anonymity/szorfein-paranoid-ninja-bdbe85e6/README.md) |
 | tbrand/dystopia | research-project | archived | <https://github.com/tbrand/dystopia> | [dir](../../tools/privacy-anonymity/tbrand-dystopia-3bc36d9e/README.md) |
 | techchipnet/ip-changer | tool | indexed | <https://github.com/techchipnet/ip-changer> | [dir](../../tools/privacy-anonymity/techchipnet-ip-changer-b59299cd/README.md) |
-| technicaldada/torghost | tool | indexed | <https://github.com/technicaldada/torghost> | [dir](../../tools/privacy-anonymity/technicaldada-torghost-44d23d93/README.md) |
 | TechnitiumSoftware/Mesh | tool | indexed | <https://github.com/TechnitiumSoftware/Mesh> | [dir](../../tools/privacy-anonymity/technitiumsoftware-mesh-e5930a4f/README.md) |
 | termermc/tor-reverse-proxy | tool | indexed | <https://github.com/termermc/tor-reverse-proxy> | [dir](../../tools/privacy-anonymity/termermc-tor-reverse-proxy-eac38d7b/README.md) |
 | testdasi/openvpn-client-aio | container | indexed | <https://github.com/testdasi/openvpn-client-aio> | [dir](../../tools/privacy-anonymity/testdasi-openvpn-client-aio-b06c8e5b/README.md) |
@@ -374,7 +380,6 @@
 | torpyorg/torpy | web-platform | indexed | <https://github.com/torpyorg/torpy> | [dir](../../tools/privacy-anonymity/torpyorg-torpy-feb69c54/README.md) |
 | TotallyNotAHaxxer/Red-Rabbit | framework | indexed | <https://github.com/TotallyNotAHaxxer/Red-Rabbit> | [dir](../../tools/privacy-anonymity/totallynotahaxxer-red-rabbit-cae78c9c/README.md) |
 | Tribler/tribler | cli-tool | indexed | <https://github.com/Tribler/tribler> | [dir](../../tools/privacy-anonymity/tribler-tribler-d65c0410/README.md) |
-| tsumarios/Kali-Linux-Dockerfile | mobile-app | indexed | <https://github.com/tsumarios/Kali-Linux-Dockerfile> | [dir](../../tools/privacy-anonymity/tsumarios-kali-linux-dockerfile-695fc948/README.md) |
 | Tunnelsats/tunnelsats | tool | indexed | <https://github.com/Tunnelsats/tunnelsats> | [dir](../../tools/privacy-anonymity/tunnelsats-tunnelsats-21738511/README.md) |
 | u1234x1234/torpool | container | indexed | <https://github.com/u1234x1234/torpool> | [dir](../../tools/privacy-anonymity/u1234x1234-torpool-ae73e1e4/README.md) |
 | ultrafunkamsterdam/aionion | tool | indexed | <https://github.com/ultrafunkamsterdam/aionion> | [dir](../../tools/privacy-anonymity/ultrafunkamsterdam-aionion-06b30e32/README.md) |
@@ -385,6 +390,7 @@
 | utopicnarwhal/flibusta-mobile | mobile-app | archived | <https://github.com/utopicnarwhal/flibusta-mobile> | [dir](../../tools/privacy-anonymity/utopicnarwhal-flibusta-mobile-f94c491f/README.md) |
 | ValdikSS/tor-relay-scanner | tool | indexed | <https://github.com/ValdikSS/tor-relay-scanner> | [dir](../../tools/privacy-anonymity/valdikss-tor-relay-scanner-3ceefd1e/README.md) |
 | ValtteriL/OnionFermenter | web-platform | indexed | <https://github.com/ValtteriL/OnionFermenter> | [dir](../../tools/privacy-anonymity/valtteril-onionfermenter-0f4cb067/README.md) |
+| veracrypt.fr | tool | indexed | <https://veracrypt.fr/> | [dir](../../tools/privacy-anonymity/veracrypt-fr-2d2dccbe/README.md) |
 | vincenzo-afk/NEXUS-ENGINE | directory | indexed | <https://github.com/vincenzo-afk/NEXUS-ENGINE> | [dir](../../tools/privacy-anonymity/vincenzo-afk-nexus-engine-b9e1bf84/README.md) |
 | vishnuprasadh/pricingscraper | api-service | indexed | <https://github.com/vishnuprasadh/pricingscraper> | [dir](../../tools/privacy-anonymity/vishnuprasadh-pricingscraper-d4374867/README.md) |
 | vital987/vubuntu | container | indexed | <https://github.com/vital987/vubuntu> | [dir](../../tools/privacy-anonymity/vital987-vubuntu-9852bf1a/README.md) |
@@ -406,7 +412,6 @@
 | yazgx97/auto-change-tor-ip | tool | indexed | <https://github.com/yazgx97/auto-change-tor-ip> | [dir](../../tools/privacy-anonymity/yazgx97-auto-change-tor-ip-3d1865ad/README.md) |
 | yottajunaid/Master-Darknet | dashboard | indexed | <https://github.com/yottajunaid/Master-Darknet> | [dir](../../tools/privacy-anonymity/yottajunaid-master-darknet-885c8e55/README.md) |
 | Zaeem20/FREE_PROXIES_LIST | tool | indexed | <https://github.com/Zaeem20/FREE_PROXIES_LIST> | [dir](../../tools/privacy-anonymity/zaeem20-free-proxies-list-77d1be2b/README.md) |
-| Zaeem20/Predator | web-platform | indexed | <https://github.com/Zaeem20/Predator> | [dir](../../tools/privacy-anonymity/zaeem20-predator-077e38d7/README.md) |
 | zapek/Xeres | tool | indexed | <https://github.com/zapek/Xeres> | [dir](../../tools/privacy-anonymity/zapek-xeres-a909a938/README.md) |
 | zhaow-de/rotating-tor-http-proxy | container | indexed | <https://github.com/zhaow-de/rotating-tor-http-proxy> | [dir](../../tools/privacy-anonymity/zhaow-de-rotating-tor-http-proxy-07a29ab1/README.md) |
 | ZKAW/website-cloner | tool | indexed | <https://github.com/ZKAW/website-cloner> | [dir](../../tools/privacy-anonymity/zkaw-website-cloner-f07ced16/README.md) |

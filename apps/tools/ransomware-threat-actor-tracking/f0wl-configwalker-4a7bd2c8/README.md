@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/f0wl/configwalker>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 9
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Netwalker Ransomware Config Extractor
 

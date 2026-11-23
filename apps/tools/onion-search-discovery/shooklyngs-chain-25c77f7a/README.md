@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ShookLyngs/chain>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 An onion-model basis chain builder for JavaScript. Use @lyngs/chain to write your modules in chain-way.
 

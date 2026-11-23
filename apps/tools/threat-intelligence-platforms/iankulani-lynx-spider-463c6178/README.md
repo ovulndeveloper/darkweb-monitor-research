@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Iankulani/lynx_spider>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4
+- **Reviewed:** 2026-11-23
 
 Lynx Spider is a multi-platform cybersecurity command and control tool designed to help security professionals, cyber-defense teams, penetration testers, researchers, and cyber-drill participants manage and execute authorized cybersecurity operations from multiple communication platforms. The tool provides a centralized way to interact with securit
 

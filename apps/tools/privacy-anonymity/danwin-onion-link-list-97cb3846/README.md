@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/DanWin/onion-link-list>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 199
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 A set of scripts to list tor hidden services
 

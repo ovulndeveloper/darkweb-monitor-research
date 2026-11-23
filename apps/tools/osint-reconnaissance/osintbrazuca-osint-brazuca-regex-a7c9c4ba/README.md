@@ -4,10 +4,8 @@
 - **Type:** [tool](../../../by-type/tool/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/osintbrazuca/osint-brazuca-regex>
-- **Sources:** `github-search:topic:osint`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1016
-- **License:** MIT
+- **Sources:** `github-search:topic:osint`, `github-search:topic:threat-hunting`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 Repositório criado com intuito de reunir expressões regulares dentro do contexto Brasil
 

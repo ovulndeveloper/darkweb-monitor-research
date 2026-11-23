@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/dbalan/tor-address>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **License:** BSD-3-Clause
+- **Reviewed:** 2026-11-23
 
 computes onion v2 address from private key
 

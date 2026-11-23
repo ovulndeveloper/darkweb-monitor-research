@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/paulpogoda/OSINT-for-countries-V2.0-MOVED->
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 168
+- **Reviewed:** 2026-11-23
 
 OSINT resources and tools by country, structured for fact-checkers and digital profilers
 

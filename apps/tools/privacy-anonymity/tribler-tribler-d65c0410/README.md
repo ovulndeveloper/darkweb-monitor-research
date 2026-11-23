@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Tribler/tribler>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 5354
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Privacy enhanced BitTorrent client with P2P content discovery
 

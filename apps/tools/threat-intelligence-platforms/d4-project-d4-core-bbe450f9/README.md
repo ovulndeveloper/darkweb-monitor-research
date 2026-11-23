@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/D4-project/d4-core>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 43
-- **License:** AGPL-3.0
+- **Reviewed:** 2026-11-23
 
 D4 core software (server and sample sensor client)
 

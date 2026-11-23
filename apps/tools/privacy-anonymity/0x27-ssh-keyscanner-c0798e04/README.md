@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/0x27/ssh_keyscanner>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 119
+- **Reviewed:** 2026-11-23
 
 ssh public host key scanner using shodan
 

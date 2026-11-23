@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 159
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 An open database of real-world AI agent incidents.
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/dark-web-tutorials/hidden-wiki>
 - **Sources:** `github-search:topic:darkweb`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 7
+- **Reviewed:** 2026-11-23
 
 Guide to darknet for beginners.
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/whoamijas0n/Soranin>
 - **Sources:** `github-search:topic:osint-framework`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 framework de Inteligencia de Fuentes Abiertas (OSINT) avanzado
 

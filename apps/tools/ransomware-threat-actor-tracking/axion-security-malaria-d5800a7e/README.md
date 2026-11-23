@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/Axion-Security/Malaria>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Ransomware written in C# WinForm
 

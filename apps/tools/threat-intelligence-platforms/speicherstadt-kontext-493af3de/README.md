@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Speicherstadt/kontext>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 21
-- **License:** AGPL-3.0
+- **Reviewed:** 2026-11-23
 
 Self-hosted Google Workspace & Microsoft 365 alternative for small businesses: webmail with shared mailboxes, team calendar, contacts as a mini CRM, tasks, team chat with video calls and Fritzbox telephony (CTI). JMAP web app for Stalwart. GDPR-friendly, no per-user cost, open source (AGPL).
 

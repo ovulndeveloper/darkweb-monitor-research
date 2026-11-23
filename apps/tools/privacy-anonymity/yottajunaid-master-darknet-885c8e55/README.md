@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/yottajunaid/Master-Darknet>
 - **Sources:** `github-search:topic:dark-web`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 8
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 The Ultimate Open-Source Guide to the Deep Web, Dark Web, Hidden Networks & Anonymity
 

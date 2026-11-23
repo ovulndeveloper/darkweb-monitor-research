@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Zzutiky666/LockBit>
 - **Sources:** `github-search:topic:malware-analysis`, `github-search:topic:ransomware`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 44
-- **License:** EPL-2.0
+- **Reviewed:** 2026-11-23
 
 This is not a crack and not a reverse either. Lockbit RW Source codes have been completely leaked. I'm sharing it so that you don't pay for such things for nothing.
 

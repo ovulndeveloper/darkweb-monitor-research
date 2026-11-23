@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/bartblaze/MaTiRe>
 - **Sources:** `github-search:topic:malware-analysis`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 83
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Malware Analysis, Threat Intelligence and Reverse Engineering: LABS
 

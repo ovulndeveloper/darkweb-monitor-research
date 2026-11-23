@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/kevtoe/worldview>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 261
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Real-time tactical intelligence platform — CesiumJS globe with flights, satellites, earthquakes, traffic & CCTV overlays
 

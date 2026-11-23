@@ -4,10 +4,8 @@
 - **Type:** [tool](../../../by-type/tool/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/CooperCyberCoffee/opencti_mcp_server>
-- **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 28
-- **License:** NOASSERTION
+- **Sources:** `github-search:topic:threat-hunting`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 Natural language interface to OpenCTI threat intelligence. Built with Claude Code for $22. Part of Cooper Cyber Coffee.
 

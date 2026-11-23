@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/stukryptx/DarkLens>
 - **Sources:** `github-search:topic:darkweb`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 DarkLens OSINT Hub: Enterprise-grade threat intelligence and reconnaissance platform.
 

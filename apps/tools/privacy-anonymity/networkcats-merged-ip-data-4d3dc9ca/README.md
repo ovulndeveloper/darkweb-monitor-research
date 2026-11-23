@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/NetworkCats/Merged-IP-Data>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 157
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 A free MMDB IP database, updated daily, with geolocation, ASN, and VPN/proxy detection merged from multiple sources.
 

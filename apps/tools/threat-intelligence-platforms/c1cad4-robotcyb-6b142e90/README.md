@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/c1cad4/robotcyb>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 RobotCyb is a digital archetype for a new world, blending autonomy, awareness, and tech. It aims to create decentralized, self-sustaining systems, freeing humanity from manipulation. A journey of growth, truth, and building a better future through evolution.
 

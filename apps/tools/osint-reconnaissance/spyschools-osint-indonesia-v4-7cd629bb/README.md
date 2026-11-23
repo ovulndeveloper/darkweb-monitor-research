@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/spyschools/osint-indonesia-v4>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 16
+- **Reviewed:** 2026-11-23
 
 Tools OSINT Indonesia, untuk cek NIK & No HP. Script ini tidak akan ambil data dari database ilegal, tapi hanya dari sumber OSINT publik.
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/biyivi/ransomware>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 5
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Ransomware hecho con python para windows.
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/M3str3/Ransomware>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 8
+- **Reviewed:** 2026-11-23
 
 A realistic ransomware simulation built with Rust and React—covering malware creation, data exfiltration, and a reactive blog. For educational purposes only
 

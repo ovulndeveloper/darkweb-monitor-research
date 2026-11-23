@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/wrhalpin/GNAT>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 GNAT’s Not Another TIP
 

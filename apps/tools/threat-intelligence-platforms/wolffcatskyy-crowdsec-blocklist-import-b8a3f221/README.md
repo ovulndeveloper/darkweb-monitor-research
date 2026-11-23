@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/wolffcatskyy/crowdsec-blocklist-import>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 397
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 10-20x more blocks for your CrowdSec bouncers — 120k+ IPs from 32 free threat feeds
 

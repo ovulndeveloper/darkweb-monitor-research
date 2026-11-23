@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/omkarcloud/tiktok-scraper>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 27
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 TikTok Scraper — free, open-source TikTok scraper. Unlimited videos, profiles, comments, search, trends & ads as clean JSON, no API key, no proxies.
 

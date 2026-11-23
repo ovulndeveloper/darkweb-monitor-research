@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/michenriksen/gitrob>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 6197
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Reconnaissance tool for GitHub organizations
 

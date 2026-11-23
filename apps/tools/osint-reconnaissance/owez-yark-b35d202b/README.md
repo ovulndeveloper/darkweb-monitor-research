@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Owez/yark>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2194
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 OSINT for YouTube made simple.
 

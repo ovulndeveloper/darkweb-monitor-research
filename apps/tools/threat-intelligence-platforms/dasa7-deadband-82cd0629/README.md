@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/DaSa7/deadband>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Open-source ICS/OT threat intelligence mapper which correlates CVEs with MITRE ATT&CK for ICS techniques, threat actor groups, and detection gaps across OT platforms.
 

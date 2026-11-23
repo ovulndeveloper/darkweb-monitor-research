@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/mattes/rotating-proxy>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1221
-- **License:** Unlicense
+- **Reviewed:** 2026-11-23
 
 Rotating TOR proxy with Docker
 

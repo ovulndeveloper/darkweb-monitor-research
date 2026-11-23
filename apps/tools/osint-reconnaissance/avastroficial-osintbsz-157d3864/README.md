@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/AvastrOficial/OsintBsz>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
+- **Reviewed:** 2026-11-23
 
 Hesta herramienta hace una busqueda de correos y dominios de un usuario utilizando una api free
 

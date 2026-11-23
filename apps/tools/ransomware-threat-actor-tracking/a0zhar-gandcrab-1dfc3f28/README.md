@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/a0zhar/GandCrab>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4
+- **Reviewed:** 2026-11-23
 
 This repository contains the dumped and deobfuscated version of GandCrabv5 JS Binary Dropper, along with the webpage files dropped on a GandCrab v5.1 infected system. The goal of this Repository is to attempt to make the files easier to work with and understand.
 

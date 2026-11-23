@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 637
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Data-Shield provides maintained IPv4 blocklists for inbound filtering on firewalls, gateways and web application firewalls.
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/abhisharma404/vault>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 561
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 swiss army knife for hackers
 

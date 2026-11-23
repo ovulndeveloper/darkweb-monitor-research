@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/davide-perez/datavisexp-agora>
 - **Sources:** `github-search:topic:darkweb`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Exploration and visualization of the Agora darknet market.
 

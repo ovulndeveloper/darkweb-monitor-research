@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Enkidu-6/tor-ddos>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 75
+- **Reviewed:** 2026-11-23
 
 Tor DDoS Protection - iptables rules for Tor relay operators to mitigate DDoS
 

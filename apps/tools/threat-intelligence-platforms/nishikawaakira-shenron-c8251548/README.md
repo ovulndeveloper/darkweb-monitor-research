@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/nishikawaakira/Shenron>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** AGPL-3.0
+- **Reviewed:** 2026-11-23
 
 Passive Rust threat-hunting for historical web logs: correlate public CTI with your logs into evidence-based, COUNT-only AWS WAF candidates
 

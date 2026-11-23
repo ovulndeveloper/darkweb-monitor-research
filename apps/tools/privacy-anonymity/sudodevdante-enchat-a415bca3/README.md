@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/sudodevdante/enchat>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 266
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 End-to-end encrypted, ephemeral, self-hosted terminal chat — no accounts, no history, no cloud.
 

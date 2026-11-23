@@ -4,10 +4,8 @@
 - **Type:** [tool](../../../by-type/tool/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/qeeqbox/analyzer>
-- **Sources:** `github-search:topic:malware-analysis`, `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 324
-- **License:** AGPL-3.0
+- **Sources:** `github-search:topic:malware-analysis`, `github-search:topic:osint`, `github-search:topic:phishing`
+- **Reviewed:** 2026-11-23
 
 Analyze, extract and visualize features, artifacts and IoCs of files and memory dumps (Windows, Linux, Android, iPhone, Blackberry, macOS binaries, emails and more)
 

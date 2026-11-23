@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/mouadboudhar/Security-Operations-Center>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
+- **Reviewed:** 2026-11-23
 
 A hands-on SOC simulation environment built with Wazuh, TheHive, Cortex and Grafana. Covers threat detection, incident management, automated threat intelligence enrichment and real-time dashboarding across 5 attack scenarios mapped to MITRE ATT&CK.
 

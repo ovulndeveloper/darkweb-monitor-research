@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Squareek/Dangerous-Trojan>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** CC0-1.0
+- **Reviewed:** 2026-11-23
 
 Bardzo groźne wirusy, dla Windows
 

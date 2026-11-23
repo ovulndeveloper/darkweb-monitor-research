@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/MISP/docker-misp>
 - **Sources:** `github-search:topic:malware-analysis`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 101
-- **License:** BSD-3-Clause
+- **Reviewed:** 2026-11-23
 
 Automated Docker MISP container - Malware Information Sharing Platform and Threat Sharing
 

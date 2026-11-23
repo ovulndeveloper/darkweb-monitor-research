@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/cedricg-mirror/cedricg-mirror.github.io>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Static and Dynamic Analysis of Malicious Codes
 

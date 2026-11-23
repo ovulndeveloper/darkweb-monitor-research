@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/kuzeyardabulut/RustyLock>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 An Educational Ransomware Written in Rust.
 

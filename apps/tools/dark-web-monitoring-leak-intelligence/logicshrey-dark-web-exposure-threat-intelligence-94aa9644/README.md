@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/logicshrey/Dark-Web-Exposure-Threat-Intelligence>
 - **Sources:** `github-search:topic:darkweb`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
+- **Reviewed:** 2026-11-23
 
 It is a real-time Exposure Intelligence Platform that monitors OSINT sources (LeakIX, GitHub, IntelX, etc.) to detect leaked organizational data. It reduces noise, generates verified exposure cases, detects sensitive leaks, exports PDF reports, and enables one-click cyber cell reporting with CVRP signature verification.
 

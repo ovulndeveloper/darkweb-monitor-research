@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/koala73/worldmonitor>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 91083
-- **License:** AGPL-3.0
+- **Reviewed:** 2026-11-23
 
 Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 

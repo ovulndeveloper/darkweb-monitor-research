@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/alt3kx/wafaray>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 108
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Enhance your malware detection with WAF + YARA (WAFARAY)
 

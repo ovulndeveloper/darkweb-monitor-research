@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/jstrieb/ctf-collab>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 73
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Collaborative programming environment inside GitHub Actions – like Google Docs for hacking
 

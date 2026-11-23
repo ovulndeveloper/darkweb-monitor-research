@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/bagaspra16/whos-famous>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 Who's Famous Tool is an interactive command-line application that analyzes a person's popularity based on their online presence.
 

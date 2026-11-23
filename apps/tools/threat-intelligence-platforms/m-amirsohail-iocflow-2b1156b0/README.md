@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/M-AmirSohail/iocflow>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Extract IOCs from threat reports, strip the noise, enrich them, and export to STIX 2.1, MISP, CSV or a blocklist.
 

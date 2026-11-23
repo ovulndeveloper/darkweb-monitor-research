@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/danielstjules/toragent>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 32
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 HTTP(S) requests through Tor for Node
 

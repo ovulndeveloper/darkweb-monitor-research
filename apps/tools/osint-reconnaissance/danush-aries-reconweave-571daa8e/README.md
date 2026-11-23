@@ -5,8 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/Danush-Aries/reconweave>
 - **Sources:** `github-search:topic:osint-framework`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Offline-first OSINT correlation platform: fuses 20 collectors into one entity graph, pivots across identities, scores exposure (0-100), exports STIX/MISP/GraphML, and reports. Deterministic synthetic data by default; --live for real sources.
 

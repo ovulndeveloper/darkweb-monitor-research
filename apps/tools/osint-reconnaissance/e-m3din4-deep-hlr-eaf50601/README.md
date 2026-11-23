@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/e-m3din4/deep-hlr>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 306
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Obtain a Phone Number full profile including HLR, Reputation, Carrier, Social Media Accounts, Geolocation, Validation, Availabilty, Portability and more.
 

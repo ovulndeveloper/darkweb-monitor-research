@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/tarcisio-marinho/GonnaCry>
 - **Sources:** `github-search:topic:malware-analysis`, `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 789
-- **License:** GPL-2.0
+- **Reviewed:** 2026-11-23
 
 A Linux Ransomware
 

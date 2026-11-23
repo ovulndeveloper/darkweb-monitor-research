@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/vergecurrency/vDroid>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 12
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 official re-designed Android wallet :vibration_mode
 

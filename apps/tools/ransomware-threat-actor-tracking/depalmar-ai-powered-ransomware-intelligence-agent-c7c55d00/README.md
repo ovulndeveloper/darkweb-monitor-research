@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/depalmar/AI-Powered-Ransomware-Intelligence-Agent>
 - **Sources:** `github-search:topic:ransomware`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 25
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Automated n8n workflow for ransomware threat monitoring using ransomware.live API and Claude AI — companion to the SANS Ransomware Intelligence webinar
 

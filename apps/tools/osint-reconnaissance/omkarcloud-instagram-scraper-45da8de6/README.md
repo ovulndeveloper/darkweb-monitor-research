@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/omkarcloud/instagram-scraper>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 13
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Instagram Scraper — free, open-source Instagram scraper. Unlimited profiles, posts, reels, comments and hashtags as clean JSON, no API key, no proxies.
 

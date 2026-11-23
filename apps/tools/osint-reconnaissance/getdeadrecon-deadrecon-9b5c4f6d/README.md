@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/getdeadrecon/deadrecon>
 - **Sources:** `github-search:topic:osint-framework`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 OPSEC-native OSINT, recon and attack surface management framework: subdomain, port and vulnerability scanner, one-click Tor, per-scan leak report.
 

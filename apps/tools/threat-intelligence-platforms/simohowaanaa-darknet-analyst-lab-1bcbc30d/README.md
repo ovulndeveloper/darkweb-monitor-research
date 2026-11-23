@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/simohowaanaa/darknet-analyst-lab>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
+- **Reviewed:** 2026-11-23
 
 Environnement d'analyse darknet securise (Whonix + Tor) pour la veille CTI : isolation reseau, verification cryptographique, workflow analyste.
 

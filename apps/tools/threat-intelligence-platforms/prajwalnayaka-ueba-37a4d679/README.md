@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/prajwalnayaka/UEBA>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 User and Entity Behavior Analytics (UEBA) is a cybersecurity process that detects rouge admins or threats by analyzing behavior and flagging behaviors which aren't normal.
 

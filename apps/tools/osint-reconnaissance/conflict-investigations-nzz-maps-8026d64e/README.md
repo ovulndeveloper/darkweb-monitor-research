@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/conflict-investigations/nzz-maps>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 11
+- **Reviewed:** 2026-11-23
 
 Analysis of territorial control data from NZZ.ch
 

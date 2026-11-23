@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/hernannh/ipflame>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Threat Intelligence scanner for Blue Teams — Detects 238 malicious patterns across 14 categories in web server logs, enriches IPs with GeoIP/ASN/VPN/Tor data, calculates risk scores (0-100), and generates interactive HTML dashboards + JSON/JSONL for SIEM integration.
 

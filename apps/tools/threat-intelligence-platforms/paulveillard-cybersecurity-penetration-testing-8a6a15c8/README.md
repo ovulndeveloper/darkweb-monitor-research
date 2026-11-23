@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/paulveillard/cybersecurity-penetration-testing>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 98
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about Penetration Testing in Cybersecurity.
 

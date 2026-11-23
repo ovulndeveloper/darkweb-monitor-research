@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ring0shady/RansomWare>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 5
+- **Reviewed:** 2026-11-23
 
 This is the source code of real RansomWare but and it's commented not to harm your device
 

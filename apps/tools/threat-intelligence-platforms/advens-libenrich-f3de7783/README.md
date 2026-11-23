@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/advens/libenrich>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 Feed formats and the enrich command for mmenrich
 

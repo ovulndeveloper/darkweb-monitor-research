@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/silascutler/botnet_logs>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 11
+- **Reviewed:** 2026-11-23
 
 Historic archive of preserved botnet data
 

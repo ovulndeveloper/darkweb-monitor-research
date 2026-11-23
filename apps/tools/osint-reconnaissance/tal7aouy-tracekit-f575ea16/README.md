@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/tal7aouy/tracekit>
 - **Sources:** `github-search:topic:osint-framework`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 🔎 Tracekit — A simple CLI for OSINT, public profile searches, and network checks.
 

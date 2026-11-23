@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Tunnelsats/tunnelsats>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 40
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Tunnel⚡Sats: Pre-configured VPN for Lightning Nodes
 

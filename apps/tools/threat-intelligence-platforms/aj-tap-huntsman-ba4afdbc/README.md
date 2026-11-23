@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/aj-tap/huntsman>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
+- **Reviewed:** 2026-11-23
 
 Huntsman is a threat intelligence application designed to help you gather and analyze threat data.
 

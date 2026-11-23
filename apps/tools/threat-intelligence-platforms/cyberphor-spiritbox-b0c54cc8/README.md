@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/cyberphor/Spiritbox>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 A PowerShell module and GUI for sending IOCs to Elastic.
 

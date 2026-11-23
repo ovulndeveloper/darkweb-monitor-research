@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Pranith-Jain/cti-ai-skills>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
+- **Reviewed:** 2026-11-23
 
 AI coding assistant skills for Cyber Threat Intelligence — IOC extraction, OCR analysis, threat intel, dark web monitoring, and feed management. Compatible with Claude Code, Cursor, and GitHub Copilot/Codex.
 

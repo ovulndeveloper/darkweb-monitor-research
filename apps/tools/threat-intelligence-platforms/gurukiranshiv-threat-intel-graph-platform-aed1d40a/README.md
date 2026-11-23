@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/GurukiranShiv/Threat-Intel-Graph-Platform>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 A Dockerized threat intelligence graph platform for IOC pivoting, CVE investigation, MITRE ATT&CK mapping, and SIEM/Wazuh alert enrichment using FastAPI and Neo4j.
 

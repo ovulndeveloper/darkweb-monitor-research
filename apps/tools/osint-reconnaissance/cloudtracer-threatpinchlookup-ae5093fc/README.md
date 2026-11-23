@@ -4,9 +4,8 @@
 - **Type:** [plugin](../../../by-type/plugin/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/cloudtracer/ThreatPinchLookup>
-- **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 391
+- **Sources:** `github-search:topic:incident-response`, `github-search:topic:osint`, `github-search:topic:threat-hunting`
+- **Reviewed:** 2026-11-23
 
 Documentation and Sharing Repository for ThreatPinch Lookup Chrome & Firefox Extension
 

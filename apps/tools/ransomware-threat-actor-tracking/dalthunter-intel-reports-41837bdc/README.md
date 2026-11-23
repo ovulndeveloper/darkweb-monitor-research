@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/dalthunter/intel-reports>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:cyber-threat-intelligence`, `github-search:topic:darkweb`, `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
+- **Reviewed:** 2026-11-23
 
 Threat actor research, MITRE ATT&CK mapping, and Sigma Rules.
 

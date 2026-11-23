@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/radiantwave/zammad-ami-easybell>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Meldet Anrufe der easybell Cloud-Telefonanlage über das Asterisk Manager Interface an Zammads CTI-Integration.
 

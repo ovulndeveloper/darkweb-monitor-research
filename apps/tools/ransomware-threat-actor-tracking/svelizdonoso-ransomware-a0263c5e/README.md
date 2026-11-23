@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/SVelizDonoso/ransomware>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 8
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Este software se crea SOLAMENTE para fines educativos. No soy responsable de su uso. Úselo con extrema precaución.
 

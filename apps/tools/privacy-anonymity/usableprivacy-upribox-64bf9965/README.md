@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/usableprivacy/upribox>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 171
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Usable Privacy Box
 

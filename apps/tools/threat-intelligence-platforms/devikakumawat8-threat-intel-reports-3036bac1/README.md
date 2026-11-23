@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/devikakumawat8/threat-intel-reports>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 CTI profiles of LockBit, Scattered Spider, APT29 and Lazarus: MITRE ATT&CK mappings, IOCs, Sigma/KQL/YARA detections, Navigator layers
 

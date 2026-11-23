@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/DanWin/le-chat-php>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 307
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 A PHP Chat based on LE CHAT
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/m8sec/subscraper>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 980
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Subdomain and target enumeration tool built for offensive security testing
 

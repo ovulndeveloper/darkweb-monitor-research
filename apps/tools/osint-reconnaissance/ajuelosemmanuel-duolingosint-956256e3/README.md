@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ajuelosemmanuel/duolingOSINT>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 89
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Gather information about a Duolingo user
 

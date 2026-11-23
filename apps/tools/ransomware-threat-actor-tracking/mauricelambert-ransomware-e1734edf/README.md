@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/mauricelambert/RansomWare>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 This package implements a RansomWare.
 

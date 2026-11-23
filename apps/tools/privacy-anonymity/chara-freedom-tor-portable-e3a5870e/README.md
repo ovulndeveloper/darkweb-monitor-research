@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Chara-Freedom/Tor-Portable>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 700
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 The portable Tor based on Tor Expert Bundle.
 

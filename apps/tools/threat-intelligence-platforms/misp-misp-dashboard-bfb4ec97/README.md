@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/MISP/misp-dashboard>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 219
-- **License:** AGPL-3.0
+- **Reviewed:** 2026-11-23
 
 A live dashboard for a real-time overview of threat intelligence from MISP instances
 

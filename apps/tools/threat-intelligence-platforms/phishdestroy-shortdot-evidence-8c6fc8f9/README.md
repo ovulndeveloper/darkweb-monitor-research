@@ -4,10 +4,8 @@
 - **Type:** [dataset](../../../by-type/dataset/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/phishdestroy/shortdot-evidence>
-- **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 103
-- **License:** MIT
+- **Sources:** `github-search:topic:phishing`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 ShortDot registry abuse investigation across seven TLDs: zone analysis, phishing evidence, classified IOC feeds and STIX exports.
 

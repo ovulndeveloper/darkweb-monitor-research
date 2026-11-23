@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/facusturla/osint-argentina>
 - **Sources:** `github-search:topic:osint-framework`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 17
+- **Reviewed:** 2026-11-23
 
 Repositorio colaborativo y script de automatización (HIFA ARG) para Inteligencia de Fuentes Abiertas (OSINT) en Argentina
 

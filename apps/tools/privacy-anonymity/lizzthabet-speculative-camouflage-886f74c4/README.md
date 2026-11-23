@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/lizzthabet/speculative-camouflage>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 26
+- **Reviewed:** 2026-11-23
 
 A pattern generator to create wearable, camouflage-inspired textile designs
 

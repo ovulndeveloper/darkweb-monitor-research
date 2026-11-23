@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/VladTepes84/Rekos>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`, `github-search:topic:digital-forensics`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 14
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Terminal-native passive OSINT CLI for local-first public-source investigations, evidence correlation, and case management.
 

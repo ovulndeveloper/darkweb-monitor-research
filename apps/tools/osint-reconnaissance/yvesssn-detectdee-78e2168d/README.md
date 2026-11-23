@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Yvesssn/DetectDee>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1841
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 DetectDee: Hunt down social media accounts by username, email or phone across social networks.
 

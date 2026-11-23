@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/OSINT-Trace/Social-Media-Checker>
 - **Sources:** `github-search:topic:osint-framework`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 24
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Enterprise multi-platform OSINT API to verify identifier existence & extract rich profile intelligence across Google, Microsoft, Facebook, Instagram, Snapchat, and X (Twitter).
 

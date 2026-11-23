@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/AlexanderYastrebov/onion-vanity-address>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 84
-- **License:** BSD-3-Clause
+- **Reviewed:** 2026-11-23
 
 Fast Tor Onion Service vanity address generator
 

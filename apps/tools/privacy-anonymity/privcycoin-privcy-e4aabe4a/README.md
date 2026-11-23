@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/privcycoin/privcy>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 30
+- **Reviewed:** 2026-11-23
 
 Official Repository for PRiVCY Coin $PRiV
 

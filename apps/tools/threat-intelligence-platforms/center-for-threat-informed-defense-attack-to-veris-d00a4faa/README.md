@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/center-for-threat-informed-defense/attack_to_veris>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 73
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 🚨ATTENTION🚨 The VERIS mappings have migrated to the Center’s Mappings Explorer project. See README below. This repository is kept here as an archive.
 

@@ -4,9 +4,8 @@
 - **Type:** [dashboard](../../../by-type/dashboard/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/s0cm0nkey/Security-Reference-Guide>
-- **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 97
+- **Sources:** `github-search:topic:incident-response`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 Curated cyber security resources for blue team, red team, DFIR, OSINT, AppSec, cloud security, security logging, and training.
 

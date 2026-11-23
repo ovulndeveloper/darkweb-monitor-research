@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/spyschools/osint-spyschools>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 7
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Tools Open Source (WHOIS/RDAP, DNS, crt.sh, Wayback, header HTTP, info TLS, Foto, metadata file)
 

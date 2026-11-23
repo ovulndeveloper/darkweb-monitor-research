@@ -4,7 +4,7 @@ This directory indexes the research documents in this URL-only repository. It co
 
 ## Research sections
 
-- [Apps mega-directory (5,000+ URLs)](../apps/README.md) — generated-by-hand directory tree with one folder per tool
+- [Apps mega-directory (5,000+ URLs)](../apps/README.md) — URL-only directory tree with one folder per entry (6,780 URLs)
 - [Legacy OSINT frameworks](../categories/osint_tools.md) — comprehensive OSINT tools
 - [Legacy exposure monitoring](../categories/monitoring_tools.md) — ransomware leak-site and breach monitoring
 - [Legacy search engines](../categories/search_engines.md) — dark-web search engines and directories

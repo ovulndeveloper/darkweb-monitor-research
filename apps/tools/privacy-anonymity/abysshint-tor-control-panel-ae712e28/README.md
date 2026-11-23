@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/abysshint/tor-control-panel>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 274
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Windows GUI Client for Tor Expert Bundle
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/netstalking-core/netstalking-osint>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 486
+- **Reviewed:** 2026-11-23
 
 Коллекция материалов по OSINT для нетсталкинга
 

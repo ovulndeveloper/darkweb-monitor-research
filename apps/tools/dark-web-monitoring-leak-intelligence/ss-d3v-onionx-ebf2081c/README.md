@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ss-d3v/onionX>
 - **Sources:** `github-search:topic:dark-web`, `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 53
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 A bash script to easily run TOR hidden service on termux and most linux distros
 

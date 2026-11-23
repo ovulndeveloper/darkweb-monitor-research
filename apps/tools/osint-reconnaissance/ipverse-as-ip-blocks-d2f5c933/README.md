@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ipverse/as-ip-blocks>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 540
-- **License:** CC0-1.0
+- **Reviewed:** 2026-11-23
 
 Download IP block lists by ASN - network provider addresses, updated daily
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Onion-Search-Engine/Onion-Search-Engine>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 The open-source frontend for Onion Search Engine, a privacy-respecting gateway to the Tor network. Verifiably no-log.
 

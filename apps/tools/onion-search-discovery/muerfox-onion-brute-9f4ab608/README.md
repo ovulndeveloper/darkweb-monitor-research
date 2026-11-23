@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/muerfox/Onion-Brute>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 Dockerized Tor v3 vanity .onion address generator (generates new keys only)
 

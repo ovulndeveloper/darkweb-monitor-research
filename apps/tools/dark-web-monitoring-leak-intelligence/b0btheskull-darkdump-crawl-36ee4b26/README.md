@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/B0bTheSkull/darkdump_crawl>
 - **Sources:** `github-search:topic:dark-web`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 OSINT paste & leak extractor — pulls credentials, emails, API keys, crypto wallets, and IOCs from public paste dumps.
 

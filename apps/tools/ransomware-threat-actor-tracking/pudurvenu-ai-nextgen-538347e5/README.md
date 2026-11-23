@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/pudurvenu/AI-NextGen>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
+- **Reviewed:** 2026-11-23
 
 🤖 Transform AI development with powerful tools and frameworks designed for the next generation of intelligent applications and solutions.
 

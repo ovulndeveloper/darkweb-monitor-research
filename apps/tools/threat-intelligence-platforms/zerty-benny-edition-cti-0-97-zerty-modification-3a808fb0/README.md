@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/zerty/Benny-Edition-CTI-0.97-Zerty-Modification>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 43
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Modification of BECTI made by zerty for the JMW Arma 3 server
 

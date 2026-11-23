@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/omoika-institute/omoika>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 12
+- **Reviewed:** 2026-11-23
 
 Entity graphs, OSINT data mining, and plugins. Connect unstructured and public data for transformative insights.
 

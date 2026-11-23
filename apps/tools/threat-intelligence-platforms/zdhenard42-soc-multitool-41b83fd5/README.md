@@ -4,10 +4,8 @@
 - **Type:** [browser-extension](../../../by-type/browser-extension/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/zdhenard42/SOC-Multitool>
-- **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 424
-- **License:** MIT
+- **Sources:** `github-search:topic:threat-hunting`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 A powerful and user-friendly browser extension that streamlines investigations for security professionals.
 

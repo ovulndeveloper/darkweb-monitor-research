@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/sylhetyhackvenger/ShadowTrace>
 - **Sources:** `github-search:topic:digital-forensics`, `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Shadow Tracer is a cyber intelligence & OSINT framework for researchers & investigators. It combines IP intelligence, public IP discovery, phone metadata analysis, and large‑scale username reconnaissance across social media, freelance, blogging, and educational platforms. Multithreaded with a neon terminal UI—fast, sleek, and powerful.
 

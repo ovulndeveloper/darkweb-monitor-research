@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/arelli/simpleSTIX>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 A short and concise representation of all STIX objects, used for reference in other cyber-security related projects.
 

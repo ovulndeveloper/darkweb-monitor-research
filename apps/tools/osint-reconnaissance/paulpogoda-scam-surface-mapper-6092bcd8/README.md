@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/paulpogoda/Scam-Surface-Mapper>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 19
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 A bookmarklet for OSINT fraud investigations and cybersecurity research
 

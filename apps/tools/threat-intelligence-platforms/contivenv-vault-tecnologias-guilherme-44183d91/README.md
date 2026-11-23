@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/contivenv/Vault_tecnologias_guilherme>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** CC-BY-SA-4.0
+- **Reviewed:** 2026-11-23
 
 Conhecimentos gerais que eu anoto sobre tecnologias que vão de sistema operacionais, redes, segurança da informação, estudo de casos, programação em bash, laboratórios virtuais, etc. Aqui você pode encontrar arquivos, prints, esquemas de explicações sobre tecnologias e muito mais.
 

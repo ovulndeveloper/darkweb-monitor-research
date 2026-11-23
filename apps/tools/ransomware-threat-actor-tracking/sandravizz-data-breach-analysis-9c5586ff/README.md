@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/sandravizz/Data-breach-analysis>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
+- **Reviewed:** 2026-11-23
 
 What Data Breaches Tell Us: An Analysis of 17,000 U.S. Data Breaches using D3.js
 

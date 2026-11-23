@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/gregalletti/CTF_tools>
 - **Sources:** `github-search:topic:forensics`, `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 407
+- **Reviewed:** 2026-11-23
 
 List of tools and commands that may be helpful in CTFs
 

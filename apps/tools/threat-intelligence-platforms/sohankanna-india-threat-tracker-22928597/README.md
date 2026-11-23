@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/sohankanna/india-threat-tracker>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Open threat intel for India: KEV + EPSS watchlist, fake-APK and APT campaigns, defanged IOCs, and tested detections (Sigma, Splunk, Elastic, Wazuh)
 

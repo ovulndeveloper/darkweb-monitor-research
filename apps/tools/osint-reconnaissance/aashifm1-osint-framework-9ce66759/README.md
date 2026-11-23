@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/aashifm1/OSINT-framework>
 - **Sources:** `github-search:topic:osint-framework`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 A Security Tool for Open Source Intelligence
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/nishant-Tiwari24/veil>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 21
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Anonymous browser inspired by Tor Browser, built on Tor onion routing
 

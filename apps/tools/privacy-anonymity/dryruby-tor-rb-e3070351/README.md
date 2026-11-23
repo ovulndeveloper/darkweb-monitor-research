@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/dryruby/tor.rb>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 115
-- **License:** Unlicense
+- **Reviewed:** 2026-11-23
 
 Tor.rb is a Ruby library for interacting with the Tor anonymity network.
 

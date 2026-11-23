@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Jam0k/Ransomware-Intel>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:dark-web`, `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 8
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Daily snapshots of ransomware leak-site intelligence: victims, groups and the onion infrastructure behind them. TLP:CLEAR, no auth — the git history is a timestamped record. From ThreatCluster.
 

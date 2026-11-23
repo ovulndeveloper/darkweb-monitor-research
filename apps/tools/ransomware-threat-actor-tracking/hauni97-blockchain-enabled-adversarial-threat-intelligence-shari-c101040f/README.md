@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/hauni97/Blockchain-enabled-Adversarial-Threat-Intelligence-Sharing-for-Robust-Ransomware-Detection-air-gaps>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
+- **Reviewed:** 2026-11-23
 
 Blockchain enabled Adversarial Threat Intelligence Sharing for Robust Ransomware Detection in air gaps
 

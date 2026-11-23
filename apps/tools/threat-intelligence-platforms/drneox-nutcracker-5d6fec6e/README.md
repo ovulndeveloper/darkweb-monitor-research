@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/drneox/nutcracker>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 45
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Nutcracker is a powerful, modular and extensible framework designed for mobile security analysis and offensive threat intelligence. Detects and bypasses anti-root/RASP protections, analyzes insecure manifest conf, extracts hardcoded secrets and launches OSINT recon — all in one tool. aligned with MASVS for comprehensive security compliance.
 

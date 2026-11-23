@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/OnlyF0uR/ClioSec>
 - **Sources:** `github-search:topic:osint-framework`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Open-Source Intelligence framework & high performant web-interface designed for documenting and organising OSINT case studies.
 

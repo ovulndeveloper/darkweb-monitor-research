@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/emrekybs/veiled-eye>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:osint-framework`, `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 OSINT identity investigation tool. Pivot from an e-mail, username, phone or wallet across 46 sources into one profile and relationship graph.
 

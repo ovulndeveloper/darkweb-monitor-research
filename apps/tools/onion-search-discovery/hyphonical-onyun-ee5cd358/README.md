@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Hyphonical/Onyun>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **License:** AGPL-3.0
+- **Reviewed:** 2026-11-23
 
 High-speed Tor v3 .onion vanity address minter with CLI, Web UI, and Tauri desktop support
 

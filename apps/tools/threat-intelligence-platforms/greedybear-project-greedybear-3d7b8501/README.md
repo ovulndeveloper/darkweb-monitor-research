@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/GreedyBear-Project/GreedyBear>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 214
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Threat Intel Platform for T-POTs
 

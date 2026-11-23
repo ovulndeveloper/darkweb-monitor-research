@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/rstcloud/rstthreats>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 36
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Aggregated Indicators of Compromise collected and cross-verified from multiple open and community-supported sources, enriched and ranked using our intelligence platform for you. Threat Intelligence, Threat feed, Open source feed.
 

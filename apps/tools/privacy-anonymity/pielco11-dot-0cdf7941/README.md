@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/pielco11/DOT>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 127
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Darknet OSINT Transform
 

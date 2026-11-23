@@ -4,10 +4,8 @@
 - **Type:** [framework](../../../by-type/framework/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/pe3zx/mthc>
-- **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 167
-- **License:** MIT
+- **Sources:** `github-search:topic:incident-response`, `github-search:topic:threat-hunting`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 All-in-one bundle of MISP, TheHive and Cortex
 

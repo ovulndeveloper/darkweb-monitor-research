@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/matiasinsaurralde/transports>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 114
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 An HTTP proxy that aims to support different transports.
 

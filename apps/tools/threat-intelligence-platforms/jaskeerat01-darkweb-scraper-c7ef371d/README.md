@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/jaskeerat01/darkweb-scraper>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Automated dark web threat intelligence scraper that monitors onion forums via native Tor SOCKS5, extracts IOCs, deduplicates posts, and classifies breach alerts using an offline local LLM.
 

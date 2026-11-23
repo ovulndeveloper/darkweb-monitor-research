@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/SamNet-dev/torware>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 97
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 One-click Tor Bridge/Relay node setup with live TUI dashboard, Snowflake proxy, and Telegram notifications
 

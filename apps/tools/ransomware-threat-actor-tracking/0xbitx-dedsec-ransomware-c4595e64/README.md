@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/0xbitx/DEDSEC_RANSOMWARE>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 18
+- **Reviewed:** 2026-11-23
 
 inux based ransomware tool that can create a ransomware code for linux machine.
 

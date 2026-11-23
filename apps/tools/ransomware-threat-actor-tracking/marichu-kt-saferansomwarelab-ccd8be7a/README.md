@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/marichu-kt/SafeRansomwareLab>
 - **Sources:** `github-search:topic:digital-forensics`, `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 8
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 SafeRansomwareLab es un simulador educativo avanzado que replica el comportamiento de ransomware real mediante cifrado híbrido (AES-256 + RSA), diseñado exclusivamente para formación en ciberseguridad, análisis de amenazas y desarrollo de contramedidas en entornos controlados, incluyendo una recuperación segura de archivos.
 

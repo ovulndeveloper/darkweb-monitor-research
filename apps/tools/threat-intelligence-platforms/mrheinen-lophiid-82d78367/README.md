@@ -4,10 +4,8 @@
 - **Type:** [research-project](../../../by-type/research-project/README.md)
 - **Status:** `archived`
 - **URL:** <https://github.com/mrheinen/lophiid>
-- **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 30
-- **License:** GPL-2.0
+- **Sources:** `github-search:topic:threat-hunting`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 A hybrid AI honeypot for monitoring large scale web attacks
 

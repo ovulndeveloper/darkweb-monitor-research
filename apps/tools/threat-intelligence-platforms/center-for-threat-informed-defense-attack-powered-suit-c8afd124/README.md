@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/center-for-threat-informed-defense/attack-powered-suit>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 83
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 ATT&CK Powered Suit is a browser extension that puts the complete MITRE ATT&CK® knowledge base at your fingertips with text search, context menus, and ATT&CK Navigator integration.
 

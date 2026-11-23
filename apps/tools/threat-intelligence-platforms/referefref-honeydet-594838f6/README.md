@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/referefref/honeydet>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 116
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Signature based honeypot detector tool written in Golang
 

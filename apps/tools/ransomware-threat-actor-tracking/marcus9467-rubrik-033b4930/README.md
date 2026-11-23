@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/marcus9467/rubrik>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 6
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Production-tested automation for Rubrik CDM and Rubrik Security Cloud — onboarding, day-2 operations, recovery, and ransomware response.
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/west-wind/abuse-insights>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 5
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 To extract the usernames attempted by a compromised host. This information is obtained from Abuse IP DB, reports' comments.
 

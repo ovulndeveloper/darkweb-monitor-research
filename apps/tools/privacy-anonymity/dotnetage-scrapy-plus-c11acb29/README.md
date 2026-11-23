@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/DotNetAge/scrapy_plus>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 25
+- **Reviewed:** 2026-11-23
 
 scrapy 常用爬网必备工具包
 

@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/recosint/osint-tools>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 Free browser-based OSINT tools for security professionals, investigators, and researchers — by Recosint Intelligence Services
 

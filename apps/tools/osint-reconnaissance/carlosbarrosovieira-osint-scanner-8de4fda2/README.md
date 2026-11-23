@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/carlosbarrosovieira/osint-scanner>
 - **Sources:** `github-search:topic:osint-framework`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 An OSINT and Threat Intelligence tool for Termux/Android focused on digital profiles and leaked credentials.
 

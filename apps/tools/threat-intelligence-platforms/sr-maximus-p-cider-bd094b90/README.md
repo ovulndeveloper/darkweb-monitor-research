@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/sr-maximus/P-CIDER>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 SDMC source-available non-commercial cyber intelligence decision and risk model created by Edwin Peñuela
 

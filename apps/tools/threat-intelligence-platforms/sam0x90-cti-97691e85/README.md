@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Sam0x90/CTI>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 83
+- **Reviewed:** 2026-11-23
 
 Repo containing various intel-based resources such as threat research, adversary emulation/simulation plan and so on
 

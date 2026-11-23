@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/MISP/misp-wireshark>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 51
+- **Reviewed:** 2026-11-23
 
 Lua plugin to extract data from Wireshark and convert it into MISP format
 

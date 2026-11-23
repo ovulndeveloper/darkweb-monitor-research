@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/beriktassuly/onion-forum>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 A Tor-native discussion forum built in Rust with SSR, PostgreSQL, Redis, and HTMX.
 

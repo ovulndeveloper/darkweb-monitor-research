@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/banaxou/infonyx>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 8
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 osint tool info ip,email,number infonyx 1.3.1
 

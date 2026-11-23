@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/VeroSec/DACTIE>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 6
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 DACTIE (Decentralized Anonymous CTI Exchange) is a network for sharing cyber threat information in which the sender stays anonymous unless a threshold of archive operators jointly opens its signature.
 

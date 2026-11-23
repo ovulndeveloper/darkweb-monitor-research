@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/SOCRadarSTRU/STRU-threat-intel>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 5
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Public IOCs (Domains, IPs, URLs, hashes) from research published by SOCRadar's Threat Research Unit (STRU)
 

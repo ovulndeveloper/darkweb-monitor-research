@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Dethada/Ransomware>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 7
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Ransomware without the ransom | Targeted at Linux systems
 

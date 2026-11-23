@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/anmolksachan/TheTimeMachine>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 559
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Weaponizing WaybackUrls for Recon, BugBounties , OSINT, Sensitive Endpoints and what not
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/xjasonlyu/tun2socks>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 5586
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 tun2socks - powered by gVisor TCP/IP stack
 

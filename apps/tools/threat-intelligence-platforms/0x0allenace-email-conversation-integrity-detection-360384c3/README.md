@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/0x0allenace/email-conversation-integrity-detection>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Detect suspicious business email impersonation, conversation hijacking, and behavioral anomalies with explainable Blue Team detection rules and SIEM integrations.
 

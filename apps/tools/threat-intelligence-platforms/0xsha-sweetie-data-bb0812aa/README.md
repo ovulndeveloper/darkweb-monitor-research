@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/0xsha/sweetie-data>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 174
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 This repo contains logstash of various honeypots
 

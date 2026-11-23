@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/cibervengadores/IOCs>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 15
+- **Reviewed:** 2026-11-23
 
 Bot creado por el proyecto Cibervengadores, automatiza la recolección de indicadores de compromiso en un repostiroio público de GitHub
 

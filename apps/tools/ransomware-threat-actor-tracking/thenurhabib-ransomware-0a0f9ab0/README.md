@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/thenurhabib/ransomware>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 This ransomware made for only educational purpose please don't use it for any bad purpose.
 

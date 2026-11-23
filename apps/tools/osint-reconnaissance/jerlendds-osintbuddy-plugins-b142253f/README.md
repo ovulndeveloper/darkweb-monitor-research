@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/jerlendds/osintbuddy-plugins>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 28
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Create and extend OSINT plugins for transforming data in a modular manner: https://github.com/jerlendds/osintbuddy
 

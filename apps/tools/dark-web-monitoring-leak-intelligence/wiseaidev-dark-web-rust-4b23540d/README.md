@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/wiseaidev/dark-web-rust>
 - **Sources:** `github-search:topic:dark-web`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 55
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 A hands-on book for abusing systems using Rust (WIP) - Open Research
 

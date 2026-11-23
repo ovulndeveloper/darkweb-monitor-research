@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/X7-VANTHOR/Reconip>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Automated IP reconnaissance & security intelligence tool for IP analysis, DNS, geolocation, reputation, and risk assessment.
 

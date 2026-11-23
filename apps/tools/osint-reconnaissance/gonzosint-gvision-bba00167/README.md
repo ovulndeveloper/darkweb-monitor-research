@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/GONZOsint/gvision>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 279
-- **License:** Unlicense
+- **Reviewed:** 2026-11-23
 
 GVision is a reverse image search app that use Google Cloud Vision API to detect landmarks and web entities from images, helping you gather valuable information quickly and easily.
 

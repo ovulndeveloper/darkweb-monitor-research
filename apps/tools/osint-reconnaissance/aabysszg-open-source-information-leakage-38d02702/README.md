@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/AabyssZG/Open-Source-Information-Leakage>
 - **Sources:** `github-search:topic:osint`, `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 339
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 开源项目信息泄露笔记
 

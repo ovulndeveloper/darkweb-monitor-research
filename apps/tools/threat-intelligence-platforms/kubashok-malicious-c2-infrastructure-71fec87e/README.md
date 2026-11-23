@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Kubashok/malicious-c2-infrastructure>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 8
+- **Reviewed:** 2026-11-23
 
 Repository contains malware IP addresses of C2 infrastructure
 

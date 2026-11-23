@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/cyentific-rni/misp-security-playbook-object>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
+- **Reviewed:** 2026-11-23
 
 This is the workbench for designing and updating the "security-playbook" object template for the MISP project - https://github.com/MISP/misp-objects/blob/main/objects/security-playbook/definition.json
 

@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/gcrahay/otx_misp>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 53
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Imports Alienvault OTX pulses to a MISP instance
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/baroxyton/zlibrary-eapi-documentation>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 32
+- **Reviewed:** 2026-11-23
 
 Documentation of the zlibrary android app API
 

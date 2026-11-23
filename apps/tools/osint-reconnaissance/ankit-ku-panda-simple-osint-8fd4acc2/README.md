@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Ankit-ku-panda/Simple-Osint>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 11
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Python OSINT toolkit for username search, DNS lookup, IP intelligence, information gathering and automated JSON security reports.
 

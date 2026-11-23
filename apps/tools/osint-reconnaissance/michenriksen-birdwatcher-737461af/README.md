@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/michenriksen/birdwatcher>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 419
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Data analysis and OSINT framework for Twitter
 

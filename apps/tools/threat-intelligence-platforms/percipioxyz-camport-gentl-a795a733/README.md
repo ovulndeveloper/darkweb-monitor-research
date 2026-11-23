@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/percipioxyz/camport_gentl>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 20
+- **Reviewed:** 2026-11-23
 
 GNTL module/library for GenICam-compliant software development.
 

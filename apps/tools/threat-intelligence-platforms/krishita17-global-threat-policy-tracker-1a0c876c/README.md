@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Krishita17/global-threat-policy-tracker>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Facts-only OSINT cyber-threat-intelligence catalog mapped to real cybersecurity & tech-policy frameworks (NIST CSF, EU NIS2/AI Act, Korea PIPA, FATF). Zero-dependency CLI, analytics & auto-generated dashboards.
 

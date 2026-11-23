@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/N1ckw1ck/Dark_OSINT>
 - **Sources:** `github-search:topic:darkweb`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 9
-- **License:** AGPL-3.0
+- **Reviewed:** 2026-11-23
 
 Dark Web Intelligence Gathering Tooling
 

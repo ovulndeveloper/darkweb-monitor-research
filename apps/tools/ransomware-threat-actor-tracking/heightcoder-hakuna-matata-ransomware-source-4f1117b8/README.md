@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/HeightCoder/Hakuna-Matata-Ransomware-Source>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 11
+- **Reviewed:** 2026-11-23
 
 An ransomware builder source code published.
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/techchipnet/ip-changer>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 276
+- **Reviewed:** 2026-11-23
 
 A simple and efficient tool to automatically change your IP address using Tor network at regular intervals.
 

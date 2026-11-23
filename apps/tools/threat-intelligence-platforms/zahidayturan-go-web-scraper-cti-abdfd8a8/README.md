@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/zahidayturan/go-web-scraper-cti>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
+- **Reviewed:** 2026-11-23
 
 A fundamental CTI tool built in Go for static data acquisition
 

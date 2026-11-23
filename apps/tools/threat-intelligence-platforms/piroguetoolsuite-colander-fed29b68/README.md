@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/PiRogueToolSuite/colander>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 37
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Case, knowledge management and digital investigation platform
 

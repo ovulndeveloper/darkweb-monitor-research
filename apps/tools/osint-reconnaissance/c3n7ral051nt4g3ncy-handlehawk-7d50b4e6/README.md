@@ -4,10 +4,8 @@
 - **Type:** [web-platform](../../../by-type/web-platform/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/C3n7ral051nt4g3ncy/HandleHawk>
-- **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 150
-- **License:** MIT
+- **Sources:** `github-search:topic:osint-tools`, `github-search:topic:recon`
+- **Reviewed:** 2026-11-23
 
 Cross-platform username reconnaissance tool built for OSINT investigators, cyber threat analysts, red teamers, and CTF enthusiasts.
 

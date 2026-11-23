@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/0x1bd/TorMod>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Play minecraft and route your traffic through the Tor network
 

@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/streambinder/cryptoloacker>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 9
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Multi-platform toy implementation of a ransomware
 

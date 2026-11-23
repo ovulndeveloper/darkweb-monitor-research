@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/alkivi-sas/3cx-freshdesk-macos>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
+- **Reviewed:** 2026-11-23
 
 a python script to call from 3CX softphone on macOS to do CTI on Freshdesk
 

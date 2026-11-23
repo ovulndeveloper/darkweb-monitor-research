@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Olaowo5/Ola_Osint>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 An educational Python-based OSINT tool designed for comprehensive information gathering through various APIs
 

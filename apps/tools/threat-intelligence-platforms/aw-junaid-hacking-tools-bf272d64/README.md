@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/aw-junaid/Hacking-Tools>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1139
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 This Repository is a collection of different ethical hacking tools and malware's for penetration testing and research purpose written in python, ruby, rust, c++, go and c.
 

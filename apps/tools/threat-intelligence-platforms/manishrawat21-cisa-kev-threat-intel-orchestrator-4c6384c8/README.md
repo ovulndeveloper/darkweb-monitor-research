@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/manishrawat21/Cisa-KEV-Threat-Intel-Orchestrator>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 43
+- **Reviewed:** 2026-11-23
 
 Zero-touch pipeline that turns newly weaponized CVEs from the CISA Known Exploited Vulnerabilities (KEV) catalog into production-ready Sigma detection rules, automatically, every week.
 

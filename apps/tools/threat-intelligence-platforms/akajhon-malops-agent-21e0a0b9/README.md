@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/akajhon/MalOps-Agent>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Autonomous, Graph-Orchestrated Agentic System for Malware Analysis and Threat Intelligence
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/thomasunise/argus>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 152
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Open-source agentic security operations platform
 

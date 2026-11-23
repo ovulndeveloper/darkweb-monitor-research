@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/seinz100754-eng/vt-warden>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
+- **Reviewed:** 2026-11-23
 
 VirusTotal Terminal Scanner 2026: Real-Time Threat Analysis CLI for Security Pros
 

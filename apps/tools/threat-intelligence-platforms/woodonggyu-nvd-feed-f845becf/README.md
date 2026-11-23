@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/woodonggyu/nvd-feed>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 This repository provides CVE vulnerability download using NVD feeds
 

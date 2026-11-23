@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/KINGJAVA911/FrankSherlock>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
+- **Reviewed:** 2026-11-23
 
 Index and search images on your NAS with local AI; classify, extract text, create thumbnails, and find duplicates without internet access.
 

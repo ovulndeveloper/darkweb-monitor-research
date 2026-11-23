@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/JMousqueton/ransomware.live>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:ransomware`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 374
-- **License:** Unlicense
+- **Reviewed:** 2026-11-23
 
 🏴‍☠️💰 Another Ransomware gang tracker
 

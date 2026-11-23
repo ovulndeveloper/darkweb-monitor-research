@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/kevinmhorvath/threat-intel-toolkit>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 13
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Defensive IOC + vulnerability triage for Claude Code: a subagent plus two key-free skills that aggregate 10 free open-source threat feeds and rate a CVE's exploit maturity. No API keys required.
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/whos-zycher/opsec-guide>
 - **Sources:** `github-search:topic:darkweb`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 47
+- **Reviewed:** 2026-11-23
 
 Comprehensive opsec guide covering privacy, anonymity, and security.
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ishandutta2007/Awesome-Dark-Web-Monitoring-Threat-Reconnaissance>
 - **Sources:** `github-search:topic:dark-web`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Top Dark Web Monitoring Threat Reconnaissance (Opensource) Star if you like it!
 

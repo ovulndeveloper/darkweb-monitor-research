@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/cretz/tor-dht-poc>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 52
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Anonymous DHT Accessible from Executable or Tor-Enabled Browser
 

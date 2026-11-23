@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/soxoj/counter-osint-guide-en>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 397
-- **License:** CC-BY-SA-4.0
+- **Reviewed:** 2026-11-23
 
 Comprehensive Counter OSINT and privacy guide (initially for CIS countries)
 

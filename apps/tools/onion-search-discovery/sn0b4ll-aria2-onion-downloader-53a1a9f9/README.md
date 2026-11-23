@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/sn0b4ll/aria2-onion-downloader>
 - **Sources:** `github-search:topic:onion`, `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 257
-- **License:** LGPL-2.1
+- **Reviewed:** 2026-11-23
 
 Download from .onion-domains faster.
 

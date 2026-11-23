@@ -4,10 +4,8 @@
 - **Type:** [tool](../../../by-type/tool/README.md)
 - **Status:** `legacy`
 - **URL:** <https://github.com/smicallef/spiderfoot>
-- **Sources:** `github-search:topic:cti`, `github-search:topic:osint`, `github-search:topic:osint-framework`, `github-search:topic:threat-intelligence`, `legacy-repo`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 24866
-- **License:** MIT
+- **Sources:** `awesome:TinuolaRotimi/Awesome-OSINT`, `awesome:edwardtay/awesome-OSINT`, `awesome:jivoi/awesome-osint`, `github-search:topic:cti`, `github-search:topic:osint`, `github-search:topic:osint-framework`, `github-search:topic:recon`, `github-search:topic:security-tools`, `github-search:topic:threat-intelligence`, `legacy-repo`
+- **Reviewed:** 2026-11-23
 
 Legacy repository entry cross-referenced for completeness.
 

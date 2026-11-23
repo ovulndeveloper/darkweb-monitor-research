@@ -1,8 +1,8 @@
 # Type: container
 
-216 entries. Generated from [`apps/data/catalog.json`](../data/catalog.json); do not edit by hand.
+198 dark-web / investigation URLs. Last reviewed 2026-11-23T09:00:17Z.
 
-[← All types](../TYPES.md) · [Master index](../README.md)
+[← All types](../../TYPES.md) · [← Master index](../../README.md)
 
 | Name | Category | Status | URL | Directory |
 |---|---|---|---|---|
@@ -17,54 +17,7 @@
 | shellytrifonov/dark-web-scraper | Dark Web Monitoring & Leak Intelligence | indexed | <https://github.com/shellytrifonov/dark-web-scraper> | [dir](../../tools/dark-web-monitoring-leak-intelligence/shellytrifonov-dark-web-scraper-c26023ee/README.md) |
 | teal33t/poopak | Dark Web Monitoring & Leak Intelligence | indexed | <https://github.com/teal33t/poopak> | [dir](../../tools/dark-web-monitoring-leak-intelligence/teal33t-poopak-0a6685db/README.md) |
 | zuzke/capNcook | Dark Web Monitoring & Leak Intelligence | indexed | <https://github.com/zuzke/capNcook> | [dir](../../tools/dark-web-monitoring-leak-intelligence/zuzke-capncook-eeb4c595/README.md) |
-| afritzler/oopsie | Digital Forensics & Incident Response | indexed | <https://github.com/afritzler/oopsie> | [dir](../../tools/digital-forensics-incident-response/afritzler-oopsie-9eda8e87/README.md) |
-| alcideio/kaudit | Digital Forensics & Incident Response | indexed | <https://github.com/alcideio/kaudit> | [dir](../../tools/digital-forensics-incident-response/alcideio-kaudit-5c6b00d8/README.md) |
-| andresouza72br-sketch/SHM-Support-Hours-Manager | Digital Forensics & Incident Response | indexed | <https://github.com/andresouza72br-sketch/SHM-Support-Hours-Manager> | [dir](../../tools/digital-forensics-incident-response/andresouza72br-sketch-shm-support-hours-manager-f06fea25/README.md) |
-| bitsofinfo/comms-analyzer-toolbox | Digital Forensics & Incident Response | indexed | <https://github.com/bitsofinfo/comms-analyzer-toolbox> | [dir](../../tools/digital-forensics-incident-response/bitsofinfo-comms-analyzer-toolbox-fc62e6af/README.md) |
-| blacktop/docker-volatility | Digital Forensics & Incident Response | archived | <https://github.com/blacktop/docker-volatility> | [dir](../../tools/digital-forensics-incident-response/blacktop-docker-volatility-4b04dc59/README.md) |
-| cado-security/varc | Digital Forensics & Incident Response | archived | <https://github.com/cado-security/varc> | [dir](../../tools/digital-forensics-incident-response/cado-security-varc-3ecc9a4d/README.md) |
-| Division-36/Z-Jail | Digital Forensics & Incident Response | indexed | <https://github.com/Division-36/Z-Jail> | [dir](../../tools/digital-forensics-incident-response/division-36-z-jail-9101385a/README.md) |
-| doublegate/CyberChef-MCP | Digital Forensics & Incident Response | indexed | <https://github.com/doublegate/CyberChef-MCP> | [dir](../../tools/digital-forensics-incident-response/doublegate-cyberchef-mcp-54a9fd8a/README.md) |
-| duckurity/openlabs | Digital Forensics & Incident Response | indexed | <https://github.com/duckurity/openlabs> | [dir](../../tools/digital-forensics-incident-response/duckurity-openlabs-887f8102/README.md) |
-| flexycode/CCSFEN2L_ALTFLEX | Digital Forensics & Incident Response | indexed | <https://github.com/flexycode/CCSFEN2L_ALTFLEX> | [dir](../../tools/digital-forensics-incident-response/flexycode-ccsfen2l-altflex-cd46ab84/README.md) |
-| Gabbysorn/claude-code_evil | Digital Forensics & Incident Response | indexed | <https://github.com/Gabbysorn/claude-code_evil> | [dir](../../tools/digital-forensics-incident-response/gabbysorn-claude-code-evil-a795bd51/README.md) |
-| google/docker-explorer | Digital Forensics & Incident Response | archived | <https://github.com/google/docker-explorer> | [dir](../../tools/digital-forensics-incident-response/google-docker-explorer-51cde20b/README.md) |
-| google/osdfir-infrastructure | Digital Forensics & Incident Response | indexed | <https://github.com/google/osdfir-infrastructure> | [dir](../../tools/digital-forensics-incident-response/google-osdfir-infrastructure-97330219/README.md) |
-| Hackerscolonyofficial/HCO-Meta-X | Digital Forensics & Incident Response | indexed | <https://github.com/Hackerscolonyofficial/HCO-Meta-X> | [dir](../../tools/digital-forensics-incident-response/hackerscolonyofficial-hco-meta-x-9a159496/README.md) |
-| Haggag-22/Ventra | Digital Forensics & Incident Response | indexed | <https://github.com/Haggag-22/Ventra> | [dir](../../tools/digital-forensics-incident-response/haggag-22-ventra-0ec6ad7d/README.md) |
-| hanasuru/vol_profile_builder | Digital Forensics & Incident Response | indexed | <https://github.com/hanasuru/vol_profile_builder> | [dir](../../tools/digital-forensics-incident-response/hanasuru-vol-profile-builder-b12ca14d/README.md) |
-| KadirCanCelik/visual-forensics-radar | Digital Forensics & Incident Response | indexed | <https://github.com/KadirCanCelik/visual-forensics-radar> | [dir](../../tools/digital-forensics-incident-response/kadircancelik-visual-forensics-radar-0496166f/README.md) |
-| lockness-Ko/wot | Digital Forensics & Incident Response | indexed | <https://github.com/lockness-Ko/wot> | [dir](../../tools/digital-forensics-incident-response/lockness-ko-wot-1c7d882c/README.md) |
-| MarcoPon/SeqBox | Digital Forensics & Incident Response | indexed | <https://github.com/MarcoPon/SeqBox> | [dir](../../tools/digital-forensics-incident-response/marcopon-seqbox-9d04090a/README.md) |
-| melihemik/amele | Digital Forensics & Incident Response | indexed | <https://github.com/melihemik/amele> | [dir](../../tools/digital-forensics-incident-response/melihemik-amele-96ad27ba/README.md) |
-| mozillazg/ptcpdump | Digital Forensics & Incident Response | indexed | <https://github.com/mozillazg/ptcpdump> | [dir](../../tools/digital-forensics-incident-response/mozillazg-ptcpdump-4ada5712/README.md) |
-| Mutasem-mk4/procscope | Digital Forensics & Incident Response | indexed | <https://github.com/Mutasem-mk4/procscope> | [dir](../../tools/digital-forensics-incident-response/mutasem-mk4-procscope-4bc7e13e/README.md) |
-| p0dalirius/docker-volatility2 | Digital Forensics & Incident Response | indexed | <https://github.com/p0dalirius/docker-volatility2> | [dir](../../tools/digital-forensics-incident-response/p0dalirius-docker-volatility2-1b433631/README.md) |
-| perchfuruncle656/huntkit | Digital Forensics & Incident Response | indexed | <https://github.com/perchfuruncle656/huntkit> | [dir](../../tools/digital-forensics-incident-response/perchfuruncle656-huntkit-f2832f0f/README.md) |
-| rene-d/mini-kali | Digital Forensics & Incident Response | indexed | <https://github.com/rene-d/mini-kali> | [dir](../../tools/digital-forensics-incident-response/rene-d-mini-kali-4d4d2b62/README.md) |
-| scott-renny/cyber-operations-center-engineering-program | Digital Forensics & Incident Response | indexed | <https://github.com/scott-renny/cyber-operations-center-engineering-program> | [dir](../../tools/digital-forensics-incident-response/scott-renny-cyber-operations-center-engineering-program-f0af61a4/README.md) |
-| sk4la/volatility3-docker | Digital Forensics & Incident Response | indexed | <https://github.com/sk4la/volatility3-docker> | [dir](../../tools/digital-forensics-incident-response/sk4la-volatility3-docker-df3b38d0/README.md) |
-| THIBER-ORG/userline | Digital Forensics & Incident Response | indexed | <https://github.com/THIBER-ORG/userline> | [dir](../../tools/digital-forensics-incident-response/thiber-org-userline-4de2d7b4/README.md) |
-| valITino/dfireballz | Digital Forensics & Incident Response | indexed | <https://github.com/valITino/dfireballz> | [dir](../../tools/digital-forensics-incident-response/valitino-dfireballz-18a435a9/README.md) |
-| vmayoral/robot_hacking_manual | Digital Forensics & Incident Response | indexed | <https://github.com/vmayoral/robot_hacking_manual> | [dir](../../tools/digital-forensics-incident-response/vmayoral-robot-hacking-manual-fff5b012/README.md) |
 | RanaKhan77/Exposure-Check-OSINT | Identity & Breach Intelligence | indexed | <https://github.com/RanaKhan77/Exposure-Check-OSINT> | [dir](../../tools/identity-breach-intelligence/ranakhan77-exposure-check-osint-9cb3590d/README.md) |
-| AustralianCyberSecurityCentre/azul | Malware Analysis & Detection | indexed | <https://github.com/AustralianCyberSecurityCentre/azul> | [dir](../../tools/malware-analysis-detection/australiancybersecuritycentre-azul-c4a006c2/README.md) |
-| beelzebub-labs/azazel | Malware Analysis & Detection | indexed | <https://github.com/beelzebub-labs/azazel> | [dir](../../tools/malware-analysis-detection/beelzebub-labs-azazel-f3cf6fc3/README.md) |
-| BlackSnufkin/LitterBox | Malware Analysis & Detection | indexed | <https://github.com/BlackSnufkin/LitterBox> | [dir](../../tools/malware-analysis-detection/blacksnufkin-litterbox-55b35830/README.md) |
-| blacktop/docker-cuckoo | Malware Analysis & Detection | archived | <https://github.com/blacktop/docker-cuckoo> | [dir](../../tools/malware-analysis-detection/blacktop-docker-cuckoo-bfd58a80/README.md) |
-| blacktop/docker-yara | Malware Analysis & Detection | archived | <https://github.com/blacktop/docker-yara> | [dir](../../tools/malware-analysis-detection/blacktop-docker-yara-ea16a952/README.md) |
-| cisagov/thorium | Malware Analysis & Detection | indexed | <https://github.com/cisagov/thorium> | [dir](../../tools/malware-analysis-detection/cisagov-thorium-c2833346/README.md) |
-| CloudDefenseAI/falco_extended_rules | Malware Analysis & Detection | indexed | <https://github.com/CloudDefenseAI/falco_extended_rules> | [dir](../../tools/malware-analysis-detection/clouddefenseai-falco-extended-rules-f4a2c3fd/README.md) |
-| cristianzsh/freki | Malware Analysis & Detection | indexed | <https://github.com/cristianzsh/freki> | [dir](../../tools/malware-analysis-detection/cristianzsh-freki-676b517b/README.md) |
-| ionescu007/Simpleator | Malware Analysis & Detection | indexed | <https://github.com/ionescu007/Simpleator> | [dir](../../tools/malware-analysis-detection/ionescu007-simpleator-510948c6/README.md) |
-| Karib0u/kernagent | Malware Analysis & Detection | indexed | <https://github.com/Karib0u/kernagent> | [dir](../../tools/malware-analysis-detection/karib0u-kernagent-72a0d754/README.md) |
-| Largo-m/SecuSploitX | Malware Analysis & Detection | indexed | <https://github.com/Largo-m/SecuSploitX> | [dir](../../tools/malware-analysis-detection/largo-m-secusploitx-da19a3b6/README.md) |
-| lprat/static_file_analysis | Malware Analysis & Detection | indexed | <https://github.com/lprat/static_file_analysis> | [dir](../../tools/malware-analysis-detection/lprat-static-file-analysis-ef5e837d/README.md) |
-| maliceio/malice | Malware Analysis & Detection | archived | <https://github.com/maliceio/malice> | [dir](../../tools/malware-analysis-detection/maliceio-malice-1cae19cf/README.md) |
-| maliceio/malice-av | Malware Analysis & Detection | archived | <https://github.com/maliceio/malice-av> | [dir](../../tools/malware-analysis-detection/maliceio-malice-av-71fc68d4/README.md) |
-| momenbasel/malware-check | Malware Analysis & Detection | indexed | <https://github.com/momenbasel/malware-check> | [dir](../../tools/malware-analysis-detection/momenbasel-malware-check-5a10dff1/README.md) |
-| oracle/macaron | Malware Analysis & Detection | indexed | <https://github.com/oracle/macaron> | [dir](../../tools/malware-analysis-detection/oracle-macaron-16e6e0a2/README.md) |
-| packing-box/docker-packing-box | Malware Analysis & Detection | indexed | <https://github.com/packing-box/docker-packing-box> | [dir](../../tools/malware-analysis-detection/packing-box-docker-packing-box-5b4636ba/README.md) |
 | abdullah2993/toker | Onion Search & Discovery | indexed | <https://github.com/abdullah2993/toker> | [dir](../../tools/onion-search-discovery/abdullah2993-toker-f113be4d/README.md) |
 | abiabdillahx/onionize | Onion Search & Discovery | indexed | <https://github.com/abiabdillahx/onionize> | [dir](../../tools/onion-search-discovery/abiabdillahx-onionize-d0706c14/README.md) |
 | aIligat0r/TorSocksBag | Onion Search & Discovery | indexed | <https://github.com/aIligat0r/TorSocksBag> | [dir](../../tools/onion-search-discovery/ailigat0r-torsocksbag-f2a2f3f0/README.md) |
@@ -96,23 +49,41 @@
 | zer-far/onion-nest | Onion Search & Discovery | indexed | <https://github.com/zer-far/onion-nest> | [dir](../../tools/onion-search-discovery/zer-far-onion-nest-6bafebb1/README.md) |
 | BreaGG/DAEDALUS | OSINT & Reconnaissance | indexed | <https://github.com/BreaGG/DAEDALUS> | [dir](../../tools/osint-reconnaissance/breagg-daedalus-87a2c7f6/README.md) |
 | buanzo/webmon | OSINT & Reconnaissance | indexed | <https://github.com/buanzo/webmon> | [dir](../../tools/osint-reconnaissance/buanzo-webmon-a485a593/README.md) |
+| CompreFace | OSINT & Reconnaissance | indexed | <https://github.com/exadel-inc/CompreFace> | [dir](../../tools/osint-reconnaissance/exadel-inc-compreface-d2fa56c2/README.md) |
 | DedSecInside/gotor | OSINT & Reconnaissance | indexed | <https://github.com/DedSecInside/gotor> | [dir](../../tools/osint-reconnaissance/dedsecinside-gotor-607a88c6/README.md) |
-| fsociety-team/fsociety | OSINT & Reconnaissance | indexed | <https://github.com/fsociety-team/fsociety> | [dir](../../tools/osint-reconnaissance/fsociety-team-fsociety-e5bf5a80/README.md) |
+| fb0sh/dsh-pentester | OSINT & Reconnaissance | indexed | <https://github.com/fb0sh/dsh-pentester> | [dir](../../tools/osint-reconnaissance/fb0sh-dsh-pentester-a84acac3/README.md) |
 | hackerdogs-ai/hd-mcpservers-docker | OSINT & Reconnaissance | indexed | <https://github.com/hackerdogs-ai/hd-mcpservers-docker> | [dir](../../tools/osint-reconnaissance/hackerdogs-ai-hd-mcpservers-docker-859fd4ff/README.md) |
 | hueristiq/xsubfind3r | OSINT & Reconnaissance | indexed | <https://github.com/hueristiq/xsubfind3r> | [dir](../../tools/osint-reconnaissance/hueristiq-xsubfind3r-6e359707/README.md) |
 | khast3x/Offensive-Dockerfiles | OSINT & Reconnaissance | archived | <https://github.com/khast3x/Offensive-Dockerfiles> | [dir](../../tools/osint-reconnaissance/khast3x-offensive-dockerfiles-8272f93b/README.md) |
+| ki9mu/ARL-plus-docker | OSINT & Reconnaissance | indexed | <https://github.com/ki9mu/ARL-plus-docker> | [dir](../../tools/osint-reconnaissance/ki9mu-arl-plus-docker-2ef1ea1e/README.md) |
 | KTZgraph/sarenka | OSINT & Reconnaissance | indexed | <https://github.com/KTZgraph/sarenka> | [dir](../../tools/osint-reconnaissance/ktzgraph-sarenka-87a23cad/README.md) |
+| leveryd-asm/asm | OSINT & Reconnaissance | indexed | <https://github.com/leveryd-asm/asm> | [dir](../../tools/osint-reconnaissance/leveryd-asm-asm-ac36fa76/README.md) |
 | mantisfury/ArkhamMirror | OSINT & Reconnaissance | indexed | <https://github.com/mantisfury/ArkhamMirror> | [dir](../../tools/osint-reconnaissance/mantisfury-arkhammirror-a284adab/README.md) |
 | misiektoja/instagram_monitor | OSINT & Reconnaissance | indexed | <https://github.com/misiektoja/instagram_monitor> | [dir](../../tools/osint-reconnaissance/misiektoja-instagram-monitor-62e4ec52/README.md) |
 | mwakidenis/WebCheck-OSINT | OSINT & Reconnaissance | indexed | <https://github.com/mwakidenis/WebCheck-OSINT> | [dir](../../tools/osint-reconnaissance/mwakidenis-webcheck-osint-9dba12f0/README.md) |
 | osint-dev-team/osint-framework | OSINT & Reconnaissance | indexed | <https://github.com/osint-dev-team/osint-framework> | [dir](../../tools/osint-reconnaissance/osint-dev-team-osint-framework-f52dd90e/README.md) |
 | owl234/ARL-Next | OSINT & Reconnaissance | indexed | <https://github.com/owl234/ARL-Next> | [dir](../../tools/osint-reconnaissance/owl234-arl-next-c78aa270/README.md) |
+| qbitseclabs/osint | OSINT & Reconnaissance | indexed | <https://github.com/qbitseclabs/osint> | [dir](../../tools/osint-reconnaissance/qbitseclabs-osint-1838bd64/README.md) |
 | RAJANAGORI/Nightingale | OSINT & Reconnaissance | indexed | <https://github.com/RAJANAGORI/Nightingale> | [dir](../../tools/osint-reconnaissance/rajanagori-nightingale-9ef353ed/README.md) |
 | renkagod/osint-toolbox-mcp | OSINT & Reconnaissance | indexed | <https://github.com/renkagod/osint-toolbox-mcp> | [dir](../../tools/osint-reconnaissance/renkagod-osint-toolbox-mcp-c068bbd2/README.md) |
+| ritchiemwewa/osinteye | OSINT & Reconnaissance | archived | <https://github.com/ritchiemwewa/osinteye> | [dir](../../tools/osint-reconnaissance/ritchiemwewa-osinteye-55bfd32e/README.md) |
 | RuthGnz/SpyScrap | OSINT & Reconnaissance | indexed | <https://github.com/RuthGnz/SpyScrap> | [dir](../../tools/osint-reconnaissance/ruthgnz-spyscrap-d0eec197/README.md) |
 | stanfrbd/cyberbro | OSINT & Reconnaissance | indexed | <https://github.com/stanfrbd/cyberbro> | [dir](../../tools/osint-reconnaissance/stanfrbd-cyberbro-0ecbbade/README.md) |
 | w0h1v/mcp-maigret | OSINT & Reconnaissance | indexed | <https://github.com/w0h1v/mcp-maigret> | [dir](../../tools/osint-reconnaissance/w0h1v-mcp-maigret-fa7dcbcb/README.md) |
+| x1mdev/ReconPi | OSINT & Reconnaissance | indexed | <https://github.com/x1mdev/ReconPi> | [dir](../../tools/osint-reconnaissance/x1mdev-reconpi-8df2d4b0/README.md) |
 | YusufMarall/p3n4thing | OSINT & Reconnaissance | indexed | <https://github.com/YusufMarall/p3n4thing> | [dir](../../tools/osint-reconnaissance/yusufmarall-p3n4thing-6ede8296/README.md) |
+| ahmedbahroun06/PhishLens | Phishing & Fraud Intelligence | indexed | <https://github.com/ahmedbahroun06/PhishLens> | [dir](../../tools/phishing-fraud-intelligence/ahmedbahroun06-phishlens-54518a08/README.md) |
+| dmdhrumilmistry/GooglePhish | Phishing & Fraud Intelligence | indexed | <https://github.com/dmdhrumilmistry/GooglePhish> | [dir](../../tools/phishing-fraud-intelligence/dmdhrumilmistry-googlephish-b19184be/README.md) |
+| Ganatra-Ruchir/zphisher | Phishing & Fraud Intelligence | indexed | <https://github.com/Ganatra-Ruchir/zphisher> | [dir](../../tools/phishing-fraud-intelligence/ganatra-ruchir-zphisher-1a015fa3/README.md) |
+| JoelGMSec/EvilnoVNC | Phishing & Fraud Intelligence | indexed | <https://github.com/JoelGMSec/EvilnoVNC> | [dir](../../tools/phishing-fraud-intelligence/joelgmsec-evilnovnc-bde41264/README.md) |
+| l4rm4nd/PhishDock | Phishing & Fraud Intelligence | indexed | <https://github.com/l4rm4nd/PhishDock> | [dir](../../tools/phishing-fraud-intelligence/l4rm4nd-phishdock-938c2e34/README.md) |
+| m4n3dw0lf/pythem | Phishing & Fraud Intelligence | indexed | <https://github.com/m4n3dw0lf/pythem> | [dir](../../tools/phishing-fraud-intelligence/m4n3dw0lf-pythem-c97df28a/README.md) |
+| notdodo/docker-sneaky-gophish | Phishing & Fraud Intelligence | indexed | <https://github.com/notdodo/docker-sneaky-gophish> | [dir](../../tools/phishing-fraud-intelligence/notdodo-docker-sneaky-gophish-641f3d0a/README.md) |
+| P-BitM-Framework/P-BitM | Phishing & Fraud Intelligence | indexed | <https://github.com/P-BitM-Framework/P-BitM> | [dir](../../tools/phishing-fraud-intelligence/p-bitm-framework-p-bitm-15e35fbf/README.md) |
+| qeeqbox/url-sandbox | Phishing & Fraud Intelligence | indexed | <https://github.com/qeeqbox/url-sandbox> | [dir](../../tools/phishing-fraud-intelligence/qeeqbox-url-sandbox-bcb4de1e/README.md) |
+| redteamsecurity2023/EvilnoVNC | Phishing & Fraud Intelligence | indexed | <https://github.com/redteamsecurity2023/EvilnoVNC> | [dir](../../tools/phishing-fraud-intelligence/redteamsecurity2023-evilnovnc-17ad2d79/README.md) |
+| t0mer/SafeUrl | Phishing & Fraud Intelligence | indexed | <https://github.com/t0mer/SafeUrl> | [dir](../../tools/phishing-fraud-intelligence/t0mer-safeurl-281911ba/README.md) |
+| wesleyraptor/streamingphish | Phishing & Fraud Intelligence | indexed | <https://github.com/wesleyraptor/streamingphish> | [dir](../../tools/phishing-fraud-intelligence/wesleyraptor-streamingphish-9189f8d4/README.md) |
 | 19-84/redd-archiver | Privacy & Anonymity | indexed | <https://github.com/19-84/redd-archiver> | [dir](../../tools/privacy-anonymity/19-84-redd-archiver-da073724/README.md) |
 | 39ff/docker-rotating-proxy | Privacy & Anonymity | indexed | <https://github.com/39ff/docker-rotating-proxy> | [dir](../../tools/privacy-anonymity/39ff-docker-rotating-proxy-fb578ac6/README.md) |
 | 3xploitGuy/torwebsite | Privacy & Anonymity | indexed | <https://github.com/3xploitGuy/torwebsite> | [dir](../../tools/privacy-anonymity/3xploitguy-torwebsite-dbf3bd4f/README.md) |
@@ -169,6 +140,7 @@
 | hectorm/hblock-resolver | Ransomware & Threat Actor Tracking | indexed | <https://github.com/hectorm/hblock-resolver> | [dir](../../tools/ransomware-threat-actor-tracking/hectorm-hblock-resolver-890fc299/README.md) |
 | Itz-Agasta/nerrf | Ransomware & Threat Actor Tracking | archived | <https://github.com/Itz-Agasta/nerrf> | [dir](../../tools/ransomware-threat-actor-tracking/itz-agasta-nerrf-09b3d2f6/README.md) |
 | smottoms/ransomware-simulation | Ransomware & Threat Actor Tracking | indexed | <https://github.com/smottoms/ransomware-simulation> | [dir](../../tools/ransomware-threat-actor-tracking/smottoms-ransomware-simulation-f4277931/README.md) |
+| 0x4D31/hassh-utils | Threat Intelligence Platforms | indexed | <https://github.com/0x4D31/hassh-utils> | [dir](../../tools/threat-intelligence-platforms/0x4d31-hassh-utils-05a75f2f/README.md) |
 | AbstractionsLab/satrap-dl | Threat Intelligence Platforms | indexed | <https://github.com/AbstractionsLab/satrap-dl> | [dir](../../tools/threat-intelligence-platforms/abstractionslab-satrap-dl-4fdf096a/README.md) |
 | AmmarAikan/ACTIT-Platform | Threat Intelligence Platforms | indexed | <https://github.com/AmmarAikan/ACTIT-Platform> | [dir](../../tools/threat-intelligence-platforms/ammaraikan-actit-platform-7f695cb2/README.md) |
 | andreicscs/HoneyWire | Threat Intelligence Platforms | indexed | <https://github.com/andreicscs/HoneyWire> | [dir](../../tools/threat-intelligence-platforms/andreicscs-honeywire-d10b2640/README.md) |
@@ -182,12 +154,15 @@
 | brunosergi/darkweb-forums-tracker | Threat Intelligence Platforms | indexed | <https://github.com/brunosergi/darkweb-forums-tracker> | [dir](../../tools/threat-intelligence-platforms/brunosergi-darkweb-forums-tracker-f341fc84/README.md) |
 | brunosergi/tldr-threat-reports | Threat Intelligence Platforms | indexed | <https://github.com/brunosergi/tldr-threat-reports> | [dir](../../tools/threat-intelligence-platforms/brunosergi-tldr-threat-reports-88a92082/README.md) |
 | cert-orangecyberdefense/datalake-taxii-integration | Threat Intelligence Platforms | indexed | <https://github.com/cert-orangecyberdefense/datalake-taxii-integration> | [dir](../../tools/threat-intelligence-platforms/cert-orangecyberdefense-datalake-taxii-integration-23db62bb/README.md) |
+| ChiefGyk3D/typo-sniper | Threat Intelligence Platforms | indexed | <https://github.com/ChiefGyk3D/typo-sniper> | [dir](../../tools/threat-intelligence-platforms/chiefgyk3d-typo-sniper-f94f3aa6/README.md) |
 | coolacid/docker-misp | Threat Intelligence Platforms | indexed | <https://github.com/coolacid/docker-misp> | [dir](../../tools/threat-intelligence-platforms/coolacid-docker-misp-ff4fb11e/README.md) |
 | crowdsecurity/crowdsec | Threat Intelligence Platforms | indexed | <https://github.com/crowdsecurity/crowdsec> | [dir](../../tools/threat-intelligence-platforms/crowdsecurity-crowdsec-ac33c186/README.md) |
+| Cyb3rWard0g/HELK | Threat Intelligence Platforms | indexed | <https://github.com/Cyb3rWard0g/HELK> | [dir](../../tools/threat-intelligence-platforms/cyb3rward0g-helk-4ada9f99/README.md) |
 | cyberblu3s/CyberBlue | Threat Intelligence Platforms | indexed | <https://github.com/cyberblu3s/CyberBlue> | [dir](../../tools/threat-intelligence-platforms/cyberblu3s-cyberblue-a298488f/README.md) |
 | cybersecify/OpenEASD | Threat Intelligence Platforms | indexed | <https://github.com/cybersecify/OpenEASD> | [dir](../../tools/threat-intelligence-platforms/cybersecify-openeasd-bde0722b/README.md) |
 | dataaispark-spec/Hermes-Predictive-Attack-Paths-Detector | Threat Intelligence Platforms | indexed | <https://github.com/dataaispark-spec/Hermes-Predictive-Attack-Paths-Detector> | [dir](../../tools/threat-intelligence-platforms/dataaispark-spec-hermes-predictive-attack-paths-detector-f583355b/README.md) |
 | deeztek/Hermes-Secure-Email-Gateway | Threat Intelligence Platforms | indexed | <https://github.com/deeztek/Hermes-Secure-Email-Gateway> | [dir](../../tools/threat-intelligence-platforms/deeztek-hermes-secure-email-gateway-7550ee50/README.md) |
+| Dentrax/falco-gpt | Threat Intelligence Platforms | indexed | <https://github.com/Dentrax/falco-gpt> | [dir](../../tools/threat-intelligence-platforms/dentrax-falco-gpt-8f75ffa5/README.md) |
 | depalmar/ai_for_the_win | Threat Intelligence Platforms | indexed | <https://github.com/depalmar/ai_for_the_win> | [dir](../../tools/threat-intelligence-platforms/depalmar-ai-for-the-win-6108ece5/README.md) |
 | devops-ia/helm-opencti | Threat Intelligence Platforms | indexed | <https://github.com/devops-ia/helm-opencti> | [dir](../../tools/threat-intelligence-platforms/devops-ia-helm-opencti-9ecd6f0d/README.md) |
 | disc0nct/Open-Source-Dockerized-SOC | Threat Intelligence Platforms | indexed | <https://github.com/disc0nct/Open-Source-Dockerized-SOC> | [dir](../../tools/threat-intelligence-platforms/disc0nct-open-source-dockerized-soc-3331f92a/README.md) |
@@ -195,6 +170,7 @@
 | DXC-0/open-eve-dashboard | Threat Intelligence Platforms | indexed | <https://github.com/DXC-0/open-eve-dashboard> | [dir](../../tools/threat-intelligence-platforms/dxc-0-open-eve-dashboard-734feeb2/README.md) |
 | ElkinStas/cti-multi-agent | Threat Intelligence Platforms | indexed | <https://github.com/ElkinStas/cti-multi-agent> | [dir](../../tools/threat-intelligence-platforms/elkinstas-cti-multi-agent-d86b6b23/README.md) |
 | eris-ot/marlinspike | Threat Intelligence Platforms | indexed | <https://github.com/eris-ot/marlinspike> | [dir](../../tools/threat-intelligence-platforms/eris-ot-marlinspike-3288b57c/README.md) |
+| ethack/tht | Threat Intelligence Platforms | indexed | <https://github.com/ethack/tht> | [dir](../../tools/threat-intelligence-platforms/ethack-tht-8c571676/README.md) |
 | fabriziosalmi/wildbox | Threat Intelligence Platforms | indexed | <https://github.com/fabriziosalmi/wildbox> | [dir](../../tools/threat-intelligence-platforms/fabriziosalmi-wildbox-20e8c010/README.md) |
 | fukusuket/THuntLab | Threat Intelligence Platforms | indexed | <https://github.com/fukusuket/THuntLab> | [dir](../../tools/threat-intelligence-platforms/fukusuket-thuntlab-c024968f/README.md) |
 | gensecaihq/Wazuh-Autopilot | Threat Intelligence Platforms | indexed | <https://github.com/gensecaihq/Wazuh-Autopilot> | [dir](../../tools/threat-intelligence-platforms/gensecaihq-wazuh-autopilot-bae7d33f/README.md) |
@@ -203,11 +179,14 @@
 | harvard-itsecurity/docker-misp | Threat Intelligence Platforms | indexed | <https://github.com/harvard-itsecurity/docker-misp> | [dir](../../tools/threat-intelligence-platforms/harvard-itsecurity-docker-misp-83ecc554/README.md) |
 | hnsh3in/threat-intel-digest | Threat Intelligence Platforms | indexed | <https://github.com/hnsh3in/threat-intel-digest> | [dir](../../tools/threat-intelligence-platforms/hnsh3in-threat-intel-digest-8f04cf5e/README.md) |
 | Iankulani/power_shark | Threat Intelligence Platforms | indexed | <https://github.com/Iankulani/power_shark> | [dir](../../tools/threat-intelligence-platforms/iankulani-power-shark-9988d013/README.md) |
+| ilostmypassword/Melissae-Honeypot-Framework | Threat Intelligence Platforms | indexed | <https://github.com/ilostmypassword/Melissae-Honeypot-Framework> | [dir](../../tools/threat-intelligence-platforms/ilostmypassword-melissae-honeypot-framework-e9150174/README.md) |
+| itshamzabendelladj/AIGuardSIEM | Threat Intelligence Platforms | indexed | <https://github.com/itshamzabendelladj/AIGuardSIEM> | [dir](../../tools/threat-intelligence-platforms/itshamzabendelladj-aiguardsiem-08532856/README.md) |
 | JiscCTI/misp-docker | Threat Intelligence Platforms | indexed | <https://github.com/JiscCTI/misp-docker> | [dir](../../tools/threat-intelligence-platforms/jisccti-misp-docker-00973db0/README.md) |
 | JMousqueton/OpenCTI-Docker | Threat Intelligence Platforms | indexed | <https://github.com/JMousqueton/OpenCTI-Docker> | [dir](../../tools/threat-intelligence-platforms/jmousqueton-opencti-docker-9499b095/README.md) |
 | kawaiipantsu/ransomwatch | Threat Intelligence Platforms | indexed | <https://github.com/kawaiipantsu/ransomwatch> | [dir](../../tools/threat-intelligence-platforms/kawaiipantsu-ransomwatch-ab6c4ade/README.md) |
 | Kim-San04/threat-intel-dashboard | Threat Intelligence Platforms | indexed | <https://github.com/Kim-San04/threat-intel-dashboard> | [dir](../../tools/threat-intelligence-platforms/kim-san04-threat-intel-dashboard-1cfbcd8c/README.md) |
 | kobaw23214/ThreatLens-API | Threat Intelligence Platforms | indexed | <https://github.com/kobaw23214/ThreatLens-API> | [dir](../../tools/threat-intelligence-platforms/kobaw23214-threatlens-api-6ddd0e1d/README.md) |
+| ManuelBerrueta/BST | Threat Intelligence Platforms | indexed | <https://github.com/ManuelBerrueta/BST> | [dir](../../tools/threat-intelligence-platforms/manuelberrueta-bst-834bcdab/README.md) |
 | mattft0/cape-docker | Threat Intelligence Platforms | indexed | <https://github.com/mattft0/cape-docker> | [dir](../../tools/threat-intelligence-platforms/mattft0-cape-docker-73b3c931/README.md) |
 | MISP/docker-misp | Threat Intelligence Platforms | archived | <https://github.com/MISP/docker-misp> | [dir](../../tools/threat-intelligence-platforms/misp-docker-misp-bb106b04/README.md) |
 | mustafaefeercoban/Poland-CTI-Prototype | Threat Intelligence Platforms | indexed | <https://github.com/mustafaefeercoban/Poland-CTI-Prototype> | [dir](../../tools/threat-intelligence-platforms/mustafaefeercoban-poland-cti-prototype-6830c2de/README.md) |
@@ -215,10 +194,13 @@
 | R4z1xx/malwatcher | Threat Intelligence Platforms | indexed | <https://github.com/R4z1xx/malwatcher> | [dir](../../tools/threat-intelligence-platforms/r4z1xx-malwatcher-9b48c8b7/README.md) |
 | radiantwave/zammad-ami-easybell | Threat Intelligence Platforms | indexed | <https://github.com/radiantwave/zammad-ami-easybell> | [dir](../../tools/threat-intelligence-platforms/radiantwave-zammad-ami-easybell-0c1d751a/README.md) |
 | rp-holdings/rp-stealth-security | Threat Intelligence Platforms | indexed | <https://github.com/rp-holdings/rp-stealth-security> | [dir](../../tools/threat-intelligence-platforms/rp-holdings-rp-stealth-security-02a477fc/README.md) |
+| sandeepmothukuri/Enterprise-Detection-Engineering-SOC-Lab | Threat Intelligence Platforms | indexed | <https://github.com/sandeepmothukuri/Enterprise-Detection-Engineering-SOC-Lab> | [dir](../../tools/threat-intelligence-platforms/sandeepmothukuri-enterprise-detection-engineering-soc-lab-32a78169/README.md) |
 | Simiyuu/realtime-cti-honeypot | Threat Intelligence Platforms | indexed | <https://github.com/Simiyuu/realtime-cti-honeypot> | [dir](../../tools/threat-intelligence-platforms/simiyuu-realtime-cti-honeypot-b05dabd3/README.md) |
 | smidrkal/OpenCTI | Threat Intelligence Platforms | indexed | <https://github.com/smidrkal/OpenCTI> | [dir](../../tools/threat-intelligence-platforms/smidrkal-opencti-1cd4b32b/README.md) |
 | spkatragadda/intelliHunt | Threat Intelligence Platforms | indexed | <https://github.com/spkatragadda/intelliHunt> | [dir](../../tools/threat-intelligence-platforms/spkatragadda-intellihunt-7bfd573e/README.md) |
 | sugarhillconsultants/secure-data-fusion-platform | Threat Intelligence Platforms | indexed | <https://github.com/sugarhillconsultants/secure-data-fusion-platform> | [dir](../../tools/threat-intelligence-platforms/sugarhillconsultants-secure-data-fusion-platform-df094dd7/README.md) |
 | SUmidcyber/PortPatrol | Threat Intelligence Platforms | indexed | <https://github.com/SUmidcyber/PortPatrol> | [dir](../../tools/threat-intelligence-platforms/sumidcyber-portpatrol-d6a7ca64/README.md) |
 | TangoisdownHQ/TID-Recon-Dog | Threat Intelligence Platforms | indexed | <https://github.com/TangoisdownHQ/TID-Recon-Dog> | [dir](../../tools/threat-intelligence-platforms/tangoisdownhq-tid-recon-dog-4c5faa30/README.md) |
+| ventz/docker-cif | Threat Intelligence Platforms | indexed | <https://github.com/ventz/docker-cif> | [dir](../../tools/threat-intelligence-platforms/ventz-docker-cif-b2bfa081/README.md) |
+| wazuh/wazuh | Threat Intelligence Platforms | indexed | <https://github.com/wazuh/wazuh> | [dir](../../tools/threat-intelligence-platforms/wazuh-wazuh-d99d07c8/README.md) |
 | wolffcatskyy/crowdsec-blocklist-import | Threat Intelligence Platforms | indexed | <https://github.com/wolffcatskyy/crowdsec-blocklist-import> | [dir](../../tools/threat-intelligence-platforms/wolffcatskyy-crowdsec-blocklist-import-b8a3f221/README.md) |

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/seanpm2001/Nuclear-Ad-Bombs-Specification>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 A security specification on Nuclear Ad Bombs, and why operating systems shouldn't have embedded ads.
 

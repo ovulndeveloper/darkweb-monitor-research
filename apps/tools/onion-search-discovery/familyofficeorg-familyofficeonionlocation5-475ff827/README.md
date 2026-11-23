@@ -5,8 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/FamilyOfficeOrg/FamilyOfficeOnionLocation5>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Implements a configurable Onion-Location meta tag into Shopware 5's frontend.
 

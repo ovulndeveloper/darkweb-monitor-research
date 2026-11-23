@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/BushidoUK/CTI-Analyst-Challenge>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 205
+- **Reviewed:** 2026-11-23
 
 An analytical challenge created to test junior analysts looking to try performing proactive and reactive cyber threat intelligence.
 

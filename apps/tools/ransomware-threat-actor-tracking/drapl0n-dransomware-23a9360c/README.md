@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/drapl0n/dransomware>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 21
+- **Reviewed:** 2026-11-23
 
 USB Rubber Ducky Script, Dransomware is ransomware which will encrypt data without root privileges.
 

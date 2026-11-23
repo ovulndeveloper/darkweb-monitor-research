@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/kh4sh3i/Ransomware>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 37
+- **Reviewed:** 2026-11-23
 
 Ransomware Simulator for Blue team ,Ransomware Simulator for Red team ,Ransomware infographic, open source Anti Ransomware, Ransomware As A Service and Ransomware protection technologies
 

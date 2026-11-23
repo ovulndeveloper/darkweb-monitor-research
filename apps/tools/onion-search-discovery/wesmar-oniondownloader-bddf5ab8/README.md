@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/wesmar/OnionDownloader>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 9
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Onion Downloader - Multi-circuit Tor download manager for .onion files. Single portable, full-featured .exe (<3 MB) with GUI (dark mode) + CLI in one, no dependencies - the smallest Windows Tor downloader publicly available. Resumable HTTP range downloads, parallel circuits, stream isolation, native C++23
 

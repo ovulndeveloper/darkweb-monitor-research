@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/FarBeyondUs/DRGLS>
 - **Sources:** `github-search:topic:darkweb`, `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
-- **License:** Unlicense
+- **Reviewed:** 2026-11-23
 
 Drugula Market Status Checker
 

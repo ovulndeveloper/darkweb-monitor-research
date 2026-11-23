@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Kcisti/bat-security-toolkit>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 115
+- **Reviewed:** 2026-11-23
 
 Automated Network Reconnaissance and OSINT framework. Streamlines IP tracking, geolocation, and digital footprint analysis in a modular Python environment.
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/felixkoch/TheDialer>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 6
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Click-to-call dialer for Snom phones. A Computer Telephony Integration (CTI) solution ☎️
 

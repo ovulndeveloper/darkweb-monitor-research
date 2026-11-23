@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/stratosphereips/ip_enrich>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 25
+- **Reviewed:** 2026-11-23
 
 Enrich IP addresses with metadata and threat intelligence indicators.
 

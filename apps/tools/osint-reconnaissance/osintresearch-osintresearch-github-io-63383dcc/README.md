@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/OSINTResearch/osintresearch.github.io>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Personal/professional site of OSINT-Research — creator of OSINT Resources Hub.
 

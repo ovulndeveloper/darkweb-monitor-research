@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/fevra-dev/ShadowHunter>
 - **Sources:** `github-search:topic:dark-web`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Dark web intelligence & OSINT platform Threat monitoring, blockchain forensics, attack surface mapping
 

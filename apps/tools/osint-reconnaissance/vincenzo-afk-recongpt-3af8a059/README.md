@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/vincenzo-afk/ReconGPT>
 - **Sources:** `github-search:topic:dark-web`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 39
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Evidence-first AI OSINT casefile with 40 passive modules, live recon streaming, provenance-led reports, and an entity graph.
 

@@ -4,10 +4,8 @@
 - **Type:** [web-platform](../../../by-type/web-platform/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/M507/AI-SOC-Agent>
-- **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 55
-- **License:** MIT
+- **Sources:** `github-search:topic:incident-response`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 Blackhat 2025 presentation and codebase: AI SOC agent & MCP server for automated security investigation, alert triage, and incident response. Integrates with ELK, IRIS, and other platforms.
 

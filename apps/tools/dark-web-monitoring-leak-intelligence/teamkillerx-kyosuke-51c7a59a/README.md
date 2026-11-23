@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/TeamKillerX/kyosuke>
 - **Sources:** `github-search:topic:darkweb`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 5
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 A modular telegram Python bot running on python3 with an sqlalchemy database
 

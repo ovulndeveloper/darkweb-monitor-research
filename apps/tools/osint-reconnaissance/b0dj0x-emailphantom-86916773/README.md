@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/b0dj0x/emailphantom>
 - **Sources:** `github-search:topic:osint-framework`, `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
+- **Reviewed:** 2026-11-23
 
 emailphantom by b0dj0x
 

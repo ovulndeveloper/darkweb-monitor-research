@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/rdkr/oniongen-go>
 - **Sources:** `github-search:topic:onion`, `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 141
+- **Reviewed:** 2026-11-23
 
 🔑 v3 .onion vanity URL generator written in Go
 

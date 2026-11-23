@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/khalil-b1/goosint-cyber-news>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
+- **Reviewed:** 2026-11-23
 
 🕵️‍♂️ A curated list of cybersecurity news and articles sources
 

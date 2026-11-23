@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/httpscl/tor2webz>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **License:** AGPL-3.0
+- **Reviewed:** 2026-11-23
 
 Modernized Tor2web gateway for accessing onion v3 services through standard web browsers, built with Python 3.13.
 

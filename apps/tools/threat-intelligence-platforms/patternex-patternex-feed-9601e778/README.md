@@ -4,9 +4,8 @@
 - **Type:** [dataset](../../../by-type/dataset/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/patternex/patternex-feed>
-- **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 9
+- **Sources:** `github-search:topic:cyber-threat-intelligence`, `github-search:topic:threat-hunting`
+- **Reviewed:** 2026-11-23
 
 PatternEx domain feed: malicious domains detected with AI
 

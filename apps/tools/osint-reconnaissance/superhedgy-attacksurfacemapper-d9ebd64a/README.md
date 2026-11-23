@@ -4,10 +4,8 @@
 - **Type:** [tool](../../../by-type/tool/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/superhedgy/AttackSurfaceMapper>
-- **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1413
-- **License:** GPL-3.0
+- **Sources:** `github-search:topic:attack-surface`, `github-search:topic:osint`
+- **Reviewed:** 2026-11-23
 
 AttackSurfaceMapper is a tool that aims to automate the reconnaissance process.
 

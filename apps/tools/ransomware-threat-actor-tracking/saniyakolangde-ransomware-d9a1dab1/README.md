@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/saniyakolangde/Ransomware>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 5
+- **Reviewed:** 2026-11-23
 
 The project covers how to create ransomware to encrypt & decrypt files on the victim system.
 

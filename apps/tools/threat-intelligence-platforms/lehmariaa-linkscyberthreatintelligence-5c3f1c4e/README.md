@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/lehmariaa/linkscyberthreatintelligence>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 34
+- **Reviewed:** 2026-11-23
 
 Alguns links legais para quem gostaria de entender mais sobre os fundamentos de CTI. Pra quem gostaria de contribuir, só aceitarei PR relacionado a conteúdos teóricos, como blogs, podcasts, videos, livros sendo conteúdos grátis ou baratos.
 

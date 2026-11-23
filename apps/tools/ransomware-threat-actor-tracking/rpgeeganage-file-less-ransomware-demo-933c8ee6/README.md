@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/rpgeeganage/file-less-ransomware-demo>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 52
+- **Reviewed:** 2026-11-23
 
 Demonstrate about file-less malware approach using JavaScript
 

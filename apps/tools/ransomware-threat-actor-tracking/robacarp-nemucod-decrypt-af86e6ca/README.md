@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/robacarp/nemucod_decrypt>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 22
+- **Reviewed:** 2026-11-23
 
 Ruby tool to decrypt Nemucod ransomware
 

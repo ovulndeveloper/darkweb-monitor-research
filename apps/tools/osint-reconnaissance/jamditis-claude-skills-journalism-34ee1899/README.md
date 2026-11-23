@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/jamditis/claude-skills-journalism>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 459
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Claude Code skills for journalism, media, and academia - verification, FOIA, data journalism, academic writing, and more
 

@@ -4,10 +4,8 @@
 - **Type:** [library](../../../by-type/library/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/GreyNoise-Intelligence/pygreynoise>
-- **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 176
-- **License:** MIT
+- **Sources:** `awesome:TinuolaRotimi/Awesome-OSINT`, `awesome:jivoi/awesome-osint`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 Python3 library and command line for GreyNoise
 

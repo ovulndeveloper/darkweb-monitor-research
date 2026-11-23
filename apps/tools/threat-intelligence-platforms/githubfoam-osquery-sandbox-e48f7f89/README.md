@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/githubfoam/osquery-sandbox>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 osquery CTI, DFIR
 

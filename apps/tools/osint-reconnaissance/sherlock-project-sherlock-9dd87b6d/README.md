@@ -4,10 +4,8 @@
 - **Type:** [cli-tool](../../../by-type/cli-tool/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/sherlock-project/sherlock>
-- **Sources:** `github-search:topic:cti`, `github-search:topic:forensics`, `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 116020
-- **License:** MIT
+- **Sources:** `awesome:TinuolaRotimi/Awesome-OSINT`, `awesome:edwardtay/awesome-OSINT`, `awesome:jivoi/awesome-osint`, `awesome:rawfilejson/awesome-osint-arsenal`, `github-search:topic:cti`, `github-search:topic:forensics`, `github-search:topic:osint`
+- **Reviewed:** 2026-11-23
 
 Hunt down social media accounts by username across social networks
 

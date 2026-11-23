@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/v4resk/BreachCheck>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 54
+- **Reviewed:** 2026-11-23
 
 BreachCheck is a tool designed to help users search for their passwords in known data breaches and leaks.
 

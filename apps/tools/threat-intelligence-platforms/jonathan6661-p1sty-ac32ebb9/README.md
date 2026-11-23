@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/jonathan6661/P1sty>
 - **Sources:** `github-search:topic:darkweb`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 28
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Fraud prevention tool
 

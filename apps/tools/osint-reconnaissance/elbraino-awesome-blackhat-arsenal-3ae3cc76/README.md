@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/elbraino/awesome-blackhat-arsenal>
 - **Sources:** `github-search:topic:malware-analysis`, `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 217
-- **License:** CC0-1.0
+- **Reviewed:** 2026-11-23
 
 Curated collection of cybersecurity tools featured in Black Hat Arsenal events.
 

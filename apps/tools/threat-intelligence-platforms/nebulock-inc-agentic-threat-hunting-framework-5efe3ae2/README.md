@@ -4,10 +4,8 @@
 - **Type:** [framework](../../../by-type/framework/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/Nebulock-Inc/agentic-threat-hunting-framework>
-- **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 428
-- **License:** MIT
+- **Sources:** `github-search:topic:siem`, `github-search:topic:threat-hunting`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 ATHF is a framework for agentic threat hunting - building systems that can remember, learn, and act with increasing autonomy.
 

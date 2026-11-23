@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/woodonggyu/virustotal-api>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 This repository provides VirusTotal (version 3) API
 

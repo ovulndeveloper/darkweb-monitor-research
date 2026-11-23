@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/deebong/OSINT-KYC-Link-Mapper>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 100% Offline OSINT Document & Entity Link Intelligence Suite (Windows GUI). Bulk-scan folders & drives of Indian IDs (Aadhaar, PAN) & bank records (PDF, DOCX, Images) in English, Hindi & Tamil. Features auto-rotated Tesseract OCR, Verhoeff checksum validation, CSV/JSON export & interactive PyVis network graphs.
 

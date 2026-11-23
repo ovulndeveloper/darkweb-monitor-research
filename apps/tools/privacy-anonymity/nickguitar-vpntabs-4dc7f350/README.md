@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Nickguitar/VPNTabs>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 68
+- **Reviewed:** 2026-11-23
 
 Force the traffic of a Firefox container tab to pass through VPN or Tor network
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/BushidoUK/UK-Critical-Infrastructure>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 39
+- **Reviewed:** 2026-11-23
 
 A collection of reports and case studies to understand the threat landscape for UK critical infrastructure
 

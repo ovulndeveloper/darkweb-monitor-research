@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/K-Ecosystem/k-osint>
 - **Sources:** `github-search:topic:osint-framework`, `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 k-osint is a fast, automated Open Source Intelligence (OSINT) toolkit designed to streamline reconnaissance and digital investigations for security researchers and analysts.
 

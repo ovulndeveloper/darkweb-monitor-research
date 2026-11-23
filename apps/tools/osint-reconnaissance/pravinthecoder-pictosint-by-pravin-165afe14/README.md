@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/PravinTheCoder/pictosint-by-pravin>
 - **Sources:** `github-search:topic:osint-framework`, `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 PictoSINT — An image-focused OSINT and intelligence toolkit for metadata analysis, visual investigation, geolocation research, and digital forensics.
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/zelon88/Ransomware_Defender>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 39
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 A Windows Logon / Startup / Scheduled Task Script for Ransomware Detection & Early-Warning
 

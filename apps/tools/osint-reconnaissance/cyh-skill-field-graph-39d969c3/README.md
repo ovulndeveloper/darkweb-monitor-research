@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/cyh-skill/field-graph>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Codex and Claude Code Skill for mapping peer-endorsed core people across GitHub, OpenAlex, and pluggable providers
 

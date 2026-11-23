@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/zuzke/capNcook>
 - **Sources:** `github-search:topic:darkweb`, `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 124
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 capNcook - a dark web exploration tool
 

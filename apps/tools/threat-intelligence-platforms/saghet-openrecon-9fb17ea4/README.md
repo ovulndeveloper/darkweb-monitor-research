@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/saghet/OpenRecon>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
+- **Reviewed:** 2026-11-23
 
 OpenRecon 3.0 - Plataforma Open Source de EASM, DRP, OSINT, CTI y Reconocimiento Web Selectivo (FastAPI + XAMPP/PHP + PostgreSQL/Redis)
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/tahsan2544/Email-SPY>
 - **Sources:** `github-search:topic:osint-framework`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Terminal OSINT tool: turns one email address into a readable investigation report — identity, linked accounts, mail infrastructure and public footprint, public sources only.
 

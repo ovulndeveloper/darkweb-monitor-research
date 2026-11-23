@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/hackerman70000/apt-reports>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
+- **Reviewed:** 2026-11-23
 
 Automated APT threat intelligence report downloader from Malpedia.
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/IviweNomzaza/Security-Orchestration-Automation-Response>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
+- **Reviewed:** 2026-11-23
 
 Automated pipeline turning Wazuh malware detections into TheHive incident cases.
 

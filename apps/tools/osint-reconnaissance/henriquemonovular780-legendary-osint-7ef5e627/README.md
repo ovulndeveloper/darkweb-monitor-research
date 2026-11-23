@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Henriquemonovular780/Legendary_OSINT>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:osint-framework`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** CC0-1.0
+- **Reviewed:** 2026-11-23
 
 Discover curated OSINT tools & resources for people, flights, vessels, domains, and more—vetted, organized, and ready for investigation.
 

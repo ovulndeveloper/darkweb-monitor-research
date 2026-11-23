@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ajayalf/KUMAL_OSINT>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
+- **Reviewed:** 2026-11-23
 
 KUMAL OSINT is a Telegram bot designed to assist with OSINT (Open Source Intelligence) by searching information using a student's NPM (Student Identification Number) without requiring a login to StudentSite.
 

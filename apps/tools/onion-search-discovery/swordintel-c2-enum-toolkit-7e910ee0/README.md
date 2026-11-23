@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/SWORDIntel/c2-enum-toolkit>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Defensive security toolkit for safe .onion C2 infrastructure analysis over Tor. Features multi-protocol port scanning, PCAP capture, static binary analysis, and comprehensive enumeration. Research use only.
 

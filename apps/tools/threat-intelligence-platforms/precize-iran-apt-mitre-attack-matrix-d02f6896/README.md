@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/precize/iran-apt-mitre-attack-matrix>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 Tactics and Techniques used by Iraninan APT groups for MITRE
 

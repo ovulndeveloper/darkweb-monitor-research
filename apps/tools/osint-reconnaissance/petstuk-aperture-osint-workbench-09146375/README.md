@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/petstuk/Aperture-OSINT-Workbench>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 16
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Local-first OSINT investigation workbench for Firefox & Chrome. IoC detect, playbooks, cases — no API keys by default. MIT.
 

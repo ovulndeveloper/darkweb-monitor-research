@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/RescueSocial/Hollywood_Disinformation_Amber-Depp-Musk>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 61
+- **Reviewed:** 2026-11-23
 
 Social Network Analysis of Disinformation, Platforms, Freelancing around Amber Heard, Johnny Depp, Elon Musk - Twitter, Reddit, YouTube, Instagram, Change.org, Facebook, Tumblr, TikTok. To create Foundations to Help victims of abuse, retaliation, domestic abuse, coercive control, crime, & Hollywood Research. We want to Save Lives & Help partners
 

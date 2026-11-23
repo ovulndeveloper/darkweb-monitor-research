@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/emmanuelgjr/genai_incidents>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 32
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Single source of truth for GenAI and agentic AI security incidents, mapped to OWASP LLM Top 10, OWASP Agentic Top 10 (ASI), NIST AI RMF, and MITRE ATLAS.
 

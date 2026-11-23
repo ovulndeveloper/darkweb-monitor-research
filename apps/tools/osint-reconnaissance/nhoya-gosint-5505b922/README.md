@@ -4,10 +4,8 @@
 - **Type:** [api-service](../../../by-type/api-service/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/Nhoya/gOSINT>
-- **Sources:** `github-search:topic:forensics`, `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 679
-- **License:** GPL-3.0
+- **Sources:** `awesome:edwardtay/awesome-OSINT`, `github-search:topic:forensics`, `github-search:topic:osint`
+- **Reviewed:** 2026-11-23
 
 OSINT Swiss Army Knife
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/denisse-dev/irc-bouncer>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 23
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Creates a Hardened ZNC IRC Bouncer that uses Tor to connect to IRC networks like LiberaChat or OFTC
 

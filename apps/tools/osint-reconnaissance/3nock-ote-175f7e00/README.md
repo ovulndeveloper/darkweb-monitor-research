@@ -4,10 +4,8 @@
 - **Type:** [research-project](../../../by-type/research-project/README.md)
 - **Status:** `archived`
 - **URL:** <https://github.com/3nock/OTE>
-- **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 580
-- **License:** GPL-3.0
+- **Sources:** `github-search:topic:attack-surface`, `github-search:topic:osint`, `github-search:topic:recon`, `github-search:topic:security-tools`
+- **Reviewed:** 2026-11-23
 
 OSINT Template Engine
 

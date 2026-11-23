@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/substationworm/CTF-Write-Ups>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **License:** CC-BY-4.0
+- **Reviewed:** 2026-11-23
 
 Repository of write-ups for challenges from some CTF competitions I have participated in.
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/paulpogoda/OSINT-Tools-Russia>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 96
+- **Reviewed:** 2026-11-23
 
 A list of OSINT tools that may be useful to you when conducting investigations related to Russian Federation
 

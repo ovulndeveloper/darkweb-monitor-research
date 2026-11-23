@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/jonaylor89/sherlock-rs>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:forensics`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 69
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Hunt down social media accounts by username across social networks
 

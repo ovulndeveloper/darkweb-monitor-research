@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/thedevtoolsmith/KMike>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 5
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 A ransomware that helps people understand the operation of a ransomware.
 

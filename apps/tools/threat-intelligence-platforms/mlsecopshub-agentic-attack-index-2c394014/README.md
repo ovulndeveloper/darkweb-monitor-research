@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/MLSecOpsHub/agentic-attack-index>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Open, source-linked dataset of real-world cyberattacks executed or orchestrated by AI agents. Every field cited, every grade honest. Data layer of Rogue Agent Watch.
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/THU-WingTecher/MarauderMap>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 34
+- **Reviewed:** 2026-11-23
 
 [ICSE'24] Latest 7,796 active and unique ransomware samples from 95 families. Code is in another repository. 勒索软件数据破坏攻击分析
 

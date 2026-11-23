@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/laurabgularte/osint-framework>
 - **Sources:** `github-search:topic:osint-framework`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 An asynchronous Python OSINT command-line framework for collecting, analyzing, and automating public intelligence data gathering.
 

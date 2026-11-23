@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/shallvhack/shallvhack.github.io>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
+- **Reviewed:** 2026-11-23
 
 ShallVhack - Cyber Security Team
 

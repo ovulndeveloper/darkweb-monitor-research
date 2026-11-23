@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/idefasoft/Emora-Project>
 - **Sources:** `github-search:topic:osint`, `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 732
+- **Reviewed:** 2026-11-23
 
 Emora is an OSINT tool like sherlock but with a GUI, which search for accounts by username across social networks
 

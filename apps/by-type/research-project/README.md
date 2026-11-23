@@ -1,8 +1,8 @@
 # Type: research-project
 
-372 entries. Generated from [`apps/data/catalog.json`](../data/catalog.json); do not edit by hand.
+532 dark-web / investigation URLs. Last reviewed 2026-11-23T09:00:17Z.
 
-[← All types](../TYPES.md) · [Master index](../README.md)
+[← All types](../../TYPES.md) · [← Master index](../../README.md)
 
 | Name | Category | Status | URL | Directory |
 |---|---|---|---|---|
@@ -18,146 +18,6 @@
 | joshhighet/ransomwatch | Dark Web Monitoring & Leak Intelligence | archived | <https://github.com/joshhighet/ransomwatch> | [dir](../../tools/dark-web-monitoring-leak-intelligence/joshhighet-ransomwatch-a49f140c/README.md) |
 | RicYaben/midnight_sea | Dark Web Monitoring & Leak Intelligence | archived | <https://github.com/RicYaben/midnight_sea> | [dir](../../tools/dark-web-monitoring-leak-intelligence/ricyaben-midnight-sea-82e4e97d/README.md) |
 | wiseaidev/dark-web-rust | Dark Web Monitoring & Leak Intelligence | indexed | <https://github.com/wiseaidev/dark-web-rust> | [dir](../../tools/dark-web-monitoring-leak-intelligence/wiseaidev-dark-web-rust-4b23540d/README.md) |
-| Ablation-Tool/zoe | Digital Forensics & Incident Response | indexed | <https://github.com/Ablation-Tool/zoe> | [dir](../../tools/digital-forensics-incident-response/ablation-tool-zoe-4c249487/README.md) |
-| alephdata/ingest-file | Digital Forensics & Incident Response | archived | <https://github.com/alephdata/ingest-file> | [dir](../../tools/digital-forensics-incident-response/alephdata-ingest-file-0f1c6824/README.md) |
-| AlexGustafsson/compdec | Digital Forensics & Incident Response | indexed | <https://github.com/AlexGustafsson/compdec> | [dir](../../tools/digital-forensics-incident-response/alexgustafsson-compdec-f8b1420e/README.md) |
-| AmgdGocha/DriveFS-Sleuth | Digital Forensics & Incident Response | indexed | <https://github.com/AmgdGocha/DriveFS-Sleuth> | [dir](../../tools/digital-forensics-incident-response/amgdgocha-drivefs-sleuth-dbc3c50a/README.md) |
-| arruw/fri-1819-df-seminar | Digital Forensics & Incident Response | archived | <https://github.com/arruw/fri-1819-df-seminar> | [dir](../../tools/digital-forensics-incident-response/arruw-fri-1819-df-seminar-86d706ff/README.md) |
-| at0m-b0mb/Metadateditor | Digital Forensics & Incident Response | indexed | <https://github.com/at0m-b0mb/Metadateditor> | [dir](../../tools/digital-forensics-incident-response/at0m-b0mb-metadateditor-14378b46/README.md) |
-| botherder/androidqf | Digital Forensics & Incident Response | indexed | <https://github.com/botherder/androidqf> | [dir](../../tools/digital-forensics-incident-response/botherder-androidqf-0fe087ed/README.md) |
-| botherder/pcqf | Digital Forensics & Incident Response | indexed | <https://github.com/botherder/pcqf> | [dir](../../tools/digital-forensics-incident-response/botherder-pcqf-578a6f2a/README.md) |
-| cado-security/rip_raw | Digital Forensics & Incident Response | archived | <https://github.com/cado-security/rip_raw> | [dir](../../tools/digital-forensics-incident-response/cado-security-rip-raw-0c6730c2/README.md) |
-| cmdaltr/elrond | Digital Forensics & Incident Response | archived | <https://github.com/cmdaltr/elrond> | [dir](../../tools/digital-forensics-incident-response/cmdaltr-elrond-8be3e6a0/README.md) |
-| cristianzsh/triager | Digital Forensics & Incident Response | indexed | <https://github.com/cristianzsh/triager> | [dir](../../tools/digital-forensics-incident-response/cristianzsh-triager-d5613dfa/README.md) |
-| DFIRScience/dfir.science | Digital Forensics & Incident Response | indexed | <https://github.com/DFIRScience/dfir.science> | [dir](../../tools/digital-forensics-incident-response/dfirscience-dfir-science-10b33baf/README.md) |
-| dfirsec/check_rep | Digital Forensics & Incident Response | archived | <https://github.com/dfirsec/check_rep> | [dir](../../tools/digital-forensics-incident-response/dfirsec-check-rep-8546abd6/README.md) |
-| dhondta/AppmemDumper | Digital Forensics & Incident Response | archived | <https://github.com/dhondta/AppmemDumper> | [dir](../../tools/digital-forensics-incident-response/dhondta-appmemdumper-c6bd79d0/README.md) |
-| fkie-cad/png-carving | Digital Forensics & Incident Response | indexed | <https://github.com/fkie-cad/png-carving> | [dir](../../tools/digital-forensics-incident-response/fkie-cad-png-carving-43fbfaa4/README.md) |
-| forensicanalysis/artifactcollector | Digital Forensics & Incident Response | archived | <https://github.com/forensicanalysis/artifactcollector> | [dir](../../tools/digital-forensics-incident-response/forensicanalysis-artifactcollector-dc3accb4/README.md) |
-| google/amt-forensics | Digital Forensics & Incident Response | archived | <https://github.com/google/amt-forensics> | [dir](../../tools/digital-forensics-incident-response/google-amt-forensics-5b64e4d6/README.md) |
-| google/dfdewey | Digital Forensics & Incident Response | archived | <https://github.com/google/dfdewey> | [dir](../../tools/digital-forensics-incident-response/google-dfdewey-a2c6d173/README.md) |
-| Hack-with-Github/Free-Security-eBooks | Digital Forensics & Incident Response | archived | <https://github.com/Hack-with-Github/Free-Security-eBooks> | [dir](../../tools/digital-forensics-incident-response/hack-with-github-free-security-ebooks-e0238b28/README.md) |
-| hyperpolymath/social-media-tools | Digital Forensics & Incident Response | indexed | <https://github.com/hyperpolymath/social-media-tools> | [dir](../../tools/digital-forensics-incident-response/hyperpolymath-social-media-tools-b67e38cc/README.md) |
-| investigraph/investigraph | Digital Forensics & Incident Response | indexed | <https://github.com/investigraph/investigraph> | [dir](../../tools/digital-forensics-incident-response/investigraph-investigraph-1af93061/README.md) |
-| jobiryasir/Cell-OSINT | Digital Forensics & Incident Response | indexed | <https://github.com/jobiryasir/Cell-OSINT> | [dir](../../tools/digital-forensics-incident-response/jobiryasir-cell-osint-b6c46960/README.md) |
-| KBNLresearch/diskimgr | Digital Forensics & Incident Response | indexed | <https://github.com/KBNLresearch/diskimgr> | [dir](../../tools/digital-forensics-incident-response/kbnlresearch-diskimgr-ecab03ce/README.md) |
-| KBNLresearch/tapeimgr | Digital Forensics & Incident Response | indexed | <https://github.com/KBNLresearch/tapeimgr> | [dir](../../tools/digital-forensics-incident-response/kbnlresearch-tapeimgr-b928192f/README.md) |
-| mandiant/flare-wmi | Digital Forensics & Incident Response | archived | <https://github.com/mandiant/flare-wmi> | [dir](../../tools/digital-forensics-incident-response/mandiant-flare-wmi-dc4e9b78/README.md) |
-| marcellelee/marcellelee.github.io | Digital Forensics & Incident Response | indexed | <https://github.com/marcellelee/marcellelee.github.io> | [dir](../../tools/digital-forensics-incident-response/marcellelee-marcellelee-github-io-49edbf13/README.md) |
-| mbrengel/memscrimper | Digital Forensics & Incident Response | indexed | <https://github.com/mbrengel/memscrimper> | [dir](../../tools/digital-forensics-incident-response/mbrengel-memscrimper-c3ccd2cc/README.md) |
-| mdawsonuk/DiscordExplorer | Digital Forensics & Incident Response | archived | <https://github.com/mdawsonuk/DiscordExplorer> | [dir](../../tools/digital-forensics-incident-response/mdawsonuk-discordexplorer-8166fde3/README.md) |
-| MilkyWay008/Hermes-OTG | Digital Forensics & Incident Response | indexed | <https://github.com/MilkyWay008/Hermes-OTG> | [dir](../../tools/digital-forensics-incident-response/milkyway008-hermes-otg-d4c0c9d8/README.md) |
-| mirid-ai/forensic-path-intimidation | Digital Forensics & Incident Response | indexed | <https://github.com/mirid-ai/forensic-path-intimidation> | [dir](../../tools/digital-forensics-incident-response/mirid-ai-forensic-path-intimidation-50c7c36d/README.md) |
-| mschermann/forensic_accounting | Digital Forensics & Incident Response | indexed | <https://github.com/mschermann/forensic_accounting> | [dir](../../tools/digital-forensics-incident-response/mschermann-forensic-accounting-07aca3f6/README.md) |
-| NetSecLab/Paper_for_Digital_Forensics | Digital Forensics & Incident Response | indexed | <https://github.com/NetSecLab/Paper_for_Digital_Forensics> | [dir](../../tools/digital-forensics-incident-response/netseclab-paper-for-digital-forensics-e6be2e40/README.md) |
-| NoelV11/DFIR-Training | Digital Forensics & Incident Response | archived | <https://github.com/NoelV11/DFIR-Training> | [dir](../../tools/digital-forensics-incident-response/noelv11-dfir-training-5206d803/README.md) |
-| NOEMETRA/PAW--Phishing-Attribution-Workbench | Digital Forensics & Incident Response | indexed | <https://github.com/NOEMETRA/PAW--Phishing-Attribution-Workbench--> | [dir](../../tools/digital-forensics-incident-response/noemetra-paw-phishing-attribution-workbench-b8fdb66f/README.md) |
-| p0dalirius/Hashes-Harvester | Digital Forensics & Incident Response | archived | <https://github.com/p0dalirius/Hashes-Harvester> | [dir](../../tools/digital-forensics-incident-response/p0dalirius-hashes-harvester-b0cc1152/README.md) |
-| peterhanily/ArtifactForge | Digital Forensics & Incident Response | indexed | <https://github.com/peterhanily/ArtifactForge> | [dir](../../tools/digital-forensics-incident-response/peterhanily-artifactforge-2127817b/README.md) |
-| polimi-ispl/icpr2020dfdc | Digital Forensics & Incident Response | indexed | <https://github.com/polimi-ispl/icpr2020dfdc> | [dir](../../tools/digital-forensics-incident-response/polimi-ispl-icpr2020dfdc-776a22ed/README.md) |
-| RENCBERAKMAN/bytewall-academy | Digital Forensics & Incident Response | indexed | <https://github.com/RENCBERAKMAN/bytewall-academy> | [dir](../../tools/digital-forensics-incident-response/rencberakman-bytewall-academy-c81df78d/README.md) |
-| rr-/CRC-manipulator | Digital Forensics & Incident Response | archived | <https://github.com/rr-/CRC-manipulator> | [dir](../../tools/digital-forensics-incident-response/rr-crc-manipulator-e835f3b4/README.md) |
-| SecurityRonin/usnjrnl-forensic | Digital Forensics & Incident Response | archived | <https://github.com/SecurityRonin/usnjrnl-forensic> | [dir](../../tools/digital-forensics-incident-response/securityronin-usnjrnl-forensic-046c1cf8/README.md) |
-| ShahinNexus/.github | Digital Forensics & Incident Response | indexed | <https://github.com/ShahinNexus/.github> | [dir](../../tools/digital-forensics-incident-response/shahinnexus-github-07f26ed4/README.md) |
-| snovvcrash/usbrip | Digital Forensics & Incident Response | archived | <https://github.com/snovvcrash/usbrip> | [dir](../../tools/digital-forensics-incident-response/snovvcrash-usbrip-c3267eff/README.md) |
-| sylhetyhackvenger/LocBITE | Digital Forensics & Incident Response | indexed | <https://github.com/sylhetyhackvenger/LocBITE> | [dir](../../tools/digital-forensics-incident-response/sylhetyhackvenger-locbite-a4d0044a/README.md) |
-| thatraghavarora/exif-sample-meta-data | Digital Forensics & Incident Response | indexed | <https://github.com/thatraghavarora/exif-sample-meta-data> | [dir](../../tools/digital-forensics-incident-response/thatraghavarora-exif-sample-meta-data-e93e0d70/README.md) |
-| vm32/FATFileRecoveryPy | Digital Forensics & Incident Response | archived | <https://github.com/vm32/FATFileRecoveryPy> | [dir](../../tools/digital-forensics-incident-response/vm32-fatfilerecoverypy-bfa4415a/README.md) |
-| wanshuiyin/Anti-Autoresearch | Digital Forensics & Incident Response | indexed | <https://github.com/wanshuiyin/Anti-Autoresearch> | [dir](../../tools/digital-forensics-incident-response/wanshuiyin-anti-autoresearch-32dd2b19/README.md) |
-| 0x27/linux.mirai | Malware Analysis & Detection | indexed | <https://github.com/0x27/linux.mirai> | [dir](../../tools/malware-analysis-detection/0x27-linux-mirai-557a715e/README.md) |
-| 0x48piraj/incarcero | Malware Analysis & Detection | indexed | <https://github.com/0x48piraj/incarcero> | [dir](../../tools/malware-analysis-detection/0x48piraj-incarcero-8e4e76f9/README.md) |
-| 0xcpu/bonomen | Malware Analysis & Detection | archived | <https://github.com/0xcpu/bonomen> | [dir](../../tools/malware-analysis-detection/0xcpu-bonomen-55dc78ea/README.md) |
-| 0xfke/Malware-Detection-and-Analysis-using-Machine-Learning | Malware Analysis & Detection | indexed | <https://github.com/0xfke/Malware-Detection-and-Analysis-using-Machine-Learning> | [dir](../../tools/malware-analysis-detection/0xfke-malware-detection-and-analysis-using-machine-learning-3fcd00aa/README.md) |
-| 0xflux/Sanctum | Malware Analysis & Detection | archived | <https://github.com/0xflux/Sanctum> | [dir](../../tools/malware-analysis-detection/0xflux-sanctum-81b9643c/README.md) |
-| 1rhino2/fnprint | Malware Analysis & Detection | indexed | <https://github.com/1rhino2/fnprint> | [dir](../../tools/malware-analysis-detection/1rhino2-fnprint-7bbc1c85/README.md) |
-| a0rtega/pafish | Malware Analysis & Detection | archived | <https://github.com/a0rtega/pafish> | [dir](../../tools/malware-analysis-detection/a0rtega-pafish-44cf2c6d/README.md) |
-| ab2pentest/MacOSThreatTrack | Malware Analysis & Detection | indexed | <https://github.com/ab2pentest/MacOSThreatTrack> | [dir](../../tools/malware-analysis-detection/ab2pentest-macosthreattrack-b7703751/README.md) |
-| AdvDebug/BehavEye | Malware Analysis & Detection | archived | <https://github.com/AdvDebug/BehavEye> | [dir](../../tools/malware-analysis-detection/advdebug-behaveye-d1074ca7/README.md) |
-| albertzsigovits/malware-study | Malware Analysis & Detection | indexed | <https://github.com/albertzsigovits/malware-study> | [dir](../../tools/malware-analysis-detection/albertzsigovits-malware-study-234768a1/README.md) |
-| albertzsigovits/malware-writeups | Malware Analysis & Detection | indexed | <https://github.com/albertzsigovits/malware-writeups> | [dir](../../tools/malware-analysis-detection/albertzsigovits-malware-writeups-cf031730/README.md) |
-| alichtman/malware-techniques | Malware Analysis & Detection | indexed | <https://github.com/alichtman/malware-techniques> | [dir](../../tools/malware-analysis-detection/alichtman-malware-techniques-3e7f422f/README.md) |
-| annamalai-nr/drebin | Malware Analysis & Detection | indexed | <https://github.com/annamalai-nr/drebin> | [dir](../../tools/malware-analysis-detection/annamalai-nr-drebin-577c4ddb/README.md) |
-| AnonKryptiQuz/Injectra | Malware Analysis & Detection | indexed | <https://github.com/AnonKryptiQuz/Injectra> | [dir](../../tools/malware-analysis-detection/anonkryptiquz-injectra-13975cdc/README.md) |
-| Babyhamsta/Malcrow | Malware Analysis & Detection | indexed | <https://github.com/Babyhamsta/Malcrow> | [dir](../../tools/malware-analysis-detection/babyhamsta-malcrow-b8e06124/README.md) |
-| BushidoUK/Open-source-Malware | Malware Analysis & Detection | indexed | <https://github.com/BushidoUK/Open-source-Malware> | [dir](../../tools/malware-analysis-detection/bushidouk-open-source-malware-353c23df/README.md) |
-| buzzer-re/Shinigami | Malware Analysis & Detection | indexed | <https://github.com/buzzer-re/Shinigami> | [dir](../../tools/malware-analysis-detection/buzzer-re-shinigami-19d6edf6/README.md) |
-| captain-woof/malware-study | Malware Analysis & Detection | indexed | <https://github.com/captain-woof/malware-study> | [dir](../../tools/malware-analysis-detection/captain-woof-malware-study-667d5183/README.md) |
-| CERT-Polska/drakvuf-sandbox | Malware Analysis & Detection | indexed | <https://github.com/CERT-Polska/drakvuf-sandbox> | [dir](../../tools/malware-analysis-detection/cert-polska-drakvuf-sandbox-01661f00/README.md) |
-| Cherishao/APT-Sample | Malware Analysis & Detection | indexed | <https://github.com/Cherishao/APT-Sample> | [dir](../../tools/malware-analysis-detection/cherishao-apt-sample-065cc12a/README.md) |
-| cmatthewbrooks/r2kit | Malware Analysis & Detection | archived | <https://github.com/cmatthewbrooks/r2kit> | [dir](../../tools/malware-analysis-detection/cmatthewbrooks-r2kit-86c630eb/README.md) |
-| cocomelonc/meow | Malware Analysis & Detection | indexed | <https://github.com/cocomelonc/meow> | [dir](../../tools/malware-analysis-detection/cocomelonc-meow-6c1569f7/README.md) |
-| cr-0w/analysis | Malware Analysis & Detection | archived | <https://github.com/cr-0w/analysis> | [dir](../../tools/malware-analysis-detection/cr-0w-analysis-2b8826d5/README.md) |
-| DarkSpaceSecurity/RunAs-Stealer | Malware Analysis & Detection | indexed | <https://github.com/DarkSpaceSecurity/RunAs-Stealer> | [dir](../../tools/malware-analysis-detection/darkspacesecurity-runas-stealer-8de55475/README.md) |
-| deadbits/Analyst-CaseFile | Malware Analysis & Detection | archived | <https://github.com/deadbits/Analyst-CaseFile> | [dir](../../tools/malware-analysis-detection/deadbits-analyst-casefile-a0325fd4/README.md) |
-| deadbits/malware-analysis-scripts | Malware Analysis & Detection | indexed | <https://github.com/deadbits/malware-analysis-scripts> | [dir](../../tools/malware-analysis-detection/deadbits-malware-analysis-scripts-11a79441/README.md) |
-| deadbits/yara-rules | Malware Analysis & Detection | archived | <https://github.com/deadbits/yara-rules> | [dir](../../tools/malware-analysis-detection/deadbits-yara-rules-69c08897/README.md) |
-| deptofdefense/SalSA | Malware Analysis & Detection | archived | <https://github.com/deptofdefense/SalSA> | [dir](../../tools/malware-analysis-detection/deptofdefense-salsa-5c5fd972/README.md) |
-| digitaldisarray/Malware-Analysis | Malware Analysis & Detection | indexed | <https://github.com/digitaldisarray/Malware-Analysis> | [dir](../../tools/malware-analysis-detection/digitaldisarray-malware-analysis-7e3ba679/README.md) |
-| drbeni/malquarium | Malware Analysis & Detection | indexed | <https://github.com/drbeni/malquarium> | [dir](../../tools/malware-analysis-detection/drbeni-malquarium-00a95264/README.md) |
-| elastic/die-python | Malware Analysis & Detection | indexed | <https://github.com/elastic/die-python> | [dir](../../tools/malware-analysis-detection/elastic-die-python-fa332b72/README.md) |
-| Ephrimgnanam/Cute-RATs | Malware Analysis & Detection | indexed | <https://github.com/Ephrimgnanam/Cute-RATs> | [dir](../../tools/malware-analysis-detection/ephrimgnanam-cute-rats-78228937/README.md) |
-| Ephrimgnanam/Worms | Malware Analysis & Detection | indexed | <https://github.com/Ephrimgnanam/Worms> | [dir](../../tools/malware-analysis-detection/ephrimgnanam-worms-33606614/README.md) |
-| eset/malware-research | Malware Analysis & Detection | indexed | <https://github.com/eset/malware-research> | [dir](../../tools/malware-analysis-detection/eset-malware-research-1770007c/README.md) |
-| f0wl/MalwareLab_VM-Setup | Malware Analysis & Detection | indexed | <https://github.com/f0wl/MalwareLab_VM-Setup> | [dir](../../tools/malware-analysis-detection/f0wl-malwarelab-vm-setup-70bff8a1/README.md) |
-| Ghost-crypto-exe/2018-Malware-Repository | Malware Analysis & Detection | indexed | <https://github.com/Ghost-crypto-exe/2018-Malware-Repository> | [dir](../../tools/malware-analysis-detection/ghost-crypto-exe-2018-malware-repository-fcf6e4c9/README.md) |
-| GoSecure/malboxes | Malware Analysis & Detection | indexed | <https://github.com/GoSecure/malboxes> | [dir](../../tools/malware-analysis-detection/gosecure-malboxes-47d3a69b/README.md) |
-| H4NM/WhoYouCalling | Malware Analysis & Detection | indexed | <https://github.com/H4NM/WhoYouCalling> | [dir](../../tools/malware-analysis-detection/h4nm-whoyoucalling-f882e794/README.md) |
-| HackingLZ/maps_scanner | Malware Analysis & Detection | indexed | <https://github.com/HackingLZ/maps_scanner> | [dir](../../tools/malware-analysis-detection/hackinglz-maps-scanner-4d4d9154/README.md) |
-| HackingLZ/sleepwalker | Malware Analysis & Detection | indexed | <https://github.com/HackingLZ/sleepwalker> | [dir](../../tools/malware-analysis-detection/hackinglz-sleepwalker-37a030e4/README.md) |
-| hasherezade/hidden_bee_tools | Malware Analysis & Detection | indexed | <https://github.com/hasherezade/hidden_bee_tools> | [dir](../../tools/malware-analysis-detection/hasherezade-hidden-bee-tools-0296d871/README.md) |
-| hasherezade/malware_training_vol1 | Malware Analysis & Detection | indexed | <https://github.com/hasherezade/malware_training_vol1> | [dir](../../tools/malware-analysis-detection/hasherezade-malware-training-vol1-3851c816/README.md) |
-| horsicq/Detect-It-Easy | Malware Analysis & Detection | indexed | <https://github.com/horsicq/Detect-It-Easy> | [dir](../../tools/malware-analysis-detection/horsicq-detect-it-easy-b8418ba7/README.md) |
-| horsicq/Nauz-File-Detector | Malware Analysis & Detection | indexed | <https://github.com/horsicq/Nauz-File-Detector> | [dir](../../tools/malware-analysis-detection/horsicq-nauz-file-detector-5a9e5862/README.md) |
-| HydraDragonAntivirus/HydraDragonAntivirus | Malware Analysis & Detection | indexed | <https://github.com/HydraDragonAntivirus/HydraDragonAntivirus> | [dir](../../tools/malware-analysis-detection/hydradragonantivirus-hydradragonantivirus-d1469089/README.md) |
-| HynekPetrak/malware-jail | Malware Analysis & Detection | indexed | <https://github.com/HynekPetrak/malware-jail> | [dir](../../tools/malware-analysis-detection/hynekpetrak-malware-jail-34620191/README.md) |
-| InQuest/malware-samples | Malware Analysis & Detection | indexed | <https://github.com/InQuest/malware-samples> | [dir](../../tools/malware-analysis-detection/inquest-malware-samples-596b322d/README.md) |
-| JameZUK/Arkana | Malware Analysis & Detection | indexed | <https://github.com/JameZUK/Arkana> | [dir](../../tools/malware-analysis-detection/jamezuk-arkana-098962fa/README.md) |
-| JoasASantos/Malware-Analysis-Exercises | Malware Analysis & Detection | indexed | <https://github.com/JoasASantos/Malware-Analysis-Exercises> | [dir](../../tools/malware-analysis-detection/joasasantos-malware-analysis-exercises-20b1f262/README.md) |
-| Kart1keya/Hachi | Malware Analysis & Detection | indexed | <https://github.com/Kart1keya/Hachi> | [dir](../../tools/malware-analysis-detection/kart1keya-hachi-a0048500/README.md) |
-| keithjjones/fileintel | Malware Analysis & Detection | indexed | <https://github.com/keithjjones/fileintel> | [dir](../../tools/malware-analysis-detection/keithjjones-fileintel-9a1fa717/README.md) |
-| keowu/koidbg | Malware Analysis & Detection | archived | <https://github.com/keowu/koidbg> | [dir](../../tools/malware-analysis-detection/keowu-koidbg-fc95dfb6/README.md) |
-| kevoreilly/CAPEv2 | Malware Analysis & Detection | indexed | <https://github.com/kevoreilly/CAPEv2> | [dir](../../tools/malware-analysis-detection/kevoreilly-capev2-bc2f968c/README.md) |
-| knight0x07/OneNoteAnalyzer | Malware Analysis & Detection | indexed | <https://github.com/knight0x07/OneNoteAnalyzer> | [dir](../../tools/malware-analysis-detection/knight0x07-onenoteanalyzer-19e3f34c/README.md) |
-| LearningKijo/SecurityResearcher-Note | Malware Analysis & Detection | indexed | <https://github.com/LearningKijo/SecurityResearcher-Note> | [dir](../../tools/malware-analysis-detection/learningkijo-securityresearcher-note-b8697952/README.md) |
-| M3rcuryLake/Nyxelf | Malware Analysis & Detection | indexed | <https://github.com/M3rcuryLake/Nyxelf> | [dir](../../tools/malware-analysis-detection/m3rcurylake-nyxelf-9b0bb1cc/README.md) |
-| malwaredb/malwaredb-rs | Malware Analysis & Detection | indexed | <https://github.com/malwaredb/malwaredb-rs> | [dir](../../tools/malware-analysis-detection/malwaredb-malwaredb-rs-dd9b56f6/README.md) |
-| MalwareSamples/Macos-Malware-Samples | Malware Analysis & Detection | indexed | <https://github.com/MalwareSamples/Macos-Malware-Samples> | [dir](../../tools/malware-analysis-detection/malwaresamples-macos-malware-samples-dae1820a/README.md) |
-| mandiant/flare-emu | Malware Analysis & Detection | archived | <https://github.com/mandiant/flare-emu> | [dir](../../tools/malware-analysis-detection/mandiant-flare-emu-a6038896/README.md) |
-| mandiant/jitm | Malware Analysis & Detection | archived | <https://github.com/mandiant/jitm> | [dir](../../tools/malware-analysis-detection/mandiant-jitm-4e44e624/README.md) |
-| MarioVilas/winappdbg | Malware Analysis & Detection | indexed | <https://github.com/MarioVilas/winappdbg> | [dir](../../tools/malware-analysis-detection/mariovilas-winappdbg-843f95b6/README.md) |
-| memoryforensics1/windbg-mcp | Malware Analysis & Detection | indexed | <https://github.com/memoryforensics1/windbg-mcp> | [dir](../../tools/malware-analysis-detection/memoryforensics1-windbg-mcp-9112b035/README.md) |
-| mohitmishra786/reversingBits | Malware Analysis & Detection | indexed | <https://github.com/mohitmishra786/reversingBits> | [dir](../../tools/malware-analysis-detection/mohitmishra786-reversingbits-baac164a/README.md) |
-| Neo23x0/yarGen | Malware Analysis & Detection | indexed | <https://github.com/Neo23x0/yarGen> | [dir](../../tools/malware-analysis-detection/neo23x0-yargen-c237117b/README.md) |
-| NVISOsecurity/binsnitch | Malware Analysis & Detection | archived | <https://github.com/NVISOsecurity/binsnitch> | [dir](../../tools/malware-analysis-detection/nvisosecurity-binsnitch-07d0b954/README.md) |
-| openbin-ai/binny | Malware Analysis & Detection | indexed | <https://github.com/openbin-ai/binny> | [dir](../../tools/malware-analysis-detection/openbin-ai-binny-2afb4b91/README.md) |
-| packing-box/bintropy | Malware Analysis & Detection | indexed | <https://github.com/packing-box/bintropy> | [dir](../../tools/malware-analysis-detection/packing-box-bintropy-3b893829/README.md) |
-| packing-box/peid | Malware Analysis & Detection | indexed | <https://github.com/packing-box/peid> | [dir](../../tools/malware-analysis-detection/packing-box-peid-ed994e0b/README.md) |
-| palahsu/Malware-Smog | Malware Analysis & Detection | indexed | <https://github.com/palahsu/Malware-Smog> | [dir](../../tools/malware-analysis-detection/palahsu-malware-smog-21a8d2b7/README.md) |
-| pandare9x/Configuration_extractors | Malware Analysis & Detection | indexed | <https://github.com/pandare9x/Configuration_extractors> | [dir](../../tools/malware-analysis-detection/pandare9x-configuration-extractors-f0f00dc5/README.md) |
-| pandare9x/IDAPython | Malware Analysis & Detection | indexed | <https://github.com/pandare9x/IDAPython> | [dir](../../tools/malware-analysis-detection/pandare9x-idapython-523b70de/README.md) |
-| paulveillard/cybersecurity-malware-analysis | Malware Analysis & Detection | indexed | <https://github.com/paulveillard/cybersecurity-malware-analysis> | [dir](../../tools/malware-analysis-detection/paulveillard-cybersecurity-malware-analysis-d487b040/README.md) |
-| SaadAhla/FilelessPELoader | Malware Analysis & Detection | indexed | <https://github.com/SaadAhla/FilelessPELoader> | [dir](../../tools/malware-analysis-detection/saadahla-filelesspeloader-cc30a9ea/README.md) |
-| sandflysecurity/sandfly-entropyscan | Malware Analysis & Detection | indexed | <https://github.com/sandflysecurity/sandfly-entropyscan> | [dir](../../tools/malware-analysis-detection/sandflysecurity-sandfly-entropyscan-c905c0f7/README.md) |
-| season-lab/bluepill | Malware Analysis & Detection | indexed | <https://github.com/season-lab/bluepill> | [dir](../../tools/malware-analysis-detection/season-lab-bluepill-5cac3953/README.md) |
-| secrary/DrSemu | Malware Analysis & Detection | indexed | <https://github.com/secrary/DrSemu> | [dir](../../tools/malware-analysis-detection/secrary-drsemu-a135baee/README.md) |
-| so1icitx/vm-anti-detection | Malware Analysis & Detection | indexed | <https://github.com/so1icitx/vm-anti-detection> | [dir](../../tools/malware-analysis-detection/so1icitx-vm-anti-detection-1b107f73/README.md) |
-| splintersfury/AutoPiff | Malware Analysis & Detection | indexed | <https://github.com/splintersfury/AutoPiff> | [dir](../../tools/malware-analysis-detection/splintersfury-autopiff-e5ab2d27/README.md) |
-| TaxMachine/Grabbers-Deobfuscator | Malware Analysis & Detection | indexed | <https://github.com/TaxMachine/Grabbers-Deobfuscator> | [dir](../../tools/malware-analysis-detection/taxmachine-grabbers-deobfuscator-b0e28879/README.md) |
-| ThomasThelen/Anti-Debugging | Malware Analysis & Detection | indexed | <https://github.com/ThomasThelen/Anti-Debugging> | [dir](../../tools/malware-analysis-detection/thomasthelen-anti-debugging-3cf39721/README.md) |
-| user1342/ThingFinder | Malware Analysis & Detection | indexed | <https://github.com/user1342/ThingFinder> | [dir](../../tools/malware-analysis-detection/user1342-thingfinder-57b17d81/README.md) |
-| vibheksoni/unbuned | Malware Analysis & Detection | indexed | <https://github.com/vibheksoni/unbuned> | [dir](../../tools/malware-analysis-detection/vibheksoni-unbuned-9996bc40/README.md) |
-| vihtoriadev/SirkeiraStealer | Malware Analysis & Detection | indexed | <https://github.com/vihtoriadev/SirkeiraStealer> | [dir](../../tools/malware-analysis-detection/vihtoriadev-sirkeirastealer-240ad0f0/README.md) |
-| void-stack/VMAttack | Malware Analysis & Detection | indexed | <https://github.com/void-stack/VMAttack> | [dir](../../tools/malware-analysis-detection/void-stack-vmattack-fcff5fd8/README.md) |
-| WenzWenzWenz/DelphiReSym | Malware Analysis & Detection | indexed | <https://github.com/WenzWenzWenz/DelphiReSym> | [dir](../../tools/malware-analysis-detection/wenzwenzwenz-delphiresym-2fb5f433/README.md) |
-| WithSecureOpenSource/see | Malware Analysis & Detection | indexed | <https://github.com/WithSecureOpenSource/see> | [dir](../../tools/malware-analysis-detection/withsecureopensource-see-b533c15c/README.md) |
-| x86byte/LummaC2-Stealer | Malware Analysis & Detection | indexed | <https://github.com/x86byte/LummaC2-Stealer> | [dir](../../tools/malware-analysis-detection/x86byte-lummac2-stealer-c1b2cc89/README.md) |
-| x86byte/RE-MA-Roadmap | Malware Analysis & Detection | indexed | <https://github.com/x86byte/RE-MA-Roadmap> | [dir](../../tools/malware-analysis-detection/x86byte-re-ma-roadmap-73439ded/README.md) |
-| x86byte/Stuxnet-Rootkit | Malware Analysis & Detection | indexed | <https://github.com/x86byte/Stuxnet-Rootkit> | [dir](../../tools/malware-analysis-detection/x86byte-stuxnet-rootkit-7cda8844/README.md) |
-| ytisf/theZoo | Malware Analysis & Detection | indexed | <https://github.com/ytisf/theZoo> | [dir](../../tools/malware-analysis-detection/ytisf-thezoo-7c68f40d/README.md) |
-| zaas2/StudyPE_2026 | Malware Analysis & Detection | indexed | <https://github.com/zaas2/StudyPE_2026> | [dir](../../tools/malware-analysis-detection/zaas2-studype-2026-16b4502f/README.md) |
-| zero2504/EDR-GhostLocker | Malware Analysis & Detection | indexed | <https://github.com/zero2504/EDR-GhostLocker> | [dir](../../tools/malware-analysis-detection/zero2504-edr-ghostlocker-70c934c6/README.md) |
-| ZeroMemoryEx/SleepKiller | Malware Analysis & Detection | indexed | <https://github.com/ZeroMemoryEx/SleepKiller> | [dir](../../tools/malware-analysis-detection/zeromemoryex-sleepkiller-1fc8885f/README.md) |
-| Zypherion-Technologies/Nemesis | Malware Analysis & Detection | indexed | <https://github.com/Zypherion-Technologies/Nemesis> | [dir](../../tools/malware-analysis-detection/zypherion-technologies-nemesis-2a5885c5/README.md) |
 | 7erduk/tor | Onion Search & Discovery | indexed | <https://github.com/7erduk/tor> | [dir](../../tools/onion-search-discovery/7erduk-tor-55813230/README.md) |
 | alberto2005-coder/TorLite_Browser | Onion Search & Discovery | indexed | <https://github.com/alberto2005-coder/TorLite_Browser> | [dir](../../tools/onion-search-discovery/alberto2005-coder-torlite-browser-3db93377/README.md) |
 | bencevans/nightlink | Onion Search & Discovery | archived | <https://github.com/bencevans/nightlink> | [dir](../../tools/onion-search-discovery/bencevans-nightlink-719e18c9/README.md) |
@@ -175,50 +35,328 @@
 | wille/relayawards | Onion Search & Discovery | archived | <https://github.com/wille/relayawards> | [dir](../../tools/onion-search-discovery/wille-relayawards-0145eb8e/README.md) |
 | 3nock/OTE | OSINT & Reconnaissance | archived | <https://github.com/3nock/OTE> | [dir](../../tools/osint-reconnaissance/3nock-ote-175f7e00/README.md) |
 | aancw/Belati | OSINT & Reconnaissance | archived | <https://github.com/aancw/Belati> | [dir](../../tools/osint-reconnaissance/aancw-belati-12b76a75/README.md) |
+| Accuranker | OSINT & Reconnaissance | indexed | <https://www.accuranker.com> | [dir](../../tools/osint-reconnaissance/www-accuranker-com-5197e1a3/README.md) |
+| ahrefs | OSINT & Reconnaissance | indexed | <https://ahrefs.com> | [dir](../../tools/osint-reconnaissance/ahrefs-com-5af68b59/README.md) |
 | Alb-310/Geogramint | OSINT & Reconnaissance | archived | <https://github.com/Alb-310/Geogramint> | [dir](../../tools/osint-reconnaissance/alb-310-geogramint-66d3db8f/README.md) |
 | AlephNullSK/dnsgen | OSINT & Reconnaissance | indexed | <https://github.com/AlephNullSK/dnsgen> | [dir](../../tools/osint-reconnaissance/alephnullsk-dnsgen-ab0c2878/README.md) |
+| AllStocksLinks | OSINT & Reconnaissance | indexed | <https://www.allstocks.com/links> | [dir](../../tools/osint-reconnaissance/www-allstocks-com-links-9738a3cd/README.md) |
+| ANG13T/SatIntel | OSINT & Reconnaissance | indexed | <https://github.com/ANG13T/SatIntel> | [dir](../../tools/osint-reconnaissance/ang13t-satintel-2e29b182/README.md) |
+| ArcGIS | OSINT & Reconnaissance | indexed | <https://livingatlas.arcgis.com/en/browse/> | [dir](../../tools/osint-reconnaissance/livingatlas-arcgis-com-en-browse-dca0f956/README.md) |
+| atenreiro/opensquat | OSINT & Reconnaissance | indexed | <https://github.com/atenreiro/opensquat> | [dir](../../tools/osint-reconnaissance/atenreiro-opensquat-d0c29e58/README.md) |
+| Atlas | OSINT & Reconnaissance | indexed | <https://atlas.co> | [dir](../../tools/osint-reconnaissance/atlas-co-272cef16/README.md) |
+| Atlasify | OSINT & Reconnaissance | indexed | <http://www.atlasify.com> | [dir](../../tools/osint-reconnaissance/www-atlasify-com-32de738b/README.md) |
+| AudienceCue | OSINT & Reconnaissance | indexed | <https://audiencecue.com/en/tools/youtube-comment-downloader> | [dir](../../tools/osint-reconnaissance/audiencecue-com-en-tools-youtube-comment-downloader-1a5fb834/README.md) |
+| Azure Tenant Resolution by PingCastle | OSINT & Reconnaissance | indexed | <https://tenantresolution.pingcastle.com> | [dir](../../tools/osint-reconnaissance/tenantresolution-pingcastle-com-0a6ed38b/README.md) |
+| Baidu Maps | OSINT & Reconnaissance | indexed | <https://map.baidu.com/> | [dir](../../tools/osint-reconnaissance/map-baidu-com-0d199b50/README.md) |
+| Batchgeo | OSINT & Reconnaissance | indexed | <https://batchgeo.com> | [dir](../../tools/osint-reconnaissance/batchgeo-com-5882efad/README.md) |
 | be0vlk/lambchop | OSINT & Reconnaissance | archived | <https://github.com/be0vlk/lambchop> | [dir](../../tools/osint-reconnaissance/be0vlk-lambchop-be8ef15c/README.md) |
+| Bellingcat Online Researcher Survey: Tool Wishes | OSINT & Reconnaissance | indexed | <https://docs.google.com/spreadsheets/d/1vNJRMrlwI7i06diBJtRJWrvt4YuPOqlbUV5o00P_YmE/edit#gid=1378107220> | [dir](../../tools/osint-reconnaissance/docs-google-com-spreadsheets-d-1vnjrmrlwi7i06dibjtrjwrvt4yupoqlb-0c039f5d/README.md) |
 | bernsteining/instaloctrack | OSINT & Reconnaissance | archived | <https://github.com/bernsteining/instaloctrack> | [dir](../../tools/osint-reconnaissance/bernsteining-instaloctrack-902210ca/README.md) |
+| Better Business Bureau | OSINT & Reconnaissance | indexed | <https://www.bbb.org> | [dir](../../tools/osint-reconnaissance/www-bbb-org-73c177fe/README.md) |
+| Bgpview.io | OSINT & Reconnaissance | indexed | <https://bgpview.io> | [dir](../../tools/osint-reconnaissance/bgpview-io-f2cd614b/README.md) |
+| Bing Maps | OSINT & Reconnaissance | indexed | <https://www.bing.com/maps> | [dir](../../tools/osint-reconnaissance/www-bing-com-maps-1d18257b/README.md) |
+| Bing Webmaster Tools | OSINT & Reconnaissance | indexed | <https://www.bing.com/toolbox/webmaster> | [dir](../../tools/osint-reconnaissance/www-bing-com-toolbox-webmaster-6fa592d9/README.md) |
+| Bizeurope | OSINT & Reconnaissance | indexed | <http://www.bizeurope.com> | [dir](../../tools/osint-reconnaissance/www-bizeurope-com-e4d66d5a/README.md) |
+| Bloomberg | OSINT & Reconnaissance | indexed | <https://www.bloomberg.com/research/company/overview/overview.asp> | [dir](../../tools/osint-reconnaissance/www-bloomberg-com-research-company-overview-overview-asp-aa1fe21d/README.md) |
+| BrownBook | OSINT & Reconnaissance | indexed | <https://www.brownbook.net/> | [dir](../../tools/osint-reconnaissance/www-brownbook-net-21d516ce/README.md) |
+| Browserling | OSINT & Reconnaissance | indexed | <https://www.browserling.com> | [dir](../../tools/osint-reconnaissance/www-browserling-com-3c669ad2/README.md) |
+| BuiltWith | OSINT & Reconnaissance | indexed | <https://builtwith.com> | [dir](../../tools/osint-reconnaissance/builtwith-com-713eabcc/README.md) |
+| Bureau Van Dijk | OSINT & Reconnaissance | indexed | <https://www.bvdinfo.com> | [dir](../../tools/osint-reconnaissance/www-bvdinfo-com-f5cf7347/README.md) |
 | BushidoUK/Open-source-tools-for-CTI | OSINT & Reconnaissance | indexed | <https://github.com/BushidoUK/Open-source-tools-for-CTI> | [dir](../../tools/osint-reconnaissance/bushidouk-open-source-tools-for-cti-389d791d/README.md) |
+| Business Source | OSINT & Reconnaissance | indexed | <https://www.ebscohost.com/academic/business-source-complete> | [dir](../../tools/osint-reconnaissance/www-ebscohost-com-academic-business-source-complete-b61c5414/README.md) |
 | byt3bl33d3r/WitnessMe | OSINT & Reconnaissance | archived | <https://github.com/byt3bl33d3r/WitnessMe> | [dir](../../tools/osint-reconnaissance/byt3bl33d3r-witnessme-875ad418/README.md) |
+| C3n7ral051nt4g3ncy/GitOSINT_Bot | OSINT & Reconnaissance | archived | <https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot> | [dir](../../tools/osint-reconnaissance/c3n7ral051nt4g3ncy-gitosint-bot-531ee292/README.md) |
+| CallerID Test | OSINT & Reconnaissance | indexed | <https://calleridtest.com/> | [dir](../../tools/osint-reconnaissance/calleridtest-com-b5257e71/README.md) |
+| Canadian Business Research | OSINT & Reconnaissance | indexed | <https://www.canada.ca/en/services/business/research.html> | [dir](../../tools/osint-reconnaissance/www-canada-ca-en-services-business-research-html-46393739/README.md) |
+| CartoDB | OSINT & Reconnaissance | indexed | <https://cartodb.com> | [dir](../../tools/osint-reconnaissance/cartodb-com-781aeecf/README.md) |
+| Caselaw Access Project | OSINT & Reconnaissance | indexed | <https://case.law/> | [dir](../../tools/osint-reconnaissance/case-law-313f15aa/README.md) |
+| Central Ops | OSINT & Reconnaissance | indexed | <https://centralops.net> | [dir](../../tools/osint-reconnaissance/centralops-net-58da8ed2/README.md) |
+| Cerast Intelligence | OSINT & Reconnaissance | indexed | <https://search.cerast-intelligence.com/> | [dir](../../tools/osint-reconnaissance/search-cerast-intelligence-com-226f662f/README.md) |
+| chat.deepseek.com | OSINT & Reconnaissance | indexed | <https://chat.deepseek.com/> | [dir](../../tools/osint-reconnaissance/chat-deepseek-com-510cc1db/README.md) |
+| chat.openai.com | OSINT & Reconnaissance | indexed | <https://chat.openai.com/> | [dir](../../tools/osint-reconnaissance/chat-openai-com-9b9d2141/README.md) |
+| claude.ai | OSINT & Reconnaissance | indexed | <https://claude.ai/> | [dir](../../tools/osint-reconnaissance/claude-ai-4476d431/README.md) |
 | clouedoc/AutoSQLi | OSINT & Reconnaissance | archived | <https://github.com/clouedoc/AutoSQLi> | [dir](../../tools/osint-reconnaissance/clouedoc-autosqli-c1dec67e/README.md) |
+| Colorbrewer | OSINT & Reconnaissance | indexed | <https://colorbrewer2.org> | [dir](../../tools/osint-reconnaissance/colorbrewer2-org-4d840426/README.md) |
+| Company Registration Round the World | OSINT & Reconnaissance | indexed | <https://www.commercial-register.sg.ch/home/worldwide.html> | [dir](../../tools/osint-reconnaissance/www-commercial-register-sg-ch-home-worldwide-html-12f2405c/README.md) |
+| Company Research Resources by Country Comparably | OSINT & Reconnaissance | indexed | <https://www.comparably.com> | [dir](../../tools/osint-reconnaissance/www-comparably-com-5f50fd5a/README.md) |
+| CompeteShark | OSINT & Reconnaissance | indexed | <https://competeshark.com> | [dir](../../tools/osint-reconnaissance/competeshark-com-2de1cac9/README.md) |
+| Corporate Information | OSINT & Reconnaissance | indexed | <https://www.corporateinformation.com> | [dir](../../tools/osint-reconnaissance/www-corporateinformation-com-1aaa65cb/README.md) |
+| CorporationWiki | OSINT & Reconnaissance | indexed | <https://www.corporationwiki.com/> | [dir](../../tools/osint-reconnaissance/www-corporationwiki-com-7887ef4f/README.md) |
+| CrawlGraph | OSINT & Reconnaissance | indexed | <https://crawlgraph.com> | [dir](../../tools/osint-reconnaissance/crawlgraph-com-76e26865/README.md) |
+| CrowdMap | OSINT & Reconnaissance | indexed | <https://crowdmap.com> | [dir](../../tools/osint-reconnaissance/crowdmap-com-81e1f995/README.md) |
+| CTLRQ Address Lookup | OSINT & Reconnaissance | indexed | <https://ctrlq.org/maps/address> | [dir](../../tools/osint-reconnaissance/ctrlq-org-maps-address-6172042f/README.md) |
 | CyberIntelligenceLab/CTI-House | OSINT & Reconnaissance | indexed | <https://github.com/CyberIntelligenceLab/CTI-House> | [dir](../../tools/osint-reconnaissance/cyberintelligencelab-cti-house-99acb793/README.md) |
 | cyh-skill/field-graph | OSINT & Reconnaissance | indexed | <https://github.com/cyh-skill/field-graph> | [dir](../../tools/osint-reconnaissance/cyh-skill-field-graph-39d969c3/README.md) |
 | daprofiler/DaProfiler | OSINT & Reconnaissance | archived | <https://github.com/daprofiler/DaProfiler> | [dir](../../tools/osint-reconnaissance/daprofiler-daprofiler-830bef2d/README.md) |
 | Darkelf-Labs/Darkelf-OSINT-Ai | OSINT & Reconnaissance | archived | <https://github.com/Darkelf-Labs/Darkelf-OSINT-Ai> | [dir](../../tools/osint-reconnaissance/darkelf-labs-darkelf-osint-ai-d7621190/README.md) |
-| DevCop95/bugbounty-lab101 | OSINT & Reconnaissance | indexed | <https://github.com/DevCop95/bugbounty-lab101> | [dir](../../tools/osint-reconnaissance/devcop95-bugbounty-lab101-99b15a28/README.md) |
+| Data.com Connect | OSINT & Reconnaissance | indexed | <https://connect.data.com> | [dir](../../tools/osint-reconnaissance/connect-data-com-9f3442cb/README.md) |
+| Dedicated or Not | OSINT & Reconnaissance | indexed | <https://dedicatedornot.com> | [dir](../../tools/osint-reconnaissance/dedicatedornot-com-5969747e/README.md) |
+| Descartes Labs | OSINT & Reconnaissance | indexed | <https://maps.descarteslabs.com/> | [dir](../../tools/osint-reconnaissance/maps-descarteslabs-com-e3ce2fd6/README.md) |
+| digiKam | OSINT & Reconnaissance | indexed | <https://www.digikam.org/> | [dir](../../tools/osint-reconnaissance/www-digikam-org-e6a0c81e/README.md) |
 | dmytrokurochkin/Easy-Osint-Bot | OSINT & Reconnaissance | indexed | <https://github.com/dmytrokurochkin/Easy-Osint-Bot> | [dir](../../tools/osint-reconnaissance/dmytrokurochkin-easy-osint-bot-f5d8a10c/README.md) |
+| DNS History | OSINT & Reconnaissance | indexed | <https://completedns.com/dns-history/> | [dir](../../tools/osint-reconnaissance/completedns-com-dns-history-fefc4e76/README.md) |
+| DNSai | OSINT & Reconnaissance | indexed | <https://dnsai.com/dns-tools/> | [dir](../../tools/osint-reconnaissance/dnsai-com-dns-tools-8ec156d8/README.md) |
+| DNSDumpster | OSINT & Reconnaissance | indexed | <https://dnsdumpster.com> | [dir](../../tools/osint-reconnaissance/dnsdumpster-com-9e6bda87/README.md) |
+| DNSStuff | OSINT & Reconnaissance | indexed | <https://www.dnsstuff.com> | [dir](../../tools/osint-reconnaissance/www-dnsstuff-com-0123a3df/README.md) |
+| DNSViz | OSINT & Reconnaissance | indexed | <https://dnsviz.net> | [dir](../../tools/osint-reconnaissance/dnsviz-net-ac6c1836/README.md) |
+| Domain Crawler | OSINT & Reconnaissance | indexed | <https://www.domaincrawler.com> | [dir](../../tools/osint-reconnaissance/www-domaincrawler-com-16e1c49d/README.md) |
+| Domain Dossier | OSINT & Reconnaissance | indexed | <https://centralops.net/co/DomainDossier.aspx> | [dir](../../tools/osint-reconnaissance/centralops-net-co-domaindossier-aspx-6f4c184f/README.md) |
+| Domain Intelligence | OSINT & Reconnaissance | indexed | <https://oti-labs.com/domain-intelligence-api> | [dir](../../tools/osint-reconnaissance/oti-labs-com-domain-intelligence-api-da3840a5/README.md) |
+| Domain Tools | OSINT & Reconnaissance | indexed | <https://whois.domaintools.com> | [dir](../../tools/osint-reconnaissance/whois-domaintools-com-59872fe9/README.md) |
+| DomainRecon | OSINT & Reconnaissance | indexed | <https://kriztalz.sh/domain-recon/> | [dir](../../tools/osint-reconnaissance/kriztalz-sh-domain-recon-244a4158/README.md) |
+| Dominoc925 | OSINT & Reconnaissance | indexed | <https://dominoc925-pages.appspot.com/mapplets/cs_mgrs.html> | [dir](../../tools/osint-reconnaissance/dominoc925-pages-appspot-com-mapplets-cs-mgrs-html-a3d6d78e/README.md) |
+| DualMaps | OSINT & Reconnaissance | indexed | <https://www.mapchannels.com/dualmaps7/map.htm> | [dir](../../tools/osint-reconnaissance/www-mapchannels-com-dualmaps7-map-htm-c90bfefd/README.md) |
+| Easy whois | OSINT & Reconnaissance | indexed | <https://www.easywhois.com> | [dir](../../tools/osint-reconnaissance/www-easywhois-com-f88fe3ea/README.md) |
+| EDGAR U.S. Securities and Exchange Commission Filings | OSINT & Reconnaissance | indexed | <https://www.edgar-online.com> | [dir](../../tools/osint-reconnaissance/www-edgar-online-com-59f47873/README.md) |
+| EdOverflow/megplus | OSINT & Reconnaissance | archived | <https://github.com/EdOverflow/megplus> | [dir](../../tools/osint-reconnaissance/edoverflow-megplus-e9280ec1/README.md) |
+| EpicVIN | OSINT & Reconnaissance | indexed | <https://epicvin.com/> | [dir](../../tools/osint-reconnaissance/epicvin-com-7e493a73/README.md) |
+| Esri | OSINT & Reconnaissance | indexed | <https://www.esri.com> | [dir](../../tools/osint-reconnaissance/www-esri-com-c1c5c085/README.md) |
+| Europages | OSINT & Reconnaissance | indexed | <https://www.europages.co.uk> | [dir](../../tools/osint-reconnaissance/www-europages-co-uk-4476c65f/README.md) |
+| European Business Register | OSINT & Reconnaissance | indexed | <http://www.ebr.org> | [dir](../../tools/osint-reconnaissance/www-ebr-org-5acdf752/README.md) |
 | evilsocket/xray | OSINT & Reconnaissance | archived | <https://github.com/evilsocket/xray> | [dir](../../tools/osint-reconnaissance/evilsocket-xray-72699eac/README.md) |
+| Ezilon | OSINT & Reconnaissance | indexed | <https://www.ezilon.com> | [dir](../../tools/osint-reconnaissance/www-ezilon-com-9466ac30/README.md) |
+| Factiva | OSINT & Reconnaissance | indexed | <https://global.factiva.com> | [dir](../../tools/osint-reconnaissance/global-factiva-com-6f8f0363/README.md) |
 | Faizee-Asad/InstaRecon | OSINT & Reconnaissance | indexed | <https://github.com/Faizee-Asad/InstaRecon> | [dir](../../tools/osint-reconnaissance/faizee-asad-instarecon-c1c0fa75/README.md) |
+| FamilyTreeNow | OSINT & Reconnaissance | indexed | <https://familytreenow.com> | [dir](../../tools/osint-reconnaissance/familytreenow-com-9fdc13c2/README.md) |
+| FaxVIN | OSINT & Reconnaissance | indexed | <https://www.faxvin.com/> | [dir](../../tools/osint-reconnaissance/www-faxvin-com-082ccaa6/README.md) |
 | ffffffff0x/Digital-Privacy | OSINT & Reconnaissance | archived | <https://github.com/ffffffff0x/Digital-Privacy> | [dir](../../tools/osint-reconnaissance/ffffffff0x-digital-privacy-85fdd2db/README.md) |
+| Flash Earth | OSINT & Reconnaissance | indexed | <https://www.flashearth.com> | [dir](../../tools/osint-reconnaissance/www-flashearth-com-b60fdadb/README.md) |
+| Follow.net | OSINT & Reconnaissance | indexed | <https://follow.net> | [dir](../../tools/osint-reconnaissance/follow-net-5cee57d3/README.md) |
+| Forbes Global 2000 | OSINT & Reconnaissance | indexed | <https://www.forbes.com/global2000/> | [dir](../../tools/osint-reconnaissance/www-forbes-com-global2000-034b0f3d/README.md) |
+| Free Proxy List | OSINT & Reconnaissance | indexed | <https://github.com/proxifly/free-proxy-list> | [dir](../../tools/osint-reconnaissance/proxifly-free-proxy-list-641d4a84/README.md) |
+| FreeCarrierLookup | OSINT & Reconnaissance | indexed | <https://freecarrierlookup.com/> | [dir](../../tools/osint-reconnaissance/freecarrierlookup-com-76cdb949/README.md) |
+| frknaykc/SecOps-Google-Dork-Collection | OSINT & Reconnaissance | indexed | <https://github.com/frknaykc/SecOps-Google-Dork-Collection> | [dir](../../tools/osint-reconnaissance/frknaykc-secops-google-dork-collection-96d6df3f/README.md) |
+| gemini.google.com | OSINT & Reconnaissance | indexed | <https://gemini.google.com/> | [dir](../../tools/osint-reconnaissance/gemini-google-com-e1b1fa15/README.md) |
+| GeoGig | OSINT & Reconnaissance | indexed | <https://geogig.org> | [dir](../../tools/osint-reconnaissance/geogig-org-6b26e32d/README.md) |
+| GeoInfer | OSINT & Reconnaissance | indexed | <https://geoinfer.com> | [dir](../../tools/osint-reconnaissance/geoinfer-com-fedba195/README.md) |
+| GeoNames | OSINT & Reconnaissance | indexed | <https://www.geonames.org> | [dir](../../tools/osint-reconnaissance/www-geonames-org-c9e1e10d/README.md) |
+| Glassdoor | OSINT & Reconnaissance | indexed | <https://www.glassdoor.com> | [dir](../../tools/osint-reconnaissance/www-glassdoor-com-0676e434/README.md) |
+| globalEdge | OSINT & Reconnaissance | indexed | <https://globaledge.msu.edu> | [dir](../../tools/osint-reconnaissance/globaledge-msu-edu-9ff61a76/README.md) |
 | GONZOsint/Namechk | OSINT & Reconnaissance | archived | <https://github.com/GONZOsint/Namechk> | [dir](../../tools/osint-reconnaissance/gonzosint-namechk-d1f33843/README.md) |
+| GoodFirms | OSINT & Reconnaissance | indexed | <https://www.goodfirms.co/> | [dir](../../tools/osint-reconnaissance/www-goodfirms-co-c7c1b7ed/README.md) |
+| Google Adwords | OSINT & Reconnaissance | indexed | <https://adwords.google.com> | [dir](../../tools/osint-reconnaissance/adwords-google-com-30fdaad1/README.md) |
+| Google Earth | OSINT & Reconnaissance | indexed | <https://www.google.com/earth> | [dir](../../tools/osint-reconnaissance/www-google-com-earth-5e80fca2/README.md) |
+| Google Earth Pro | OSINT & Reconnaissance | indexed | <https://www.google.com/intl/en/earth/versions/#earth-pro> | [dir](../../tools/osint-reconnaissance/www-google-com-intl-en-earth-versions-3e3a1d7a/README.md) |
+| Google Maps | OSINT & Reconnaissance | indexed | <https://www.google.com/maps> | [dir](../../tools/osint-reconnaissance/www-google-com-maps-978c6cf7/README.md) |
+| Google My Maps | OSINT & Reconnaissance | indexed | <https://www.google.com/maps/about/mymaps> | [dir](../../tools/osint-reconnaissance/www-google-com-maps-about-mymaps-1aad295f/README.md) |
+| Google Trends | OSINT & Reconnaissance | indexed | <https://www.google.com/trends> | [dir](../../tools/osint-reconnaissance/www-google-com-trends-ac3dc08b/README.md) |
+| GPSVisualizer | OSINT & Reconnaissance | indexed | <https://www.gpsvisualizer.com> | [dir](../../tools/osint-reconnaissance/www-gpsvisualizer-com-4694ab00/README.md) |
+| GraphyStories | OSINT & Reconnaissance | indexed | <https://app.graphystories.com> | [dir](../../tools/osint-reconnaissance/app-graphystories-com-e602d839/README.md) |
+| GrassGIS | OSINT & Reconnaissance | indexed | <https://grass.osgeo.org> | [dir](../../tools/osint-reconnaissance/grass-osgeo-org-cf34e88d/README.md) |
+| Here | OSINT & Reconnaissance | indexed | <https://here.com> | [dir](../../tools/osint-reconnaissance/here-com-05ee20e9/README.md) |
+| hessman/gcert | OSINT & Reconnaissance | archived | <https://github.com/hessman/gcert> | [dir](../../tools/osint-reconnaissance/hessman-gcert-886eb90f/README.md) |
+| Hoovers | OSINT & Reconnaissance | indexed | <https://www.hoovers.com> | [dir](../../tools/osint-reconnaissance/www-hoovers-com-e45058b2/README.md) |
+| https://agruni.edu.ge | OSINT & Reconnaissance | indexed | <https://agruni.edu.ge> | [dir](../../tools/osint-reconnaissance/agruni-edu-ge-aea0ecd6/README.md) |
+| https://atlanticcouncil.org/programs/digital-forensic-research-lab/ | OSINT & Reconnaissance | indexed | <https://atlanticcouncil.org/programs/digital-forensic-research-lab/> | [dir](../../tools/osint-reconnaissance/atlanticcouncil-org-programs-digital-forensic-research-lab-c8ef4fcf/README.md) |
+| https://catagi.ge | OSINT & Reconnaissance | indexed | <https://catagi.ge> | [dir](../../tools/osint-reconnaissance/catagi-ge-ee167186/README.md) |
+| https://crrc.ge | OSINT & Reconnaissance | indexed | <https://crrc.ge> | [dir](../../tools/osint-reconnaissance/crrc-ge-86b7b6d7/README.md) |
+| https://democracyresearch.ge | OSINT & Reconnaissance | indexed | <https://democracyresearch.ge> | [dir](../../tools/osint-reconnaissance/democracyresearch-ge-cc00e265/README.md) |
+| https://gtu.ge | OSINT & Reconnaissance | indexed | <https://gtu.ge> | [dir](../../tools/osint-reconnaissance/gtu-ge-b0dc9e9a/README.md) |
+| https://icij.org | OSINT & Reconnaissance | indexed | <https://icij.org> | [dir](../../tools/osint-reconnaissance/icij-org-a800b64c/README.md) |
+| https://research.domaintools.com/statistics/tldpedia/ge | OSINT & Reconnaissance | indexed | <https://research.domaintools.com/statistics/tldpedia/ge> | [dir](../../tools/osint-reconnaissance/research-domaintools-com-statistics-tldpedia-ge-94d15976/README.md) |
+| huggingface.co/chat | OSINT & Reconnaissance | indexed | <https://huggingface.co/chat/> | [dir](../../tools/osint-reconnaissance/huggingface-co-chat-f6ec3b7a/README.md) |
+| Hyperlapse | OSINT & Reconnaissance | indexed | <https://github.com/TeehanLax/Hyperlapse.js> | [dir](../../tools/osint-reconnaissance/teehanlax-hyperlapse-js-89d0b5cc/README.md) |
+| HypeStat | OSINT & Reconnaissance | indexed | <https://www.hypestat.com> | [dir](../../tools/osint-reconnaissance/www-hypestat-com-16a4f30f/README.md) |
+| Icann Lookup | OSINT & Reconnaissance | indexed | <https://lookup.icann.org/en/lookup> | [dir](../../tools/osint-reconnaissance/lookup-icann-org-en-lookup-50ea418e/README.md) |
+| Inc. 5000 | OSINT & Reconnaissance | indexed | <https://www.inc.com/inc5000> | [dir](../../tools/osint-reconnaissance/www-inc-com-inc5000-5a05e9e0/README.md) |
+| Indeed | OSINT & Reconnaissance | indexed | <https://www.indeed.com> | [dir](../../tools/osint-reconnaissance/www-indeed-com-47df2bc0/README.md) |
+| Infosniper | OSINT & Reconnaissance | indexed | <https://www.infosniper.net> | [dir](../../tools/osint-reconnaissance/www-infosniper-net-8d8ce0a8/README.md) |
+| Instant Google Street View | OSINT & Reconnaissance | indexed | <https://www.instantstreetview.com> | [dir](../../tools/osint-reconnaissance/www-instantstreetview-com-315d4a6e/README.md) |
+| InstantAtlas | OSINT & Reconnaissance | indexed | <https://www.instantatlas.com> | [dir](../../tools/osint-reconnaissance/www-instantatlas-com-e766d9fb/README.md) |
+| intoDNS | OSINT & Reconnaissance | indexed | <http://www.intodns.com> | [dir](../../tools/osint-reconnaissance/www-intodns-com-8acb6ee5/README.md) |
+| IntoDNS.ai | OSINT & Reconnaissance | indexed | <https://intodns.ai> | [dir](../../tools/osint-reconnaissance/intodns-ai-99db651b/README.md) |
+| IP 2 Geolocation | OSINT & Reconnaissance | indexed | <https://ip2geolocation.com> | [dir](../../tools/osint-reconnaissance/ip2geolocation-com-43dbea94/README.md) |
+| IP 2 Location | OSINT & Reconnaissance | indexed | <http://www.ip2location.com/demo.aspx> | [dir](../../tools/osint-reconnaissance/www-ip2location-com-demo-aspx-875af140/README.md) |
+| IP Checking | OSINT & Reconnaissance | indexed | <http://www.ipchecking.com> | [dir](../../tools/osint-reconnaissance/www-ipchecking-com-ed72ad7b/README.md) |
+| IP Location | OSINT & Reconnaissance | indexed | <https://www.iplocation.net> | [dir](../../tools/osint-reconnaissance/www-iplocation-net-f1a10408/README.md) |
+| IP Location.io | OSINT & Reconnaissance | indexed | <https://iplocation.io> | [dir](../../tools/osint-reconnaissance/iplocation-io-6bc6c10c/README.md) |
+| IPFingerprints | OSINT & Reconnaissance | indexed | <https://www.ipfingerprints.com> | [dir](../../tools/osint-reconnaissance/www-ipfingerprints-com-0bff1274/README.md) |
+| IPVoid | OSINT & Reconnaissance | indexed | <https://www.ipvoid.com> | [dir](../../tools/osint-reconnaissance/www-ipvoid-com-5b8f3290/README.md) |
+| iSpionage | OSINT & Reconnaissance | indexed | <https://www.ispionage.com> | [dir](../../tools/osint-reconnaissance/www-ispionage-com-b8898d7d/README.md) |
 | iudicium/pryingdeep | OSINT & Reconnaissance | archived | <https://github.com/iudicium/pryingdeep> | [dir](../../tools/osint-reconnaissance/iudicium-pryingdeep-a2815e98/README.md) |
 | jofpin/trape | OSINT & Reconnaissance | indexed | <https://github.com/jofpin/trape> | [dir](../../tools/osint-reconnaissance/jofpin-trape-2dbef429/README.md) |
 | Josue87/EmailFinder | OSINT & Reconnaissance | archived | <https://github.com/Josue87/EmailFinder> | [dir](../../tools/osint-reconnaissance/josue87-emailfinder-332575bb/README.md) |
 | Josue87/MetaFinder | OSINT & Reconnaissance | archived | <https://github.com/Josue87/MetaFinder> | [dir](../../tools/osint-reconnaissance/josue87-metafinder-e125b04e/README.md) |
 | kaifcodec/user-scanner | OSINT & Reconnaissance | indexed | <https://github.com/kaifcodec/user-scanner> | [dir](../../tools/osint-reconnaissance/kaifcodec-user-scanner-d2a87014/README.md) |
+| KartaView | OSINT & Reconnaissance | indexed | <https://kartaview.org/map/> | [dir](../../tools/osint-reconnaissance/kartaview-org-map-16d5f784/README.md) |
+| Kartograph | OSINT & Reconnaissance | indexed | <http://kartograph.org> | [dir](../../tools/osint-reconnaissance/kartograph-org-c65d7737/README.md) |
+| Keyword Discovery | OSINT & Reconnaissance | indexed | <https://www.keyworddiscovery.com> | [dir](../../tools/osint-reconnaissance/www-keyworddiscovery-com-d5a351c2/README.md) |
+| Keyword Spy | OSINT & Reconnaissance | indexed | <https://www.keywordspy.com> | [dir](../../tools/osint-reconnaissance/www-keywordspy-com-6325d23a/README.md) |
+| KeywordTool | OSINT & Reconnaissance | indexed | <https://keywordtool.io> | [dir](../../tools/osint-reconnaissance/keywordtool-io-986ceb2a/README.md) |
+| Kloth | OSINT & Reconnaissance | indexed | <https://www.kloth.net/services> | [dir](../../tools/osint-reconnaissance/www-kloth-net-services-7e4724f3/README.md) |
+| Lacis | OSINT & Reconnaissance | indexed | <https://c4seus.github.io/lacis/> | [dir](../../tools/osint-reconnaissance/c4seus-github-io-lacis-8bebd6db/README.md) |
 | LASDovah/OSINT-Page | OSINT & Reconnaissance | indexed | <https://github.com/LASDovah/OSINT-Page> | [dir](../../tools/osint-reconnaissance/lasdovah-osint-page-2ada3db5/README.md) |
+| List of Newspapers.com | OSINT & Reconnaissance | indexed | <http://www.listofnewspapers.com> | [dir](../../tools/osint-reconnaissance/www-listofnewspapers-com-a0f6e793/README.md) |
+| Liveuamap | OSINT & Reconnaissance | indexed | <https://liveuamap.com/> | [dir](../../tools/osint-reconnaissance/liveuamap-com-405fed64/README.md) |
+| Majestic | OSINT & Reconnaissance | indexed | <https://majestic.com> | [dir](../../tools/osint-reconnaissance/majestic-com-f3d24978/README.md) |
+| Map Maker | OSINT & Reconnaissance | indexed | <https://maps.co> | [dir](../../tools/osint-reconnaissance/maps-co-18f5a388/README.md) |
+| MapAList | OSINT & Reconnaissance | indexed | <https://mapalist.com> | [dir](../../tools/osint-reconnaissance/mapalist-com-c778a1cf/README.md) |
+| MapBox | OSINT & Reconnaissance | indexed | <https://www.mapbox.com> | [dir](../../tools/osint-reconnaissance/www-mapbox-com-06999bf9/README.md) |
+| Mapchart.net | OSINT & Reconnaissance | indexed | <https://mapchart.net> | [dir](../../tools/osint-reconnaissance/mapchart-net-bc645ffd/README.md) |
+| MapChecking | OSINT & Reconnaissance | indexed | <https://www.mapchecking.com/> | [dir](../../tools/osint-reconnaissance/www-mapchecking-com-9ebf89ce/README.md) |
+| Maperitive | OSINT & Reconnaissance | indexed | <http://maperitive.net> | [dir](../../tools/osint-reconnaissance/maperitive-net-be04453e/README.md) |
+| MapHub | OSINT & Reconnaissance | indexed | <https://maphub.net> | [dir](../../tools/osint-reconnaissance/maphub-net-0c7b4617/README.md) |
+| MapJam | OSINT & Reconnaissance | indexed | <https://mapjam.com> | [dir](../../tools/osint-reconnaissance/mapjam-com-320d5fbe/README.md) |
+| Mapline | OSINT & Reconnaissance | indexed | <https://mapline.com> | [dir](../../tools/osint-reconnaissance/mapline-com-e8a82bbc/README.md) |
+| Mapquest | OSINT & Reconnaissance | indexed | <https://www.mapquest.com> | [dir](../../tools/osint-reconnaissance/www-mapquest-com-d245c8db/README.md) |
+| Mark Monitor WHOIS | OSINT & Reconnaissance | indexed | <https://whois-webform.markmonitor.com/whois/> | [dir](../../tools/osint-reconnaissance/whois-webform-markmonitor-com-whois-421dcebe/README.md) |
+| Maxar | OSINT & Reconnaissance | indexed | <https://discover.digitalglobe.com/> | [dir](../../tools/osint-reconnaissance/discover-digitalglobe-com-969795e4/README.md) |
+| Mergent Intellect | OSINT & Reconnaissance | indexed | <https://www.mergentintellect.com> | [dir](../../tools/osint-reconnaissance/www-mergentintellect-com-ebdd2e72/README.md) |
+| Mergent Online | OSINT & Reconnaissance | indexed | <https://www.mergentonline.com/login.php> | [dir](../../tools/osint-reconnaissance/www-mergentonline-com-login-php-2497b66d/README.md) |
 | MetaOSINT/MetaOSINT.github.io | OSINT & Reconnaissance | archived | <https://github.com/MetaOSINT/MetaOSINT.github.io> | [dir](../../tools/osint-reconnaissance/metaosint-metaosint-github-io-a8f8f077/README.md) |
 | michenriksen/aquatone | OSINT & Reconnaissance | archived | <https://github.com/michenriksen/aquatone> | [dir](../../tools/osint-reconnaissance/michenriksen-aquatone-c7da8aa4/README.md) |
+| Modest Maps | OSINT & Reconnaissance | indexed | <https://modestmaps.com> | [dir](../../tools/osint-reconnaissance/modestmaps-com-2afa31d8/README.md) |
 | mrofcodyx/sporTracker | OSINT & Reconnaissance | indexed | <https://github.com/mrofcodyx/sporTracker> | [dir](../../tools/osint-reconnaissance/mrofcodyx-sportracker-e552e702/README.md) |
+| National Company Registers | OSINT & Reconnaissance | indexed | <https://en.wikipedia.org/wiki/List_of_company_registers> | [dir](../../tools/osint-reconnaissance/en-wikipedia-org-wiki-list-of-company-registers-f2c4a68e/README.md) |
+| Newspaper Map | OSINT & Reconnaissance | indexed | <https://newspapermap.com> | [dir](../../tools/osint-reconnaissance/newspapermap-com-ae610786/README.md) |
+| Newspapers.com | OSINT & Reconnaissance | indexed | <https://www.newspapers.com> | [dir](../../tools/osint-reconnaissance/www-newspapers-com-004d2409/README.md) |
+| Notablist | OSINT & Reconnaissance | indexed | <https://www.notablist.com> | [dir](../../tools/osint-reconnaissance/www-notablist-com-5c36de28/README.md) |
+| notebooklm.google.com | OSINT & Reconnaissance | indexed | <https://notebooklm.google.com/> | [dir](../../tools/osint-reconnaissance/notebooklm-google-com-d50d46f6/README.md) |
 | novitae/sterraxcyl | OSINT & Reconnaissance | archived | <https://github.com/novitae/sterraxcyl> | [dir](../../tools/osint-reconnaissance/novitae-sterraxcyl-e8658992/README.md) |
+| NRC Research Press | OSINT & Reconnaissance | indexed | <https://www.nrcresearchpress.com> | [dir](../../tools/osint-reconnaissance/www-nrcresearchpress-com-35660b41/README.md) |
+| One Look Reverse Dictionary | OSINT & Reconnaissance | indexed | <https://www.onelook.com/reverse-dictionary.shtml> | [dir](../../tools/osint-reconnaissance/www-onelook-com-reverse-dictionary-shtml-70b3917a/README.md) |
+| OnlineNewspapers | OSINT & Reconnaissance | indexed | <https://www.onlinenewspapers.com> | [dir](../../tools/osint-reconnaissance/www-onlinenewspapers-com-8d864e5a/README.md) |
+| Open Site Explorer | OSINT & Reconnaissance | indexed | <https://moz.com/researchtools/ose> | [dir](../../tools/osint-reconnaissance/moz-com-researchtools-ose-7d84aecf/README.md) |
+| Open Street Map | OSINT & Reconnaissance | indexed | <https://www.openstreetmap.org> | [dir](../../tools/osint-reconnaissance/www-openstreetmap-org-7eb7af63/README.md) |
+| OpenCorporates | OSINT & Reconnaissance | indexed | <https://opencorporates.com> | [dir](../../tools/osint-reconnaissance/opencorporates-com-c9d053f4/README.md) |
+| OpenLinkProfiler | OSINT & Reconnaissance | indexed | <https://www.openlinkprofiler.org/> | [dir](../../tools/osint-reconnaissance/www-openlinkprofiler-org-83e0c144/README.md) |
+| OpenOwnership Register | OSINT & Reconnaissance | indexed | <https://register.openownership.org/> | [dir](../../tools/osint-reconnaissance/register-openownership-org-c76154da/README.md) |
 | oussamaln/AEGIS-INTEL | OSINT & Reconnaissance | indexed | <https://github.com/oussamaln/AEGIS-INTEL> | [dir](../../tools/osint-reconnaissance/oussamaln-aegis-intel-b928c327/README.md) |
+| Overhead24 | OSINT & Reconnaissance | indexed | <https://overhead24.com> | [dir](../../tools/osint-reconnaissance/overhead24-com-d062ad8e/README.md) |
+| Overseas Company Registers | OSINT & Reconnaissance | indexed | <https://www.gov.uk/government/publications/overseas-registries/overseas-registries> | [dir](../../tools/osint-reconnaissance/www-gov-uk-government-publications-overseas-registries-overseas-371ec65a/README.md) |
+| PageGlimpse | OSINT & Reconnaissance | indexed | <http://www.pageglimpse.com> | [dir](../../tools/osint-reconnaissance/www-pageglimpse-com-88c3466a/README.md) |
 | Paper-Pen/GatherInfo | OSINT & Reconnaissance | indexed | <https://github.com/Paper-Pen/GatherInfo> | [dir](../../tools/osint-reconnaissance/paper-pen-gatherinfo-3f69714d/README.md) |
+| Paperboy | OSINT & Reconnaissance | indexed | <https://www.thepaperboy.com> | [dir](../../tools/osint-reconnaissance/www-thepaperboy-com-8547132c/README.md) |
 | paulpogoda/Scam-Surface-Mapper | OSINT & Reconnaissance | indexed | <https://github.com/paulpogoda/Scam-Surface-Mapper> | [dir](../../tools/osint-reconnaissance/paulpogoda-scam-surface-mapper-6092bcd8/README.md) |
+| Pentest-Tools.com | OSINT & Reconnaissance | indexed | <https://pentest-tools.com/information-gathering/google-hacking> | [dir](../../tools/osint-reconnaissance/pentest-tools-com-information-gathering-google-hacking-d4d514af/README.md) |
+| Pew Research Center | OSINT & Reconnaissance | indexed | <https://www.pewinternet.org/datasets> | [dir](../../tools/osint-reconnaissance/www-pewinternet-org-datasets-d1d25d01/README.md) |
+| phind.com | OSINT & Reconnaissance | indexed | <https://www.phind.com/> | [dir](../../tools/osint-reconnaissance/www-phind-com-91f31431/README.md) |
 | phishdestroy/DestroyScammers | OSINT & Reconnaissance | indexed | <https://github.com/phishdestroy/DestroyScammers> | [dir](../../tools/osint-reconnaissance/phishdestroy-destroyscammers-0776b91e/README.md) |
+| Pic2Map | OSINT & Reconnaissance | indexed | <https://www.pic2map.com/> | [dir](../../tools/osint-reconnaissance/www-pic2map-com-ed771463/README.md) |
+| Plunkett Research | OSINT & Reconnaissance | indexed | <https://www.plunkettresearchonline.com> | [dir](../../tools/osint-reconnaissance/www-plunkettresearchonline-com-e92b28bf/README.md) |
+| Polymaps | OSINT & Reconnaissance | indexed | <https://polymaps.org> | [dir](../../tools/osint-reconnaissance/polymaps-org-ed5876d5/README.md) |
+| QGIS | OSINT & Reconnaissance | indexed | <https://qgis.org> | [dir](../../tools/osint-reconnaissance/qgis-org-1f0d59b6/README.md) |
+| Qualys SSL Check | OSINT & Reconnaissance | indexed | <https://www.ssllabs.com/ssltest/> | [dir](../../tools/osint-reconnaissance/www-ssllabs-com-ssltest-138a0017/README.md) |
+| Quantcast | OSINT & Reconnaissance | indexed | <https://www.quantcast.com> | [dir](../../tools/osint-reconnaissance/www-quantcast-com-fa7edb46/README.md) |
+| Quick Sprout | OSINT & Reconnaissance | indexed | <https://www.quicksprout.com> | [dir](../../tools/osint-reconnaissance/www-quicksprout-com-a75aa370/README.md) |
+| QuickMaps | OSINT & Reconnaissance | indexed | <https://chrome.google.com/webstore/detail/quick-maps/bgbojmobaekecckmomemopckmeipecij> | [dir](../../tools/osint-reconnaissance/chrome-google-com-webstore-detail-quick-maps-bgbojmobaekecckmome-1ed974df/README.md) |
+| RedirectDetective | OSINT & Reconnaissance | indexed | <https://redirectdetective.com> | [dir](../../tools/osint-reconnaissance/redirectdetective-com-5773368f/README.md) |
+| remonsec/Pri0tx | OSINT & Reconnaissance | archived | <https://github.com/remonsec/Pri0tx> | [dir](../../tools/osint-reconnaissance/remonsec-pri0tx-42f83bae/README.md) |
+| Remote DNS Lookup | OSINT & Reconnaissance | indexed | <https://remote.12dt.com> | [dir](../../tools/osint-reconnaissance/remote-12dt-com-58aa9535/README.md) |
+| Research Gate | OSINT & Reconnaissance | indexed | <https://www.researchgate.net> | [dir](../../tools/osint-reconnaissance/www-researchgate-net-c97973c9/README.md) |
+| Reverse Phone Check | OSINT & Reconnaissance | indexed | <https://www.reversephonecheck.com> | [dir](../../tools/osint-reconnaissance/www-reversephonecheck-com-702128fc/README.md) |
+| ReverseImageLocation | OSINT & Reconnaissance | indexed | <https://reverseimagelocation.com> | [dir](../../tools/osint-reconnaissance/reverseimagelocation-com-7934af81/README.md) |
 | ritchiemwewa/oxdork | OSINT & Reconnaissance | archived | <https://github.com/ritchiemwewa/oxdork> | [dir](../../tools/osint-reconnaissance/ritchiemwewa-oxdork-d6f828d2/README.md) |
+| ritchiemwewa/thorndyke | OSINT & Reconnaissance | archived | <https://github.com/ritchiemwewa/thorndyke> | [dir](../../tools/osint-reconnaissance/ritchiemwewa-thorndyke-b251536c/README.md) |
 | rix4uni/emailextractor | OSINT & Reconnaissance | indexed | <https://github.com/rix4uni/emailextractor> | [dir](../../tools/osint-reconnaissance/rix4uni-emailextractor-afdf1846/README.md) |
+| s0md3v/SubGPT | OSINT & Reconnaissance | archived | <https://github.com/s0md3v/SubGPT> | [dir](../../tools/osint-reconnaissance/s0md3v-subgpt-4cef186e/README.md) |
+| SameID | OSINT & Reconnaissance | indexed | <https://sameid.net> | [dir](../../tools/osint-reconnaissance/sameid-net-489376ac/README.md) |
 | saramazal/ethical-hacking-study | OSINT & Reconnaissance | indexed | <https://github.com/saramazal/ethical-hacking-study> | [dir](../../tools/osint-reconnaissance/saramazal-ethical-hacking-study-a5309841/README.md) |
+| SAS Planet | OSINT & Reconnaissance | indexed | <https://www.sasgis.org/sasplaneta/> | [dir](../../tools/osint-reconnaissance/www-sasgis-org-sasplaneta-4462eb77/README.md) |
+| Satellites Pro | OSINT & Reconnaissance | indexed | <https://satellites.pro/> | [dir](../../tools/osint-reconnaissance/satellites-pro-e9578ac4/README.md) |
 | sc1341/InstagramOSINT | OSINT & Reconnaissance | archived | <https://github.com/sc1341/InstagramOSINT> | [dir](../../tools/osint-reconnaissance/sc1341-instagramosint-2133e2b5/README.md) |
+| Scoot | OSINT & Reconnaissance | indexed | <https://www.scoot.co.uk> | [dir](../../tools/osint-reconnaissance/www-scoot-co-uk-c04882ed/README.md) |
+| Scribble Maps | OSINT & Reconnaissance | indexed | <https://scribblemaps.com> | [dir](../../tools/osint-reconnaissance/scribblemaps-com-95b855d8/README.md) |
+| SearchPeopleFREE | OSINT & Reconnaissance | indexed | <https://www.searchpeoplefree.com/phone-lookup> | [dir](../../tools/osint-reconnaissance/www-searchpeoplefree-com-phone-lookup-931f32c9/README.md) |
 | SecShiv/OneDorkForAll | OSINT & Reconnaissance | indexed | <https://github.com/SecShiv/OneDorkForAll> | [dir](../../tools/osint-reconnaissance/secshiv-onedorkforall-5dfdc0a0/README.md) |
+| Section 16 Deadline Calculator | OSINT & Reconnaissance | indexed | <https://github.com/Turner-Levey/section-16-deadline-calculator> | [dir](../../tools/osint-reconnaissance/turner-levey-section-16-deadline-calculator-94949049/README.md) |
+| SEMrush | OSINT & Reconnaissance | indexed | <https://www.semrush.com> | [dir](../../tools/osint-reconnaissance/www-semrush-com-4ae63e6a/README.md) |
 | sensepost/Frack | OSINT & Reconnaissance | archived | <https://github.com/sensepost/Frack> | [dir](../../tools/osint-reconnaissance/sensepost-frack-c812e84c/README.md) |
+| Sentinel Hub | OSINT & Reconnaissance | indexed | <https://www.sentinel-hub.com/explore/sentinelplayground/> | [dir](../../tools/osint-reconnaissance/www-sentinel-hub-com-explore-sentinelplayground-d1e17c4a/README.md) |
+| SEO Chat Tools | OSINT & Reconnaissance | indexed | <http://tools.seochat.com> | [dir](../../tools/osint-reconnaissance/tools-seochat-com-f7d52cc5/README.md) |
+| SEOTools for Excel | OSINT & Reconnaissance | indexed | <https://seotoolsforexcel.com> | [dir](../../tools/osint-reconnaissance/seotoolsforexcel-com-ddb707f5/README.md) |
+| Serpstat | OSINT & Reconnaissance | indexed | <https://serpstat.com> | [dir](../../tools/osint-reconnaissance/serpstat-com-46f1b0a4/README.md) |
+| Similar Web | OSINT & Reconnaissance | indexed | <https://www.similarweb.com> | [dir](../../tools/osint-reconnaissance/www-similarweb-com-4357aabd/README.md) |
+| SmallSEOTools | OSINT & Reconnaissance | indexed | <https://smallseotools.com> | [dir](../../tools/osint-reconnaissance/smallseotools-com-4f494361/README.md) |
+| SOAR | OSINT & Reconnaissance | indexed | <https://soar.earth/> | [dir](../../tools/osint-reconnaissance/soar-earth-7c2b35eb/README.md) |
+| Soovle | OSINT & Reconnaissance | indexed | <https://www.soovle.com> | [dir](../../tools/osint-reconnaissance/www-soovle-com-b31a8e0f/README.md) |
+| Spy Dialer | OSINT & Reconnaissance | indexed | <https://spydialer.com/> | [dir](../../tools/osint-reconnaissance/spydialer-com-e735cec0/README.md) |
+| SpyFu | OSINT & Reconnaissance | indexed | <https://www.spyfu.com> | [dir](../../tools/osint-reconnaissance/www-spyfu-com-f474c602/README.md) |
+| StatsCrop | OSINT & Reconnaissance | indexed | <https://www.statscrop.com> | [dir](../../tools/osint-reconnaissance/www-statscrop-com-9fdf4088/README.md) |
 | StormBrawlerSack/legwork-osint-ai-investigator | OSINT & Reconnaissance | indexed | <https://github.com/StormBrawlerSack/legwork-osint-ai-investigator> | [dir](../../tools/osint-reconnaissance/stormbrawlersack-legwork-osint-ai-investigator-1c9593bb/README.md) |
+| StoryMaps | OSINT & Reconnaissance | indexed | <https://storymaps.arcgis.com/en> | [dir](../../tools/osint-reconnaissance/storymaps-arcgis-com-en-623d3398/README.md) |
+| Street Crime Map | OSINT & Reconnaissance | indexed | <https://streetcrimemap.co.uk/> | [dir](../../tools/osint-reconnaissance/streetcrimemap-co-uk-5e5b9c32/README.md) |
+| SubDomainRadar.io | OSINT & Reconnaissance | indexed | <https://subdomainradar.io> | [dir](../../tools/osint-reconnaissance/subdomainradar-io-de3d8c66/README.md) |
+| SunCalc | OSINT & Reconnaissance | indexed | <https://www.suncalc.org/> | [dir](../../tools/osint-reconnaissance/www-suncalc-org-e0f2098c/README.md) |
+| Sync.ME | OSINT & Reconnaissance | indexed | <https://sync.me/> | [dir](../../tools/osint-reconnaissance/sync-me-3649a7a4/README.md) |
+| Tableau | OSINT & Reconnaissance | indexed | <https://www.tableausoftware.com> | [dir](../../tools/osint-reconnaissance/www-tableausoftware-com-3ee44195/README.md) |
+| These Are the Tools Open Source Researchers Say They Need | OSINT & Reconnaissance | indexed | <https://www.bellingcat.com/resources/2022/08/12/these-are-the-tools-open-source-researchers-say-they-need/> | [dir](../../tools/osint-reconnaissance/www-bellingcat-com-resources-2022-08-12-these-are-the-tools-open-48f3dc0b/README.md) |
+| TinyScan | OSINT & Reconnaissance | indexed | <https://www.tiny-scan.com> | [dir](../../tools/osint-reconnaissance/www-tiny-scan-com-ffeff880/README.md) |
+| TOsint | OSINT & Reconnaissance | indexed | <https://github.com/drego85/tosint> | [dir](../../tools/osint-reconnaissance/drego85-tosint-41146d4d/README.md) |
+| TracerouteVisualizer | OSINT & Reconnaissance | indexed | <https://kriztalz.sh/traceroute-visualizer/> | [dir](../../tools/osint-reconnaissance/kriztalz-sh-traceroute-visualizer-9708694d/README.md) |
+| Tracxn | OSINT & Reconnaissance | indexed | <https://tracxn.com> | [dir](../../tools/osint-reconnaissance/tracxn-com-22bb8552/README.md) |
+| Truecaller | OSINT & Reconnaissance | indexed | <https://truecaller.com> | [dir](../../tools/osint-reconnaissance/truecaller-com-f8f18d7c/README.md) |
+| Ubersuggest | OSINT & Reconnaissance | indexed | <https://ubersuggest.org> | [dir](../../tools/osint-reconnaissance/ubersuggest-org-9cd2cd38/README.md) |
+| urlDNA | OSINT & Reconnaissance | indexed | <https://urldna.io/> | [dir](../../tools/osint-reconnaissance/urldna-io-bd7e65ae/README.md) |
+| URLhaus | OSINT & Reconnaissance | indexed | <https://urlhaus.abuse.ch> | [dir](../../tools/osint-reconnaissance/urlhaus-abuse-ch-5d960f20/README.md) |
+| urlQuery | OSINT & Reconnaissance | indexed | <https://urlquery.net> | [dir](../../tools/osint-reconnaissance/urlquery-net-a561ebce/README.md) |
+| URLVoid | OSINT & Reconnaissance | indexed | <https://www.urlvoid.com> | [dir](../../tools/osint-reconnaissance/www-urlvoid-com-477772ed/README.md) |
+| USPhoneBook | OSINT & Reconnaissance | indexed | <https://www.usphonebook.com/> | [dir](../../tools/osint-reconnaissance/www-usphonebook-com-21ecd8b2/README.md) |
 | utkusen/socialhunter | OSINT & Reconnaissance | archived | <https://github.com/utkusen/socialhunter> | [dir](../../tools/osint-reconnaissance/utkusen-socialhunter-d4566310/README.md) |
+| Vacato | OSINT & Reconnaissance | indexed | <https://vacato.io> | [dir](../../tools/osint-reconnaissance/vacato-io-134788aa/README.md) |
+| Vault | OSINT & Reconnaissance | indexed | <https://www.vault.com> | [dir](../../tools/osint-reconnaissance/www-vault-com-72051260/README.md) |
+| Verisign | OSINT & Reconnaissance | indexed | <https://dnssec-debugger.verisignlabs.com> | [dir](../../tools/osint-reconnaissance/dnssec-debugger-verisignlabs-com-467beab7/README.md) |
+| ViaMichelin | OSINT & Reconnaissance | indexed | <https://www.viamichelin.com> | [dir](../../tools/osint-reconnaissance/www-viamichelin-com-1f269efc/README.md) |
+| View in Google Earth | OSINT & Reconnaissance | indexed | <https://www.mgmaps.com/kml/#view> | [dir](../../tools/osint-reconnaissance/www-mgmaps-com-kml-81c6b40a/README.md) |
+| ViewDNS.info | OSINT & Reconnaissance | indexed | <https://viewdns.info> | [dir](../../tools/osint-reconnaissance/viewdns-info-c7d9f3cc/README.md) |
+| Virus Total | OSINT & Reconnaissance | indexed | <https://www.virustotal.com/> | [dir](../../tools/osint-reconnaissance/www-virustotal-com-904463f7/README.md) |
+| VoilaNorbert | OSINT & Reconnaissance | indexed | <https://www.voilanorbert.com> | [dir](../../tools/osint-reconnaissance/www-voilanorbert-com-eb56775d/README.md) |
+| Voter Records | OSINT & Reconnaissance | indexed | <https://voterrecords.com/> | [dir](../../tools/osint-reconnaissance/voterrecords-com-97bc8759/README.md) |
+| vx-underground | OSINT & Reconnaissance | indexed | <https://vx-underground.org/> | [dir](../../tools/osint-reconnaissance/vx-underground-org-e34a1aad/README.md) |
+| w3snoop | OSINT & Reconnaissance | indexed | <https://webboar.com.w3snoop.com> | [dir](../../tools/osint-reconnaissance/webboar-com-w3snoop-com-0abf4d46/README.md) |
+| Web-Check | OSINT & Reconnaissance | indexed | <https://web-check.as93.net/> | [dir](../../tools/osint-reconnaissance/web-check-as93-net-0d28ff43/README.md) |
+| Webscore | OSINT & Reconnaissance | indexed | <https://garvit835.github.io/WebScore/> | [dir](../../tools/osint-reconnaissance/garvit835-github-io-webscore-f4827cdc/README.md) |
+| Webscout | OSINT & Reconnaissance | indexed | <https://webscout.io/> | [dir](../../tools/osint-reconnaissance/webscout-io-82513801/README.md) |
+| Website Informer | OSINT & Reconnaissance | indexed | <https://website.informer.com> | [dir](../../tools/osint-reconnaissance/website-informer-com-b89da14b/README.md) |
+| WhatIsMyIPAddress | OSINT & Reconnaissance | indexed | <https://whatismyipaddress.com> | [dir](../../tools/osint-reconnaissance/whatismyipaddress-com-6df661e7/README.md) |
+| WhiteIntel | OSINT & Reconnaissance | indexed | <https://whiteintel.dev> | [dir](../../tools/osint-reconnaissance/whiteintel-dev-2174aa8d/README.md) |
+| Who.is | OSINT & Reconnaissance | indexed | <https://who.is/> | [dir](../../tools/osint-reconnaissance/who-is-42562da6/README.md) |
+| WhoIsHostingThis | OSINT & Reconnaissance | indexed | <https://www.whoishostingthis.com> | [dir](../../tools/osint-reconnaissance/www-whoishostingthis-com-a7030440/README.md) |
+| WhoisMind | OSINT & Reconnaissance | indexed | <https://www.whoismind.com> | [dir](../../tools/osint-reconnaissance/www-whoismind-com-b0a82010/README.md) |
+| Whoisology | OSINT & Reconnaissance | indexed | <https://whoisology.com> | [dir](../../tools/osint-reconnaissance/whoisology-com-601e2005/README.md) |
+| WhoIsRequest | OSINT & Reconnaissance | indexed | <https://whoisrequest.com> | [dir](../../tools/osint-reconnaissance/whoisrequest-com-282bcbe4/README.md) |
+| WhosBuilt | OSINT & Reconnaissance | indexed | <https://whosbuilt.com> | [dir](../../tools/osint-reconnaissance/whosbuilt-com-35c230a7/README.md) |
+| Windy | OSINT & Reconnaissance | indexed | <https://www.windy.com/> | [dir](../../tools/osint-reconnaissance/www-windy-com-a50c1845/README.md) |
+| Word Tracker | OSINT & Reconnaissance | indexed | <https://www.wordtracker.com> | [dir](../../tools/osint-reconnaissance/www-wordtracker-com-0444a437/README.md) |
+| World-Newspapers | OSINT & Reconnaissance | indexed | <https://www.world-newspapers.com> | [dir](../../tools/osint-reconnaissance/www-world-newspapers-com-9eb61d01/README.md) |
+| WorldMap Harvard | OSINT & Reconnaissance | indexed | <https://worldmap.harvard.edu> | [dir](../../tools/osint-reconnaissance/worldmap-harvard-edu-affed48b/README.md) |
 | WPTK/aircraft-research-claude-skill | OSINT & Reconnaissance | indexed | <https://github.com/WPTK/aircraft-research-claude-skill> | [dir](../../tools/osint-reconnaissance/wptk-aircraft-research-claude-skill-29d955ef/README.md) |
 | xnoncywer/email-osint | OSINT & Reconnaissance | indexed | <https://github.com/xnoncywer/email-osint> | [dir](../../tools/osint-reconnaissance/xnoncywer-email-osint-74bbabf2/README.md) |
+| Yahoo Maps | OSINT & Reconnaissance | indexed | <https://maps.yahoo.com> | [dir](../../tools/osint-reconnaissance/maps-yahoo-com-cdd9f95b/README.md) |
+| Yandex Wordstat | OSINT & Reconnaissance | indexed | <https://wordstat.yandex.com> | [dir](../../tools/osint-reconnaissance/wordstat-yandex-com-210ab9cd/README.md) |
 | yottajunaid/SECT_Internship_Project | OSINT & Reconnaissance | archived | <https://github.com/yottajunaid/SECT_Internship_Project> | [dir](../../tools/osint-reconnaissance/yottajunaid-sect-internship-project-4db51119/README.md) |
+| You Get Signal | OSINT & Reconnaissance | indexed | <https://www.yougetsignal.com> | [dir](../../tools/osint-reconnaissance/www-yougetsignal-com-84821d59/README.md) |
+| YouControl | OSINT & Reconnaissance | indexed | <https://youcontrol.com.ua/en/> | [dir](../../tools/osint-reconnaissance/youcontrol-com-ua-en-d0ea54a5/README.md) |
+| Zeemaps | OSINT & Reconnaissance | indexed | <https://www.zeemaps.com> | [dir](../../tools/osint-reconnaissance/www-zeemaps-com-e413cdcc/README.md) |
+| Zoom Earth | OSINT & Reconnaissance | indexed | <https://zoom.earth/> | [dir](../../tools/osint-reconnaissance/zoom-earth-401f01d0/README.md) |
+| AdroitAdorKhan/antipopads-re | Phishing & Fraud Intelligence | archived | <https://github.com/AdroitAdorKhan/antipopads-re> | [dir](../../tools/phishing-fraud-intelligence/adroitadorkhan-antipopads-re-c2b43995/README.md) |
+| Angry-Pineapple3121/Malware-Research | Phishing & Fraud Intelligence | indexed | <https://github.com/Angry-Pineapple3121/Malware-Research> | [dir](../../tools/phishing-fraud-intelligence/angry-pineapple3121-malware-research-6371820f/README.md) |
+| atexio/mercure | Phishing & Fraud Intelligence | archived | <https://github.com/atexio/mercure> | [dir](../../tools/phishing-fraud-intelligence/atexio-mercure-35f64675/README.md) |
+| Bricktech2000/WebInfo | Phishing & Fraud Intelligence | archived | <https://github.com/Bricktech2000/WebInfo> | [dir](../../tools/phishing-fraud-intelligence/bricktech2000-webinfo-2517b3e9/README.md) |
+| bufgix/hookup | Phishing & Fraud Intelligence | archived | <https://github.com/bufgix/hookup> | [dir](../../tools/phishing-fraud-intelligence/bufgix-hookup-efcbc0b0/README.md) |
+| david3107/squatm3gator | Phishing & Fraud Intelligence | indexed | <https://github.com/david3107/squatm3gator> | [dir](../../tools/phishing-fraud-intelligence/david3107-squatm3gator-6532b720/README.md) |
+| decidedlygray/mfa_slipstream_poc | Phishing & Fraud Intelligence | indexed | <https://github.com/decidedlygray/mfa_slipstream_poc> | [dir](../../tools/phishing-fraud-intelligence/decidedlygray-mfa-slipstream-poc-25f1405e/README.md) |
+| GSRHaX/NGL-Phish | Phishing & Fraud Intelligence | indexed | <https://github.com/GSRHaX/NGL-Phish> | [dir](../../tools/phishing-fraud-intelligence/gsrhax-ngl-phish-e5d6d6e7/README.md) |
+| HackingLZ/ip-obfuscation | Phishing & Fraud Intelligence | indexed | <https://github.com/HackingLZ/ip-obfuscation> | [dir](../../tools/phishing-fraud-intelligence/hackinglz-ip-obfuscation-7c476968/README.md) |
+| HorusTeknoloji/TR-PhishingList | Phishing & Fraud Intelligence | archived | <https://github.com/HorusTeknoloji/TR-PhishingList> | [dir](../../tools/phishing-fraud-intelligence/horusteknoloji-tr-phishinglist-689c3d47/README.md) |
+| hxrofo/hotspotphisher | Phishing & Fraud Intelligence | archived | <https://github.com/hxrofo/hotspotphisher> | [dir](../../tools/phishing-fraud-intelligence/hxrofo-hotspotphisher-013cb7d4/README.md) |
+| liakoyras/thesis-phishing-email-detection | Phishing & Fraud Intelligence | indexed | <https://github.com/liakoyras/thesis-phishing-email-detection> | [dir](../../tools/phishing-fraud-intelligence/liakoyras-thesis-phishing-email-detection-13fcade2/README.md) |
+| Mixore/Phishing-Discord-Servers-List | Phishing & Fraud Intelligence | archived | <https://github.com/Mixore/Phishing-Discord-Servers-List> | [dir](../../tools/phishing-fraud-intelligence/mixore-phishing-discord-servers-list-b0aa8679/README.md) |
+| nayanmapara/PhishBuster | Phishing & Fraud Intelligence | archived | <https://github.com/nayanmapara/PhishBuster> | [dir](../../tools/phishing-fraud-intelligence/nayanmapara-phishbuster-1d356f14/README.md) |
+| ninoseki/osakana | Phishing & Fraud Intelligence | archived | <https://github.com/ninoseki/osakana> | [dir](../../tools/phishing-fraud-intelligence/ninoseki-osakana-ad4ccdc0/README.md) |
+| olihough86/stinkyphish | Phishing & Fraud Intelligence | archived | <https://github.com/olihough86/stinkyphish> | [dir](../../tools/phishing-fraud-intelligence/olihough86-stinkyphish-25f49a9b/README.md) |
 | phishdestroy/ScamIntelLogs | Phishing & Fraud Intelligence | indexed | <https://github.com/phishdestroy/ScamIntelLogs> | [dir](../../tools/phishing-fraud-intelligence/phishdestroy-scamintellogs-60dd578e/README.md) |
+| robinroy03/twitter-phishing | Phishing & Fraud Intelligence | indexed | <https://github.com/robinroy03/twitter-phishing> | [dir](../../tools/phishing-fraud-intelligence/robinroy03-twitter-phishing-2b12fd97/README.md) |
+| simplerhacking/Evilginx3-Discord-Phishlet | Phishing & Fraud Intelligence | archived | <https://github.com/simplerhacking/Evilginx3-Discord-Phishlet> | [dir](../../tools/phishing-fraud-intelligence/simplerhacking-evilginx3-discord-phishlet-714d089a/README.md) |
 | t4d/StalkPhish | Phishing & Fraud Intelligence | archived | <https://github.com/t4d/StalkPhish> | [dir](../../tools/phishing-fraud-intelligence/t4d-stalkphish-e2580e7f/README.md) |
+| tassoneroberto/phishing-websites | Phishing & Fraud Intelligence | archived | <https://github.com/tassoneroberto/phishing-websites> | [dir](../../tools/phishing-fraud-intelligence/tassoneroberto-phishing-websites-17d596c2/README.md) |
+| Tempest-Solutions-Company/pihole_blocklists | Phishing & Fraud Intelligence | indexed | <https://github.com/Tempest-Solutions-Company/pihole_blocklists> | [dir](../../tools/phishing-fraud-intelligence/tempest-solutions-company-pihole-blocklists-fd35b1e7/README.md) |
+| trailofbits/trailofphish | Phishing & Fraud Intelligence | archived | <https://github.com/trailofbits/trailofphish> | [dir](../../tools/phishing-fraud-intelligence/trailofbits-trailofphish-78c4220e/README.md) |
+| UndeadSec/EvilURL | Phishing & Fraud Intelligence | archived | <https://github.com/UndeadSec/EvilURL> | [dir](../../tools/phishing-fraud-intelligence/undeadsec-evilurl-7c0f49da/README.md) |
+| UndeadSec/SocialFishMobile | Phishing & Fraud Intelligence | archived | <https://github.com/UndeadSec/SocialFishMobile> | [dir](../../tools/phishing-fraud-intelligence/undeadsec-socialfishmobile-9e6803d6/README.md) |
+| XiphosResearch/smsisher | Phishing & Fraud Intelligence | indexed | <https://github.com/XiphosResearch/smsisher> | [dir](../../tools/phishing-fraud-intelligence/xiphosresearch-smsisher-599f39c1/README.md) |
+| yangr0/BlackPhish | Phishing & Fraud Intelligence | archived | <https://github.com/yangr0/BlackPhish> | [dir](../../tools/phishing-fraud-intelligence/yangr0-blackphish-00952f7c/README.md) |
+| YehudaEi/Google-Fake-Login-Page | Phishing & Fraud Intelligence | archived | <https://github.com/YehudaEi/Google-Fake-Login-Page> | [dir](../../tools/phishing-fraud-intelligence/yehudaei-google-fake-login-page-4c389faf/README.md) |
 | arades79/hyperdome | Privacy & Anonymity | archived | <https://github.com/arades79/hyperdome> | [dir](../../tools/privacy-anonymity/arades79-hyperdome-96536306/README.md) |
 | cea-sec/TorPylle | Privacy & Anonymity | archived | <https://github.com/cea-sec/TorPylle> | [dir](../../tools/privacy-anonymity/cea-sec-torpylle-66212110/README.md) |
 | gSpotx2f/ruantiblock | Privacy & Anonymity | archived | <https://github.com/gSpotx2f/ruantiblock> | [dir](../../tools/privacy-anonymity/gspotx2f-ruantiblock-28c32e55/README.md) |
@@ -308,6 +446,7 @@
 | 0n1cOn3/The-NSO-Blacklist | Threat Intelligence Platforms | indexed | <https://github.com/0n1cOn3/The-NSO-Blacklist> | [dir](../../tools/threat-intelligence-platforms/0n1con3-the-nso-blacklist-b27eeee5/README.md) |
 | 0xTnxl/silentlink | Threat Intelligence Platforms | indexed | <https://github.com/0xTnxl/silentlink> | [dir](../../tools/threat-intelligence-platforms/0xtnxl-silentlink-3f444008/README.md) |
 | advanced-threat-research/Yara-Rules | Threat Intelligence Platforms | indexed | <https://github.com/advanced-threat-research/Yara-Rules> | [dir](../../tools/threat-intelligence-platforms/advanced-threat-research-yara-rules-e38ebfd3/README.md) |
+| anpa1200/AIDebug | Threat Intelligence Platforms | indexed | <https://github.com/anpa1200/AIDebug> | [dir](../../tools/threat-intelligence-platforms/anpa1200-aidebug-bcb3a70d/README.md) |
 | anpa1200/anpa1200.github.io | Threat Intelligence Platforms | indexed | <https://github.com/anpa1200/anpa1200.github.io> | [dir](../../tools/threat-intelligence-platforms/anpa1200-anpa1200-github-io-d84aa225/README.md) |
 | anpa1200/CTI | Threat Intelligence Platforms | indexed | <https://github.com/anpa1200/CTI> | [dir](../../tools/threat-intelligence-platforms/anpa1200-cti-4a1aceb2/README.md) |
 | anpa1200/cti-analyst-field-manual | Threat Intelligence Platforms | indexed | <https://github.com/anpa1200/cti-analyst-field-manual> | [dir](../../tools/threat-intelligence-platforms/anpa1200-cti-analyst-field-manual-c575e563/README.md) |
@@ -317,29 +456,46 @@
 | center-for-threat-informed-defense/attack_to_veris | Threat Intelligence Platforms | archived | <https://github.com/center-for-threat-informed-defense/attack_to_veris> | [dir](../../tools/threat-intelligence-platforms/center-for-threat-informed-defense-attack-to-veris-d00a4faa/README.md) |
 | center-for-threat-informed-defense/m3tid | Threat Intelligence Platforms | archived | <https://github.com/center-for-threat-informed-defense/m3tid> | [dir](../../tools/threat-intelligence-platforms/center-for-threat-informed-defense-m3tid-9f3abfea/README.md) |
 | christian-taillon/sunburst-hunting | Threat Intelligence Platforms | archived | <https://github.com/christian-taillon/sunburst-hunting> | [dir](../../tools/threat-intelligence-platforms/christian-taillon-sunburst-hunting-7cc63146/README.md) |
+| CityBaseInc/SIAC | Threat Intelligence Platforms | archived | <https://github.com/CityBaseInc/SIAC> | [dir](../../tools/threat-intelligence-platforms/citybaseinc-siac-7282c884/README.md) |
+| csirtgadgets/bearded-avenger | Threat Intelligence Platforms | archived | <https://github.com/csirtgadgets/bearded-avenger> | [dir](../../tools/threat-intelligence-platforms/csirtgadgets-bearded-avenger-c62d4ee5/README.md) |
+| csirtgadgets/csirtg-smrt-v1 | Threat Intelligence Platforms | archived | <https://github.com/csirtgadgets/csirtg-smrt-v1> | [dir](../../tools/threat-intelligence-platforms/csirtgadgets-csirtg-smrt-v1-18db1d40/README.md) |
+| csirtgadgets/verbose-robot | Threat Intelligence Platforms | archived | <https://github.com/csirtgadgets/verbose-robot> | [dir](../../tools/threat-intelligence-platforms/csirtgadgets-verbose-robot-15cb919a/README.md) |
 | Cylvarkana/Cylvarkana-Django | Threat Intelligence Platforms | archived | <https://github.com/Cylvarkana/Cylvarkana-Django> | [dir](../../tools/threat-intelligence-platforms/cylvarkana-cylvarkana-django-8c65be8f/README.md) |
+| darkquasar/cybernethunter | Threat Intelligence Platforms | archived | <https://github.com/darkquasar/cybernethunter> | [dir](../../tools/threat-intelligence-platforms/darkquasar-cybernethunter-c21bab97/README.md) |
+| DART-Laboratory/Flash-IDS | Threat Intelligence Platforms | indexed | <https://github.com/DART-Laboratory/Flash-IDS> | [dir](../../tools/threat-intelligence-platforms/dart-laboratory-flash-ids-76643ca1/README.md) |
 | decoderloop/rust-malware-gallery | Threat Intelligence Platforms | indexed | <https://github.com/decoderloop/rust-malware-gallery> | [dir](../../tools/threat-intelligence-platforms/decoderloop-rust-malware-gallery-33d428db/README.md) |
 | deepfield/public-research | Threat Intelligence Platforms | indexed | <https://github.com/deepfield/public-research> | [dir](../../tools/threat-intelligence-platforms/deepfield-public-research-e1e1f349/README.md) |
 | dessertlab/cti-to-mitre-with-nlp | Threat Intelligence Platforms | indexed | <https://github.com/dessertlab/cti-to-mitre-with-nlp> | [dir](../../tools/threat-intelligence-platforms/dessertlab-cti-to-mitre-with-nlp-90f03dee/README.md) |
 | en3ra/cyber-incident-analysis | Threat Intelligence Platforms | indexed | <https://github.com/en3ra/cyber-incident-analysis> | [dir](../../tools/threat-intelligence-platforms/en3ra-cyber-incident-analysis-6fe252ae/README.md) |
 | Ethan-Andrews/Exploitarium-Detections | Threat Intelligence Platforms | indexed | <https://github.com/Ethan-Andrews/Exploitarium-Detections> | [dir](../../tools/threat-intelligence-platforms/ethan-andrews-exploitarium-detections-411d2be3/README.md) |
+| fagner-fmlo/cybersysbr-research | Threat Intelligence Platforms | indexed | <https://github.com/fagner-fmlo/cybersysbr-research> | [dir](../../tools/threat-intelligence-platforms/fagner-fmlo-cybersysbr-research-a91d3fc4/README.md) |
 | fhightower/ioc-finder | Threat Intelligence Platforms | indexed | <https://github.com/fhightower/ioc-finder> | [dir](../../tools/threat-intelligence-platforms/fhightower-ioc-finder-4eb5f37a/README.md) |
+| filipi86/Threat-Hunting | Threat Intelligence Platforms | indexed | <https://github.com/filipi86/Threat-Hunting> | [dir](../../tools/threat-intelligence-platforms/filipi86-threat-hunting-a4c871f8/README.md) |
+| GACWR/ouba-paper | Threat Intelligence Platforms | indexed | <https://github.com/GACWR/ouba-paper> | [dir](../../tools/threat-intelligence-platforms/gacwr-ouba-paper-2385774c/README.md) |
 | gcrahay/otx_misp | Threat Intelligence Platforms | archived | <https://github.com/gcrahay/otx_misp> | [dir](../../tools/threat-intelligence-platforms/gcrahay-otx-misp-471be02d/README.md) |
 | GokbakarE/RuleSetRAT | Threat Intelligence Platforms | indexed | <https://github.com/GokbakarE/RuleSetRAT> | [dir](../../tools/threat-intelligence-platforms/gokbakare-rulesetrat-f42ccf3f/README.md) |
 | HackingLZ/svg_phishing_tools | Threat Intelligence Platforms | indexed | <https://github.com/HackingLZ/svg_phishing_tools> | [dir](../../tools/threat-intelligence-platforms/hackinglz-svg-phishing-tools-e1e297de/README.md) |
 | Iankulani/hermit-crab-v1 | Threat Intelligence Platforms | indexed | <https://github.com/Iankulani/hermit-crab-v1> | [dir](../../tools/threat-intelligence-platforms/iankulani-hermit-crab-v1-a425ee70/README.md) |
 | Iankulani/war-crab-v2 | Threat Intelligence Platforms | indexed | <https://github.com/Iankulani/war-crab-v2> | [dir](../../tools/threat-intelligence-platforms/iankulani-war-crab-v2-215c217e/README.md) |
 | Iankulani/war_squid | Threat Intelligence Platforms | indexed | <https://github.com/Iankulani/war_squid> | [dir](../../tools/threat-intelligence-platforms/iankulani-war-squid-c7f59ede/README.md) |
+| Infinit3i/hunt-ai | Threat Intelligence Platforms | archived | <https://github.com/Infinit3i/hunt-ai> | [dir](../../tools/threat-intelligence-platforms/infinit3i-hunt-ai-c180ba07/README.md) |
 | intelowlproject/IntelOwl-ng | Threat Intelligence Platforms | archived | <https://github.com/intelowlproject/IntelOwl-ng> | [dir](../../tools/threat-intelligence-platforms/intelowlproject-intelowl-ng-a24222ac/README.md) |
+| ivan-sincek/domain-extractor | Threat Intelligence Platforms | archived | <https://github.com/ivan-sincek/domain-extractor> | [dir](../../tools/threat-intelligence-platforms/ivan-sincek-domain-extractor-68725d04/README.md) |
+| ivan-sincek/memory-dumper | Threat Intelligence Platforms | archived | <https://github.com/ivan-sincek/memory-dumper> | [dir](../../tools/threat-intelligence-platforms/ivan-sincek-memory-dumper-d17455f2/README.md) |
+| izm1chael/Anomy | Threat Intelligence Platforms | indexed | <https://github.com/izm1chael/Anomy> | [dir](../../tools/threat-intelligence-platforms/izm1chael-anomy-13c201da/README.md) |
 | j4ckrisz/Hackzzz | Threat Intelligence Platforms | indexed | <https://github.com/j4ckrisz/Hackzzz> | [dir](../../tools/threat-intelligence-platforms/j4ckrisz-hackzzz-a007f07b/README.md) |
 | jakub/dumper | Threat Intelligence Platforms | archived | <https://github.com/jakub/dumper> | [dir](../../tools/threat-intelligence-platforms/jakub-dumper-94e4381c/README.md) |
 | jameschrisa/cyberthreat-research | Threat Intelligence Platforms | indexed | <https://github.com/jameschrisa/cyberthreat-research> | [dir](../../tools/threat-intelligence-platforms/jameschrisa-cyberthreat-research-fa202a8c/README.md) |
 | jingkang99/bloglinks | Threat Intelligence Platforms | indexed | <https://github.com/jingkang99/bloglinks> | [dir](../../tools/threat-intelligence-platforms/jingkang99-bloglinks-2646cb77/README.md) |
+| jischell-msft/RemoteManagementMonitoringTools | Threat Intelligence Platforms | archived | <https://github.com/jischell-msft/RemoteManagementMonitoringTools> | [dir](../../tools/threat-intelligence-platforms/jischell-msft-remotemanagementmonitoringtools-2969d3c3/README.md) |
 | knight0x07/Lnk2Vbs | Threat Intelligence Platforms | indexed | <https://github.com/knight0x07/Lnk2Vbs> | [dir](../../tools/threat-intelligence-platforms/knight0x07-lnk2vbs-644067a9/README.md) |
+| knight0x07/onMouseMove-HtmlFile-PoC | Threat Intelligence Platforms | indexed | <https://github.com/knight0x07/onMouseMove-HtmlFile-PoC> | [dir](../../tools/threat-intelligence-platforms/knight0x07-onmousemove-htmlfile-poc-eddbbfd0/README.md) |
 | knight0x07/pyc2bytecode | Threat Intelligence Platforms | indexed | <https://github.com/knight0x07/pyc2bytecode> | [dir](../../tools/threat-intelligence-platforms/knight0x07-pyc2bytecode-7330e4b5/README.md) |
 | LabVIEWCommunityTraining/GettingStartedLabVIEW1-Spanish | Threat Intelligence Platforms | archived | <https://github.com/LabVIEWCommunityTraining/GettingStartedLabVIEW1-Spanish> | [dir](../../tools/threat-intelligence-platforms/labviewcommunitytraining-gettingstartedlabview1-spanish-88402c20/README.md) |
 | laugiov/scambuster | Threat Intelligence Platforms | indexed | <https://github.com/laugiov/scambuster> | [dir](../../tools/threat-intelligence-platforms/laugiov-scambuster-17ebe16a/README.md) |
 | lcpdn/docs-suricata | Threat Intelligence Platforms | archived | <https://github.com/lcpdn/docs-suricata> | [dir](../../tools/threat-intelligence-platforms/lcpdn-docs-suricata-085bc93c/README.md) |
+| li-zhenyuan/Knowledge-enhanced-Attack-Graph | Threat Intelligence Platforms | archived | <https://github.com/li-zhenyuan/Knowledge-enhanced-Attack-Graph> | [dir](../../tools/threat-intelligence-platforms/li-zhenyuan-knowledge-enhanced-attack-graph-24a6abdb/README.md) |
+| LOLESXi-Project/LOLESXi | Threat Intelligence Platforms | indexed | <https://github.com/LOLESXi-Project/LOLESXi> | [dir](../../tools/threat-intelligence-platforms/lolesxi-project-lolesxi-0cf148e8/README.md) |
 | ma111e/melody | Threat Intelligence Platforms | archived | <https://github.com/ma111e/melody> | [dir](../../tools/threat-intelligence-platforms/ma111e-melody-3dbe56bc/README.md) |
 | mannyfred/MentalTi | Threat Intelligence Platforms | archived | <https://github.com/mannyfred/MentalTi> | [dir](../../tools/threat-intelligence-platforms/mannyfred-mentalti-0d32d732/README.md) |
 | mattreduce/cti-self-study | Threat Intelligence Platforms | indexed | <https://github.com/mattreduce/cti-self-study> | [dir](../../tools/threat-intelligence-platforms/mattreduce-cti-self-study-e5cc8e7a/README.md) |
@@ -350,17 +506,19 @@
 | miunasu/IDA-Skill | Threat Intelligence Platforms | indexed | <https://github.com/miunasu/IDA-Skill> | [dir](../../tools/threat-intelligence-platforms/miunasu-ida-skill-cd1656d5/README.md) |
 | mrheinen/lophiid | Threat Intelligence Platforms | archived | <https://github.com/mrheinen/lophiid> | [dir](../../tools/threat-intelligence-platforms/mrheinen-lophiid-82d78367/README.md) |
 | mthcht/ThreatIntel-Reports | Threat Intelligence Platforms | indexed | <https://github.com/mthcht/ThreatIntel-Reports> | [dir](../../tools/threat-intelligence-platforms/mthcht-threatintel-reports-45a0f0cd/README.md) |
-| Offensive-Panda/DefenseEvasionTechniques | Threat Intelligence Platforms | indexed | <https://github.com/Offensive-Panda/DefenseEvasionTechniques> | [dir](../../tools/threat-intelligence-platforms/offensive-panda-defenseevasiontechniques-3bd7144f/README.md) |
 | OsmanKandemir/indicator-intelligence | Threat Intelligence Platforms | indexed | <https://github.com/OsmanKandemir/indicator-intelligence> | [dir](../../tools/threat-intelligence-platforms/osmankandemir-indicator-intelligence-121f268d/README.md) |
+| OTX AlienVault | Threat Intelligence Platforms | indexed | <https://otx.alienvault.com/> | [dir](../../tools/threat-intelligence-platforms/otx-alienvault-com-f4069e07/README.md) |
 | PavanSK-01/Hybrid-Network-Intrusion-Detection-System | Threat Intelligence Platforms | indexed | <https://github.com/PavanSK-01/Hybrid-Network-Intrusion-Detection-System> | [dir](../../tools/threat-intelligence-platforms/pavansk-01-hybrid-network-intrusion-detection-system-bb1cc73a/README.md) |
 | Perkins-Fund/Malware-Bible | Threat Intelligence Platforms | indexed | <https://github.com/Perkins-Fund/Malware-Bible> | [dir](../../tools/threat-intelligence-platforms/perkins-fund-malware-bible-c39f4d72/README.md) |
 | phat0x8/Secbert-cda-attack-classification | Threat Intelligence Platforms | indexed | <https://github.com/phat0x8/Secbert-cda-attack-classification> | [dir](../../tools/threat-intelligence-platforms/phat0x8-secbert-cda-attack-classification-d7dd57f9/README.md) |
 | precize/iran-apt-mitre-attack-matrix | Threat Intelligence Platforms | indexed | <https://github.com/precize/iran-apt-mitre-attack-matrix> | [dir](../../tools/threat-intelligence-platforms/precize-iran-apt-mitre-attack-matrix-d02f6896/README.md) |
+| qeeqbox/reports | Threat Intelligence Platforms | indexed | <https://github.com/qeeqbox/reports> | [dir](../../tools/threat-intelligence-platforms/qeeqbox-reports-faae1d5f/README.md) |
 | rf-peixoto/phishing_pot | Threat Intelligence Platforms | indexed | <https://github.com/rf-peixoto/phishing_pot> | [dir](../../tools/threat-intelligence-platforms/rf-peixoto-phishing-pot-e24cc409/README.md) |
 | RM-ReactorHunt/Threat-Hunting-Team-THT | Threat Intelligence Platforms | indexed | <https://github.com/RM-ReactorHunt/Threat-Hunting-Team-THT-> | [dir](../../tools/threat-intelligence-platforms/rm-reactorhunt-threat-hunting-team-tht-84dc638b/README.md) |
 | Sam0x90/CTI | Threat Intelligence Platforms | indexed | <https://github.com/Sam0x90/CTI> | [dir](../../tools/threat-intelligence-platforms/sam0x90-cti-97691e85/README.md) |
 | sapphirex00/Threat-Hunting | Threat Intelligence Platforms | indexed | <https://github.com/sapphirex00/Threat-Hunting> | [dir](../../tools/threat-intelligence-platforms/sapphirex00-threat-hunting-dca2fe99/README.md) |
 | screem500/cti-reports | Threat Intelligence Platforms | indexed | <https://github.com/screem500/cti-reports> | [dir](../../tools/threat-intelligence-platforms/screem500-cti-reports-13a6a98a/README.md) |
+| stairwell-inc/threat-research | Threat Intelligence Platforms | indexed | <https://github.com/stairwell-inc/threat-research> | [dir](../../tools/threat-intelligence-platforms/stairwell-inc-threat-research-2c69cb68/README.md) |
 | synthient/public-research | Threat Intelligence Platforms | indexed | <https://github.com/synthient/public-research> | [dir](../../tools/threat-intelligence-platforms/synthient-public-research-a3519cb9/README.md) |
 | TaskForce47/Liberation | Threat Intelligence Platforms | archived | <https://github.com/TaskForce47/Liberation> | [dir](../../tools/threat-intelligence-platforms/taskforce47-liberation-8b4f3525/README.md) |
 | teixeira0xfffff/Cybercrime-Forums | Threat Intelligence Platforms | indexed | <https://github.com/teixeira0xfffff/Cybercrime-Forums> | [dir](../../tools/threat-intelligence-platforms/teixeira0xfffff-cybercrime-forums-12171588/README.md) |
@@ -371,9 +529,11 @@
 | tg12/pihole-phishtank-list | Threat Intelligence Platforms | archived | <https://github.com/tg12/pihole-phishtank-list> | [dir](../../tools/threat-intelligence-platforms/tg12-pihole-phishtank-list-8a03a46c/README.md) |
 | THORCollective/HEARTH | Threat Intelligence Platforms | indexed | <https://github.com/THORCollective/HEARTH> | [dir](../../tools/threat-intelligence-platforms/thorcollective-hearth-dd16b616/README.md) |
 | threathunterX/underground-slang-lexicon | Threat Intelligence Platforms | indexed | <https://github.com/threathunterX/underground-slang-lexicon> | [dir](../../tools/threat-intelligence-platforms/threathunterx-underground-slang-lexicon-03ac42b9/README.md) |
+| uptycslabs/IOCs | Threat Intelligence Platforms | indexed | <https://github.com/uptycslabs/IOCs> | [dir](../../tools/threat-intelligence-platforms/uptycslabs-iocs-2b5f1d2c/README.md) |
 | urcuqui/WhiteHat | Threat Intelligence Platforms | indexed | <https://github.com/urcuqui/WhiteHat> | [dir](../../tools/threat-intelligence-platforms/urcuqui-whitehat-33582f30/README.md) |
 | VaghesanSundaram/cti-claim-provenance | Threat Intelligence Platforms | indexed | <https://github.com/VaghesanSundaram/cti-claim-provenance> | [dir](../../tools/threat-intelligence-platforms/vaghesansundaram-cti-claim-provenance-e6e46311/README.md) |
 | visualbasic6/chatter | Threat Intelligence Platforms | archived | <https://github.com/visualbasic6/chatter> | [dir](../../tools/threat-intelligence-platforms/visualbasic6-chatter-1bc65f43/README.md) |
+| VolkanSah/Detection-Labs-for-Palantir-Style-Activity | Threat Intelligence Platforms | indexed | <https://github.com/VolkanSah/Detection-Labs-for-Palantir-Style-Activity> | [dir](../../tools/threat-intelligence-platforms/volkansah-detection-labs-for-palantir-style-activity-d43a8f67/README.md) |
 | wesinator/ICD203-intel-analysis | Threat Intelligence Platforms | archived | <https://github.com/wesinator/ICD203-intel-analysis> | [dir](../../tools/threat-intelligence-platforms/wesinator-icd203-intel-analysis-56f840cc/README.md) |
 | wrhalpin/GNAT | Threat Intelligence Platforms | indexed | <https://github.com/wrhalpin/GNAT> | [dir](../../tools/threat-intelligence-platforms/wrhalpin-gnat-88c1979e/README.md) |
 | wrhalpin/SandGNAT | Threat Intelligence Platforms | indexed | <https://github.com/wrhalpin/SandGNAT> | [dir](../../tools/threat-intelligence-platforms/wrhalpin-sandgnat-fe45fa5d/README.md) |

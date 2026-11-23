@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/gildas-lormeau/SingleFile>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 22984
-- **License:** AGPL-3.0
+- **Reviewed:** 2026-11-23
 
 Web Extension for saving a faithful copy of a complete web page in a single HTML file
 

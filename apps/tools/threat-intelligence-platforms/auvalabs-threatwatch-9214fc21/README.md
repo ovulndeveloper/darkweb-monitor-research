@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/AuvaLabs/threatwatch>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 16
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Evidence-backed, self-hosted cyber threat intelligence operations platform
 

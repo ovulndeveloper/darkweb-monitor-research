@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/1in9e/gosint>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 427
+- **Reviewed:** 2026-11-23
 
 Gosint is a distributed asset information collection and vulnerability scanning platform
 

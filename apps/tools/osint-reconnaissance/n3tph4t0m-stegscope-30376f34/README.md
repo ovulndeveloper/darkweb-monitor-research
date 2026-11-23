@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/n3tph4t0m/stegscope>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 OSINT : Self-hosted image analyser a minimalist alternative to Aperi'Solve (Flask). open source if any bug report me pls
 

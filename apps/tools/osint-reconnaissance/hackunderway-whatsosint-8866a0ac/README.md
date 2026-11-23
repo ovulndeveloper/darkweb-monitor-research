@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/HackUnderway/WhatsOSINT>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 379
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 View data of a WhatsApp number, including its status, photo, etc. 🕵🏽‍♂️
 

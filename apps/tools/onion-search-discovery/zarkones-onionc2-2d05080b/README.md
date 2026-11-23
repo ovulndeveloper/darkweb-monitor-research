@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/zarkones/OnionC2>
 - **Sources:** `github-search:topic:onion`, `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 164
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 C2 writen in Rust & Go powered by Tor network.
 

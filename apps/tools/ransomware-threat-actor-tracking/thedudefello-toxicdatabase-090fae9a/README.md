@@ -5,8 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/thedudefello/ToxicDatabase>
 - **Sources:** `github-search:topic:malware-analysis`, `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 68
+- **Reviewed:** 2026-11-23
 
 Just another malware database.
 

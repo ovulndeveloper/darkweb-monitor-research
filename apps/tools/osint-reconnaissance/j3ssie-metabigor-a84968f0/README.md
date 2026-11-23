@@ -4,10 +4,8 @@
 - **Type:** [api-service](../../../by-type/api-service/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/j3ssie/metabigor>
-- **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1873
-- **License:** MIT
+- **Sources:** `github-search:topic:bug-bounty`, `github-search:topic:osint`, `github-search:topic:recon`, `github-search:topic:security-tools`
+- **Reviewed:** 2026-11-23
 
 OSINT power without API key hassle
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/mitre-attack/attack-stix-data>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 728
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 STIX data representing MITRE ATT&CK
 

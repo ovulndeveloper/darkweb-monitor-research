@@ -1,0 +1,12 @@
+# face_recognition
+
+- **Category:** [OSINT & Reconnaissance](../../../by-category/osint-reconnaissance/README.md)
+- **Type:** [api-service](../../../by-type/api-service/README.md)
+- **Status:** `indexed`
+- **URL:** <https://github.com/ageitgey/face_recognition>
+- **Sources:** `awesome:edwardtay/awesome-OSINT`
+- **Reviewed:** 2026-11-23
+
+| | 57k | Python | Dlib-based "world's simplest" face recognition API for Python and CLI. ⚠️ |
+
+[← Category index](../../../by-category/osint-reconnaissance/README.md) · [← Master index](../../../README.md)

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/thewhiteh4t/pwnedOrNot>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2685
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 OSINT Tool for Finding Passwords of Compromised Email Addresses
 

@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/wjyxiaojiu-del/gravity-topology>
 - **Sources:** `github-search:topic:dark-web`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 基于空间计量与 A2A 机制的社区暗网发掘系统
 

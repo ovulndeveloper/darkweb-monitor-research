@@ -1,8 +1,8 @@
 # Ransomware & Threat Actor Tracking
 
-491 entries. Generated from [`apps/data/catalog.json`](../data/catalog.json); do not edit by hand.
+505 dark-web / investigation URLs. Last reviewed 2026-11-23T09:00:17Z.
 
-[← All categories](../CATEGORIES.md) · [Master index](../README.md)
+[← All categories](../../CATEGORIES.md) · [← Master index](../../README.md)
 
 | Name | Type | Status | URL | Directory |
 |---|---|---|---|---|
@@ -64,6 +64,7 @@
 | AnandBinuArjun/RANSOMWATCH | dashboard | indexed | <https://github.com/AnandBinuArjun/RANSOMWATCH> | [dir](../../tools/ransomware-threat-actor-tracking/anandbinuarjun-ransomwatch-747b00a8/README.md) |
 | andpalmier/goransom | research-project | indexed | <https://github.com/andpalmier/goransom> | [dir](../../tools/ransomware-threat-actor-tracking/andpalmier-goransom-e14afd08/README.md) |
 | aparisot84/Sandbox-Ransomware-Analysis-Dataset | dataset | indexed | <https://github.com/aparisot84/Sandbox-Ransomware-Analysis-Dataset> | [dir](../../tools/ransomware-threat-actor-tracking/aparisot84-sandbox-ransomware-analysis-dataset-78db7060/README.md) |
+| APT Groups and Operations | tool | indexed | <https://docs.google.com/spreadsheets/u/0/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml?pli=1#> | [dir](../../tools/ransomware-threat-actor-tracking/docs-google-com-spreadsheets-u-0-d-1h9-xaxqhpwaa4o-son4gx0yoizlc-319f9236/README.md) |
 | armscyber/communityedition | tool | indexed | <https://github.com/armscyber/communityedition> | [dir](../../tools/ransomware-threat-actor-tracking/armscyber-communityedition-c8147929/README.md) |
 | Arnaleeo/LockBit-RansomWare | research-project | indexed | <https://github.com/Arnaleeo/LockBit-RansomWare> | [dir](../../tools/ransomware-threat-actor-tracking/arnaleeo-lockbit-ransomware-26ba2e8b/README.md) |
 | ASm0ty/Babuk-RansomWare---October-2023 | research-project | indexed | <https://github.com/ASm0ty/Babuk-RansomWare---October-2023> | [dir](../../tools/ransomware-threat-actor-tracking/asm0ty-babuk-ransomware-october-2023-b75515f7/README.md) |
@@ -80,6 +81,7 @@
 | BenjaminGuzman/fsociety-ransomware | tool | indexed | <https://github.com/BenjaminGuzman/fsociety-ransomware> | [dir](../../tools/ransomware-threat-actor-tracking/benjaminguzman-fsociety-ransomware-30e5d6fb/README.md) |
 | bhassani/WannacryDecompiled | tool | indexed | <https://github.com/bhassani/WannacryDecompiled> | [dir](../../tools/ransomware-threat-actor-tracking/bhassani-wannacrydecompiled-6320b354/README.md) |
 | bhusalb/gt-ransomware-simulation | research-project | indexed | <https://github.com/bhusalb/gt-ransomware-simulation> | [dir](../../tools/ransomware-threat-actor-tracking/bhusalb-gt-ransomware-simulation-06cfdf24/README.md) |
+| Bi.Zone | tool | indexed | <https://gti.bi.zone/> | [dir](../../tools/ransomware-threat-actor-tracking/gti-bi-zone-87163523/README.md) |
 | bierschi/butterfly | tool | indexed | <https://github.com/bierschi/butterfly> | [dir](../../tools/ransomware-threat-actor-tracking/bierschi-butterfly-d6a23013/README.md) |
 | bing0o/simple_ransomware | tool | indexed | <https://github.com/bing0o/simple_ransomware> | [dir](../../tools/ransomware-threat-actor-tracking/bing0o-simple-ransomware-d7c73493/README.md) |
 | Bitwise-01/Thor | tool | indexed | <https://github.com/Bitwise-01/Thor> | [dir](../../tools/ransomware-threat-actor-tracking/bitwise-01-thor-d1ce5a09/README.md) |
@@ -91,6 +93,7 @@
 | BRANDEFENSE/IoC | research-project | indexed | <https://github.com/BRANDEFENSE/IoC> | [dir](../../tools/ransomware-threat-actor-tracking/brandefense-ioc-4c558fe6/README.md) |
 | BRANDEFENSE/threat-actor-dataset | dataset | indexed | <https://github.com/BRANDEFENSE/threat-actor-dataset> | [dir](../../tools/ransomware-threat-actor-tracking/brandefense-threat-actor-dataset-a55be85c/README.md) |
 | BRANDEFENSE/Threat-Intelligence-Researches | research-project | indexed | <https://github.com/BRANDEFENSE/Threat-Intelligence-Researches> | [dir](../../tools/ransomware-threat-actor-tracking/brandefense-threat-intelligence-researches-59b854c7/README.md) |
+| BreachHQ | tool | indexed | <https://breach-hq.com/threat-actors> | [dir](../../tools/ransomware-threat-actor-tracking/breach-hq-com-threat-actors-c5b18b57/README.md) |
 | bstnbuck/ItsSoEasy | research-project | indexed | <https://github.com/bstnbuck/ItsSoEasy> | [dir](../../tools/ransomware-threat-actor-tracking/bstnbuck-itssoeasy-2327daea/README.md) |
 | BushidoUK/Ransomware-Tool-Matrix | tool | indexed | <https://github.com/BushidoUK/Ransomware-Tool-Matrix> | [dir](../../tools/ransomware-threat-actor-tracking/bushidouk-ransomware-tool-matrix-a24ee6c0/README.md) |
 | buter-chkalova/RvbbitSafe | research-project | indexed | <https://github.com/buter-chkalova/RvbbitSafe> | [dir](../../tools/ransomware-threat-actor-tracking/buter-chkalova-rvbbitsafe-e07dde8e/README.md) |
@@ -101,6 +104,7 @@
 | caronero/Z-ransom | tool | indexed | <https://github.com/caronero/Z-ransom> | [dir](../../tools/ransomware-threat-actor-tracking/caronero-z-ransom-653e9e8b/README.md) |
 | Casualtek/Ransomchats | tool | indexed | <https://github.com/Casualtek/Ransomchats> | [dir](../../tools/ransomware-threat-actor-tracking/casualtek-ransomchats-a52fd3ff/README.md) |
 | cdong1012/GoCryptor | tool | indexed | <https://github.com/cdong1012/GoCryptor> | [dir](../../tools/ransomware-threat-actor-tracking/cdong1012-gocryptor-e1d166e2/README.md) |
+| Check Point Live Cyber Threat Map | tool | indexed | <https://threatmap.checkpoint.com/> | [dir](../../tools/ransomware-threat-actor-tracking/threatmap-checkpoint-com-eb5ecd8d/README.md) |
 | Chibraax/Ransomware | dashboard | indexed | <https://github.com/Chibraax/Ransomware> | [dir](../../tools/ransomware-threat-actor-tracking/chibraax-ransomware-aa6a154b/README.md) |
 | Chibraax/Ransomware--SeriousBuf00n | dashboard | indexed | <https://github.com/Chibraax/Ransomware--SeriousBuf00n> | [dir](../../tools/ransomware-threat-actor-tracking/chibraax-ransomware-seriousbuf00n-51994bc5/README.md) |
 | CLXZ4353/lockbit-rescue-v2 | web-platform | indexed | <https://github.com/CLXZ4353/lockbit-rescue-v2> | [dir](../../tools/ransomware-threat-actor-tracking/clxz4353-lockbit-rescue-v2-16ac386f/README.md) |
@@ -125,6 +129,7 @@
 | Da2dalus/The-MALWARE-Repo | tool | indexed | <https://github.com/Da2dalus/The-MALWARE-Repo> | [dir](../../tools/ransomware-threat-actor-tracking/da2dalus-the-malware-repo-513df1bd/README.md) |
 | dalthunter/intel-reports | awesome-list | indexed | <https://github.com/dalthunter/intel-reports> | [dir](../../tools/ransomware-threat-actor-tracking/dalthunter-intel-reports-41837bdc/README.md) |
 | DaniAffCH/Ransomware | tool | indexed | <https://github.com/DaniAffCH/Ransomware> | [dir](../../tools/ransomware-threat-actor-tracking/daniaffch-ransomware-e2c0bce9/README.md) |
+| Dark Web Informer | tool | indexed | <https://darkwebinformer.com/threat-actor-database/> | [dir](../../tools/ransomware-threat-actor-tracking/darkwebinformer-com-threat-actor-database-b980a37c/README.md) |
 | DarxiSR/CRYLINE-v3.0 | research-project | indexed | <https://github.com/DarxiSR/CRYLINE-v3.0> | [dir](../../tools/ransomware-threat-actor-tracking/darxisr-cryline-v3-0-ef90d7db/README.md) |
 | DarxiSR/CRYLINE-v5.0 | research-project | indexed | <https://github.com/DarxiSR/CRYLINE-v5.0> | [dir](../../tools/ransomware-threat-actor-tracking/darxisr-cryline-v5-0-e85a6ddc/README.md) |
 | deadPix3l/CryptSky | tool | indexed | <https://github.com/deadPix3l/CryptSky> | [dir](../../tools/ransomware-threat-actor-tracking/deadpix3l-cryptsky-b7514bb1/README.md) |
@@ -157,6 +162,7 @@
 | Err0r-ICA/Ransomware | tool | indexed | <https://github.com/Err0r-ICA/Ransomware> | [dir](../../tools/ransomware-threat-actor-tracking/err0r-ica-ransomware-66568d6d/README.md) |
 | esfelurm/android-ransomware | tool | indexed | <https://github.com/esfelurm/android-ransomware> | [dir](../../tools/ransomware-threat-actor-tracking/esfelurm-android-ransomware-4d2ae34c/README.md) |
 | eshlomo1/Ransomware-NOTE | plugin | indexed | <https://github.com/eshlomo1/Ransomware-NOTE> | [dir](../../tools/ransomware-threat-actor-tracking/eshlomo1-ransomware-note-551d946c/README.md) |
+| ETDA | tool | indexed | <https://apt.etda.or.th/cgi-bin/listgroups.cgi> | [dir](../../tools/ransomware-threat-actor-tracking/apt-etda-or-th-cgi-bin-listgroups-cgi-7d5b2df2/README.md) |
 | EternalBlue445/DontWannaCry | tool | indexed | <https://github.com/EternalBlue445/DontWannaCry> | [dir](../../tools/ransomware-threat-actor-tracking/eternalblue445-dontwannacry-64ca3097/README.md) |
 | evilstdio/ransomware | tool | indexed | <https://github.com/evilstdio/ransomware> | [dir](../../tools/ransomware-threat-actor-tracking/evilstdio-ransomware-338b678b/README.md) |
 | exploreourbrain/MicinWare-PHP-Ransomware | tool | indexed | <https://github.com/exploreourbrain/MicinWare-PHP-Ransomware> | [dir](../../tools/ransomware-threat-actor-tracking/exploreourbrain-micinware-php-ransomware-b2a96233/README.md) |
@@ -270,10 +276,12 @@
 | Ki4nb/VSphereRansomwareRecovery | tool | indexed | <https://github.com/Ki4nb/VSphereRansomwareRecovery> | [dir](../../tools/ransomware-threat-actor-tracking/ki4nb-vsphereransomwarerecovery-6427e3b3/README.md) |
 | kimd155/GhostLock | api-service | indexed | <https://github.com/kimd155/GhostLock> | [dir](../../tools/ransomware-threat-actor-tracking/kimd155-ghostlock-d09074cf/README.md) |
 | kinomakino/ransomware_file_extensions | plugin | indexed | <https://github.com/kinomakino/ransomware_file_extensions> | [dir](../../tools/ransomware-threat-actor-tracking/kinomakino-ransomware-file-extensions-2e1821df/README.md) |
+| KNOWLEDGENOW | tool | indexed | <https://know.netenrich.com/content/track/threat-actor> | [dir](../../tools/ransomware-threat-actor-tracking/know-netenrich-com-content-track-threat-actor-9aea66ea/README.md) |
 | Krn0s/CrypToxin-A-Discord-advanced-ransomware | tool | indexed | <https://github.com/Krn0s/CrypToxin-A-Discord-advanced-ransomware> | [dir](../../tools/ransomware-threat-actor-tracking/krn0s-cryptoxin-a-discord-advanced-ransomware-aa59d566/README.md) |
 | kuzeyardabulut/RustyLock | tool | indexed | <https://github.com/kuzeyardabulut/RustyLock> | [dir](../../tools/ransomware-threat-actor-tracking/kuzeyardabulut-rustylock-df08f5b5/README.md) |
 | Largo-m/Ransomware-Analyzer | web-platform | indexed | <https://github.com/Largo-m/Ransomware-Analyzer> | [dir](../../tools/ransomware-threat-actor-tracking/largo-m-ransomware-analyzer-f68cc47d/README.md) |
 | lawndoc/RanSim | cli-tool | indexed | <https://github.com/lawndoc/RanSim> | [dir](../../tools/ransomware-threat-actor-tracking/lawndoc-ransim-1f6ef72f/README.md) |
+| lazarusholic | tool | indexed | <https://lazarus.day/actors/> | [dir](../../tools/ransomware-threat-actor-tracking/lazarus-day-actors-1338a15b/README.md) |
 | leeberg/CashCatRansomwareSimulator | plugin | indexed | <https://github.com/leeberg/CashCatRansomwareSimulator> | [dir](../../tools/ransomware-threat-actor-tracking/leeberg-cashcatransomwaresimulator-b34977f8/README.md) |
 | leJBP/adaptative-ransomware | tool | indexed | <https://github.com/leJBP/adaptative-ransomware> | [dir](../../tools/ransomware-threat-actor-tracking/lejbp-adaptative-ransomware-5caf2688/README.md) |
 | leohidalgo/little-snitch---rule-groups | tool | indexed | <https://github.com/leohidalgo/little-snitch---rule-groups> | [dir](../../tools/ransomware-threat-actor-tracking/leohidalgo-little-snitch-rule-groups-a0fdbdcd/README.md) |
@@ -290,6 +298,7 @@
 | M507/Proof-of-Concept-CSharp-Ransomware | tool | indexed | <https://github.com/M507/Proof-of-Concept-CSharp-Ransomware> | [dir](../../tools/ransomware-threat-actor-tracking/m507-proof-of-concept-csharp-ransomware-af0c4887/README.md) |
 | machine1337/fudransome | tool | indexed | <https://github.com/machine1337/fudransome> | [dir](../../tools/ransomware-threat-actor-tracking/machine1337-fudransome-48441265/README.md) |
 | MalDev101/WoundedGryphon | cli-tool | indexed | <https://github.com/MalDev101/WoundedGryphon> | [dir](../../tools/ransomware-threat-actor-tracking/maldev101-woundedgryphon-fc8570e2/README.md) |
+| Malpedia | tool | indexed | <https://malpedia.caad.fkie.fraunhofer.de/actors> | [dir](../../tools/ransomware-threat-actor-tracking/malpedia-caad-fkie-fraunhofer-de-actors-de795a5c/README.md) |
 | malvuln/RansomDLLs | research-project | indexed | <https://github.com/malvuln/RansomDLLs> | [dir](../../tools/ransomware-threat-actor-tracking/malvuln-ransomdlls-95b196fb/README.md) |
 | Malwareman007/Hacking_Tools | tool | indexed | <https://github.com/Malwareman007/Hacking_Tools> | [dir](../../tools/ransomware-threat-actor-tracking/malwareman007-hacking-tools-a59bd41f/README.md) |
 | Malwareman007/Ransomware | tool | indexed | <https://github.com/Malwareman007/Ransomware> | [dir](../../tools/ransomware-threat-actor-tracking/malwareman007-ransomware-41a9062c/README.md) |
@@ -316,6 +325,7 @@
 | mihneamanolache/Simple-Python-Ransomware | tool | indexed | <https://github.com/mihneamanolache/Simple-Python-Ransomware> | [dir](../../tools/ransomware-threat-actor-tracking/mihneamanolache-simple-python-ransomware-a4d860bd/README.md) |
 | MinegamesAdministrationTool-zz/MineHackingTools | tool | indexed | <https://github.com/MinegamesAdministrationTool-zz/MineHackingTools> | [dir](../../tools/ransomware-threat-actor-tracking/minegamesadministrationtool-zz-minehackingtools-75817f23/README.md) |
 | MinervaLabsResearch/Vaccinator | research-project | indexed | <https://github.com/MinervaLabsResearch/Vaccinator> | [dir](../../tools/ransomware-threat-actor-tracking/minervalabsresearch-vaccinator-18083c0b/README.md) |
+| MISP Galaxy | tool | indexed | <https://www.misp-galaxy.org/360net/> | [dir](../../tools/ransomware-threat-actor-tracking/www-misp-galaxy-org-360net-d4bb98cc/README.md) |
 | MisquaLX/LockBit-RansomWare | research-project | indexed | <https://github.com/MisquaLX/LockBit-RansomWare> | [dir](../../tools/ransomware-threat-actor-tracking/misqualx-lockbit-ransomware-3b6029e3/README.md) |
 | mitchellkrogza/Badd-Boyz-Bitcoin-Scammers | tool | indexed | <https://github.com/mitchellkrogza/Badd-Boyz-Bitcoin-Scammers> | [dir](../../tools/ransomware-threat-actor-tracking/mitchellkrogza-badd-boyz-bitcoin-scammers-04e5405e/README.md) |
 | mitchellkrogza/Badd-Boyz-Hosts | cli-tool | indexed | <https://github.com/mitchellkrogza/Badd-Boyz-Hosts> | [dir](../../tools/ransomware-threat-actor-tracking/mitchellkrogza-badd-boyz-hosts-164a49b7/README.md) |
@@ -341,6 +351,7 @@
 | nullbyt3zx01/KingLocker | tool | indexed | <https://github.com/nullbyt3zx01/KingLocker> | [dir](../../tools/ransomware-threat-actor-tracking/nullbyt3zx01-kinglocker-5441b8d9/README.md) |
 | NYAN-x-CAT/Lime-RAT | research-project | archived | <https://github.com/NYAN-x-CAT/Lime-RAT> | [dir](../../tools/ransomware-threat-actor-tracking/nyan-x-cat-lime-rat-415c49d4/README.md) |
 | oknyshuk/nakitai | web-platform | indexed | <https://github.com/oknyshuk/nakitai> | [dir](../../tools/ransomware-threat-actor-tracking/oknyshuk-nakitai-cd51d019/README.md) |
+| OPENHUNTING.IO | library | indexed | <https://openhunting.io/threat-library> | [dir](../../tools/ransomware-threat-actor-tracking/openhunting-io-threat-library-161a6b46/README.md) |
 | Ort0x36/Dimorf | tool | indexed | <https://github.com/Ort0x36/Dimorf> | [dir](../../tools/ransomware-threat-actor-tracking/ort0x36-dimorf-4b2e4417/README.md) |
 | OverTheNet/---_SAMPLE_MALWARE | tool | indexed | <https://github.com/OverTheNet/---_SAMPLE_MALWARE> | [dir](../../tools/ransomware-threat-actor-tracking/overthenet-sample-malware-93a4cb5e/README.md) |
 | Ovusi/Pysces_Ransomware | tool | indexed | <https://github.com/Ovusi/Pysces_Ransomware> | [dir](../../tools/ransomware-threat-actor-tracking/ovusi-pysces-ransomware-adff5e56/README.md) |
@@ -422,6 +433,7 @@
 | SitinCloud/Owlyshield | framework | indexed | <https://github.com/SitinCloud/Owlyshield> | [dir](../../tools/ransomware-threat-actor-tracking/sitincloud-owlyshield-08dbe2c9/README.md) |
 | skaspi/dynamic-ransom | tool | indexed | <https://github.com/skaspi/dynamic-ransom> | [dir](../../tools/ransomware-threat-actor-tracking/skaspi-dynamic-ransom-dd0f67fe/README.md) |
 | smottoms/ransomware-simulation | container | indexed | <https://github.com/smottoms/ransomware-simulation> | [dir](../../tools/ransomware-threat-actor-tracking/smottoms-ransomware-simulation-f4277931/README.md) |
+| SOCRadar LABS | tool | indexed | <https://socradar.io/labs/threat-actor/> | [dir](../../tools/ransomware-threat-actor-tracking/socradar-io-labs-threat-actor-0251b000/README.md) |
 | SOCRadarSTRU/STRU-threat-intel | research-project | indexed | <https://github.com/SOCRadarSTRU/STRU-threat-intel> | [dir](../../tools/ransomware-threat-actor-tracking/socradarstru-stru-threat-intel-a15a27b9/README.md) |
 | Sokow86/awesome-malware-resources | awesome-list | indexed | <https://github.com/Sokow86/awesome-malware-resources> | [dir](../../tools/ransomware-threat-actor-tracking/sokow86-awesome-malware-resources-301d4501/README.md) |
 | sourceclear/ransomware-poc | tool | indexed | <https://github.com/sourceclear/ransomware-poc> | [dir](../../tools/ransomware-threat-actor-tracking/sourceclear-ransomware-poc-06597a3f/README.md) |
@@ -433,6 +445,7 @@
 | StukovBlack/AndroidRansomware | research-project | indexed | <https://github.com/StukovBlack/AndroidRansomware> | [dir](../../tools/ransomware-threat-actor-tracking/stukovblack-androidransomware-3cb6c8be/README.md) |
 | SuatKoray/Amethyst | tool | indexed | <https://github.com/SuatKoray/Amethyst> | [dir](../../tools/ransomware-threat-actor-tracking/suatkoray-amethyst-0b5b87b9/README.md) |
 | substationworm/IndCyberSecLetters | tool | indexed | <https://github.com/substationworm/IndCyberSecLetters> | [dir](../../tools/ransomware-threat-actor-tracking/substationworm-indcybersecletters-6fc7ee07/README.md) |
+| SUmidcyber/ZeroScout | framework | indexed | <https://github.com/SUmidcyber/ZeroScout> | [dir](../../tools/ransomware-threat-actor-tracking/sumidcyber-zeroscout-22e3346b/README.md) |
 | SVelizDonoso/ransomware | tool | indexed | <https://github.com/SVelizDonoso/ransomware> | [dir](../../tools/ransomware-threat-actor-tracking/svelizdonoso-ransomware-a0263c5e/README.md) |
 | SyedShaheerHussain/Ransomware-Simulation-and-Defense-Mechanism-Python-GUI | dashboard | indexed | <https://github.com/SyedShaheerHussain/Ransomware-Simulation-and-Defense-Mechanism-Python-GUI> | [dir](../../tools/ransomware-threat-actor-tracking/syedshaheerhussain-ransomware-simulation-and-defense-mechanism-p-9db622ad/README.md) |
 | Tacola320/RaaS_mitre | web-platform | indexed | <https://github.com/Tacola320/RaaS_mitre> | [dir](../../tools/ransomware-threat-actor-tracking/tacola320-raas-mitre-4b799359/README.md) |
@@ -441,6 +454,7 @@
 | teozoia/Caronte | tool | indexed | <https://github.com/teozoia/Caronte> | [dir](../../tools/ransomware-threat-actor-tracking/teozoia-caronte-2d8fe948/README.md) |
 | termuxhackers-id/sara | framework | indexed | <https://github.com/termuxhackers-id/sara> | [dir](../../tools/ransomware-threat-actor-tracking/termuxhackers-id-sara-265a4a68/README.md) |
 | TF0X/F0Xware | tool | indexed | <https://github.com/TF0X/F0Xware> | [dir](../../tools/ransomware-threat-actor-tracking/tf0x-f0xware-2fb32042/README.md) |
+| Thales | tool | indexed | <https://cds.thalesgroup.com/en/cyberthreat/attacks-page> | [dir](../../tools/ransomware-threat-actor-tracking/cds-thalesgroup-com-en-cyberthreat-attacks-page-d6ef2919/README.md) |
 | TheCreeper/UselessLocker | tool | indexed | <https://github.com/TheCreeper/UselessLocker> | [dir](../../tools/ransomware-threat-actor-tracking/thecreeper-uselesslocker-fda5f701/README.md) |
 | thedevtoolsmith/KMike | tool | indexed | <https://github.com/thedevtoolsmith/KMike> | [dir](../../tools/ransomware-threat-actor-tracking/thedevtoolsmith-kmike-f19d00dd/README.md) |
 | thedudefello/ToxicDatabase | dataset | archived | <https://github.com/thedudefello/ToxicDatabase> | [dir](../../tools/ransomware-threat-actor-tracking/thedudefello-toxicdatabase-090fae9a/README.md) |

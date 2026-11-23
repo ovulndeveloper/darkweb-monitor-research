@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/lcpdn/docs-suricata>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 This small repository displays the documentation of Emerging Threats Open Rules Suricata 4
 

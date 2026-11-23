@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/The-Osint-Toolbox/Social-Media-OSINT>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1094
+- **Reviewed:** 2026-11-23
 
 Social Media OSINT collection containing - tools, techniques & tradecraft.
 

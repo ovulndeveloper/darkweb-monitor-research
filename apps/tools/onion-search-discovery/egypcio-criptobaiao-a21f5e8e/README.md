@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/egypcio/criptobaiao>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 7
-- **License:** BSD-2-Clause
+- **Reviewed:** 2026-11-23
 
 CriptoBaião, uma CriptoFesta em Fortaleza (Ceará, Brasil)
 

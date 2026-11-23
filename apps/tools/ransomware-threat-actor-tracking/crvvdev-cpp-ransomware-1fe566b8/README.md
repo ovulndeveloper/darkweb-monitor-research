@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/crvvdev/cpp-ransomware>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 21
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 C\C++ Ransomware example using RSA and AES-128 with BCrypt library on Windows
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/center-for-threat-informed-defense/cloud-analytics>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 56
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 Cloud Analytics helps defenders detect attacks to their cloud infrastructure by developing behavioral analytics for cloud platforms as well as a blueprint for how others can create and use cloud analytics effectively.
 

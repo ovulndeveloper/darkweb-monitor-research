@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Rat5ak/TPOT-OTX-Publisher>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Off-box publisher stack for T-Pot + Cisco ASA that turns SSH / ADBHoney / ASA / full-honeypot telemetry into chunky, deduped AlienVault OTX pulses (IPs, URLs, hashes). Runs on its own VM over an SSH tunnel, with systemd’d schedulers and an AI-assisted brain doing the enrichment, tagging, and monthly “big boi” pulse rollups for you.
 

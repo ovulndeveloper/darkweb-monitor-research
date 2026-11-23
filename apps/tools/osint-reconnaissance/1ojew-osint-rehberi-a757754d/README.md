@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/1ojew/osint-rehberi>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 13
-- **License:** CC-BY-SA-4.0
+- **Reviewed:** 2026-11-23
 
 OSINT Mastery: A Scenario-Based Guide to Tools and Techniques
 

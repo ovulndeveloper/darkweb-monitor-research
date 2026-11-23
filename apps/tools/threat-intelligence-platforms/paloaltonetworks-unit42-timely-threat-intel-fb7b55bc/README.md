@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 643
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 A collection of files with indicators supporting social media posts from Palo Alto Network's Unit 42 team to disseminate timely threat intelligence.
 

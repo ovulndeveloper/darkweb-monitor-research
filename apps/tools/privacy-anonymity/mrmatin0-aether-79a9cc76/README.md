@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/MrMatin0/Aether>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 48
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Aether Mobile: a free and open-source Android VPN client with MASQUE, WireGuard, Psiphon and Tor chaining
 

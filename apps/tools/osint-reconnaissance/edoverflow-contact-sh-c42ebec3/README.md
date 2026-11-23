@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/EdOverflow/contact.sh>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 269
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 An OSINT tool to find contacts in order to report security vulnerabilities.
 

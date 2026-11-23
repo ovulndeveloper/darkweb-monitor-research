@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/KaanTuran28/CTI_Scrapper_3>
 - **Sources:** `github-search:topic:dark-web`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Dark web CTI platform with a SOC dashboard: collects data from .onion sources over Tor, classifies threats with editable regex rules and stores results in SQLite.
 

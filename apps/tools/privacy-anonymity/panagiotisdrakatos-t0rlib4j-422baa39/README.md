@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/PanagiotisDrakatos/T0rlib4j>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 54
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 T0rlib4j is a Java controller library for Tor
 

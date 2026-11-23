@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/kaifcodec/phonsint>
 - **Sources:** `github-search:topic:osint-tools`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 54
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 🕵️‍♂️ Advanced phone number OSINT suite engineered for silent reconnaissance. Extracts masked emails, profile avatars and uncovers cross-platform account registrations, and enriches identity footprints with zero SMS alerts.
 

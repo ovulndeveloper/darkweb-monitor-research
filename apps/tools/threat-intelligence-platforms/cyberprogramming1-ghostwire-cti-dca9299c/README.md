@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/cyberprogramming1/GhostWire_CTI>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 🕵️‍♂️ Self-hosted Cyber Threat Intelligence (CTI) platform. 10 parallel analysis engines, local AI (Ollama), deep forensic engine, MITRE ATT&CK mapping, and STIX 2.1/PDF export.
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/nielsing/yar>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 238
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Yar is a tool for plunderin' organizations, users and/or repositories.
 

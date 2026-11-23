@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/redblade7/darkwebmysterybot>
 - **Sources:** `github-search:topic:darkweb`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 11
-- **License:** BSD-2-Clause
+- **Reviewed:** 2026-11-23
 
 A Fediverse phrase bot inspired by YouTube videos and urban legends about the Deep Web.
 

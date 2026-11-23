@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/erdiaker/torrequest>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 234
+- **Reviewed:** 2026-11-23
 
 Simple Python interface for HTTP(s) requests over Tor
 

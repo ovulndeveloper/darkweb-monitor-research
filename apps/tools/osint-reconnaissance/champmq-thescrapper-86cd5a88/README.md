@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/champmq/TheScrapper>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 380
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Scrape emails, phone numbers and social media accounts from a website.
 

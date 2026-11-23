@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/gemartin99/Stockholm>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
+- **Reviewed:** 2026-11-23
 
 Ransomware virus that just only affect a small part of yours files for safety. A program able to generate huge damage in your PC depending the use you'll give to him.
 

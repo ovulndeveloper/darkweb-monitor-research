@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/alfredang/cybersecuritysimulator>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
+- **Reviewed:** 2026-11-23
 
 Educational single-page web app simulating 10 common cybersecurity threats safely — pure HTML/CSS/JS, no real attack code.
 

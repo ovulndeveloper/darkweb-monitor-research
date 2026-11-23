@@ -5,8 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/OnionSearcher/.PrettyOnionNameFinder>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Find an readeable onion url for Tor network, with Azure cloud compute service
 

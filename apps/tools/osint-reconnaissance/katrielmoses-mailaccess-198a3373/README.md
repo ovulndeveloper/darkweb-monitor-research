@@ -4,10 +4,8 @@
 - **Type:** [api-service](../../../by-type/api-service/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/KatrielMoses/MailAccess>
-- **Sources:** `github-search:topic:osint`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1827
-- **License:** MIT
+- **Sources:** `awesome:jivoi/awesome-osint`, `github-search:topic:osint`, `github-search:topic:security-tools`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 Free email OSINT tool, 5000+ platforms, identity clustering, breach detection. No API keys required. pip install mailaccess
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/24x7StreamShop/Netflix-Phishing>
 - **Sources:** `github-search:topic:dark-web`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
+- **Reviewed:** 2026-11-23
 
 Phishing Website disabled by pythonanywhere.com as it was against Terms of Service, so I hosted it on Dark Web. https://netflixlogin.pythonanywhere.com/
 

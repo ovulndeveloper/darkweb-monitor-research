@@ -4,10 +4,8 @@
 - **Type:** [awesome-list](../../../by-type/awesome-list/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/7WaySecurity/cloud_osint>
-- **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 147
-- **License:** MIT
+- **Sources:** `github-search:topic:attack-surface`, `github-search:topic:bug-bounty`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 ☁️ Curated Cloud OSINT resources — dorks, tools, and techniques for AWS, Azure, GCP, Oracle Cloud, and other major providers reconnaissance
 

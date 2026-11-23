@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Ls4ss/ReconHound>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 21
+- **Reviewed:** 2026-11-23
 
 Advanced Passive Recon Like a Boss
 

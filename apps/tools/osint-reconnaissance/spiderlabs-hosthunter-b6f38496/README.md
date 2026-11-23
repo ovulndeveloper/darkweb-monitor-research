@@ -4,10 +4,8 @@
 - **Type:** [tool](../../../by-type/tool/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/SpiderLabs/HostHunter>
-- **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1178
-- **License:** MIT
+- **Sources:** `github-search:topic:osint`, `github-search:topic:recon`, `github-search:topic:security-tools`
+- **Reviewed:** 2026-11-23
 
 HostHunter a recon tool for discovering hostnames using OSINT techniques.
 

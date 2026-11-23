@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ChrisBurkett/ClaudeStrike>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 12
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 ClaudeStrike brings Claude to the Kali command line. Built for operators, it writes commands, runs tools, and maintains context directly in the terminal—no desktop, no GUI. From red‑team operations, blue‑team defenders and state‑sponsored missions, ClaudeStrike delivers AI to the battlespace.
 

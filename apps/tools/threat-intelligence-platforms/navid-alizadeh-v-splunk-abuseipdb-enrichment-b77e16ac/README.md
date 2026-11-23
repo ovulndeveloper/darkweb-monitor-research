@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/navid-alizadeh-v/splunk-abuseipdb-enrichment>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 A custom Splunk search command for AbuseIPDB IP reputation enrichment, featuring SQLite caching, API rate-limit handling, configurable API key rotation, and safe handling of non-public IP addresses.
 

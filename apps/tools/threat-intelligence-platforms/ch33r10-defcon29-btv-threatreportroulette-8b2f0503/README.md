@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ch33r10/DEFCON29-BTV-ThreatReportRoulette>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 15
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Learn how to get more out of publicly available threat reports to help improve the security posture of your organization! TLP: White Threat Reports used in the making of this Panel.
 

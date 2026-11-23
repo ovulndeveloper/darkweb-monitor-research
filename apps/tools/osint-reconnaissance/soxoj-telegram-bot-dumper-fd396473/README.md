@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/soxoj/telegram-bot-dumper>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 431
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Dump a Telegram bot. Browse it like Telegram Web. Forensic CLI tool with web interface
 

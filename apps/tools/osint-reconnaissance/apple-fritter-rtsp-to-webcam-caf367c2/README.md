@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/apple-fritter/RTSP.to-webcam>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 12
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Output RTSP stream to a virtual webcam device using FFmpeg. A guide.
 

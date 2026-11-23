@@ -4,10 +4,8 @@
 - **Type:** [framework](../../../by-type/framework/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/sajjad47/AITIR-Framework>
-- **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 84
-- **License:** NOASSERTION
+- **Sources:** `github-search:topic:incident-response`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 AITIR 2.0: evidence-grounded, authorized identity-threat response reference architecture.
 

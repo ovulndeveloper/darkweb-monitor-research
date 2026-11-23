@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/gitsint-rs/gitsint-rs>
 - **Sources:** `github-search:topic:osint-framework`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 37
+- **Reviewed:** 2026-11-23
 
 🔍 Gitsint is a cutting-edge OSINT platform designed for security researchers, threat intelligence teams, and developers. Uncover hidden connections, detect exposed secrets, and map digital footprints across GitHub's vast ecosystem.
 

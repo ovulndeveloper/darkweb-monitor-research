@@ -5,8 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/jakub/dumper>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 A Python script that parses and deduplicates credential dumps
 

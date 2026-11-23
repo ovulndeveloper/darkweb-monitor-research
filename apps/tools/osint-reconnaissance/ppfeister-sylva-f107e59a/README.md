@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ppfeister/sylva>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 279
-- **License:** AGPL-3.0
+- **Reviewed:** 2026-11-23
 
 Simplify the link between social and real identities
 

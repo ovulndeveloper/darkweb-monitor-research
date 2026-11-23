@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/NullHypothesis/sybilhunter>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 44
-- **License:** BSD-2-Clause
+- **Reviewed:** 2026-11-23
 
 Hunting for Sybils and anomalies in archived Tor network data.
 

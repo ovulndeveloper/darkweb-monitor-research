@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/ciscocsirt/GOSINT>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 556
-- **License:** BSD-3-Clause
+- **Reviewed:** 2026-11-23
 
 The GOSINT framework is a project used for collecting, processing, and exporting high quality indicators of compromise (IOCs).
 

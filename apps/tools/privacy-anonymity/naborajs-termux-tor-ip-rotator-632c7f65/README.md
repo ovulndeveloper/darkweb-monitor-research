@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/naborajs/Termux-Tor-IP-Rotator>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 33
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Ghost Engine — a cross-platform TOR proxy and IP rotation toolkit for Termux, Linux, macOS, and WSL2, By Naboraj Sarkar (NISHANT)
 

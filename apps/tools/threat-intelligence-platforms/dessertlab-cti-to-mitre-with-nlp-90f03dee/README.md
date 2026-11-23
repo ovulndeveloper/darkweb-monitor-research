@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/dessertlab/cti-to-mitre-with-nlp>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 61
-- **License:** CC-BY-SA-4.0
+- **Reviewed:** 2026-11-23
 
 Replication package for the paper "Automatic Mapping of Unstructured Cyber Threat Intelligence: An Experimental Study" published at the IEEE International Symposium on Software Reliability Engineering (ISSRE) 2022
 

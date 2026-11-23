@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/snuri00/osint-mcp>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Self-hosted OSINT toolkit , MCP server, AI REPL, CLI, web app & chat apps (WhatsApp/Telegram/Discord via OpenClaw). Entity, event/news & social/community intelligence. Keyless-first.
 

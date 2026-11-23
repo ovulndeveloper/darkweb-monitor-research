@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/d3v-sh/d3m0n-agent>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Autonomous AI cybersecurity agent built in Go. Executes real tools — nmap, gobuster, amass, ffuf, sqlmap and more — chains them automatically based on your instructions, logs every action to SQLite, and generates professional HTML pentest reports. Works with OpenRouter or any local LLM.
 

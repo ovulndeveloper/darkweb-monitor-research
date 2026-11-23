@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/bulwark-crypto/Bulwark>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 57
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 The primary development repository for the Bulwark project
 

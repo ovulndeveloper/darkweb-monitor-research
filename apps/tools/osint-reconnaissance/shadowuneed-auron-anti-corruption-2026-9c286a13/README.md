@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/shadowuneed/Auron_Anti-Corruption-2026>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 5
+- **Reviewed:** 2026-11-23
 
 🔦⚖️ Shining a light on hidden corruption in government spending — Kazakhstan Hackathon 2026
 

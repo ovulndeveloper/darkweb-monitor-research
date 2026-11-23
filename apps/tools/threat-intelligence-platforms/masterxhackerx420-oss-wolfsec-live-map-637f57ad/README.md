@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/masterxhackerx420-oss/wolfsec-live-map>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Live world-events map: war, news, markets, weather, earthquakes, volcanoes, military aircraft, cyber threats, with filters
 

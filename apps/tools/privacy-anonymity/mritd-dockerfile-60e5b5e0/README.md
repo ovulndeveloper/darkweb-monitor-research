@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/mritd/dockerfile>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2051
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 some personally made dockerfile
 

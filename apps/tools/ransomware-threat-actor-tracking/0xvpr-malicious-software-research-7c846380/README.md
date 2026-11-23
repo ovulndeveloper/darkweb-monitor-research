@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/0xvpr/Malicious-Software-Research>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 40
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 A repository dedicated to researching, documenting, developing, and ultimately, defending against various strains of malicious software.
 

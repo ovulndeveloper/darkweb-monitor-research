@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/cipher387/cheatsheets>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 772
+- **Reviewed:** 2026-11-23
 
 High quality and text versions of cheat sheets from Cyber Detective Twitter
 

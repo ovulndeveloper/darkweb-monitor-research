@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/chaincase-app/Chaincase-iOS-Beta>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 73
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 The only privacy preserving bitcoin app on iOS
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/e-m3din4/osintxphone>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 21
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 OSINT tool to verify phone numbers in Mexico.
 

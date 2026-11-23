@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/nazar-pc/ronion>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 15
+- **Reviewed:** 2026-11-23
 
 Generic anonymous routing protocol framework agnostic to encryption algorithm and transport layer
 

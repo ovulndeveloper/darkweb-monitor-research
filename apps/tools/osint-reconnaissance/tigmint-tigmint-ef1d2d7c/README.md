@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/TIGMINT/TIGMINT>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 267
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 TIGMINT: OSINT (Open Source Intelligence) GUI software framework
 

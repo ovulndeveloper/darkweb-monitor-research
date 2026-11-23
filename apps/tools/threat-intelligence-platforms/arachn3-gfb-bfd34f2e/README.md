@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ARaChn3/gfb>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 5
-- **License:** LGPL-3.0
+- **Reviewed:** 2026-11-23
 
 A golang package implementing a forkbomb using cgo.
 

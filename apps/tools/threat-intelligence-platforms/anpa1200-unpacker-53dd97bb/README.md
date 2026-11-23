@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/anpa1200/Unpacker>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:malware-analysis`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 43
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Packer detection and unpacking workflow for malware analysis: UPX, ASPack, Themida, VMProtect, PE and ELF.
 

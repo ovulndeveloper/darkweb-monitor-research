@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/0xbitx/DEDSEC_TOR-GHOST>
 - **Sources:** `github-search:topic:darkweb`, `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 21
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 An effective tool for navigating the dark web
 

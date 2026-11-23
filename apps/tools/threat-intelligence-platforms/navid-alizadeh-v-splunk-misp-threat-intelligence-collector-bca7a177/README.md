@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/navid-alizadeh-v/Splunk-MISP-Threat-Intelligence-Collector>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
+- **Reviewed:** 2026-11-23
 
 The collector retrieves threat intelligence from the MISP REST API, converts the returned data into structured events, and makes it available for security monitoring, threat hunting, correlation searches, and dashboards in Splunk.
 

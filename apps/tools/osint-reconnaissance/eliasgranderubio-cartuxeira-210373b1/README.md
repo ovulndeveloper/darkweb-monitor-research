@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/eliasgranderubio/cartuxeira>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 18
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 Phishing attack identification tool - Performs email risk evaluations relying on different black lists, machine learning techniques, and OSINT third party services, without depending on user knowledge or awareness
 

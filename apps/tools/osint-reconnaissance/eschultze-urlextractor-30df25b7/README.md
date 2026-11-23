@@ -4,10 +4,8 @@
 - **Type:** [tool](../../../by-type/tool/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/eschultze/URLextractor>
-- **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 459
-- **License:** MIT
+- **Sources:** `github-search:topic:incident-response`, `github-search:topic:osint`, `github-search:topic:phishing`
+- **Reviewed:** 2026-11-23
 
 Information gathering & website reconnaissance | https://phishstats.info/
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/jankammerath/torgate>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 18
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 A reverse proxy for the Onion-network and an alternative to Tor2Web written in C++ using microhttpd and curl as well as the tor socks5 proxy. Onion URLs can be access by a domain extension like torgate.test.
 

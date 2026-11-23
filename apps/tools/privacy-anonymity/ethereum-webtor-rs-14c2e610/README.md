@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ethereum/webtor-rs>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 29
+- **Reviewed:** 2026-11-23
 
 A browser-focused Tor client written in Rust and compiled to WebAssembly (WASM)
 

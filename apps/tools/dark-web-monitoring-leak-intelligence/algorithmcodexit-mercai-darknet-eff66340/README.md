@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/AlgorithmCodexIT/MercAI-Darknet>
 - **Sources:** `github-search:topic:darkweb`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
+- **Reviewed:** 2026-11-23
 
 MercAI Darknet V1.0 – unrestricted, locally-hosted language model for dark web intelligence gathering. Features Tor integration, proxy chains routing, hidden service API, and zero content filtering. For authorized security research only.
 

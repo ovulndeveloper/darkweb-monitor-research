@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/kpcyrd/narnia>
 - **Sources:** `github-search:topic:onion`, `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 56
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 construction: EXPERIMENTAL :construction: Secure hidden service webserver
 

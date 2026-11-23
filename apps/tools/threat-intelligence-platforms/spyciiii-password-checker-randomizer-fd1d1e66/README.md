@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/SPYCIIII/Password_Checker_Randomizer>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
+- **Reviewed:** 2026-11-23
 
 A simple yet powerful desktop app built with Python that helps you evaluate the strength of your passwords and generate secure random ones
 

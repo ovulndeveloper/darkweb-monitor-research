@@ -4,10 +4,8 @@
 - **Type:** [tool](../../../by-type/tool/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/megadose/OnionSearch>
-- **Sources:** `github-search:topic:onion`, `github-search:topic:osint`, `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1847
-- **License:** GPL-3.0
+- **Sources:** `awesome:edwardtay/awesome-OSINT`, `github-search:topic:onion`, `github-search:topic:osint`, `github-search:topic:osint-tools`
+- **Reviewed:** 2026-11-23
 
 OnionSearch is a script that scrapes urls on different .onion search engines.
 

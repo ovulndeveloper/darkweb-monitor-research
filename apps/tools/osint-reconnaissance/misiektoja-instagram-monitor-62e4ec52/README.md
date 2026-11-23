@@ -4,10 +4,8 @@
 - **Type:** [container](../../../by-type/container/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/misiektoja/instagram_monitor>
-- **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1611
-- **License:** GPL-3.0
+- **Sources:** `awesome:jivoi/awesome-osint`, `github-search:topic:osint`
+- **Reviewed:** 2026-11-23
 
 Track Instagram users' activities, followers, profile changes and capture content with beautiful dashboards and instant notifications
 

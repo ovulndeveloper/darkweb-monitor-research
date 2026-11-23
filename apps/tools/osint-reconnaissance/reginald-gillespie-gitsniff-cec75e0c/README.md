@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Reginald-Gillespie/GitSniff>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 9
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 GitSniff is an OSINT tool designed to extract emails from metadata on GitHub accounts and repos.
 

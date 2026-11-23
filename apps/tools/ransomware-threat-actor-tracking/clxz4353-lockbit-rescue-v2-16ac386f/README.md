@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/CLXZ4353/lockbit-rescue-v2>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 A toolkit for recovering files encrypted by LockBit 3.0 ("Black") ransomware without paying the ransom, by exploiting a known keystream-reuse weakness. Complete rewrite with multiprocessing, multi-oracle strategy, OpenMP brute-force, and cross-platform support (Linux/Windows).
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/90ssolo/monero-tor-i2p-node>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Hybrid clearnet + Tor v3 (.onion) + I2P (.b32.i2p) configurations for monerod: fast block sync over IPv4 with anonymous --tx-proxy transaction broadcasting and CGNAT-friendly wallet access.
 

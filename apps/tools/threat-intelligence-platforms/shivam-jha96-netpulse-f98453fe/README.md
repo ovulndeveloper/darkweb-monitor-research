@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Shivam-Jha96/NetPulse>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 NetPulse is a lightning-fast, beautifully designed, all-in-one network command center built for network engineers, system administrators, cybersecurity professionals, developers, and everyday power users.
 

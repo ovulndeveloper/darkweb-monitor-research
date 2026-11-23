@@ -5,8 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/coskundeniz/ad_clicker>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 185
+- **Reviewed:** 2026-11-23
 
 Google Ads clicker
 

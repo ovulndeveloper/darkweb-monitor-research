@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/anyrun/YARA>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 33
+- **Reviewed:** 2026-11-23
 
 Maintained by the ANY.RUN team, this repository provides YARA rules to help detect and classify various malware families and other malicious artifacts.
 

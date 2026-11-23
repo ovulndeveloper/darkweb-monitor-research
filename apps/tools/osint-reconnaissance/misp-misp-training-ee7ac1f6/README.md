@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/MISP/misp-training>
 - **Sources:** `github-search:topic:osint`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 444
+- **Reviewed:** 2026-11-23
 
 MISP trainings, threat intel and information sharing training materials with source code
 

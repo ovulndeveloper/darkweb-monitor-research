@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/bayshier/awesome-osint-arsenal-zh>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 64
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 awesome-osint-arsenal 中文版：753 个 OSINT 与安全工具、50 个分类、一键安装脚本（译自 rawfilejson/awesome-osint-arsenal，MIT）
 

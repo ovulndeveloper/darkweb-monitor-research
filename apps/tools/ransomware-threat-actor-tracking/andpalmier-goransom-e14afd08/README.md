@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/andpalmier/goransom>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 10
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 A proof of concept of a super simple ransomware written in Go
 

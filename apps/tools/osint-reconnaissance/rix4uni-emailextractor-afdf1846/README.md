@@ -4,10 +4,8 @@
 - **Type:** [research-project](../../../by-type/research-project/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/rix4uni/emailextractor>
-- **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 36
-- **License:** MIT
+- **Sources:** `github-search:topic:bug-bounty`, `github-search:topic:recon`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 High-speed Go email scraper that crawls sites and internal links concurrently to collect email addresses for reconnaissance, research, or sales intelligence.
 

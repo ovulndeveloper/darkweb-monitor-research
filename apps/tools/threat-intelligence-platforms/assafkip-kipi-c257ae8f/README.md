@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/assafkip/kipi>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 114
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Open-source, self-hosted OSINT investigation platform: turn documents into a live, investigated entity graph. Autonomous agent, graph analytics (centrality, communities, pathfinding), keyless-first tool belt.
 

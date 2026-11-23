@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/theosintvault/vaulttrace-imei>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 High integrity IMEI/TAC analysis tool with local datasets and deterministic output.
 

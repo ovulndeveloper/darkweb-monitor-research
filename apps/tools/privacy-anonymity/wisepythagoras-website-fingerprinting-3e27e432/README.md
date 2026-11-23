@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/wisepythagoras/website-fingerprinting>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 100
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Deanonymizing Tor or VPN users with website fingerprinting and machine learning.
 

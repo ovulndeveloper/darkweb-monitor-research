@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/AhmadMAnis/PhantomLink>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 5
+- **Reviewed:** 2026-11-23
 
 A complete Reverse Shell packadge (Worm, Keylogger, auto screenshoter, controller, etc) with Listen and Client .exe files).
 

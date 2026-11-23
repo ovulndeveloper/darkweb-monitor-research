@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/rx4747/cti-investigation-vault>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** CC-BY-4.0
+- **Reviewed:** 2026-11-23
 
 Clean Obsidian vault template for structured CTI investigations and STIX 2.1 workflows
 

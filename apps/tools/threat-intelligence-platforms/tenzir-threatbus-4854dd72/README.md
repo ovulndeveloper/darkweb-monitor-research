@@ -4,10 +4,8 @@
 - **Type:** [research-project](../../../by-type/research-project/README.md)
 - **Status:** `archived`
 - **URL:** <https://github.com/tenzir/threatbus>
-- **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 267
-- **License:** BSD-3-Clause
+- **Sources:** `github-search:topic:threat-hunting`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 🚌 Threat Bus – A threat intelligence dissemination layer for open-source security tools.
 

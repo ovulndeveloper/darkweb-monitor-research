@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/fportantier/mosnar>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 11
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Ransomware Detection Test PowerShell Script
 

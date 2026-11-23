@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/jaywyawhare/Ransomware>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 5
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 A Java-based educational project demonstrating cross-platform compatibility, bytecode obfuscation, OS detection, user detection, and a warning message screen for entering the decryption key.
 

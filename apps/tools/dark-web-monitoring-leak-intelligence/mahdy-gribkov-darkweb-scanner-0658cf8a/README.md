@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/mahdy-gribkov/DarkWeb-Scanner>
 - **Sources:** `github-search:topic:dark-web`
-- **Indexed:** 2026-11-23
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Industrial-grade dark web scanner built with Rust and Node.js. Orchestrates multi-threaded scraping through the Tor network.
 

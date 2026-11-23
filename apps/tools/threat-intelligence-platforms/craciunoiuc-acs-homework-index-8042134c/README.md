@@ -5,8 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/craciunoiuc/acs-homework-index>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 11
+- **Reviewed:** 2026-11-23
 
 An index page to all of the homework from the university on this account.
 

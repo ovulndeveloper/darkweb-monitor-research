@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/RegioHelden/innovazammad>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 8
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Bridge between Innovaphone PBX and Zammad's generic CTI integration
 

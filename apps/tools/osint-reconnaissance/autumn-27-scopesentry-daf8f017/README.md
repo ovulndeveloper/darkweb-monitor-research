@@ -4,9 +4,8 @@
 - **Type:** [tool](../../../by-type/tool/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/Autumn-27/ScopeSentry>
-- **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2646
+- **Sources:** `github-search:topic:bug-bounty`, `github-search:topic:osint`, `github-search:topic:security-tools`
+- **Reviewed:** 2026-11-23
 
 ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discovery, vulnerability scanning, distributed nodes
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/rafaelmoreiraal/-tcc-cti-misp>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Scripts e dados do TCC: teste de correlação de IoCs com o MISP
 

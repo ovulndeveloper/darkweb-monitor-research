@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/buter-chkalova/RvbbitSafe>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 8
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 A next-generation multi-echelon anti-ransomware fortress for Windows, combining hypervisor, eBPF, AI deception, and hardware-enforced security.
 

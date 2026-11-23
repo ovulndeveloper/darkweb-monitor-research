@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/RobPinna/Trust-surface>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Evidence-led trust risk assessment project that maps public exposure signals into actionable risk narratives.
 

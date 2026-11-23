@@ -5,8 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/mauri870/ransomware>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 979
+- **Reviewed:** 2026-11-23
 
 A POC Windows crypto-ransomware (Academic). Now Ransom:Win32/MauriCrypt.MK!MTB
 

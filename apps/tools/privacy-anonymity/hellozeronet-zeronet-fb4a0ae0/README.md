@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/HelloZeroNet/ZeroNet>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 18775
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 

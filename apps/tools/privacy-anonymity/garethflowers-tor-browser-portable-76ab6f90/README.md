@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/garethflowers/tor-browser-portable>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 129
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Portable version of the Tor Browser, for Windows
 

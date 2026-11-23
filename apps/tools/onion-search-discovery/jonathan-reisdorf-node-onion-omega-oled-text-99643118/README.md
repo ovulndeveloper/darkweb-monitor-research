@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/jonathan-reisdorf/node-onion-omega-oled-text>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 21
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Write text with big 16x16 font on the OLED expansion of the Onion Omega / Omega2
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/lutfizp/Number2Gram>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 a high-performance technical utility designed for Instagram account registration discovery via phone numbers.
 

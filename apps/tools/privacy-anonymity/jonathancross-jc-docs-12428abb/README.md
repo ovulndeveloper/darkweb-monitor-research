@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/jonathancross/jc-docs>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 43
-- **License:** WTFPL
+- **Reviewed:** 2026-11-23
 
 📝 Tools & Documentation from Jonathan Cross
 

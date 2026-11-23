@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/muchdogesec/stix4doge>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 This repository is used to generate STIX objects used by DOGESEC products.
 

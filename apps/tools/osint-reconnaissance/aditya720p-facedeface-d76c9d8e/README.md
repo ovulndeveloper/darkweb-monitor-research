@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/aditya720p/FaceDeface>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
+- **Reviewed:** 2026-11-23
 
 Deface any photo and video
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/onionshare/onionshare-android>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 304
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Android version of OnionShare
 

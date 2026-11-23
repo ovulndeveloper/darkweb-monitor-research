@@ -4,9 +4,8 @@
 - **Type:** [tool](../../../by-type/tool/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/rix4uni/nucleihub-templates>
-- **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 39
+- **Sources:** `github-search:topic:bug-bounty`, `github-search:topic:recon`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 This repo collects nuclei template from 600+ github repos, updates every 6 hours.
 

@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/jhatzimalis/LazyOSINT>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 Quickly pin sources, launch multiple investigations, and copy your references - All in 1-click!
 

@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/kawainime26/lacakdevbot>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 Bot Telegram Intelijen Data & OSINT Terlengkap di Indonesia
 

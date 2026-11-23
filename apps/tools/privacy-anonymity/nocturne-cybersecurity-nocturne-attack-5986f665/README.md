@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/nocturne-cybersecurity/Nocturne-Attack>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 140
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 This is a framework to test different ways of hardening a website. To avoid IP blocks, Tor is implemented (optional), and for invalid certificates, Urlib3 is implemented.
 

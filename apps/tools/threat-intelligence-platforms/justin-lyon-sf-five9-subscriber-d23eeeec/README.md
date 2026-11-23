@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/justin-lyon/sf-five9-subscriber>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 8
+- **Reviewed:** 2026-11-23
 
 Aura component that subscribes to Five9's Websocket API for CTI
 

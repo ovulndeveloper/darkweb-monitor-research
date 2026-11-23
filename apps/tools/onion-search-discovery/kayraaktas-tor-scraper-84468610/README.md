@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/kayraaktas/tor-scraper>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 Tor network scraper with automated screenshot capture. Scans .onion sites via SOCKS5 proxy, extracts HTML content and generates visual reports using wkhtmltoimage.
 

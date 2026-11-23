@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Madalitso-Saulos/Cyber200Forge>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 A curated collection of essential cybersecurity resources, hands-on practice materials, and CTF challenges to support preparation for the SANReN CSC 2026 Qualification Round.
 

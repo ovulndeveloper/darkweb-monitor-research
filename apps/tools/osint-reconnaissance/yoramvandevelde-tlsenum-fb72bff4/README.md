@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/yoramvandevelde/TLSenum>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 Enumerate TLS certificates through crt.sh
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/evyatarmeged/Raccoon>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4078
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 A high performance offensive security tool for reconnaissance and vulnerability scanning
 

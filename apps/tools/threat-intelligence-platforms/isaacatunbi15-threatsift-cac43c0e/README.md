@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/IsaacAtunbi15/threatsift>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 Context-aware IoC prioritization for Nigerian financial institutions. Scores every indicator against your asset inventory and sector threat profile, so the backlog is ranked by what actually threatens you.
 

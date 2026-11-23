@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/r1cksec/cheatsheets>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 715
+- **Reviewed:** 2026-11-23
 
 Collection of knowledge about information security
 

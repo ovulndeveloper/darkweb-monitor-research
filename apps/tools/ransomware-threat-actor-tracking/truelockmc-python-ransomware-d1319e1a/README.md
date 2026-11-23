@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/truelockmc/python-ransomware>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 7
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 A simple Ransomware written in python, which also bypasses Microsoft Defender
 

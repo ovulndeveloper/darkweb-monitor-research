@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/jonperk318/telegram-parsers>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 7
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 OSINT tools: Telegram chat parsers built to find and extract credit/debit card information and credentials using keyword matches
 

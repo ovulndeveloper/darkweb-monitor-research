@@ -4,9 +4,8 @@
 - **Type:** [tool](../../../by-type/tool/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/urbanadventurer/urlcrazy>
-- **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 701
+- **Sources:** `github-search:topic:osint`, `github-search:topic:phishing`, `github-search:topic:security-tools`
+- **Reviewed:** 2026-11-23
 
 Generate and test domain typos and variations to detect and perform typo squatting, URL hijacking, phishing, and corporate espionage.
 

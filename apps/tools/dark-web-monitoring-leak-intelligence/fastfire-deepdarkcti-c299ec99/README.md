@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/fastfire/deepdarkCTI>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:darkweb`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 7531
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Collection of Cyber Threat Intelligence sources from the deep and dark web
 

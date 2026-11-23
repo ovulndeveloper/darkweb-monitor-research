@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Aabyss-Team/Ban-Hacker-IP-Plan>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 280
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 国内恶意IP封禁计划，还赛博空间一片朗朗乾坤
 

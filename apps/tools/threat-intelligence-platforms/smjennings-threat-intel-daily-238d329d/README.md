@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/smjennings/threat-intel-daily>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 5
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 A Claude Code agent that builds a daily, fully-sourced cyber threat intelligence briefing for CISOs and correlates it against your Tenable environment.
 

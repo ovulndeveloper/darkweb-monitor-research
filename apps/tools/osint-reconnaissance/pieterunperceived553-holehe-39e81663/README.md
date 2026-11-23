@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/pieterunperceived553/holehe>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 Holehe checks if an email is linked to accounts on over 120 platforms without alerting the target, using the forgotten password function for efficient OSINT.
 

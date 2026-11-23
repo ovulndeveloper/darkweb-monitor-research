@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/abiabdillahx/onionize>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Starter Repo for Onion Website Project (Dockerized)
 

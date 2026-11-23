@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/giuliacassara/awesome-social-engineering>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4345
+- **Reviewed:** 2026-11-23
 
 A curated list of awesome social engineering resources.
 

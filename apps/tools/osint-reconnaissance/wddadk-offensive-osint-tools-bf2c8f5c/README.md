@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/wddadk/Offensive-OSINT-Tools>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1334
+- **Reviewed:** 2026-11-23
 
 OffSec OSINT Pentest/RedTeam Tools
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/bbbbbrie/awesome-ransomware>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 35
+- **Reviewed:** 2026-11-23
 
 Curated list of ransomware-related resources; awesome style.
 

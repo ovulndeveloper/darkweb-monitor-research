@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/redmagnu5/ForbiddenTear>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 A real life ransomware
 

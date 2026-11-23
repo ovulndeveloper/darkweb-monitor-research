@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/gjbatista/Telegram-DarkWeb-Monitoring>
 - **Sources:** `github-search:topic:darkweb`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 7
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Telegram bot for monitoring keywords on .onion sites. It uses `requests_tor` to perform web scraping through the Tor network and sends notifications via Telegram.
 

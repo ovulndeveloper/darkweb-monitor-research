@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/arades79/hyperdome>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 26
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 the safest place to reach out
 

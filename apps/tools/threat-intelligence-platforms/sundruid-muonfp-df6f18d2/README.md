@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/sundruid/muonfp>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 35
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 MuonFP is an enterprise ready, TCP passive fingerprinter written in Rust that has no external dependencies such as WireShark or other open source software.
 

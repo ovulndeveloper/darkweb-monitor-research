@@ -4,10 +4,8 @@
 - **Type:** [plugin](../../../by-type/plugin/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/backbay-labs/thrunt-god>
-- **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 41
-- **License:** MIT
+- **Sources:** `github-search:topic:threat-hunting`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 Threat hunting command system for agentic IDEs
 

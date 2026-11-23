@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/aforensics/HiddenVM>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2688
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 HiddenVM — Use any desktop OS without leaving a trace.
 

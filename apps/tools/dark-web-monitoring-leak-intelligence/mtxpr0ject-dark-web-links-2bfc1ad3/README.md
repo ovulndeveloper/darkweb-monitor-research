@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/MTXPr0ject/Dark-Web-Links>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 242
+- **Reviewed:** 2026-11-23
 
 A curated collection of darknet resources for educational purposes, offering insights into darknet frameworks, tools, and security practices. This repository promotes responsible research and awareness.
 

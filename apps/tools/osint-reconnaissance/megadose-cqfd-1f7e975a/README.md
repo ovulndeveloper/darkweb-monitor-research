@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/megadose/cqfd>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 49
+- **Reviewed:** 2026-11-23
 
 cqfd is a tool and a python libraries to search skype account from a name
 

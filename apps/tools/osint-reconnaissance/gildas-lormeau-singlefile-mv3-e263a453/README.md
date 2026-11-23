@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/gildas-lormeau/SingleFile-MV3>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 615
-- **License:** AGPL-3.0
+- **Reviewed:** 2026-11-23
 
 SingleFile version compatible with Manifest V3
 

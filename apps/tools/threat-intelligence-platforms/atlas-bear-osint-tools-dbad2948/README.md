@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/atlas-bear/osint-tools>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 34
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Maritime and supply chain OSINT tools for intelligence practitioners and researchers
 

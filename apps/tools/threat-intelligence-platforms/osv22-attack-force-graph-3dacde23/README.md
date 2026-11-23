@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/osV22/ATTACK-Force-Graph>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 38
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Generate JSON force-directed/ node graph data from MITRE's ATTACK framework and visualize it interactively
 

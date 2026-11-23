@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/emrekybs/Pip-Intel>
 - **Sources:** `github-search:topic:osint`, `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 259
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 PIP-INTEL is an OSINT (Open Source Intelligence) tool designed using various open-source tools and pip packages.
 

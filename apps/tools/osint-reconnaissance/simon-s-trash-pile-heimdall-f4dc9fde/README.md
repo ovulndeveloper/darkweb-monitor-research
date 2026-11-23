@@ -5,8 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/Simon-s-trash-pile/Heimdall>
 - **Sources:** `github-search:topic:osint-framework`
-- **Indexed:** 2026-11-23
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Dead | No real world use case
 

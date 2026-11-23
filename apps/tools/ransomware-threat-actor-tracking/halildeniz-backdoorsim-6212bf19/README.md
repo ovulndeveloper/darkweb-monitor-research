@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/HalilDeniz/BackDoorSim>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 124
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 BackdoorSim: An Educational into Remote Administration Tools
 

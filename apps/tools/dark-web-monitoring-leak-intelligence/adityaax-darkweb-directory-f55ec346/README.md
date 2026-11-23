@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/adityaax/darkweb-directory>
 - **Sources:** `github-search:topic:dark-web`, `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 87
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 🕸️ A curated list of dark web (.onion) links — for educational and research purposes only.
 

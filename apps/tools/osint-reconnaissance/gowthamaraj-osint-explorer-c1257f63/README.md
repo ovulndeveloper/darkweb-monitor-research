@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/gowthamaraj/OSINT-Explorer>
 - **Sources:** `github-search:topic:osint-framework`, `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 25
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 New-Generation OSINT Framework
 

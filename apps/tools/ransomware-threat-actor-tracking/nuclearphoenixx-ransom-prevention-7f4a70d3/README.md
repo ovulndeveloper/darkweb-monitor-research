@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/NuclearPhoenixx/ransom-prevention>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 10
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 💸 A simple script to prevent an infection with Bad Rabbit and Petya/NotPetya on a Windows machine.
 

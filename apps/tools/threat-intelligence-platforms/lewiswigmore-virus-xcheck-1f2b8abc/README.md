@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/lewiswigmore/virus.xcheck>
 - **Sources:** `github-search:topic:malware-analysis`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 67
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 CLI for checking file hashes against Virus Exchange and VirusTotal, with batch processing and HTML reports.
 

@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/rainiersvn/aegis>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 CK Labs proprietary OSINT reconnaissance and penetration testing platform
 

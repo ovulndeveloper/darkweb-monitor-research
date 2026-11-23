@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/shallvhack/awesome-osint-toolkit>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 17
-- **License:** AGPL-3.0
+- **Reviewed:** 2026-11-23
 
 🔎 A Toolkit for OSINT by the OSINT JOURNO Community!
 

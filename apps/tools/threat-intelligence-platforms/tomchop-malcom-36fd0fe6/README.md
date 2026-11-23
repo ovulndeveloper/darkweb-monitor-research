@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/tomchop/malcom>
 - **Sources:** `github-search:topic:malware-analysis`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1171
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Malcom - Malware Communications Analyzer
 

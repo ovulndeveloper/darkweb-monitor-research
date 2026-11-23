@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/testdasi/openvpn-client-aio>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 23
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 "All-in-one" docker for all your private browsing needs. OpenVPN client, HTTP + Socks + TOR proxies, DNS-over-TLS.
 

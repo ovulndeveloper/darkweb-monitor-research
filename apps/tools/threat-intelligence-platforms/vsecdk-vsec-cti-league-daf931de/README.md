@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/VSecDK/VSec-CTI-League>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 The following repository is a collection of current and historical cyber threat intelligence cases in Denmark.
 

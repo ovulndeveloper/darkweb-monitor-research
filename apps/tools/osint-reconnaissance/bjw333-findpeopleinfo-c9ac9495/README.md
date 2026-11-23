@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/BJW333/findpeopleinfo>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 5
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 The findpeopleinfo OSINT Toolkit is a Python based command-line tool designed to assist in open-source intelligence (OSINT) gathering. It offers various functionalities that enable the user to find information regarding a particular target/interest.
 

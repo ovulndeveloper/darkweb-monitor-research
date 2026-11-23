@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/sudo-flgr/anhanga>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 39
+- **Reviewed:** 2026-11-23
 
 Plataforma de CTI Assíncrona focada em Crimes Financeiros (Pix/Cripto) e Compliance Regulatório (Lei 14.790). Powered by LangGraph & AsyncIO.
 

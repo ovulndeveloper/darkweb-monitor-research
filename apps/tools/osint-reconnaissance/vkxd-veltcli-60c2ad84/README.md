@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/vkxd/VeltCLI>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 14
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 An all in 1 OSINT Tool thats a work in progress
 

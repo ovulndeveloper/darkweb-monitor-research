@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/mitjafelicijan/not-garlic>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** BSD-2-Clause
+- **Reviewed:** 2026-11-23
 
 Check top 1 million websites for Onion header link presence
 

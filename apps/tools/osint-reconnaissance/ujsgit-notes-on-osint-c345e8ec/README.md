@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/UjsGit/Notes-on-OSINT>
 - **Sources:** `github-search:topic:osint-framework`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 34
+- **Reviewed:** 2026-11-23
 
 “A curated collection of OSINT tools, techniques, and resources based on personal notes and experiences.”
 

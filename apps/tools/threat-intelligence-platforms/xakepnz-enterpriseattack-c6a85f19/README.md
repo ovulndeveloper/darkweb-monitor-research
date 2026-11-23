@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/xakepnz/enterpriseattack>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 11
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 A lightweight Python module to interact with the MITRE ATT&CK® Enterprise dataset. Built for speed with minimal dependencies. Read the docs on GitLab for more info.
 

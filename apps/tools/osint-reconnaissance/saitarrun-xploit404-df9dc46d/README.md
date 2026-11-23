@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/saitarrun/Xploit404>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 Open-source penetration-testing and bug-bounty toolkit for reconnaissance, OSINT, scanning, exploitation, and CTF workflows.
 

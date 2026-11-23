@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/NexvisionLab/OnionGlass>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **License:** AGPL-3.0
+- **Reviewed:** 2026-11-23
 
 A self-hostable gateway for viewing .onion sites in an ordinary browser, with isolation, policy and evidence capture. Pre-alpha.
 

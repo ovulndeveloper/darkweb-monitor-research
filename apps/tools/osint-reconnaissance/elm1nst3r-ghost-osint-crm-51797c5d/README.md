@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/elm1nst3r/GHOST-osint-crm>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 968
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 GHOST - Global Human Operations & Surveillance Tracking: Open-source investigation management platform for tracking people, connections, and intelligence data. Because Excel spreadsheets are for accountants, not investigators. Non-commercial license.
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/guardianproject/tor-android>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 297
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Tor binary and library for Android
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/GlebYoutuber/WormLockerRansomwarebyCYBERSOLDIER>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 6
-- **License:** BSD-2-Clause
+- **Reviewed:** 2026-11-23
 
 This is Worm Locker 2.0 by CYBER SOLDIER. Enjoy to use this Source Code :D (Cracked by GlebYoutuber)
 

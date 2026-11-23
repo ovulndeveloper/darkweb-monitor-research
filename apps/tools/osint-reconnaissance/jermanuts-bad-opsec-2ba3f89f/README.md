@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/jermanuts/bad-opsec>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 527
+- **Reviewed:** 2026-11-23
 
 Collection of links on bad opsec
 

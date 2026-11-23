@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/kyriasanta/Healthcare-Threat-Intelligence-Assessment>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 A defensive cyber threat intelligence assessment of actively exploited vulnerabilities relevant to healthcare organizations.
 

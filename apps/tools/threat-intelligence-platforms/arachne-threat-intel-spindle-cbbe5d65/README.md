@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/arachne-threat-intel/spindle>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4
-- **License:** CC-BY-SA-4.0
+- **Reviewed:** 2026-11-23
 
 Tracking information about cyber threat actors
 

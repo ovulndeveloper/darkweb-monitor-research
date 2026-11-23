@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/TechSavvyTaco/Android-Termux-Ransomware-Proof-of-Concept>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 32
+- **Reviewed:** 2026-11-23
 
 This project provides insights into how ransomware operates without the need to install any applications.
 

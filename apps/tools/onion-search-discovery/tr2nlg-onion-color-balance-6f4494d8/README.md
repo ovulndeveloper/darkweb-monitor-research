@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/TR2NLG/onion-color-balance>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Warmth and RGB white balance for the Miyoo Mini Plus display in Onion
 

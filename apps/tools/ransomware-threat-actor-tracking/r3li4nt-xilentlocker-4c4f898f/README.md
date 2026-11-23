@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/R3LI4NT/XilentLocker>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
+- **Reviewed:** 2026-11-23
 
 Python Ransomware
 

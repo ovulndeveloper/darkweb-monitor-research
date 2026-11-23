@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Jash-2000/Dark-Web-analysis>
 - **Sources:** `github-search:topic:dark-web`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 22
+- **Reviewed:** 2026-11-23
 
 Research Project I completed under Dr Vinti Agrawal at BITS Pilani.
 

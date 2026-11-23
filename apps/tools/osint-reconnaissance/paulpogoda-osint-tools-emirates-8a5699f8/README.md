@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/paulpogoda/OSINT-Tools-Emirates>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 32
+- **Reviewed:** 2026-11-23
 
 Tools for OSINT in Emirates
 

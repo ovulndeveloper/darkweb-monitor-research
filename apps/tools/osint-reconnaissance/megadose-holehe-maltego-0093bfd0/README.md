@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/megadose/holehe-maltego>
 - **Sources:** `github-search:topic:osint`, `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 266
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Holehe transform for maltego
 

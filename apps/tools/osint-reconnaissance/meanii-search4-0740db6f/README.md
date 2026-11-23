@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/meanii/Search4>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 206
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Search people on the Internet.
 

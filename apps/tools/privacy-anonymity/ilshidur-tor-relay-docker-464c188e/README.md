@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Ilshidur/tor-relay-docker>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 41
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 🐋 Lightweight TOR relay image (17.41 MB), based on LinuxServer.io Alpine Linux.
 

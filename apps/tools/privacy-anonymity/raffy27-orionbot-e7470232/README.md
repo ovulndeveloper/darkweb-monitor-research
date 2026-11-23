@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Raffy27/OrionBot>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 44
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 An open-source, centralized HTTPS botnet
 

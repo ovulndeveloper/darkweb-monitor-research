@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/NullArray/DorkNet>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 351
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Selenium powered Python script to automate searching for vulnerable web apps.
 

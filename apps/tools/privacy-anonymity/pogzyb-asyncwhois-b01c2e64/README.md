@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/pogzyb/asyncwhois>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 102
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Python WHOIS and RDAP utility for querying and parsing information about Domains, IPv4s, IPv6s, and AS numbers
 

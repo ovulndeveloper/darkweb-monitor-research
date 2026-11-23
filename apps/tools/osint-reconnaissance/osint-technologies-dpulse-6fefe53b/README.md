@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/OSINT-TECHNOLOGIES/dpulse>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 172
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 DPULSE - Tool for complex approach to domain OSINT
 

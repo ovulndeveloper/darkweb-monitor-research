@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/0n1cOn3/The-NSO-Blacklist>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 25
+- **Reviewed:** 2026-11-23
 
 🔍 NSO Group Pegasus Spyware IOC Blocklist — Domains, C2 servers, infection infrastructure & internal architecture from Amnesty International and Pegasus Project research
 

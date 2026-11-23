@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/s045pd/DarkNet_ChineseTrading>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1149
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 🚇暗网中文网监控爬虫(DEEPMIX)
 

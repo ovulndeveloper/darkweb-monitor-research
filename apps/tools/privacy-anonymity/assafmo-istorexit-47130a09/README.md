@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/assafmo/IsTorExit>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 46
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Check if an IP is a Tor exit node
 

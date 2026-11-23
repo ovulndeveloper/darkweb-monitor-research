@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/0u44/PythoniC>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 7
+- **Reviewed:** 2026-11-23
 
 "PythoniCryptor" A ransomware, This ransomware works like petya, encrypting your entire drive... EXCEPT you can't purchase your key.
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Cyreslab-AI/shodan-mcp-server>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 55
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 MCP server for Shodan — host/network recon, CVE and exploit lookup, InternetDB, and persistent alerts (34 tools).
 

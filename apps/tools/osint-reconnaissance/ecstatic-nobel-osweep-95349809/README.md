@@ -4,10 +4,8 @@
 - **Type:** [tool](../../../by-type/tool/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/ecstatic-nobel/OSweep>
-- **Sources:** `github-search:topic:malware-analysis`, `github-search:topic:osint`, `github-search:topic:ransomware`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 321
-- **License:** MIT
+- **Sources:** `github-search:topic:malware-analysis`, `github-search:topic:osint`, `github-search:topic:ransomware`, `github-search:topic:threat-hunting`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 Don't Just Search OSINT. Sweep It.
 

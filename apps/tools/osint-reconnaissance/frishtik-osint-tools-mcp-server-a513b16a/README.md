@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/frishtik/osint-tools-mcp-server>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 250
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 MCP server exposing multiple OSINT tools for AI assistants like Claude
 

@@ -4,10 +4,8 @@
 - **Type:** [awesome-list](../../../by-type/awesome-list/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/UCYBERS/Awesome-Blackhat-Tools>
-- **Sources:** `github-search:topic:forensics`, `github-search:topic:malware-analysis`, `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1023
-- **License:** CC0-1.0
+- **Sources:** `github-search:topic:forensics`, `github-search:topic:malware-analysis`, `github-search:topic:osint`, `github-search:topic:security-tools`
+- **Reviewed:** 2026-11-23
 
 A curated list of tools officially presented at Black Hat events
 

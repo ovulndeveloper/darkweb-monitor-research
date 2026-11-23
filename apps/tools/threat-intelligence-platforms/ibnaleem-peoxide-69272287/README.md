@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ibnaleem/peoxide>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 a fast PE file parser library for Python, written in Rust.
 

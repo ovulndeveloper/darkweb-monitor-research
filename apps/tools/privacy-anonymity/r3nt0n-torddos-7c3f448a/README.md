@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/r3nt0n/torDDoS>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 411
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 DDoS attacks over Tor
 

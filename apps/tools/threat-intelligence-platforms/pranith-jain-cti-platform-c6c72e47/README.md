@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Pranith-Jain/cti-platform>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 CTI Platform — live ransomware tracking, cross-source IOC correlation, threat actor timelines, intel briefings, and CTI writeup aggregation
 

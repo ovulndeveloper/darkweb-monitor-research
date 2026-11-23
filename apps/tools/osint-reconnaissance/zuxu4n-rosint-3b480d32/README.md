@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/zuxu4n/Rosint>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 283
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Reddit open-source user intelligence tool
 

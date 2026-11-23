@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/nesiler/identity-sample>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 ASP.NET Identity Sample Project
 

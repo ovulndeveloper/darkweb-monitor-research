@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ictinnovations/freeswitch-esl-node>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 13
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Dependency-free FreeSWITCH Event Socket (ESL) client for Node.js. TypeScript, correct Content-Length framing, bgapi, events, auto-reconnect, ESM + CommonJS.
 

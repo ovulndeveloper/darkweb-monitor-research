@@ -5,8 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/MechaDragonX/Fafnir-CPP>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
+- **Reviewed:** 2026-11-23
 
 A simple malware program that enrypts all files important for Windows with an XOR cipher. DANGEROUS DO NOT USE
 

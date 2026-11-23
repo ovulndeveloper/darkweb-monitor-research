@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/StephenOTT/STIX-Faker>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 11
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 STIX 2 Fake Data Generator
 

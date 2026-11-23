@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/adjisoft/redzeye>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 8
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Tracker tools
 

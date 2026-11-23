@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/SEKOIA-IO/Community>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 199
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Welcome to the SEKOIA.IO Community repository!
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/xxczaki/onion-omega2-coronavirus-oled>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 5
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Display coronavirus stats on the Omega Onion 2 OLED Extension
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/SecOpsNews/news>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 75
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 SecOpsNews: security news, advisories, critical CVEs, breaches and cloud outages from 30 RSS and Atom feeds, as GitHub issues and a dashboard at secops.thechels.uk.
 

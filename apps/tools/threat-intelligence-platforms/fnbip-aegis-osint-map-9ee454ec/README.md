@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/FNBIP/aegis-osint-map>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 37
+- **Reviewed:** 2026-11-23
 
 Real-time OSINT situational awareness platform — global threat events, submarine cables, oil/gas pipelines, military bases, live flights, ship tracking, CCTV feeds, country instability index, and intel dossiers on an interactive 3D globe
 

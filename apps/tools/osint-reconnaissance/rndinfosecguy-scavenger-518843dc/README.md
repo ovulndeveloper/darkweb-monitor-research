@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/rndinfosecguy/Scavenger>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 884
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Crawler (Bot) searching for leaks on paste sites.
 

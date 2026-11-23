@@ -4,10 +4,8 @@
 - **Type:** [api-service](../../../by-type/api-service/README.md)
 - **Status:** `archived`
 - **URL:** <https://github.com/twintproject/twint>
-- **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 16416
-- **License:** MIT
+- **Sources:** `awesome:edwardtay/awesome-OSINT`, `awesome:rawfilejson/awesome-osint-arsenal`, `github-search:topic:osint`
+- **Reviewed:** 2026-11-23
 
 An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
 

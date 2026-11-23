@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/cosad3s/postleaks>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 222
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Search for sensitive data in Postman public library.
 

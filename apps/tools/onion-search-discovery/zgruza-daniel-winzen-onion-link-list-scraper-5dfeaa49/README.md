@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/zgruza/Daniel-Winzen-Onion-Link-List-Scraper>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 11
+- **Reviewed:** 2026-11-23
 
 DanWin1210.me
 

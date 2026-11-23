@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Da2dalus/CerebroSMS>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 74
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Send anonymous text messages with TOR and the TextBelt API
 

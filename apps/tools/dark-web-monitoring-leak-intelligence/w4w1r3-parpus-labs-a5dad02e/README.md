@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/W4W1R3/PARPUS_LABS>
 - **Sources:** `github-search:topic:darkweb`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 SOME PRACTICAL LABS
 

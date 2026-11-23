@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/charliebrassington/one>
 - **Sources:** `github-search:topic:osint-framework`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 36
+- **Reviewed:** 2026-11-23
 
 One, an osint tool with multiple scrapers including cyberbackgroundchecks
 

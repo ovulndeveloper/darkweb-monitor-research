@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/curated-intel/MOVEit-Transfer>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 72
+- **Reviewed:** 2026-11-23
 
 A repository for tracking events related to the MOVEit Transfer Cl0p Campaign
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/GiacomoFerro/python3-ransomware>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 example of ransomware written in python
 

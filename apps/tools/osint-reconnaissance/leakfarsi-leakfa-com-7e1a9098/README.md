@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Leakfarsi/Leakfa.com>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 232
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 A simple way to check if your data has been compromised in major security breaches affecting Iran – similar to "Have I Been Pwned" but focused specifically on Iranian incidents.
 

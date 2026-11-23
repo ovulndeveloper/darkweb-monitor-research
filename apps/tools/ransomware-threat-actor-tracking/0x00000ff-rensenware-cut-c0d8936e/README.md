@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/0x00000FF/rensenware-cut>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 347
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 cut version of rensenware
 

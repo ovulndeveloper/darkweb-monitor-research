@@ -5,8 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/noor633/trcX>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Tor Relay Chat X, compact IRC-style chat over Tor.
 

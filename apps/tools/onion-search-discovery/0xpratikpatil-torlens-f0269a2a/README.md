@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/0xPratikPatil/torlens>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
+- **Reviewed:** 2026-11-23
 
 TorLens is a comprehensive library for querying, analyzing, and monitoring Tor network nodes.TorLens provides developers with fine-grained access to detailed information about Tor relays and bridges.
 

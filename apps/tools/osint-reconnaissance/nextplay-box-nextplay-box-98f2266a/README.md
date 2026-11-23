@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/nextplay-box/Nextplay-box>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 Linux & Cybersecurity Lab
 

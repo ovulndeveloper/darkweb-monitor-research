@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/SalvadorPalmaRodriguez/enola-cli-lite>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Rust CLI for self-hosting Tor hidden services, Git (Forgejo), CMS (WordPress, Drupal, Ghost, Strapi, Wagtail), WireGuard VPN, firewall & AppArmor — post-quantum signed releases
 

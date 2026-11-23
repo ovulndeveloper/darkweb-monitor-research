@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/slowmist/blockchain-threat-intelligence>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 112
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 Blockchain Threat Intelligence Sharing Platform（区块链威胁情报共享平台）
 

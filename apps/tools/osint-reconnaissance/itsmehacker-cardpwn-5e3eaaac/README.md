@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/itsmehacker/CardPwn>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 646
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 OSINT Tool to find Breached Credit Cards Information
 

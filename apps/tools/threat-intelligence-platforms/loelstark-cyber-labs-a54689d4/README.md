@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/LoelStark/Cyber-Labs>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
+- **Reviewed:** 2026-11-23
 
 This repo contains a compliled interactive format of breaking into Cybersecurity, it includes a tasklist which you can complete and check the boxes upon completion. Similar contributions are welcomed and it will be continuously updated over time.
 

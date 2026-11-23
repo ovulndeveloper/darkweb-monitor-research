@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/maqp/tfc>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1325
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Tinfoil Chat - Onion-routed, endpoint secure messaging system
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/smitovski/BlackSearchV5>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 No description provided by the source.
 

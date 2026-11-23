@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/fen1l/BWare>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 5
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 BWare - A python based ransomware generator Compatible with win/linux
 

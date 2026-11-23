@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Acceis/leakScraper>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 449
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 LeakScraper is an efficient set of tools to process and visualize huge text files containing credentials. Theses tools are designed to help penetration testers and redteamers doing OSINT by gathering credentials belonging to their target.
 

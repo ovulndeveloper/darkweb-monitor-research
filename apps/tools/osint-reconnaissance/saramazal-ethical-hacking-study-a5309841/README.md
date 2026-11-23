@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/saramazal/ethical-hacking-study>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 20
+- **Reviewed:** 2026-11-23
 
 Ethical Hacking - Useful Resources
 

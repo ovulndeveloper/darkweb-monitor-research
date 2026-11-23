@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/thisisnzed/Pandora>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 135
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Pandora is an simple undetectable open-source virus composed of agents, servers and masters. Can be used under Windows & Linux.
 

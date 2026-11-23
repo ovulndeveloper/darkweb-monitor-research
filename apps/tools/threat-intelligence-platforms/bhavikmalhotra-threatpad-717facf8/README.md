@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/bhavikmalhotra/ThreatPad>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 24
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Open-source collaborative note-taking platform for cybersecurity and CTI teams. IOC auto-extraction, STIX 2.1 export, real-time editing, RBAC, version history, and audit logging. Self-hosted with Docker.
 

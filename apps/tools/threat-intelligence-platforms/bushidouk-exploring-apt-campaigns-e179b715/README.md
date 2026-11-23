@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/BushidoUK/Exploring-APT-campaigns>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 89
+- **Reviewed:** 2026-11-23
 
 Further investigation in to APT campaigns disclosed by private security firms and security agencies
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/termermc/tor-reverse-proxy>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 31
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 A reverse proxy for .onion sites
 

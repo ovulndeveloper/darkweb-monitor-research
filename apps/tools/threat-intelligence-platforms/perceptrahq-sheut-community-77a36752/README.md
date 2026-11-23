@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/PerceptraHQ/sheut-community>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** MPL-2.0
+- **Reviewed:** 2026-11-23
 
 A local-first cyber threat intelligence workbench.
 

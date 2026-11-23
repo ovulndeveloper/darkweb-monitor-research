@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/FrancescoDiSalesGithub/commodore64-ransomware>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Concept of a possible ransomware in the 80s of a commodore64
 

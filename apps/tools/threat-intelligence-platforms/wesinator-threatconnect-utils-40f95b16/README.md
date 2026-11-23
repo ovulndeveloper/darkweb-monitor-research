@@ -5,7 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/wesinator/threatconnect-utils>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 Script utilities, programming snippets, and configs for using the ThreatConnect API, and analysis.
 

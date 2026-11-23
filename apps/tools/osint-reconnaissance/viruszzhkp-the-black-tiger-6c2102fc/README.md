@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/VirusZzHkP/The-Black-Tiger>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 235
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 The Black Tiger is all in one OSINT Tool, which has the best methods to collect Information about something or someone just by few mouse clicks.
 

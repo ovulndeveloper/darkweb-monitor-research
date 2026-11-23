@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/tojo54/HashScope-WebTrace-Browser-History-Analysis>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 Free Browsing History Analysis & Digital Forensic Browser History Examiner (Windows, macOS, Linux - Portable & Installer). Analyze Chrome, Firefox, Edge, Safari, Tor & IE 10/11 visits, deleted history (WAL/VSS), cache, cookies, logins, downloads, JSON & PLIST. Developed by TOJO P THOMAS.
 

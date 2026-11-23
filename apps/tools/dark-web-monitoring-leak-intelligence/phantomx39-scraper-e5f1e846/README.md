@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/phantomx39/Scraper>
 - **Sources:** `github-search:topic:dark-web`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 6
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 A robust, local-first intelligence application for scraping and analyzing Dark Web data.
 

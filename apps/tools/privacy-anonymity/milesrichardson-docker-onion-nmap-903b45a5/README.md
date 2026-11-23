@@ -4,9 +4,8 @@
 - **Type:** [container](../../../by-type/container/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/milesrichardson/docker-onion-nmap>
-- **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 547
+- **Sources:** `github-search:topic:recon`, `github-search:topic:tor`
+- **Reviewed:** 2026-11-23
 
 Scan .onion hidden services with nmap using Tor, proxychains and dnsmasq in a minimal alpine Docker container.
 

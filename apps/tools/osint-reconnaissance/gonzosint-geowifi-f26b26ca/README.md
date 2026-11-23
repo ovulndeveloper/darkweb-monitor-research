@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/GONZOsint/geowifi>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1524
+- **Reviewed:** 2026-11-23
 
 Search WiFi geolocation data by BSSID and SSID on different public databases.
 

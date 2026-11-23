@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/voltsparx/Silinocide-C>
 - **Sources:** `github-search:topic:osint-framework`, `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 This tool is underdevelopment!
 

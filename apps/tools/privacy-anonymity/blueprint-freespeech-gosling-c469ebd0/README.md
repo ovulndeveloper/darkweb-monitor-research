@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/blueprint-freespeech/gosling>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 51
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Rust crate providing anonymous, secure, and private peer-to-peer functionality using Tor onion services
 

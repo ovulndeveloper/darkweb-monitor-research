@@ -4,10 +4,8 @@
 - **Type:** [framework](../../../by-type/framework/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/kpcyrd/sn0int>
-- **Sources:** `github-search:topic:osint`, `github-search:topic:osint-framework`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2570
-- **License:** GPL-3.0
+- **Sources:** `awesome:TinuolaRotimi/Awesome-OSINT`, `awesome:edwardtay/awesome-OSINT`, `awesome:jivoi/awesome-osint`, `github-search:topic:bug-bounty`, `github-search:topic:osint`, `github-search:topic:osint-framework`, `github-search:topic:recon`
+- **Reviewed:** 2026-11-23
 
 Semi-automatic OSINT framework and package manager
 

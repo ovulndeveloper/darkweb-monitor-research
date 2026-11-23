@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/OffcierCia/non-typical-OSINT-guide>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1627
-- **License:** Unlicense
+- **Reviewed:** 2026-11-23
 
 The most unusual OSINT guide you've ever seen. The repository is intended for bored professionals only. PRs are welcome!
 

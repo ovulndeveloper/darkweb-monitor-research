@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/SecShiv/OneDorkForAll>
 - **Sources:** `github-search:topic:darkweb`, `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 842
+- **Reviewed:** 2026-11-23
 
 An insane list of all dorks taken from everywhere from various different sources.
 

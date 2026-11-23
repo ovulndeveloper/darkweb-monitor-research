@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/glurp/ruby-onion-omega2>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 6
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Usefull tools for using ruby (MRI) on Omega2+
 

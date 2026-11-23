@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/update692/torping>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 Periodically poll regular or onion site via Tor.
 

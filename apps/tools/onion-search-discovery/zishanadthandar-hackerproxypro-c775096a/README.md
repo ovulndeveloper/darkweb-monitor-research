@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ZishanAdThandar/HackerProxyPro>
 - **Sources:** `github-search:topic:onion`, `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 40
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Burp Suite Proxy Toggler Lite Add-on for Mozilla Firefox.
 

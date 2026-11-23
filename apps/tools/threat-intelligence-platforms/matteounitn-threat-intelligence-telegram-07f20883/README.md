@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/matteounitn/Threat-Intelligence-telegram>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 12
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 A bot to quickly get information about an IP, useful to get threat intelligence informations for blue team.
 

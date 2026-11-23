@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/201Harsh/DarkWeb>
 - **Sources:** `github-search:topic:darkweb`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
+- **Reviewed:** 2026-11-23
 
 My DarkWeb Site
 

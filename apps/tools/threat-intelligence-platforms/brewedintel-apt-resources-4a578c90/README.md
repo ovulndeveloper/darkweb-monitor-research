@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/BrewedIntel/apt-resources>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 26
+- **Reviewed:** 2026-11-23
 
 Curated list of APT group trackers, malware family indexes, naming maps, threat actor reporting, and public intelligence sources.
 

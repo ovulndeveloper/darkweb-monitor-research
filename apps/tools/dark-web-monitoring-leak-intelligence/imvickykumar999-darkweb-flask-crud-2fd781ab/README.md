@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/imvickykumar999/DarkWeb-Flask-CRUD>
 - **Sources:** `github-search:topic:darkweb`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** BSD-3-Clause
+- **Reviewed:** 2026-11-23
 
 Hosting dark-web-site only Sunday : https://www.youtube.com/watch?v=w9SDHiIlyfo
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/M0m0SMS-OSINT/Maltego>
 - **Sources:** `github-search:topic:osint-framework`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 163
+- **Reviewed:** 2026-11-23
 
 Maltego compilation of various assets, local transforms and helpful scripts
 

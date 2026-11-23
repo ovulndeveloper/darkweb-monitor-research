@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/c4seus/lacis>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 18
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Desktop OSINT tool that maps French companies, their directors and addresses into a sourced link graph, and flags patterns worth a closer look.
 

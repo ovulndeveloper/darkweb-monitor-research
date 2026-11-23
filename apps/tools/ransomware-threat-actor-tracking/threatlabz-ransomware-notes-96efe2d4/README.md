@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ThreatLabz/ransomware_notes>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 431
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 An Archive of Ransomware Notes Past and Present Collected by Zscaler ThreatLabz
 

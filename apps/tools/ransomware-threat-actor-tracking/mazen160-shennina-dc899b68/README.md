@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/mazen160/shennina>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 558
+- **Reviewed:** 2026-11-23
 
 Automating Host Exploitation with AI
 

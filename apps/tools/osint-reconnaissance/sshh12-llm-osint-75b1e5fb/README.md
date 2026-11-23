@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/sshh12/llm_osint>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 322
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 LLM OSINT is a proof-of-concept method of using LLMs to gather information from the internet and then perform a task with this information.
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ictinnovations/ictagent>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 26
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 ICT Agent :: A Chrome Extension For Call Center
 

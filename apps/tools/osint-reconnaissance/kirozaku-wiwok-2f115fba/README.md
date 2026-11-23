@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Kirozaku/Wiwok>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 48
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 OSINT tool for username, email, and phone investigation. No API key required.
 

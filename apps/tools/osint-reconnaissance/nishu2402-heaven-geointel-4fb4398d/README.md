@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/nishu2402/HEAVEN-GeoIntel>
 - **Sources:** `github-search:topic:digital-forensics`, `github-search:topic:osint-framework`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 7
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 🌐 All-in-one OSINT & threat intelligence platform for multi-identifier investigations, automated cross-entity pivoting, privacy-first metadata extraction, and verifiable reporting.
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/action-ai-institute/MABEL-dataset>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 34
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 MABEL: Malware Analysis Benchmark for Artificial Intelligence and Machine Learning
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/soxoj/telegram-bot-dumper-go>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 17
+- **Reviewed:** 2026-11-23
 
 🔪 Dumper & ripper for Telegram bots by token. Golang version 🚀
 

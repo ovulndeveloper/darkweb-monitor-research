@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ch33r10/SunflowerCon>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 7
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 International Cybersecurity Incidents for In-House CTI Analysts #StandWithUkraine #GlorytoUkraine DONATE TO: NOVA UKRAINE at novaukraine.org. Talk content provided by Xena Olsen @ch33r10
 

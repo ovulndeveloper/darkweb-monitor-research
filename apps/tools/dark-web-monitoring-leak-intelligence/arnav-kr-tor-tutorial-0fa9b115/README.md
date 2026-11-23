@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/arnav-kr/tor-tutorial>
 - **Sources:** `github-search:topic:dark-web`, `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 28
+- **Reviewed:** 2026-11-23
 
 Create and Host a dark Web Site (Tor Hidden Service)
 

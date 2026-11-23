@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/RicYaben/midnight_sea>
 - **Sources:** `github-search:topic:darkweb`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 76
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 Midnight Sea: navigating in the waters of dark web markets
 

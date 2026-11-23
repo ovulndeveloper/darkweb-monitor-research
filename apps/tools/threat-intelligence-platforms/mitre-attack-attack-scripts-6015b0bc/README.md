@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/mitre-attack/attack-scripts>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 596
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 Scripts and a (future) library to improve users' interactions with the ATT&CK content
 

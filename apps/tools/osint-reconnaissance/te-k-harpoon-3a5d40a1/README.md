@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Te-k/harpoon>
 - **Sources:** `github-search:topic:osint`, `github-search:topic:osint-framework`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1299
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 CLI tool for open source and threat intelligence
 

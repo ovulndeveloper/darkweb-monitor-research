@@ -4,10 +4,8 @@
 - **Type:** [research-project](../../../by-type/research-project/README.md)
 - **Status:** `archived`
 - **URL:** <https://github.com/utkusen/socialhunter>
-- **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 777
-- **License:** MIT
+- **Sources:** `github-search:topic:bug-bounty`, `github-search:topic:osint`
+- **Reviewed:** 2026-11-23
 
 crawls the website and finds broken social media links that can be hijacked
 

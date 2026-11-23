@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Danukeru/torv3_vanity_addr_vulkan>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** BSD-2-Clause
+- **Reviewed:** 2026-11-23
 
 Vulkan based TOR v3 Hidden Service vanity onion address generator.
 

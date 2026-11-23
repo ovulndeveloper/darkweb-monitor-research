@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/baatout/tor-ip-rotation-python-example>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 32
+- **Reviewed:** 2026-11-23
 
 An example of Tor IP rotation in Python
 

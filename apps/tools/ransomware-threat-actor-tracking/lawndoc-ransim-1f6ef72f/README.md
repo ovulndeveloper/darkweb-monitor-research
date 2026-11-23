@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/lawndoc/RanSim>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 248
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Ransomware simulation script written in PowerShell. Useful for testing your defenses and backups against real ransomware-like activity in a controlled setting.
 

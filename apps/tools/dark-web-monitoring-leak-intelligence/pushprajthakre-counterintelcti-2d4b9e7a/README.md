@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/pushprajthakre/CounterIntelCTI>
 - **Sources:** `github-search:topic:darkweb`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 7
+- **Reviewed:** 2026-11-23
 
 Collection of Cyber Threat Intelligence sources from the surface, deep and dark web
 

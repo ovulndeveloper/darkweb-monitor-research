@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/WalletWasabi/WalletWasabi>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2636
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Open-source, non-custodial, privacy preserving Bitcoin wallet for Windows, Linux, and Mac.
 

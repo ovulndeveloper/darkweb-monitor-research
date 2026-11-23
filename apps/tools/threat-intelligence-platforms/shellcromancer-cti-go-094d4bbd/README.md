@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/shellcromancer/cti-go>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
+- **Reviewed:** 2026-11-23
 
 Go tooling for Cyber Threat Intel programs
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/deeztek/Hermes-Secure-Email-Gateway>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 143
-- **License:** AGPL-3.0
+- **Reviewed:** 2026-11-23
 
 Hermes Secure Email Gateway is a Free Open Source Secure Email Gateway and Email Server
 

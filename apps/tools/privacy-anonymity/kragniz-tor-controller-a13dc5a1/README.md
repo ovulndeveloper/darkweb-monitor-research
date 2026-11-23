@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/kragniz/tor-controller>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 532
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 Run Tor onion services on Kubernetes
 

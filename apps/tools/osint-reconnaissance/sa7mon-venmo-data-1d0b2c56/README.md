@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/sa7mon/venmo-data>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 207
+- **Reviewed:** 2026-11-23
 
 Venmo trasaction dataset for data analysis/visualization/anything
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/OhShINT/ohshint.gitbook.io>
 - **Sources:** `github-search:topic:osint`, `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 984
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 So what is this all about? Yep, its an OSINT blog and a collection of OSINT resources and tools. Suggestions for new OSINT resources is always welcomed.
 

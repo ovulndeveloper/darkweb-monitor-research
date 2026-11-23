@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Raghu3696/Cyber-Threat-Predictive-Analytics-for-Improving-Cyber-Supply-Chain-Security>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
+- **Reviewed:** 2026-11-23
 
 Machine learning-based cyber threat risk prediction for cyber supply chain security using historical threat indicators and risk-based feature analysis.
 

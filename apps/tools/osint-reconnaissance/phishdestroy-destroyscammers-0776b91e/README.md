@@ -4,10 +4,8 @@
 - **Type:** [research-project](../../../by-type/research-project/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/phishdestroy/DestroyScammers>
-- **Sources:** `github-search:topic:forensics`, `github-search:topic:osint`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 228
-- **License:** MIT
+- **Sources:** `github-search:topic:forensics`, `github-search:topic:osint`, `github-search:topic:phishing`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 Scam intelligence, phishing attribution, drainer mapping. Legal OSINT only. Public data. Real cases. For researchers and victims.
 

@@ -4,10 +4,8 @@
 - **Type:** [container](../../../by-type/container/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/anpa1200/adversarygraph>
-- **Sources:** `github-search:topic:cti`, `github-search:topic:cyber-threat-intelligence`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 35
-- **License:** NOASSERTION
+- **Sources:** `github-search:topic:cti`, `github-search:topic:cyber-threat-intelligence`, `github-search:topic:threat-hunting`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 Self-hosted AI-assisted CTI-to-detection workbench for ATT&CK mapping, IOC/CVE intelligence, Threat Radar, malware triage, Attack Simulation, and SIEM validation.
 

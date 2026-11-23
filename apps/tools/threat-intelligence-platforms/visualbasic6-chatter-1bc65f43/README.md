@@ -5,8 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/visualbasic6/chatter>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 150
+- **Reviewed:** 2026-11-23
 
 internet monitoring osint telegram bot for windows
 

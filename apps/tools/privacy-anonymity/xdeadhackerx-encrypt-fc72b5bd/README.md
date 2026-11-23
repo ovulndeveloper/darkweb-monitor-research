@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/XDeadHackerX/Encrypt>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 32
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Herramienta enfocada a Blindar/Proteger nuestro equipo para que todo rastro que deje en Internet o en Redes Locales sea Falso e Inrasteable. [NO ME HAGO RESPONSABLE DEL MAL USO DE ESTA HERRAMIENTA]
 

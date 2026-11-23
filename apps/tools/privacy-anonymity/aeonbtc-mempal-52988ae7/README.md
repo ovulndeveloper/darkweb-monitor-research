@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/aeonBTC/Mempal>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 52
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Bitcoin mempool monitoring and notification app for Android.
 

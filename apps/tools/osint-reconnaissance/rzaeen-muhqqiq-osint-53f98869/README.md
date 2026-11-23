@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/rzaeen/Muhqqiq-OSINT>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 مُحقّق — مجمّع أدوات OSINT والتحقق العربي (واجهة عربية، مجاني، MIT)
 

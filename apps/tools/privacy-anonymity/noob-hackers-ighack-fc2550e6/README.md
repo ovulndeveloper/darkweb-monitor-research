@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/noob-hackers/ighack>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2210
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Hack Instagram From Termux With Help of Tor
 

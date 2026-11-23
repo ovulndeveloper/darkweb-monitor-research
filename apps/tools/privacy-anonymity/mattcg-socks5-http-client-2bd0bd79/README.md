@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/mattcg/socks5-http-client>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 253
+- **Reviewed:** 2026-11-23
 
 SOCKS v5 HTTP client implementation in JavaScript for Node.js.
 

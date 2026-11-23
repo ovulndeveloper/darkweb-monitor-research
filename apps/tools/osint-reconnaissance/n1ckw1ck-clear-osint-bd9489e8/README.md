@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/N1ckw1ck/Clear_OSINT>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Clear Web OSINT Tooling
 

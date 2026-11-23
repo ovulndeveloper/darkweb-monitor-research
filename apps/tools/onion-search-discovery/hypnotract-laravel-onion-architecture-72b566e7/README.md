@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/hypnotract/laravel-onion-architecture>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 My Onion Architecture Showcase for Laravel
 

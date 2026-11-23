@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/OsmanKandemir/associated-threat-analyzer>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:cyber-threat-intelligence`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 41
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Associated-Threat-Analyzer detects malicious IPv4 addresses and domain names associated with your web application using local malicious domain and IPv4 lists.
 

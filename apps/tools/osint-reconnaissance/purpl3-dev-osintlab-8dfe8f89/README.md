@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Purpl3-Dev/OSINTLAB>
 - **Sources:** `github-search:topic:osint-framework`, `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 42
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 This script automates the installation of 50 OSINT tools for reconnaissance and information gathering.
 

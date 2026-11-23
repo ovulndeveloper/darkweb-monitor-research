@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/CristianSaftoiu/OSINT-Prototype>
 - **Sources:** `github-search:topic:dark-web`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
+- **Reviewed:** 2026-11-23
 
 Herramienta OSINT (Open Source Intelligence) para el descubrimiento pasivo de activos expuestos en Internet, incluyendo búsquedas en la red Tor (dark web), fingerprinting tecnológico (detección de versiones de software) y análisis de vulnerabilidades (CVEs) con búsqueda de exploits públicos.
 

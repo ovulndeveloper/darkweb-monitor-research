@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/umutcamliyurt/GoCry>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 9
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 A fast cross-platform ransomware
 

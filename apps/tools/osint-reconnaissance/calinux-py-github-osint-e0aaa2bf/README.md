@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/calinux-py/GitHub-OSINT>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Browser extension that surfaces useful OSINT intelligence from public GitHub profiles, repositories, commits, and activity.
 

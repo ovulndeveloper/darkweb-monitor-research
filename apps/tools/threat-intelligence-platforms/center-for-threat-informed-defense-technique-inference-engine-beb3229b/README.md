@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/center-for-threat-informed-defense/technique-inference-engine>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 75
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 TIE is a machine learning model for inferring associated MITRE ATT&CK techniques from previously observed techniques.
 

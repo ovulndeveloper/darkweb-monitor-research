@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/hamhus/USD-CTI-Listener>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
+- **Reviewed:** 2026-11-23
 
 This repository contains a custom USD generic listener to handle or customize the inbound/incoming calls from the CTI
 

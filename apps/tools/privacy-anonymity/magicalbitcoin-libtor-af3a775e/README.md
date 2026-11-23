@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/MagicalBitcoin/libtor>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 101
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Bundle and run Tor inside your own project
 

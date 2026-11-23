@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/yezz123/SoIG>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 462
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 OSINT Tool gets a range of information from an Instagram account 🛠
 

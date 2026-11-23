@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Hack-with-Github/Powerful-Plugins>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 917
-- **License:** CC0-1.0
+- **Reviewed:** 2026-11-23
 
 Powerful plugins and add-ons for hackers
 

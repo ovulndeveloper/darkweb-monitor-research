@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/munazajamil/web-security-audit-report>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
+- **Reviewed:** 2026-11-23
 
 Website security audit with Target URL and identifying details have been redacted.
 

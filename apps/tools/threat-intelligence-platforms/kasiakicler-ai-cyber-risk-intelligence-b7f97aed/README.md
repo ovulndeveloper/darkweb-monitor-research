@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/kasiakicler/ai-cyber-risk-intelligence>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
+- **Reviewed:** 2026-11-23
 
 AI-powered cyber threat analysis and risk intelligence solution combining Python, Power BI, and AI-generated executive reporting.
 

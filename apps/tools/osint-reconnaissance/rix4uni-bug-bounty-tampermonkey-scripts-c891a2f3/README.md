@@ -4,9 +4,8 @@
 - **Type:** [tool](../../../by-type/tool/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/rix4uni/Bug-Bounty-Tampermonkey-Scripts>
-- **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 43
+- **Sources:** `github-search:topic:bug-bounty`, `github-search:topic:recon`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 No description provided by the source.
 

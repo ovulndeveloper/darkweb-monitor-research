@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Err0r-ICA/TORhunter>
 - **Sources:** `github-search:topic:onion`, `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 131
+- **Reviewed:** 2026-11-23
 
 Designed to scan and exploit vulnerabilities within Tor hidden services. TORhunter allows most tools to work as normal while resolving .onion
 

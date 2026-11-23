@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/api-evangelist/flashpoint>
 - **Sources:** `github-search:topic:dark-web`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 Flashpoint — independent third-party profile of a public API surface, by API Evangelist. Flashpoint is a threat intelligence company delivering decisive intelligence for cybersecurity, fraud prevention, corporate and physical security, vulnerability management, insider threat, and national security teams.
 

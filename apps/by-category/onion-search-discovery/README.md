@@ -1,8 +1,8 @@
 # Onion Search & Discovery
 
-393 entries. Generated from [`apps/data/catalog.json`](../data/catalog.json); do not edit by hand.
+393 dark-web / investigation URLs. Last reviewed 2026-11-23T09:00:17Z.
 
-[← All categories](../CATEGORIES.md) · [Master index](../README.md)
+[← All categories](../../CATEGORIES.md) · [← Master index](../../README.md)
 
 | Name | Type | Status | URL | Directory |
 |---|---|---|---|---|

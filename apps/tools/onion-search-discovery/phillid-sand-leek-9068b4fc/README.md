@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/phillid/sand-leek>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 10
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Experimental CPU-bound (soon GPU) vanity onion address generator. Moved to https://gitlab.com/dphillips/sand-leek
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Tsuyoken/kencryptor>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 13
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Windows Encrypt/Decrypt using AES 256 bit keys
 

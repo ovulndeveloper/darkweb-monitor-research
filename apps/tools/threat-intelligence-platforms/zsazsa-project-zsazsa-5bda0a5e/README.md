@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/zsazsa-project/zsazsa>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 52
-- **License:** AGPL-3.0
+- **Reviewed:** 2026-11-23
 
 A CTI program management and production platform built around MISP
 

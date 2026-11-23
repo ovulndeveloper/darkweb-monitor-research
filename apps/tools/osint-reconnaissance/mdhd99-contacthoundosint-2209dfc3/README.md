@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/MDHD99/ContactHoundOSINT>
 - **Sources:** `github-search:topic:osint-framework`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 7
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Domain email gathering and delivery
 

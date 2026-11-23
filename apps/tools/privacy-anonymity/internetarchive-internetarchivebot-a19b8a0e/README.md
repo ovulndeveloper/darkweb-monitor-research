@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/internetarchive/internetarchivebot>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 159
-- **License:** AGPL-3.0
+- **Reviewed:** 2026-11-23
 
 No description provided by the source.
 

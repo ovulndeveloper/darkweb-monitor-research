@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/rommapp/grout>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 256
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 A RomM Client for your Linux retro handheld
 

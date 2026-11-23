@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/aaronkaplan/cti-llm>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 24
+- **Reviewed:** 2026-11-23
 
 An LLM for CTI reports - to be presented at FIRST Fukuoka 2024
 

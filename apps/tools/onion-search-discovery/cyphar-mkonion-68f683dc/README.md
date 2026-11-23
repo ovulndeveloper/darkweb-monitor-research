@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/cyphar/mkonion>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 85
-- **License:** MPL-2.0
+- **Reviewed:** 2026-11-23
 
 A simple way to create a Tor onion service for existing Docker containers.
 

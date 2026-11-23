@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Hildaboo/BabukRansomwareSourceCode>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 300
+- **Reviewed:** 2026-11-23
 
 Leaked source code of the babuk ransomware by VXUG
 

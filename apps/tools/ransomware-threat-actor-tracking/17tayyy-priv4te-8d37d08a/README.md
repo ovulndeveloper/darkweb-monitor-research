@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/17tayyy/priv4te>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Priv4te is a ransomware written in Python and currently designed to run in Windows environments. It's a project I'm continuing to improve.
 

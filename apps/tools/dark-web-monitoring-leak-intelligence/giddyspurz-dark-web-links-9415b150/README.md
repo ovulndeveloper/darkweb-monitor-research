@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Giddyspurz/Dark-Web-Links>
 - **Sources:** `github-search:topic:darkweb`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 60
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Some Links to surf on the DarkWeb
 

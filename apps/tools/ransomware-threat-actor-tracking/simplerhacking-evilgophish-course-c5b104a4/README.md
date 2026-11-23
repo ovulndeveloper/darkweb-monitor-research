@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/simplerhacking/evilgophish-course>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 9
+- **Reviewed:** 2026-11-23
 
 Repository for uploading all extra resources for members enrolled in Simpler Hacking's EvilGoPhish3 Mastery Pro Course
 

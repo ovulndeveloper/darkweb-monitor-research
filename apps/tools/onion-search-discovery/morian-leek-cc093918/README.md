@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/morian/leek>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 SSE/AVX2/AVX512 onion v2 address generator.
 

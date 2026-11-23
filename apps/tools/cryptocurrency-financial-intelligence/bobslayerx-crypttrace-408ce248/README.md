@@ -4,10 +4,8 @@
 - **Type:** [dashboard](../../../by-type/dashboard/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/bobslayerX/crypttrace>
-- **Sources:** `github-search:topic:forensics`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 31
-- **License:** MIT
+- **Sources:** `github-search:topic:forensics`, `github-search:topic:phishing`
+- **Reviewed:** 2026-11-23
 
 OSINT toolkit for crypto investigations: trace stolen funds across EVM chains, Bitcoin, Litecoin, Dogecoin, Tron, Solana and TON — evidence packs, exchange deposit detection, CLI and web UI
 

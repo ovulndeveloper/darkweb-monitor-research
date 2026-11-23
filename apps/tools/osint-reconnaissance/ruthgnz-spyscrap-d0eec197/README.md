@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/RuthGnz/SpyScrap>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 244
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 CLI and GUI for OSINT. Are you very exhibited on the Internet? Check it! Twitter, Tinder, Facebook, Google, Yandex, BOE. It uses facial recognition to provide more accurate results.
 

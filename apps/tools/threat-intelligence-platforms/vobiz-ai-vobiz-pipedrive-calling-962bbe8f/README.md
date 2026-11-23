@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/vobiz-ai/Vobiz-Pipedrive-Calling>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Vobiz calling app for Pipedrive — browser softphone that logs every call as an Activity and Call Log with a signed recording link.
 

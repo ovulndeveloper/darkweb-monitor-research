@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/Itz-Agasta/nerrf>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 8
-- **License:** AGPL-3.0
+- **Reviewed:** 2026-11-23
 
 AI-driven undo computing framework for cloud-scale event tracing, recovery, and observability
 

@@ -4,10 +4,8 @@
 - **Type:** [tool](../../../by-type/tool/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/Drew-Alleman/DataSurgeon>
-- **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 910
-- **License:** Apache-2.0
+- **Sources:** `github-search:topic:bug-bounty`, `github-search:topic:incident-response`, `github-search:topic:osint`, `github-search:topic:recon`, `github-search:topic:security-tools`
+- **Reviewed:** 2026-11-23
 
 Quickly Extracts IP's, Email Addresses, Hashes, Files, Credit Cards, Social Security Numbers and a lot More From Text
 

@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/bitbug0x55AA/personal-cti-streamliner>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Your personal threat intelligence hub. Automates CTI collection and categorization with FreshRSS & Docker.
 

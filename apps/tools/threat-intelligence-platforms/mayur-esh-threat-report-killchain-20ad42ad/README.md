@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/mayur-esh/threat-report-killchain>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 Claude skill to convert CTI reports into cyber kill chain, Diamond Model views and create a TTP-to-ATT&CK/ATLAS mapping, IOC - IPs, domains, emails, hashes, file paths, registry keys, CVEs, malware, threat actors - extraction.
 

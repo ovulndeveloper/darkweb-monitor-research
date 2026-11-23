@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/rp-holdings/rp-stealth-security>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
+- **Reviewed:** 2026-11-23
 
 Active deception security shield. Traps malicious probes, delivers fake data, tarpits attacker sockets, and silently captures forensics. Fail-open architecture.
 

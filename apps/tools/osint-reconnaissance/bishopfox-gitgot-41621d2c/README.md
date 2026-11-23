@@ -4,10 +4,8 @@
 - **Type:** [api-service](../../../by-type/api-service/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/BishopFox/GitGot>
-- **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1577
-- **License:** LGPL-3.0
+- **Sources:** `github-search:topic:osint`, `github-search:topic:recon`, `github-search:topic:security-tools`
+- **Reviewed:** 2026-11-23
 
 Semi-automated, feedback-driven tool to rapidly search through troves of public data on GitHub for sensitive secrets.
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/deep-fingerprinting/df>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 207
+- **Reviewed:** 2026-11-23
 
 The source code and dataset are used to demonstrate the DF model, and reproduce the results of the ACM CCS2018 paper
 

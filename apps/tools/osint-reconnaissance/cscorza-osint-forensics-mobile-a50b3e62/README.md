@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/CScorza/OSINT-FORENSICS-MOBILE>
 - **Sources:** `github-search:topic:forensics`, `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 714
+- **Reviewed:** 2026-11-23
 
 Tools OSINT MOBILE
 

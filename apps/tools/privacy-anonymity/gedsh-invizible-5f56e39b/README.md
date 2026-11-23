@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Gedsh/InviZible>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2904
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Android application for online privacy and security
 

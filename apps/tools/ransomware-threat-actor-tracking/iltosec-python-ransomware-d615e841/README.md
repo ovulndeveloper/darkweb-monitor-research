@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/iltosec/python_ransomware>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 15
+- **Reviewed:** 2026-11-23
 
 Simple Ransomware using Python PyQt5 and Cryptography libraries. You can make the design you want using the design files.
 

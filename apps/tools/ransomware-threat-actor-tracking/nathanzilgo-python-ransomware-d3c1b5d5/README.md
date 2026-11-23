@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/nathanzilgo/Python-Ransomware>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4
+- **Reviewed:** 2026-11-23
 
 Simple Python Ransomware with Crypter and Decrypter scripts.
 

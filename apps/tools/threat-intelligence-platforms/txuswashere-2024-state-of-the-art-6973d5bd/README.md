@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/txuswashere/2024-state-of-the-art>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
+- **Reviewed:** 2026-11-23
 
 Estado del arte de la ciberseguridad
 

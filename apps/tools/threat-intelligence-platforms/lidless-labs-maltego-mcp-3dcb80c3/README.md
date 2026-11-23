@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/lidless-labs/maltego-mcp>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 13
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 OSINT graphs are point-and-click busywork. maltego-mcp lets an LLM author the .mtgx and run the whois, DNS, ASN, and crt.sh lookups. Works on the Basic plan.
 

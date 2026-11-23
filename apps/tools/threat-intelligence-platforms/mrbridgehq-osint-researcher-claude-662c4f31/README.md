@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/MrBridgeHQ/osint-researcher-claude>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 OSINT Researcher - authorized open-source intelligence & cyber threat intelligence (recon/footprinting, CTI, due diligence/KYC), with a legal/ethics/OPSEC gate. Claude Code skill (target LLM: Claude). Part of the mr-bridge.com toolkit.
 

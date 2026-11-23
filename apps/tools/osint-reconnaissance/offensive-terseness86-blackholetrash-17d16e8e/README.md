@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Offensive-terseness86/BlackHoleTrash>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 Drag and drop files into a desktop black hole to move items directly to the Windows Recycle Bin using real-time gravitational lens effects.
 

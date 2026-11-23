@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Err0r-ICA/Ransomware>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 933
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Ransomwares Collection. Don't Run Them on Your Device.
 

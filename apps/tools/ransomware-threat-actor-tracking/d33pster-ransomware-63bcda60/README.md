@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/d33pster/ransomware>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 test ransomware written in python
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/amarokinc/bad-asn>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
-- **License:** BSD-3-Clause
+- **Reviewed:** 2026-11-23
 
 A zeek script for identifying bad ASNs
 

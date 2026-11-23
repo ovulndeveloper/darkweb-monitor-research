@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/picatz/falconz>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 32
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 🦅 Falcon Malware Sandbox APIv2 Connector
 

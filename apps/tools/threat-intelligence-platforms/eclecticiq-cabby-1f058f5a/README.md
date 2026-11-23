@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/eclecticiq/cabby>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 104
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 TAXII client implementation from EclecticIQ
 

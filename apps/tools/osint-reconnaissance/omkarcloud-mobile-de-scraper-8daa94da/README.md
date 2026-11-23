@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/omkarcloud/mobile-de-scraper>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Mobile de Scraper — free, open-source Mobile de scraper. Unlimited cars, prices, specs, dealers & reviews as clean JSON, no API key, no proxies.
 

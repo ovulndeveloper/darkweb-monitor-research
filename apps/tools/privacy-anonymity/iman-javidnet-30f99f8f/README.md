@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Iman/javidnet>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 35
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 "اینترنت نمی‌میرد" — The Internet Never Dies
 

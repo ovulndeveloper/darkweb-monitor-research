@@ -5,8 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/RD17/DeTor>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 27
+- **Reviewed:** 2026-11-23
 
 speak_no_evil: A simple REST API to identify requests made from TOR network.
 

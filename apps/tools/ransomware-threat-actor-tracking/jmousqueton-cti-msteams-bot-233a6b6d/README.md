@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/JMousqueton/CTI-MSTeams-Bot>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:ransomware`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 53
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 🤖 Bot to get the last Cyber Security information in a Microsoft Teams channel 🏴‍☠️
 

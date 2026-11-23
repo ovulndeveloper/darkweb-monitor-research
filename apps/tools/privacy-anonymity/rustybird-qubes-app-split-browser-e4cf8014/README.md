@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/rustybird/qubes-app-split-browser>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 49
-- **License:** 0BSD
+- **Reviewed:** 2026-11-23
 
 Tor Browser (or Firefox) in a Qubes OS disposable, with persistent bookmarks and login credentials
 

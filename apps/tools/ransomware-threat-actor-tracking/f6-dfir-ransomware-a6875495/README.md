@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/f6-dfir/Ransomware>
 - **Sources:** `github-search:topic:ransomware`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 50
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 A structured, continuously updated threat-intelligence repository focused on ransomware families and threat actors.
 

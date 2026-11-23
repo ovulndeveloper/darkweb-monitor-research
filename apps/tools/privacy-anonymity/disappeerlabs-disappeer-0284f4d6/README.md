@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/disappeerlabs/disappeer>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 70
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 A pure Python GUI app for GPG functionality and peer-to-peer encrypted messaging over Tor
 

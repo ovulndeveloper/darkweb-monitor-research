@@ -4,9 +4,8 @@
 - **Type:** [awesome-list](../../../by-type/awesome-list/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/danieldurnea/FBI-tools>
-- **Sources:** `github-search:topic:forensics`, `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2750
+- **Sources:** `github-search:topic:bug-bounty`, `github-search:topic:forensics`, `github-search:topic:incident-response`, `github-search:topic:osint`, `github-search:topic:security-tools`
+- **Reviewed:** 2026-11-23
 
 🕵️ OSINT Tools for gathering information and actions forensics 🕵️
 

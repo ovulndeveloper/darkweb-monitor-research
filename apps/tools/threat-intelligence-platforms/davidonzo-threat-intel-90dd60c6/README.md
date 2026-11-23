@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/davidonzo/Threat-Intel>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 165
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Threat-Intel repository. API: https://github.com/davidonzo/apiosintDS
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/oniontree-org/oniontree>
 - **Sources:** `github-search:topic:dark-web`, `github-search:topic:onion`, `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 69
-- **License:** CC0-1.0
+- **Reviewed:** 2026-11-23
 
 A repository of Tor hidden services.
 

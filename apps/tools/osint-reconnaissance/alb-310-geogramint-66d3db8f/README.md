@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/Alb-310/Geogramint>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 732
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 An OSINT Geolocalization tool for Telegram that find nearby users and groups 📡🌍🔍
 

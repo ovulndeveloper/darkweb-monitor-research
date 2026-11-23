@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Gianguyen1234/A-section-to-know-about-Tor>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 48
+- **Reviewed:** 2026-11-23
 
 Read the readme file.
 

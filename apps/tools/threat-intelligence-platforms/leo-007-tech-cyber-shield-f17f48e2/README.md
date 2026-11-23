@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/LEO-007-tech/CYBER-SHIELD>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 Interactive cybersecurity awareness web application with a link checker, scam detector, password generator, quiz, and cyber safety resources.
 

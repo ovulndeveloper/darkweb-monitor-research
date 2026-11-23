@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/metamarcdw/nowallet>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 71
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 This project is a secure Bitcoin brainwallet app written in Python.
 

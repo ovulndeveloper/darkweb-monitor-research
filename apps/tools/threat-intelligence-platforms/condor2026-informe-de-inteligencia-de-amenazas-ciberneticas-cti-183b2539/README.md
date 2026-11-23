@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Condor2026/INFORME-DE-INTELIGENCIA-DE-AMENAZAS-CIBERNETICAS-CTI-GLOBAL>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 🌐🕵🛡️🚨|EL NUEVO ORDEN DEL CIBERESPACIO - INFORME CTI GLOBAL: LA GUERRA QUE NADIE VE
 

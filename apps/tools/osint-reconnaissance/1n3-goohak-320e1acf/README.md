@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/1N3/Goohak>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 744
+- **Reviewed:** 2026-11-23
 
 Automatically Launch Google Hacking Queries Against A Target Domain
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/07enesavci/tor-web-scraper>
 - **Sources:** `github-search:topic:darkweb`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Go scraper for .onion sites over the Tor network
 

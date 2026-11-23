@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/eclecticiq/OpenTAXII>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 217
-- **License:** BSD-3-Clause
+- **Reviewed:** 2026-11-23
 
 TAXII server implementation in Python from EclecticIQ
 

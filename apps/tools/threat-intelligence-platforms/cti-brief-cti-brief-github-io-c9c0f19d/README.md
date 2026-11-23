@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/cti-brief/cti-brief.github.io>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 Static CTI brief, curated from over 142 feeds and updated periodically (daily, weekly).
 

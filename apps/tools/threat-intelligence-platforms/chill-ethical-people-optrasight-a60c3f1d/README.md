@@ -4,10 +4,8 @@
 - **Type:** [web-platform](../../../by-type/web-platform/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/Chill-Ethical-People/Optrasight>
-- **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 46
-- **License:** Apache-2.0
+- **Sources:** `github-search:topic:threat-hunting`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 Open-source cyber threat intelligence workstation for OSINT triage, Threat Actor Profiles, AI-assisted analysis, and hunt-query generation.
 

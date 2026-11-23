@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Nab6eel/UPI-AND-OSINT>
 - **Sources:** `github-search:topic:osint-framework`, `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
+- **Reviewed:** 2026-11-23
 
 Security research exploring UPI metadata exposure, VPA patterns, and cross-app OSINT correlation, with illustrated findings, privacy risks, and defensive recommendations.
 

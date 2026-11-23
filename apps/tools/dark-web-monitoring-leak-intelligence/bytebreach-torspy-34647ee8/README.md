@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ByteBreach/torspy>
 - **Sources:** `github-search:topic:darkweb`, `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 torspy is a robust Python package fortified with powerful algorithms, designed for seamless exploration of websites, including both normal and .onion sites via the Tor network.
 

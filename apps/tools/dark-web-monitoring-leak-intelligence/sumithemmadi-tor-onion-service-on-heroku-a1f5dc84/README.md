@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/sumithemmadi/Tor-Onion-Service-On-Heroku>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 39
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Host Onion services in dark web using Heroku CLI
 

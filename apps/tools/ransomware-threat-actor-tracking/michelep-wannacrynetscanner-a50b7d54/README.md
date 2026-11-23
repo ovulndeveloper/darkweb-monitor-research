@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/michelep/WannaCryNetScanner>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 21
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 A simple python scanner to detect vulnerable hosts in your net
 

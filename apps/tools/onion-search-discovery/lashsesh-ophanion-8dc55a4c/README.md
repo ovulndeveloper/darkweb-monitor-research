@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/LashSesh/ophanion>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 OPHANION is a DDoS defense system designed for Tor Hidden Services.
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/0xtf/nsm-attack>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 72
+- **Reviewed:** 2026-11-23
 
 Mapping NSM rules to MITRE ATT&CK
 

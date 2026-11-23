@@ -5,8 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/LinaYorda/OSINT-browser-extentions>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 11
+- **Reviewed:** 2026-11-23
 
 Browser extension that I use daily to detect fake news; search images and collect data.
 

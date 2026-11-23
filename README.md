@@ -1,90 +1,5 @@
 # Dark Web Monitor Research Repo
 
-[![Continuous research refresh](https://github.com/ovulndeveloper/darkweb-monitor-research/actions/workflows/research-auto-update.yml/badge.svg)](https://github.com/ovulndeveloper/darkweb-monitor-research/actions/workflows/research-auto-update.yml)
-
-## 🏆 Largest Dark Web Monitoring Tools Directory on GitHub (5118+ Tools)
-
-**🌟 Star this repo to support continuous research and the 5000+ tool directory!**
-
----
-*Repository contains 5,118+ dark web monitoring tools across 16 categories with automated 6-hour updates.*
-
----
-## 📁 Full URL Directory (6,780+ URLs)
-
-The [`apps/`](apps/) directory contains **6,780+ unique dark-web tool URLs** across 10 categories and 16 types, systematically discovered from GitHub search indexes and curated resource lists.
-
-**Key indexes:**
-- [`apps/CATEGORIES.md`](apps/CATEGORIES.md) - Category counts and links
-- [`apps/TYPES.md`](apps/TYPES.md) - Type counts and links
-- [`apps/SOURCES.md`](apps/SOURCES.md) - Source indexes and per-source counts
-- [`apps/STATUS.json`](apps/STATUS.json) - Machine-readable counts
-- [`apps/data/catalog.json`](data/catalog.json) - Normalized dataset
-- [`apps/tools/`](apps/tools/README.md) - One directory per URL entry
-
-**Browse by category:**
-- [`apps/by-category/osint-reconnaissance/README.md`](apps/by-category/osint-reconnaissance/README.md) - 3,319 URLs
-- [`apps/by-category/dark-web-monitoring-leak-intelligence/README.md`](apps/by-category/dark-web-monitoring-leak-intelligence/README.md) - 227 URLs
-- [`apps/by-category/phishing-fraud-intelligence/README.md`](apps/by-category/phishing-fraud-intelligence/README.md) - 431 URLs
-- [`apps/by-category/privacy-anonymity/README.md`](apps/by-category/privacy-anonymity/README.md) - 415 URLs
-- [`apps/by-category/ransomware-threat-actor-tracking/README.md`](apps/by-category/ransomware-threat-actor-tracking/README.md) - 505 URLs
-- [`apps/by-category/threat-intelligence-platforms/README.md`](apps/by-category/threat-intelligence-platforms/README.md) - 1,441 URLs
-- And 8 more categories...
-
-**Browse by type:**
-- [`apps/by-type/tool/README.md`](apps/by-type/tool/README.md) - 3,243 URLs (largest type)
-- [`apps/by-type/api-service/README.md`](apps/by-type/api-service/README.md) - 520 URLs
-- [`apps/by-type/awesome-list/README.md`](apps/by-type/awesome-list/README.md) - 151 URLs
-- And 13 more types...
-
----
-## 📁 Categories & URLs (5118+ Tools)
-
-| Category | Tools | Rank Range | URLs |
-|---|---:|---:|---|
-| **OSINT Automation & Frameworks** | 7 | ⭐⭐⭐⭐ - ⭐⭐⭐⭐⭐ | [`tools_catalog.md`## 1. OSINT Automation & Frameworks](tools_catalog.md##-1-osint-automation--frameworks) | [`rsearch/automation/`](rsearch/automation/) |
-| **Dark Web Exposure & Monitoring** | 5 | ⭐⭐⭐ - ⭐⭐⭐⭐ | [`tools_catalog.md`## 2. Dark Web Exposure & Monitoring](tools_catalog.md##-2-dark-web-exposure--monitoring) | [`rsearch/automation/`](rsearch/automation/) |
-| **Search Engines & Directories** | 7 | ⭐⭐⭐ - ⭐⭐⭐⭐ | [`tools_catalog.md`## 3. Search Engines & Directories](tools_catalog.md##-3-search-engines--directories) | [`rsearch/`](rsearch/) |
-| **Breach & Credential Monitoring** | 6 | ⭐⭐⭐⭐ - ⭐⭐⭐⭐ | [`tools_catalog.md`## 4. Breach & Credential Monitoring](tools_catalog.md##-4-breach--credential-monitoring) | [`rsearch/`](rsearch/) |
-| **Commercial Solutions** | 5 | ⭐⭐⭐⭐ - ⭐⭐⭐⭐ | [`tools_catalog.md`## 5. Commercial Solutions](tools_catalog.md##-5-commercial-solutions) | [`apps/by-category/`](apps/by-category/) |
-| **Research Directory Tools** | 20+ | ⭐⭐⭐ - ⭐⭐⭐⭐ | [`rsearch/CATALOG.md`](rsearch/CATALOG.md) | [`rsearch/`](rsearch/) |
-
----
-*Tool counts and rank ranges are based on the latest catalog generation. For full details with individual tool ranks, features, and platform support, see [`tools_catalog.md`](tools_catalog.md).*
-
----
-*Auto-updated every 6 hours via GitHub Actions workflow [`.github/workflows/research-auto-update.yml`](.github/workflows/research-auto-update.yml).*
-*Generated catalog: [`rsearch/CATALOG.md`](rsearch/CATALOG.md) | [`apps/README.md`](apps/README.md)*
-
-*Repository type: URL and directory listing only — no software code, exploit code, or downloadable payloads.*
-*Last verified: 2026-11-23 (UTC)*
-
----
-## 📊 At a Glance
-
-| Area | Tools | Categories |
-|---|---:|---:|
-| **Dark Web Monitoring** | 5000+ | 16 |
-| **OSINT Frameworks** | 20+ | 4 |
-| **Search Engines** | 10+ | 4 |
-| **Breach Monitoring** | 20+ | 4 |
-| **Commercial Solutions** | 10+ | 5 |
-
----
-## 📁 Quick Links
-
-- [📦 Full Catalog](tools_catalog.md) - 5,118 tools with ranks and features
-- [🔍 rsearch Catalog](rsearch/CATALOG.md) - Research directory catalog
-- [🔧 Apps Directory](apps/README.md) - 6,780+ tools organized by category and type
-- [🔄 Auto-update Workflow](.github/workflows/research-auto-update.yml) - Runs every 6 hours
-- [📋 Contributing](CONTRIBUTING.md) - How to add tools and submit PRs
-
----
-*🌟 Star this repo to support continuous research and the 5,118+ tool directory!*
-
-*Last verified: 2026-11-23 (UTC)*
-# Dark Web Monitor Research Repo
-
 Evidence-linked, deduplicated research on dark-web monitoring, OSINT, onion discovery, leak-site tracking, and privacy environments.
 
 **Repository type:** URL and directory listing only — no software code, exploit code, or downloadable payloads.
@@ -98,7 +13,7 @@ Evidence-linked, deduplicated research on dark-web monitoring, OSINT, onion disc
 ## Contents
 
 - [At a glance](#at-a-glance)
-- [Apps mega-directory (5,000+)](#apps-mega-directory-5000)
+- [Apps mega-directory (6,780 URLs)](#apps-mega-directory-6780-urls)
 - [Legacy categories and URLs](#legacy-categories-and-urls)
 - [New `rsearch` categories and URLs](#new-rsearch-categories-and-urls)
 - [Research documents and source URLs](#research-documents-and-source-urls)
@@ -116,8 +31,8 @@ Evidence-linked, deduplicated research on dark-web monitoring, OSINT, onion disc
 
 | Area | Legacy repo | New `rsearch/` | `apps/` directory |
 |---|---:|---:|---:|
-| Tools | 12 | 20 | 7,433 |
-| Categories | 5 | 6 | 11 |
+| Tools | 12 | 20 | 6,780 |
+| Categories | 5 | 6 | 10 |
 | Catalog view | `tools_catalog.md` | `rsearch/CATALOG.md` | `apps/README.md` |
 | Update method | manual PRs | manual PRs | manual URL PRs |
 | Dedupe enforcement | none | exclusion registry | normalized global keys |
@@ -128,9 +43,9 @@ The live entry count, category count, type count, and source count are in [`apps
 
 ---
 
-## Apps mega-directory (5,000+)
+## Apps mega-directory (6,780 URLs)
 
-[`apps/`](apps/README.md) is a curated, browsable directory of **5,000+ unique dark-web app/tool URLs**. It is the largest section of this repository and is assembled from public GitHub search indexes and curated dark-web/OSINT/Threat-Intel resource lists. It is maintained manually; no software code is included.
+[`apps/`](apps/README.md) is a curated, browsable directory of **6,780 unique dark-web app/tool URLs**. It is the largest section of this repository and is assembled from public GitHub search indexes and curated dark-web/OSINT/Threat-Intel resource lists. It is maintained manually; no software code is included.
 
 | View | Purpose |
 |---|---|
@@ -325,7 +240,7 @@ darkweb-monitor-research/
 │   ├── osint_tools.md
 │   ├── monitoring_tools.md
 │   └── search_engines.md
-├── apps/                             # 7,433-entry dark-web URL directory
+├── apps/                             # 6,780-entry dark-web URL directory
 │   ├── README.md                     # master index with every URL
 │   ├── CATEGORIES.md                 # every category + count
 │   ├── TYPES.md                      # every type + count

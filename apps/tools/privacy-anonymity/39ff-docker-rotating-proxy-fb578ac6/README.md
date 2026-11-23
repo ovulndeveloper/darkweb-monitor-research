@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/39ff/docker-rotating-proxy>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 181
-- **License:** Unlicense
+- **Reviewed:** 2026-11-23
 
 create your rotating proxy server with docker. self hosted rotating proxy service.
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Jam0k/Cyber-Threat-Intelligence-API>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Cyber threat intelligence REST API: clustered threat reporting with AI summaries, validated IOCs, threat actors, CVEs with EPSS/KEV, and ransomware leak-site tracking. Free tier included — OpenAPI snapshot, Python client and runnable examples.
 

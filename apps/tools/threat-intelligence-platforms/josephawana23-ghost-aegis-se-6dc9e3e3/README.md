@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/JosephAwana23/Ghost-Aegis-SE>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Modular Python EDR & Blue Team active defense suite featuring automated threat triage, dynamic honeypots, and real-time telemetry
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/vobiz-ai/Vobiz-Freshdesk-Calling>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Vobiz calling panel for Freshdesk — browser-based inbound and outbound calls, click-to-call, and recording playback inside the helpdesk.
 

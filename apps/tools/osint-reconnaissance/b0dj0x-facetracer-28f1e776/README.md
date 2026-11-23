@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/b0dj0x/facetracer>
 - **Sources:** `github-search:topic:osint-framework`, `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
+- **Reviewed:** 2026-11-23
 
 facetracer by b0dj0x
 

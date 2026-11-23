@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/gripebomb/ThreatDeck>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 112
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Terminal-based threat intelligence monitoring and alerting platform
 

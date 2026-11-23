@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/chr15m/gitnonymous>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 185
+- **Reviewed:** 2026-11-23
 
 Make pseudonymous Git commits over Tor
 

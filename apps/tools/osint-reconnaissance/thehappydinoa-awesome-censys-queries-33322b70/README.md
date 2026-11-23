@@ -4,10 +4,8 @@
 - **Type:** [awesome-list](../../../by-type/awesome-list/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/thehappydinoa/awesome-censys-queries>
-- **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1249
-- **License:** CC0-1.0
+- **Sources:** `github-search:topic:osint`, `github-search:topic:security-tools`
+- **Reviewed:** 2026-11-23
 
 A collection of fascinating and bizarre Censys Search Queries
 

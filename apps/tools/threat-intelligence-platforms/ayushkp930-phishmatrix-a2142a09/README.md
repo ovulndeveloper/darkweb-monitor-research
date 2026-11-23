@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ayushkp930/PhishMatrix>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 🛡️ Autonomous Threat Intel & Phishing SOAR Platform with 6-Layer Triage, 12 Async OSINT Feeds, Active Deception Honeypots, and a Self-Healing Waterfall AI SOC Analyst Engine. Fully Serverless on Vercel.
 

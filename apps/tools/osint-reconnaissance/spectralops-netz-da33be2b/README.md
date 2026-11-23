@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/SpectralOps/netz>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 397
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Discover internet-wide misconfigurations while drinking coffee
 

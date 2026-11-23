@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Am0rphous/Dark-Net-Collection>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 24
+- **Reviewed:** 2026-11-23
 
 Some darknet resources. All content published here is for educational purposes only.
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/typosquatter/ail-typo-website>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 76
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 Website for ail-typo-squatting library
 

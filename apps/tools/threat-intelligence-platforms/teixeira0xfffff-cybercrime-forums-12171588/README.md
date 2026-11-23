@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/teixeira0xfffff/Cybercrime-Forums>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 100
+- **Reviewed:** 2026-11-23
 
 Cybercrime forums for Cyber Threat Intelligence purpose
 

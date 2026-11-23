@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/19-84/redd-archiver>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 355
-- **License:** Unlicense
+- **Reviewed:** 2026-11-23
 
 A PostgreSQL-backed archive generator that creates browsable HTML archives from link aggregator platforms including Reddit, Voat, and Ruqqus.
 

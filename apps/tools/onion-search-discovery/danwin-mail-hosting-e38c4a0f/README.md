@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/DanWin/mail-hosting>
 - **Sources:** `github-search:topic:onion`, `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 25
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 This is a setup for a Tor based mail hosting server
 

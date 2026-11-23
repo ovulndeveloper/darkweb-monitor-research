@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/r-smith/deceptifeed>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 140
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Honeypot servers with an integrated threat feed
 

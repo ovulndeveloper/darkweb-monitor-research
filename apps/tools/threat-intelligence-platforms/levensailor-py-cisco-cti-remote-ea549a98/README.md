@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/levensailor/py-cisco-cti-remote>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 21
-- **License:** BSD-3-Clause
+- **Reviewed:** 2026-11-23
 
 Python SDK for Cisco IP Phones using CTI (Computer Telephony Integration)
 

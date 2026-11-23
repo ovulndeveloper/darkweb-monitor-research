@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/tgeek77/compose-scripts-tor>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 24
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 compose scripts for tor-based projects
 

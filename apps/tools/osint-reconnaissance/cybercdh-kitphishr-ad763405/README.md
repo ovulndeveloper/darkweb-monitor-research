@@ -4,10 +4,8 @@
 - **Type:** [tool](../../../by-type/tool/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/cybercdh/kitphishr>
-- **Sources:** `github-search:topic:osint`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 237
-- **License:** NOASSERTION
+- **Sources:** `github-search:topic:incident-response`, `github-search:topic:osint`, `github-search:topic:phishing`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 A tool designed to hunt for Phishing Kit source code
 

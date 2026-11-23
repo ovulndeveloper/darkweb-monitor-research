@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/thumpersecure/Telespotter>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 87
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 🦀 A version of Telespot in RUST - a tool that searches telephone numbers across Google, Bing, DuckDuckGo, and Dehashed for phone numbers and focuses on identifying names, locations, and usernames in the results.
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/pangeran-droid/android-ransomware-simulation>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4
+- **Reviewed:** 2026-11-23
 
 An educational project and system security designed to demonstrate how a "lock-screen" ransomware mechanism operates within the Android operating system, built using Flutter and native Kotlin.
 

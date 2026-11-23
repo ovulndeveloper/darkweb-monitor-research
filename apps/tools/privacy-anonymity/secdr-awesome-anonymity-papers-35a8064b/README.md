@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/secdr/awesome-anonymity-papers>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 26
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 🔐 A list of anonymity papers published from 2012 to 2026.
 

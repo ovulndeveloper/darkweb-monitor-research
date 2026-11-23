@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/arhhhhh404/Lain-Requester>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Onion/i2p requester
 

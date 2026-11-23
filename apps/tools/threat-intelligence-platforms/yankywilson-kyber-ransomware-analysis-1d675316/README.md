@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/yankywilson/kyber-ransomware-analysis>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 28
+- **Reviewed:** 2026-11-23
 
 Full teardown of the Kyber ransomware Windows encryptor. Six corrections to public reporting, each independently verifiable. Includes analysis tooling, detection content, and incident response guidance.
 

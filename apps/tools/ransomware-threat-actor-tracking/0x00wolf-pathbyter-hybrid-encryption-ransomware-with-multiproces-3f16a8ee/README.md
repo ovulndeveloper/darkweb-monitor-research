@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/0x00wolf/PATHBYTER-Hybrid-Encryption-Ransomware-with-Multiprocessing-in-Python>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 26
-- **License:** GPL-2.0
+- **Reviewed:** 2026-11-23
 
 Pathbyter is a lightning fast proof-of-concept ransomware that uses RSA wrapped AES, multiprocessing, in memory key encryption, appends encrypted AES keys to files, and other tactics utilized by advanced threat actors like Conti, REvil, WannaCry, Ryuk, Lockbit, etc.
 

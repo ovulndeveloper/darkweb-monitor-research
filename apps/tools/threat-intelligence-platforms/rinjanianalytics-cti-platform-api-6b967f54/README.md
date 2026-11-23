@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/rinjanianalytics/cti-platform-api>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Unified CTI backend for Telco-5G · AI · Blockchain threats — one graph + agentic-analytics layer. 18 free feeds (CISA/NVD/MITRE/abuse.ch + OFAC, ScamSniffer, DefiLlama, AI Incident DB) and free multi-source on-chain attribution (Blockscout/DefiLlama, no paid APIs). Hono · Drizzle · BullMQ · Postgres · OpenSearch · Neo4j. TAXII 2.1 + GraphQL.
 

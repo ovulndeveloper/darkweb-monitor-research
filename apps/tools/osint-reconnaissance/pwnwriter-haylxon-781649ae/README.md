@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/pwnwriter/haylxon>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 444
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 ⚡ Blazing-fast tool to grab screenshots of your domain list right from terminal.
 

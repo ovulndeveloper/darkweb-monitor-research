@@ -5,8 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/Conso1eCowb0y/Deepminer>
 - **Sources:** `github-search:topic:dark-web`, `github-search:topic:onion`, `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 58
+- **Reviewed:** 2026-11-23
 
 Deep web crawler and search engine
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/FirstBlood12/RedPetyaOpenSSL>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 25
+- **Reviewed:** 2026-11-23
 
 A full rewrite of Red Petya ransomware from 2016 with full MBR and GPT support
 

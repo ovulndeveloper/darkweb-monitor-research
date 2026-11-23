@@ -4,10 +4,8 @@
 - **Type:** [plugin](../../../by-type/plugin/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/1N3/Sn1per>
-- **Sources:** `github-search:topic:osint-framework`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 11564
-- **License:** NOASSERTION
+- **Sources:** `awesome:edwardtay/awesome-OSINT`, `github-search:topic:attack-surface`, `github-search:topic:osint-framework`, `github-search:topic:security-tools`
+- **Reviewed:** 2026-11-23
 
 Automated penetration testing & attack surface management platform. Recon, scan, exploit, report - 600+ exploits, 90+ integrations, 10K+ detections.
 

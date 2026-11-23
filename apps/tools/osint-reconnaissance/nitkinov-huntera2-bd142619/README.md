@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/nitkinov/HunterA2>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 HunterA 2 — pentest multitool for Termux. Textual TUI, plugin system via entry points, 11 built-in plugins (recon, web, network, TLS, utils). Works without root.
 

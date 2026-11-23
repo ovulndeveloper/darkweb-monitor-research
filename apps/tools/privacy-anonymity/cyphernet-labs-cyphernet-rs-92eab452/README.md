@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/cyphernet-labs/cyphernet.rs>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 59
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 Cyphernet is a set of libraries for privacy-preserving networking apps
 

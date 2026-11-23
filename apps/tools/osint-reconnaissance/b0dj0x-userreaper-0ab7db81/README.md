@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/b0dj0x/userreaper>
 - **Sources:** `github-search:topic:osint-framework`, `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
+- **Reviewed:** 2026-11-23
 
 userreaper by b0dj0x
 

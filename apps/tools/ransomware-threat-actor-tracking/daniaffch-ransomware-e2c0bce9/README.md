@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/DaniAffCH/Ransomware>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 21
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 A C ransomware(educational only)
 

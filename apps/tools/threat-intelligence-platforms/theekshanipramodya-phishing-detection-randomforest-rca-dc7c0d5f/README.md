@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/TheekshaniPramodya/Phishing-Detection-RandomForest-RCA>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
+- **Reviewed:** 2026-11-23
 
 An AI-based Cyber Threat Intelligence system using Random Forest to detect phishing websites (96.7% accuracy) with automated Root Cause Analysis (XAI).
 

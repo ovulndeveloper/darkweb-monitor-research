@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/SORRYSPLASH/Stalker>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 21
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Stalker represents a sophisticated tool utilized in the realm of Open Source Intelligence (OSINT). Its primary function is to facilitate the gathering of comprehensive information about individuals.
 

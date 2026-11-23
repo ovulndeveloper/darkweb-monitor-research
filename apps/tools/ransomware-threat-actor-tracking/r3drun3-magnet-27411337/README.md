@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/R3DRUN3/magnet>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 114
-- **License:** Unlicense
+- **Reviewed:** 2026-11-23
 
 Purple-team telemetry & simulation toolkit.
 

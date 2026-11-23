@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/FirstBlood12/NotPetyaOpenSSL>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4
+- **Reviewed:** 2026-11-23
 
 A full rewrite of NotPetya ransomware from 2017 with full MBR support
 

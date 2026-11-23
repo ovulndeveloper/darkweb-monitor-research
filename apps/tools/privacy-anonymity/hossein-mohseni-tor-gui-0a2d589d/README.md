@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/hossein-mohseni/tor-GUI>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 26
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 🧅 Tor GUI for windows 🪟
 

@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/N0rz3/Eyes>
 - **Sources:** `github-search:topic:osint`, `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 565
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 🕵️ Email osint tool
 

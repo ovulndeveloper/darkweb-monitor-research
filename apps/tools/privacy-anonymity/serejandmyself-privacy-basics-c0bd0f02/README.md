@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/serejandmyself/privacy-basics>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 27
+- **Reviewed:** 2026-11-23
 
 A list of basic privacy-focused enhancements
 

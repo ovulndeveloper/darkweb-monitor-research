@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Bitwise-01/Thor>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 53
+- **Reviewed:** 2026-11-23
 
 A Simple Ransomware
 

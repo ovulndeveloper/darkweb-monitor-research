@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/TeamLoick/lolinck-api>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 [ Non-Functional Version ] Lolinck is an open source API that use machine learning to detect if a website is safe or not. It can detect NSFW, phishing, malware, ip logging and more.
 

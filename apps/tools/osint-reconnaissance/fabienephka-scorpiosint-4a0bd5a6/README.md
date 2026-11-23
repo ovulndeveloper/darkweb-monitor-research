@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/FabienEphKa/SCORPIOSINT>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
+- **Reviewed:** 2026-11-23
 
 Application OSINT portable pour macOS. 77 outils et services, assistant IA local LIKOS, navigation via Tor et historique d’enquête. Portage Windows prévu.
 

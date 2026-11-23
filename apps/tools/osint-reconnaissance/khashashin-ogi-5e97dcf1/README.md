@@ -4,10 +4,8 @@
 - **Type:** [framework](../../../by-type/framework/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/khashashin/ogi>
-- **Sources:** `github-search:topic:osint`, `github-search:topic:osint-framework`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 350
-- **License:** AGPL-3.0
+- **Sources:** `awesome:jivoi/awesome-osint`, `github-search:topic:osint`, `github-search:topic:osint-framework`
+- **Reviewed:** 2026-11-23
 
 Open Source Link Analysis & OSINT Framework
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/yee-yore/DorkAgent>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 342
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 🤖 LLM-powered agent for automated Google Dorking in bug hunting & pentesting.
 

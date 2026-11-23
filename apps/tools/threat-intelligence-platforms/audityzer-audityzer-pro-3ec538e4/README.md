@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Audityzer/Audityzer-PRO>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 5
+- **Reviewed:** 2026-11-23
 
 A concise, clear description helps others quickly understand your project. Example: Automated Web3 smart contract auditing toolkit—scalable, extensible, and AI-augmented.
 

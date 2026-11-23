@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Tekila11/opencti-vuln-toolkit>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Custom OpenCTI connectors and DefectDojo integration scripts for asset-aware CVE prioritization (EPSS, CISA KEV, MITRE ATT&CK, CPE)
 

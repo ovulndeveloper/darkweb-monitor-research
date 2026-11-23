@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Mhmdjazarah/TIScan>
 - **Sources:** `github-search:topic:dark-web`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Threat-intelligence & dark-web exposure scanner: 27 sources, explainable risk score, monitoring with email alerts, MISP & Wazuh integration. Arabic/English dashboard.
 

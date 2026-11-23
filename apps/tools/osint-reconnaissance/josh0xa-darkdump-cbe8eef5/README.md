@@ -5,9 +5,7 @@
 - **Status:** `legacy`
 - **URL:** <https://github.com/josh0xA/darkdump>
 - **Sources:** `github-search:topic:osint`, `github-search:topic:tor`, `legacy-repo`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1826
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Legacy repository entry cross-referenced for completeness.
 

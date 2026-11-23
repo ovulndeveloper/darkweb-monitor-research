@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/megadose/cqfd-maltego>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 14
+- **Reviewed:** 2026-11-23
 
 Maltego Transforms with cqfd
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/MaorSabag/SafeCrypt>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 38
+- **Reviewed:** 2026-11-23
 
 SafeCrypt is an academic ransomware simulation suite developed for Red Team engagements. It demonstrates modern malware techniques including AES-256 stream encryption, asymmetric key exchange, and server communication.
 

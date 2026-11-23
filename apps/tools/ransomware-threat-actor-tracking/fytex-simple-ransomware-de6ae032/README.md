@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Fytex/simple-ransomware>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 35
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Simple ransomware to troll your friends. Encrypt and Decrypt a Windows computer using a simple xor encryption which is pretty basic!
 

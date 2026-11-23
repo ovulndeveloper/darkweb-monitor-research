@@ -4,10 +4,8 @@
 - **Type:** [tool](../../../by-type/tool/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/eshlomo1/Microsoft-Sentinel-SecOps>
-- **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 268
-- **License:** MIT
+- **Sources:** `github-search:topic:incident-response`, `github-search:topic:siem`, `github-search:topic:threat-hunting`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 Microsoft Sentinel SOC Operations
 

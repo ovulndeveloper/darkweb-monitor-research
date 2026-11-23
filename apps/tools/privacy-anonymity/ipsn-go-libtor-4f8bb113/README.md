@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/ipsn/go-libtor>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 561
-- **License:** BSD-3-Clause
+- **Reviewed:** 2026-11-23
 
 Self-contained Tor from Go
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/knight0x07/Lnk2Vbs>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 34
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 A Python script that embeds Target VBS into LNK and when executed runs the VBS script from within.
 

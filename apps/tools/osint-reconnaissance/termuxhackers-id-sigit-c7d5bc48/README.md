@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/termuxhackers-id/sigit>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1010
-- **License:** Unlicense
+- **Reviewed:** 2026-11-23
 
 Simple Information Gathering Toolkit
 

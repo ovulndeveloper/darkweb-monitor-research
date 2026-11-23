@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/tg12/phantomstars>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 80
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Automated detection and tracking of fake engagement on GitHub — daily CI, zero infrastructure
 

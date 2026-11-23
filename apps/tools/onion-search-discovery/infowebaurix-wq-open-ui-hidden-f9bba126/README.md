@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/infowebaurix-wq/open-ui-hidden>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 Run Open-WebUI securely behind a Tor hidden service with post-quantum TLS using Docker Compose for modern, encrypted AI interface access.
 

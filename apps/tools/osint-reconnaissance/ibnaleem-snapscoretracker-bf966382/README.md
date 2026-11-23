@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ibnaleem/snapscoretracker>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 14
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 👻 A Snapscore tracker that reports various metrics such as time differences, score increases, snaps sent and received, snap rates per minute, hour, and day and much more
 

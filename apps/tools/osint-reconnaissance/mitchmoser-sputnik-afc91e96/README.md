@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/mitchmoser/sputnik>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 423
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Open Source Intelligence Browser Extension
 

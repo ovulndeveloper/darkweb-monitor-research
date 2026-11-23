@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/shoedactylorhizamaculatafuchsii29/osint-username-search>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Locate username presence across 500+ platforms using an asynchronous OSINT framework for identity verification and digital footprint audits.
 

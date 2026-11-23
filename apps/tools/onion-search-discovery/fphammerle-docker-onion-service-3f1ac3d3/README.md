@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/fphammerle/docker-onion-service>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 24
+- **Reviewed:** 2026-11-23
 
 hidden tor .onion service 🐳
 

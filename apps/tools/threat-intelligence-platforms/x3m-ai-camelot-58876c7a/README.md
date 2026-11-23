@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/x3m-ai/Camelot>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Community hub for Merlino CTI Add-in and Morgana Arsenal Red Team platform -- documentation, guides, and support
 

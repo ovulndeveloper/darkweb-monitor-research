@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/hundehausen/tor-hidden-service-docker>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 32
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Create hidden services for your containers - everything in docker.
 

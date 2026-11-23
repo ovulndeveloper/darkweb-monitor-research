@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/toolswatch/vFeed>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 951
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 The Correlated CVE Vulnerability And Threat Intelligence Database API
 

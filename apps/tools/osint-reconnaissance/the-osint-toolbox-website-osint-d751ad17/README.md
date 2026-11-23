@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/The-Osint-Toolbox/Website-OSINT>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 289
+- **Reviewed:** 2026-11-23
 
 You will find a wealth of resources to help with your Website investigations.
 

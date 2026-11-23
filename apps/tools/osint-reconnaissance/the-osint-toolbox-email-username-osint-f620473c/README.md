@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/The-Osint-Toolbox/Email-Username-OSINT>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 424
+- **Reviewed:** 2026-11-23
 
 Some great resources to gather OSINT on Email Addresses & Usernames. Alternatively check the exposure of your Email & Username.
 

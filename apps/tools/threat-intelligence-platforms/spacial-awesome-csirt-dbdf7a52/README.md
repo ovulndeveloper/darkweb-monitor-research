@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Spacial/awesome-csirt>
 - **Sources:** `github-search:topic:malware-analysis`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 659
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Awesome CSIRT is an curated list of links and resources in security and CSIRT daily activities.
 

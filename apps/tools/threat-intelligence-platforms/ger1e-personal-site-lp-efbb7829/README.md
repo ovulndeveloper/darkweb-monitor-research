@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ger1e/personal-site-lp>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 Static-first threat-hunting and CTI portfolio with restrictive browser policy, truthful error routes, and privacy-conscious telemetry.
 

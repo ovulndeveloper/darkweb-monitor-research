@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/fsociety-git/onionwatch>
 - **Sources:** `github-search:topic:dark-web`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Self-hosted Tor dark-web monitor: discovers .onion sites, detects phishing clones, and hunts your identifiers in leaks and marketplace listings
 

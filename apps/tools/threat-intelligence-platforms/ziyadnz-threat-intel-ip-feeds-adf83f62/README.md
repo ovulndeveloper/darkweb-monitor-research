@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ziyadnz/threat-intel-ip-feeds>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 26
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Automated IP blacklist aggregator from 23 threat intelligence sources - updated hourly via GitHub Actions
 

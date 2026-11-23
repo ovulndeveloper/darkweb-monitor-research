@@ -4,10 +4,8 @@
 - **Type:** [tool](../../../by-type/tool/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/ControlCompass/ControlCompass.github.io>
-- **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 142
-- **License:** MIT
+- **Sources:** `github-search:topic:siem`, `github-search:topic:threat-hunting`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 Pointing cybersecurity teams to thousands of detection rules and offensive security tests aligned with common attacker techniques
 

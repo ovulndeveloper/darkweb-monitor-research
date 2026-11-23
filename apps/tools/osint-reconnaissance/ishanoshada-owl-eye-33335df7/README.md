@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Ishanoshada/Owl-Eye>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
+- **Reviewed:** 2026-11-23
 
 Owl-Eye is a Python package that allows users to perform WHOIS lookups for domains or IP addresses. It parses and displays essential information such as registration details, name servers, ownership details, and more.
 

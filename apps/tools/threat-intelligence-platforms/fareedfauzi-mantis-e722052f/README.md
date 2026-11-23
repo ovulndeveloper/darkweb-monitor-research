@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/fareedfauzi/MANTIS>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 35
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Multi-Source Analysis & Threat Intelligence Search
 

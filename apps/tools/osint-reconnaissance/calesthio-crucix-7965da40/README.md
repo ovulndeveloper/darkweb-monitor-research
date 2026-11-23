@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/calesthio/Crucix>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 12245
-- **License:** AGPL-3.0
+- **Reviewed:** 2026-11-23
 
 Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/teal33t/poopak>
 - **Sources:** `github-search:topic:dark-web`, `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 144
+- **Reviewed:** 2026-11-23
 
 POOPAK - TOR Hidden Service Crawler
 

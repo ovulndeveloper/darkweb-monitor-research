@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/gSpotx2f/ruantiblock>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 32
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Использование tor или VPN для доступа к заблокированным сайтам
 

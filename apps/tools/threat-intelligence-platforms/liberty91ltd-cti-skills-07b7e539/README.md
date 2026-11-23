@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Liberty91LTD/cti-skills>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 41
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Cyber Threat Intelligence Skills for each stage of the CTI Lifecycle.
 

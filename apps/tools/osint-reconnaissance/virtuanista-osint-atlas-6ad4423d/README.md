@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/virtuanista/osint-atlas>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 OSINT Atlas: 3.500 fuentes OSINT deduplicadas y clusterizadas en un grafo fractal atomico con previews gaussianas
 

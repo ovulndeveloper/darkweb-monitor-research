@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ContentAutomation/YouTubeWatcher>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 68
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 An automated, headless YouTube Watcher and Scraper
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/JUSTSAIF/28P-Chat>
 - **Sources:** `github-search:topic:dark-web`, `github-search:topic:darkweb`, `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 9
+- **Reviewed:** 2026-11-23
 
 Peer to peer chat on Tor Service 👽
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/hazae41/echalote>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 38
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Zero-copy Tor protocol for the web 🏎️ (JS + WebAssembly)
 

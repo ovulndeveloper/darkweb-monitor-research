@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/samrigby64/umbra>
 - **Sources:** `github-search:topic:dark-web`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Dark-web collection and intelligence platform: async Tor crawler, IOC and identity extraction, change timeline, investigator workspace with verifiable evidence export.
 

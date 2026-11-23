@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/sylhetyhackvenger/TikTap>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 7
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 TikTok User Info Scraper & Username Reconnaissance Framework - A strategic OSINT & cybersecurity reconnaissance tool for TikTok profile intelligence gathering, cross-platform username enumeration, and digital footprint analysis.
 

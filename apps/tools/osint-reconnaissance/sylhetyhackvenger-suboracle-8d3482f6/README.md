@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/sylhetyhackvenger/SubOracle>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 6
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 SubOracle is an advanced subdomain intelligence and attack surface reconnaissance framework designed for security researchers and penetration testers. It helps identify digital assets, discover subdomains, analyze external footprints, and improve visibility of an organization's online infrastructure through structured reconnaissance workflow.
 

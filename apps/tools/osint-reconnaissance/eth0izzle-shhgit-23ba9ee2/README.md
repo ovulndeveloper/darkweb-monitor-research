@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/eth0izzle/shhgit>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3994
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Ah shhgit! Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories.
 

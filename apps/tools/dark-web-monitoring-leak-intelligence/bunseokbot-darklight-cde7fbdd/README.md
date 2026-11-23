@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/bunseokbot/darklight>
 - **Sources:** `github-search:topic:darkweb`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 18
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 Engine for collecting onion domains and crawling from webpage based on Tor network
 

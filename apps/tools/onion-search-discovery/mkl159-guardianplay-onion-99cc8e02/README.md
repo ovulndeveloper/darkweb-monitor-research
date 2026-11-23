@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/mkl159/guardianplay-onion>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 GuardianPlay — Parental Control add-on for Onion OS (Miyoo Mini / Mini+). PIN protection (default: 0000), smart play timer, in-game overlays, game statistics and history. FR/EN/ES/DE/IT/PT.
 

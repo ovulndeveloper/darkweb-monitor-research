@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Simiyuu/realtime-cti-honeypot>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 Real-time cyber threat intelligence platform: a Cowrie SSH/Telnet honeypot in Docker feeding a Flask REST API and a React dashboard with live attack feeds, captured credentials, and attacker geolocation.
 

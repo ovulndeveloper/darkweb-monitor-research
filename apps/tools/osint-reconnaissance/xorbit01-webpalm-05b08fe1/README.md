@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/XORbit01/webpalm>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 383
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 🕸️ Crawl in the web network
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Bafomet666/OSINT-SAN>
 - **Sources:** `github-search:topic:osint`, `github-search:topic:osint-framework`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 625
+- **Reviewed:** 2026-11-23
 
 OSINT-SAN Framework дает возможность быстро находить информацию и деанонимизировать пользователей сети интернет.
 

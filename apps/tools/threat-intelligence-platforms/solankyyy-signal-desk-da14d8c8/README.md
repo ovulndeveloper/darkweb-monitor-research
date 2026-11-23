@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/SOLANKYYY/signal-desk>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
+- **Reviewed:** 2026-11-23
 
 Cyber threat intelligence workspace for security reports, searchable PDF evidence, rule-based alerts, and analyst reviews. Built with Python, Flask, MongoDB, and JavaScript.
 

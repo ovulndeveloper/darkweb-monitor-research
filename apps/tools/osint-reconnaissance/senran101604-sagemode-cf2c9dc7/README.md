@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/senran101604/sagemode>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 280
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 👀Sagemode: Track and Unveil Online identities across social media platforms🕵️‍♂️
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ejserna/Ransomware>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 29
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Crypto Ransomware made with: - Go for encryption and decryption - PHP/MySQL for saving and retrieving keys.
 

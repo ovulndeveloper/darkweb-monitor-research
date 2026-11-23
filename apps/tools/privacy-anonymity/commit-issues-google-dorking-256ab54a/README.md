@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/commit-issues/google-dorking>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 122
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Dorking: how to find what Google easily showing you (plus Shodan, Yandex, Tor, and more... )
 

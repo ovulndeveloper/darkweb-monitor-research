@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/crimza/solaris-marketplace>
 - **Sources:** `github-search:topic:onion`, `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 25
+- **Reviewed:** 2026-11-23
 
 The leaked sources of the Russian onion marketplace
 

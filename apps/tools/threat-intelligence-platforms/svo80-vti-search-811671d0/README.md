@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/svo80/vti_search>
 - **Sources:** `github-search:topic:malware-analysis`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 44
+- **Reviewed:** 2026-11-23
 
 VirusTotal Intelligence Search
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/go-compile/localrelay>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 25
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 A reverse proxying program to allow services e.g. Nextcloud, Bitwarden etc to be accessed over Tor (SOCKS5) even when the client app do not support SOCKS proxies.
 

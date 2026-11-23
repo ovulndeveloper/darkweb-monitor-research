@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/minellogiacomo/SWIFT-RISKS-OF-FINANCIAL-SYSTEM-IN-A-CYBER-ERA>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
+- **Reviewed:** 2026-11-23
 
 No description provided by the source.
 

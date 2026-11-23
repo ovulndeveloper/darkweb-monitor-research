@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Casualtek/Ransomchats>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 580
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 No description provided by the source.
 

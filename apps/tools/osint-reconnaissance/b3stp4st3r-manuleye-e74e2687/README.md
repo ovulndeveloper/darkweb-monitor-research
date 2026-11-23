@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/b3stp4st3r/manuleye>
 - **Sources:** `github-search:topic:osint-framework`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 MANUL-EYE - Comprehensive OSINT Framework for Intelligence Gathering
 

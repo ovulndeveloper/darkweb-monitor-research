@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/1ab1/onion-domains>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 15
+- **Reviewed:** 2026-11-23
 
 Scrapping onion domains
 

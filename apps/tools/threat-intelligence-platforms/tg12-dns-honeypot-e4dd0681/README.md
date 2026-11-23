@@ -5,8 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/tg12/dns-honeypot>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 99
+- **Reviewed:** 2026-11-23
 
 dns-honeypot
 

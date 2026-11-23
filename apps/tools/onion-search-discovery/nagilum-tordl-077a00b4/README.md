@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/nagilum/tordl>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Simple CLI to download files from the TOR network.
 

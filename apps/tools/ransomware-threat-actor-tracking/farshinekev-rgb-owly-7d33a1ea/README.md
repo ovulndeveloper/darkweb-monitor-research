@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/farshinekev-rgb/owly>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
+- **Reviewed:** 2026-11-23
 
 Enable clear WebRTC video calls with fast room joins, screen sharing, chat, reactions, and mobile-friendly layouts for smooth collaboration.
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/saed-gpr/ransomware>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
+- **Reviewed:** 2026-11-23
 
 Ransomware can lock the target's programs until the target pays the hacker. let check my account :point_down
 

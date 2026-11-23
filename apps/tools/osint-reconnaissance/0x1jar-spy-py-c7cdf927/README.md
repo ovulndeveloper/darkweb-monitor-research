@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/0x1Jar/spy-py>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 🕵️‍♂️ Advanced subdomain enumeration tool combining multiple data sources with intelligent robots.txt analysis. Features concurrent scanning, live validation, and comprehensive reporting.
 

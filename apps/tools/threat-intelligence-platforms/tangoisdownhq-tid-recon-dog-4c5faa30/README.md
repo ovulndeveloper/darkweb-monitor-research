@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/TangoisdownHQ/TID-Recon-Dog>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Deception-driven honeypot + CTI platform: multi-protocol decoys, local-AI engagement, and ATT&CK/STIX threat intel — deployable anywhere.
 

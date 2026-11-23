@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/2000pawan/Cyber-Attack-Threat-Classification>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 This project classifies network intrusions using machine learning models. It utilizes the CICIDS2017 dataset to detect various attack types. The model used in this project is implemented in a single Jupyter Notebook file instead of separate scripts.
 

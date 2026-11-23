@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/roxm337/blacklance>
 - **Sources:** `github-search:topic:osint-framework`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
+- **Reviewed:** 2026-11-23
 
 BlackLance LLM-orchestrated reconnaissance and security testing framework with attack-surface mapping, evidence tracking, and verified findings.
 

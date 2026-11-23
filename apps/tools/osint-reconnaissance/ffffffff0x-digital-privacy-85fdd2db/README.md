@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/ffffffff0x/Digital-Privacy>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4935
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Information Protection & OSINT resources | 一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗
 

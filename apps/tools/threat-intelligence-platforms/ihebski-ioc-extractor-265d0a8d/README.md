@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ihebski/ioc_extractor>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 5
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 IOC extractor is a mini web application to parse CTI PDF reports and extract possible IOC's per page. This will reduce the work and effort realized by CTI analysts to go through long documents.
 

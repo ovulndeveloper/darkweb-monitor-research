@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/i2z1/ggonion>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 7
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 R package for drawing onion diagrams via ggplot2
 

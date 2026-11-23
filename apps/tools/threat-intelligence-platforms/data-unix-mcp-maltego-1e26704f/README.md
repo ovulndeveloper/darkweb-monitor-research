@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Data-Unix/MCP-MALTEGO>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Maltego OSINT for AI agents: MCP server with 20 tools, 30 transforms, Machines, investigation copilot and native .mtgx. npx -y mcp-maltego
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/milosilo/onion_detector>
 - **Sources:** `github-search:topic:darkweb`, `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 16
+- **Reviewed:** 2026-11-23
 
 A simple random onion site scanner with onion list
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ASpacesys/camera-pose-estimation-from-landmarks>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 5
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Estimate where a photo was taken from a few known landmarks. OpenCV PnP finds the line of possible camera positions, and a reprojection-error heatmap over position, height and focal length (with interactive zoom) narrows it down. Exports to Google Earth (KML). Runs in Google Colab.
 

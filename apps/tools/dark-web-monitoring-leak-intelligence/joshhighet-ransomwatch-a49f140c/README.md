@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/joshhighet/ransomwatch>
 - **Sources:** `github-search:topic:darkweb`, `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1116
-- **License:** Unlicense
+- **Reviewed:** 2026-11-23
 
 the transparent ransomware claim tracker 🥷🏼🧅🖥️
 

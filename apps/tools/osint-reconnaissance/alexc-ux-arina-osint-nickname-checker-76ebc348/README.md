@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/AlexC-ux/Arina-OSINT-nickname-checker->
 - **Sources:** `github-search:topic:osint-framework`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 OSINT tool to find info about your old pages.
 

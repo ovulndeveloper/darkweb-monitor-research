@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/PritamSarbajna/dark-web-scraper>
 - **Sources:** `github-search:topic:dark-web`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 18
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 A dark web link and image scraper
 

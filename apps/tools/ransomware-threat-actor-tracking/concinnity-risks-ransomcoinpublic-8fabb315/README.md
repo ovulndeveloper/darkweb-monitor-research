@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Concinnity-Risks/RansomCoinPublic>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 56
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 A DFIR tool to extract cryptocoin addresses and other indicators of compromise from binaries.
 

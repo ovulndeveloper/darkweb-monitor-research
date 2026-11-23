@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/xdrew87/iris>
 - **Sources:** `github-search:topic:osint-framework`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Automated threat intelligence aggregation, correlation, and alerting platform for red teams and security operations.
 

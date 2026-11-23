@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/MGreif/tor-hidden-service-docker>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 Docker wrapper for tor hidden services
 

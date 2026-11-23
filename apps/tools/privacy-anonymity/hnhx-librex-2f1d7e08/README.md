@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/hnhx/librex>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 846
-- **License:** AGPL-3.0
+- **Reviewed:** 2026-11-23
 
 Framework and javascript free privacy respecting meta search engine
 

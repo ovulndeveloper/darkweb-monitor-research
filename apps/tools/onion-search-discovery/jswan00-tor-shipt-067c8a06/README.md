@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/jswan00/Tor-shipt>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 🔍 Enhance online privacy with Tor-shipt, a project designed to improve your browsing security using the Tor network. Explore the possibilities today.
 

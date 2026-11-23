@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/dirtyfilthy/freshonions-torscraper>
 - **Sources:** `github-search:topic:onion`, `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 545
-- **License:** AGPL-3.0
+- **Reviewed:** 2026-11-23
 
 Fresh Onions is an open source TOR spider / hidden service onion crawler hosted at zlal32teyptf4tvi.onion
 

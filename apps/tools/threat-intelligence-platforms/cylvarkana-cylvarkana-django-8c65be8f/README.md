@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/Cylvarkana/Cylvarkana-Django>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
-- **License:** CC-BY-SA-4.0
+- **Reviewed:** 2026-11-23
 
 Cyber Threat Intelligence from the Wood Wide Web.
 

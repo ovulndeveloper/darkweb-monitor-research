@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Mrutyunjayamuduli1998/telegram-cti-monitor>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 Zero-cost Telegram CTI monitoring tool with keyword alerting, MISP integration, and web dashboard
 

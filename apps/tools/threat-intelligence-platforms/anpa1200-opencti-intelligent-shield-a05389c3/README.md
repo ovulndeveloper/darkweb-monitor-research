@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/anpa1200/opencti-intelligent-shield>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
+- **Reviewed:** 2026-11-23
 
 OpenCTI AI-driven threat intelligence enrichment with Claude and Docusaurus documentation
 

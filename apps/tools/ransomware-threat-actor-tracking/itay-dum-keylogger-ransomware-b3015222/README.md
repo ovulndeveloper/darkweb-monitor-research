@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Itay-Dum/keylogger_ransomware>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 5
+- **Reviewed:** 2026-11-23
 
 A program that runs silently on a computer, records the keys being pressed and sends them to a pre-defined Email. MADE FOR EDUCATIONAL PURPOSES ONLY.
 

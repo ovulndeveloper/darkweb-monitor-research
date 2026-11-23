@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/MISP/misp-playbooks>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 237
-- **License:** BSD-2-Clause
+- **Reviewed:** 2026-11-23
 
 MISP Playbooks
 

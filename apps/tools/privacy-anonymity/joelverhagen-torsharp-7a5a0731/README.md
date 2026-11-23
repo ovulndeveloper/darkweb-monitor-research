@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/joelverhagen/TorSharp>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 340
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Use Tor for your C# HTTP clients. Use Privoxy or .NET 6+ SOCKS support to proxy HTTP traffic.
 

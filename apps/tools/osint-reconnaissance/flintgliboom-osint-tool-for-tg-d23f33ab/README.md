@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Flintgliboom/OSINT-Tool-For-TG>
 - **Sources:** `github-search:topic:osint-framework`, `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 37
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Мощный бесплатный инструмент для сбора открытой разведывательной информации (OSINT) из Telegram и других платформ.
 

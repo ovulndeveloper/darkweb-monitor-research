@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/tum-taskforce/allium>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 A Rust library for onion routing.
 

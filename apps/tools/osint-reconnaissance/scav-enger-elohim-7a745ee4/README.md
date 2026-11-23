@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Scav-engeR/ELOHIM>
 - **Sources:** `github-search:topic:osint-framework`
-- **Indexed:** 2026-11-23
-- **License:** GPL-2.0
+- **Reviewed:** 2026-11-23
 
 Advanced OSINT Reconnaissance Framework v2.0
 

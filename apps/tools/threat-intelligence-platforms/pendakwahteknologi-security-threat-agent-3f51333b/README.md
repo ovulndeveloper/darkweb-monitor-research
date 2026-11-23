@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/pendakwahteknologi/security-threat-agent>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 30
-- **License:** CC-BY-4.0
+- **Reviewed:** 2026-11-23
 
 A guide for building an AI agent that alerts you to new vulnerabilities, active exploitation and malicious packages. Includes Malaysian sources.
 

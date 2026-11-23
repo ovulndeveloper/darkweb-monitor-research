@@ -4,9 +4,8 @@
 - **Type:** [dataset](../../../by-type/dataset/README.md)
 - **Status:** `archived`
 - **URL:** <https://github.com/montysecurity/C2-Tracker>
-- **Sources:** `github-search:topic:osint`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 784
+- **Sources:** `github-search:topic:osint`, `github-search:topic:threat-hunting`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 Live Feed of C2 servers, tools, and botnets
 

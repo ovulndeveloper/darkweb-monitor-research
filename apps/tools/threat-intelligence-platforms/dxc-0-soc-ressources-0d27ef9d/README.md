@@ -4,10 +4,8 @@
 - **Type:** [tool](../../../by-type/tool/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/DXC-0/soc-ressources>
-- **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 164
-- **License:** GPL-3.0
+- **Sources:** `github-search:topic:cyber-threat-intelligence`, `github-search:topic:siem`, `github-search:topic:threat-hunting`
+- **Reviewed:** 2026-11-23
 
 Repository for SOC analysts, queries to investigate, advanced hunting, sites for analysis, malware samples, courses to improve skills, IOC and monitoring.
 

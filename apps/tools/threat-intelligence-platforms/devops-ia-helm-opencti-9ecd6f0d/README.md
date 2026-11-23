@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/devops-ia/helm-opencti>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 41
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Helm chart for Open Cyber Threat Intelligence Platform
 

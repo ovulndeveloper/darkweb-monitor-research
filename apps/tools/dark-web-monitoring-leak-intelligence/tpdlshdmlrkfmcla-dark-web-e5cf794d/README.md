@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/tpdlshdmlrkfmcla/Dark_Web>
 - **Sources:** `github-search:topic:darkweb`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 https://kidc.eprivacy.go.kr/ Darkweb
 

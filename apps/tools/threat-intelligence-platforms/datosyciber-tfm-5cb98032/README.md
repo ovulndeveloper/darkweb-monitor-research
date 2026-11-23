@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/datosyciber/TFM>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
+- **Reviewed:** 2026-11-23
 
 This is a project developed for my Master's Thesis with the aim of applying technical knowledge and soft skills in effective communication and experience acquired both in my university studies and in my professional career.
 

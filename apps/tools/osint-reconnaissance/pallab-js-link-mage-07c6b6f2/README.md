@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/pallab-js/link-mage>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Desktop OSINT link-analysis tool: interactive entity graphs, transform-based enrichment, and provenance tracking. Built with Tauri + SvelteKit.
 

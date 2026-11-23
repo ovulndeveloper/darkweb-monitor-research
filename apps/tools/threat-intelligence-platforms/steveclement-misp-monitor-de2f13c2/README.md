@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/SteveClement/misp-monitor>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** Unlicense
+- **Reviewed:** 2026-11-23
 
 Various scripts and tools to monitor a MISP instance
 

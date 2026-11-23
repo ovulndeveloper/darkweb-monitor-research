@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/jakbin/tor-proxy>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 17
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Run your any python or any service over tor using tor-proxy
 

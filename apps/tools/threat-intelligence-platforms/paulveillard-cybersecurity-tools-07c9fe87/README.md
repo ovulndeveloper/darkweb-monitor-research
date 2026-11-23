@@ -4,10 +4,8 @@
 - **Type:** [framework](../../../by-type/framework/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/paulveillard/cybersecurity-tools>
-- **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 27
-- **License:** MIT
+- **Sources:** `github-search:topic:incident-response`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 A collection of cybsecurity tools, software, libraries, learning tutorials, frameworks, academic and practical resources in security.
 

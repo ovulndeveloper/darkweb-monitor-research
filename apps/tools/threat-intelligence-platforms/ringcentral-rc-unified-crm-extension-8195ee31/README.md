@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ringcentral/rc-unified-crm-extension>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 15
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 App Connect is a CRM integration framework to help developers quickly bring to market a full-featured CTI into virtually any CRM along with a multitude of other useful end-user features.
 

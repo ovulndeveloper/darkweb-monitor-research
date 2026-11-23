@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/0xbitx/DEDSEC_RANSOMWARE_BUILDER>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 37
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 linux based ransomware builder tool that can create a fully offline windows ransomware executable.
 

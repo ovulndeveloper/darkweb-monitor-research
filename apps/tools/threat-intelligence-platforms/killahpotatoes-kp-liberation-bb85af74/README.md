@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/KillahPotatoes/KP-Liberation>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 299
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 The work on GreuhZbugs Liberation Mission for Arma 3 continues...
 

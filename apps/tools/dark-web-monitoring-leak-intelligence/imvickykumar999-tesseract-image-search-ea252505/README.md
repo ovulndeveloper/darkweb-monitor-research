@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/imvickykumar999/Tesseract-Image-Search>
 - **Sources:** `github-search:topic:dark-web`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
+- **Reviewed:** 2026-11-23
 
 Search Image via Text or Object using Tesseract OCR and YOLO
 

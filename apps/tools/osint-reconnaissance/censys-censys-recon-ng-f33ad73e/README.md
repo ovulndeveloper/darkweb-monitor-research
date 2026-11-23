@@ -4,10 +4,8 @@
 - **Type:** [plugin](../../../by-type/plugin/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/censys/censys-recon-ng>
-- **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 39
-- **License:** Apache-2.0
+- **Sources:** `github-search:topic:threat-hunting`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 recon-ng modules for Censys
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/wiced1/Ransomware>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
+- **Reviewed:** 2026-11-23
 
 bat file that encrypts files for ransom
 

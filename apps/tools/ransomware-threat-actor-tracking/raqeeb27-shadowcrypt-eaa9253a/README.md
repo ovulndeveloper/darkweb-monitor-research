@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Raqeeb27/ShadowCrypt>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 17
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 🛡️Proactive ransomware defense for Windows, providing secure file hiding through camouflage, encrypted mappings, smart shortcuts and seamless copying of protected files.
 

@@ -1,13 +1,11 @@
 # ANG13T/SatIntel
 
 - **Category:** [OSINT & Reconnaissance](../../../by-category/osint-reconnaissance/README.md)
-- **Type:** [tool](../../../by-type/tool/README.md)
+- **Type:** [research-project](../../../by-type/research-project/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/ANG13T/SatIntel>
-- **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 904
-- **License:** NOASSERTION
+- **Sources:** `awesome:TinuolaRotimi/Awesome-OSINT`, `awesome:jivoi/awesome-osint`, `github-search:topic:osint`
+- **Reviewed:** 2026-11-23
 
 SatIntel is an OSINT tool for Satellites 🛰. Extract satellite telemetry, receive orbital predictions, and parse TLEs 🔭
 

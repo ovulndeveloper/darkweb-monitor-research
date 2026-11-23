@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Iankulani/hermit-crab-v1>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 5
+- **Reviewed:** 2026-11-23
 
 Hermit Crab is a versatile cybersecurity tool developed by Accurate Cyber Defense, a Malawian cybersecurity startup dedicated to protecting businesses, organizations, and individuals against evolving digital threats. Designed to support Security Operations Center (SOC) activities, cybersecurity research, penetration testing, and cyber drills, Hermi
 

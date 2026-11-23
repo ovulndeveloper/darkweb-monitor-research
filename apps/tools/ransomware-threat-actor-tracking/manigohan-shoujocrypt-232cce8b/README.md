@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/manigohan/shoujocrypt>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
-- **License:** Unlicense
+- **Reviewed:** 2026-11-23
 
 A moe themed PoC Android ransomware targetting rooted users
 

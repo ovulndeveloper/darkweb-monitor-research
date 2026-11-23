@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/j4ckrisz/Hackzzz>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
+- **Reviewed:** 2026-11-23
 
 This is a Gitbook where I share the notes I take during Research and CTF's.
 

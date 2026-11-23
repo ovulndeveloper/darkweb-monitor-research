@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/0x4427/Defanger>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 26
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Defanger is a Notepad++ plugin that defangs/refangs malicious IOCs.
 

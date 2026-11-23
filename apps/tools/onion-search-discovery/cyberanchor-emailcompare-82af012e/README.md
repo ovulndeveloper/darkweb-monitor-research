@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/cyberanchor/eMailCompare>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 14
+- **Reviewed:** 2026-11-23
 
 another independent interactive email service comparison project
 

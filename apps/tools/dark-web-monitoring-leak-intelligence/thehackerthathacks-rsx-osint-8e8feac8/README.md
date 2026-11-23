@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/thehackerthathacks/rsx-osint>
 - **Sources:** `github-search:topic:darkweb`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Advanced OSINT framework for breach & leak intelligence, surface web dorking, 10 dark web engines, depth-2 onion crawler, 16 breach sources, proxy rotation & captcha bypass.
 

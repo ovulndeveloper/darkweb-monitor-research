@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/hrbrmstr/darkdumpr>
 - **Sources:** `github-search:topic:darkweb`, `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 11
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 🕵️‍♀️ Query darkdump.io for Dark Web Content
 

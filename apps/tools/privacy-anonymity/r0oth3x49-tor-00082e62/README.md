@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/r0oth3x49/Tor>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 154
+- **Reviewed:** 2026-11-23
 
 Tor is a python based module for using tor proxy/network services on windows, osx, linux with just one click.
 

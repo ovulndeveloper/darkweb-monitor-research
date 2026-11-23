@@ -4,10 +4,8 @@
 - **Type:** [tool](../../../by-type/tool/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/yukh1402/cti-stix-diamond-activity-attack-graph>
-- **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 34
-- **License:** NOASSERTION
+- **Sources:** `github-search:topic:incident-response`, `github-search:topic:threat-hunting`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 STIX 2.1 Visualizer, Attack and Activity Thread Graph for Threat Modeling
 

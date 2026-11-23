@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/HalilDeniz/RansomwareSim>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 178
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 RansomwareSim is a simulated ransomware
 

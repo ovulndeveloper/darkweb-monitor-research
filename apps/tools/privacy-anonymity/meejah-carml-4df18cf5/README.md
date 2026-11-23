@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/meejah/carml>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 89
-- **License:** Unlicense
+- **Reviewed:** 2026-11-23
 
 Command-line utility to control Tor.
 

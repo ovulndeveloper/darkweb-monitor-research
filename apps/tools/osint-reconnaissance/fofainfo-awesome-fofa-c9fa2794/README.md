@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/FofaInfo/Awesome-FOFA>
 - **Sources:** `github-search:topic:osint`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 366
+- **Reviewed:** 2026-11-23
 
 The FOFA Library collects usage tips, common scenarios, F&Q, and more for FOFA.
 

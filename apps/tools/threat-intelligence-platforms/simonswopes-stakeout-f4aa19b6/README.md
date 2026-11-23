@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/SimonSwopes/Stakeout>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 Real time threat detection
 

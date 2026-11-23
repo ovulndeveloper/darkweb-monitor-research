@@ -4,10 +4,8 @@
 - **Type:** [directory](../../../by-type/directory/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/chrismaddalena/ODIN>
-- **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 670
-- **License:** BSD-3-Clause
+- **Sources:** `github-search:topic:osint`, `github-search:topic:recon`
+- **Reviewed:** 2026-11-23
 
 Automated network asset, email, and social media profile discovery and cataloguing.
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/cudeso/misp-reporting>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 12
+- **Reviewed:** 2026-11-23
 
 A package to create HTML MISP reports, including volume of trending events and attributes, evens received from key organisations and target sector and country.
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Malfrats/xeuledoc>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1040
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Fetch information about a public Google document.
 

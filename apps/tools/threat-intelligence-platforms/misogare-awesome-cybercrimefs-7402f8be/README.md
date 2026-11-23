@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/misogare/awesome-cybercrimefs>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 8
+- **Reviewed:** 2026-11-23
 
 A curated Awesome List of Information Security, Cyber Threat Intelligence (CTI), OSINT, and Reverse Engineering forums for cybersecurity research.
 

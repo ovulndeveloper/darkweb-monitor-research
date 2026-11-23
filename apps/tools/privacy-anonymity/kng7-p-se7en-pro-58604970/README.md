@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/KNG7-P/Se7en-Pro>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 740
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Modern Multi-Engine Windows Client & Anti-Censorship Suite
 

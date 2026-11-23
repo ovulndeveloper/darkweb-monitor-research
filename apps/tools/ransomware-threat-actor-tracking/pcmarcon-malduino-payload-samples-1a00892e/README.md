@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/pcmarcon/malduino-payload-samples>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 6
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Scripts to simulate/POC ransomware attack on windows computer
 

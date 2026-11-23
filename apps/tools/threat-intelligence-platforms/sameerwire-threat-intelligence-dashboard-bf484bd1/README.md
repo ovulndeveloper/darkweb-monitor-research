@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/sameerwire/Threat-Intelligence-Dashboard>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 6
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 A 90s-themed dashboard for live threat intel from AlienVault OTX. Includes file/URL scanning, custom charting, and hacker-style UI.
 

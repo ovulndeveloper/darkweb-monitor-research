@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/XeinTDM/PyRansom>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 8
-- **License:** Unlicense
+- **Reviewed:** 2026-11-23
 
 A simple python-based ransomware script designed for educational purposes / POC.
 

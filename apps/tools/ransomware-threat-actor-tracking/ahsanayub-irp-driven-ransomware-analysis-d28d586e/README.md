@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/AhsanAyub/irp-driven-ransomware-analysis>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 11
+- **Reviewed:** 2026-11-23
 
 This repo is created to perform I/O Request Packet (IRP) driven ransomware analysis where the IRP logs were collected during ransomware execution.
 

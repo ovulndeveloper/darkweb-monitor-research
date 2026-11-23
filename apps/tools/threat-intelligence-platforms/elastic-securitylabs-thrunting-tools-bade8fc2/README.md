@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/elastic/securitylabs-thrunting-tools>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 18
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 A collection of utilities to help with analysis on the command line.
 

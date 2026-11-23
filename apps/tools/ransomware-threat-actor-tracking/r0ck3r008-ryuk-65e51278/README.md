@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/r0ck3r008/Ryuk>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 5
+- **Reviewed:** 2026-11-23
 
 Malware Analysis of Ryuk Ransomware
 

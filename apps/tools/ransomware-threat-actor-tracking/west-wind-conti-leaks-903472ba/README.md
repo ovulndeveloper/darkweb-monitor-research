@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/west-wind/Conti-leaks>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 8
+- **Reviewed:** 2026-11-23
 
 A translation of the chats from Conti leaks
 

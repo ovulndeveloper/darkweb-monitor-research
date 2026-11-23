@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Pranith-Jain/deepdarkcti-parser>
 - **Sources:** `github-search:topic:dark-web`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Parses the fastfire/deepdarkCTI markdown index into typed JSON: ransomware gangs, dark markets, infostealer Telegram, threat-actor Twitter, and 14 more categories.
 

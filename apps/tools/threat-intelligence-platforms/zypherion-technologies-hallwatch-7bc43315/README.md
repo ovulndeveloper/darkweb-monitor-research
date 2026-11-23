@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Zypherion-Technologies/HallWatch>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 91
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Usermode detector that catches indirect syscalls. Traps Hell's Hall, Tartarus' Gate, RecycledGate, and VEH syscalls & Many more.
 

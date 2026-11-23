@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Nikhilbharti284/NexusOSINT>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 🚀 Production-Grade Zero-API-Key OSINT Suite | Email, Phone, Domain & Username Reconnaissance ​
 

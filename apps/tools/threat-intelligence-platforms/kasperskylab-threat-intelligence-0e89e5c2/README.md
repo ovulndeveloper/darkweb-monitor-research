@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/KasperskyLab/threat-intelligence>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 27
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 A repository dedicated to deliver a comprehensive set of tools for integration and convenient use of Kaspersky Threat Intelligence services
 

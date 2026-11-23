@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/yassine/soxy-driver>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 30
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 A docker networking driver that transparently tunnels docker containers TCP traffic through a proxy
 

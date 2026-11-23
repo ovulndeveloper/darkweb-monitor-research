@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/The-Osint-Toolbox/Telegram-OSINT>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2096
+- **Reviewed:** 2026-11-23
 
 In-depth repository of Telegram OSINT resources covering, tools, techniques & tradecraft.
 

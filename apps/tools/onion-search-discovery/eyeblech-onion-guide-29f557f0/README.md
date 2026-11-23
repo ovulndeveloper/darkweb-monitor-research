@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/eyeblech/onion-guide>
 - **Sources:** `github-search:topic:onion`, `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 22
+- **Reviewed:** 2026-11-23
 
 some important links to surf the Dark-Web
 

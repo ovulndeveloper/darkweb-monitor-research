@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Spyk3r/DomainDNA>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
+- **Reviewed:** 2026-11-23
 
 Herramienta OSINT que mapea el ADN público de un dominio: DNS, TLS y cabeceras de seguridad
 

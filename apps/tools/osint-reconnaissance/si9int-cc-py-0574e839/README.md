@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/si9int/cc.py>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 278
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Extracting URLs of a specific target based on the results of "commoncrawl.org"
 

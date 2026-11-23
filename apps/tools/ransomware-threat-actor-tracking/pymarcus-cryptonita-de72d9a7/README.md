@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/PyMarcus/Cryptonita>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
+- **Reviewed:** 2026-11-23
 
 Um script que criptografa o arquivo desejado, desde que esteja no diretório local.Ainda pretendo melhorá-lo
 

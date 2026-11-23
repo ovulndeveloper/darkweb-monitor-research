@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/kot1lin/cipher-darkweb-websites>
 - **Sources:** `github-search:topic:darkweb`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 9
+- **Reviewed:** 2026-11-23
 
 Cipher-DarkWebSearch is a powerful, user-friendly Python program designed for safe and easy dark web navigation. It features a structured menu system that lets users quickly access resources categorized into Search Engines, Email & Messaging, Commercial Services, Financial Services, and more. This project is intended for educational purposes only.
 

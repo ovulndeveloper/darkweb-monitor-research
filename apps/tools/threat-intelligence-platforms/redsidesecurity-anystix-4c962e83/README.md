@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/RedSideSecurity/AnyStix>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Browserless ANY.RUN -> STIX 2.1 harvester: extract country-specific malicious submissions as IoCs for proactive defense (OpenCTI/MISP/STIX-TAXII).
 

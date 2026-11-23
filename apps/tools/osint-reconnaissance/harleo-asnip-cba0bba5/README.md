@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/harleo/asnip>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 218
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 ASN target organization IP range attack surface mapping for reconnaissance, fast and lightweight
 

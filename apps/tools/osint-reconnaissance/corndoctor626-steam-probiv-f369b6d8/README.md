@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/corndoctor626/steam-probiv>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Steam-Probiv — это аналитическая утилита для глубокого поиска данных профиля Steam. Программа позволяет быстро получать информацию об истории никнеймов, инвентаре, банах и связях аккаунта через ID.
 

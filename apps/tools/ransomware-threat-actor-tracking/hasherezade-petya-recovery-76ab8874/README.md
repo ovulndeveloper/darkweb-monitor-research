@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/hasherezade/petya_recovery>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 57
+- **Reviewed:** 2026-11-23
 
 Application for cracking Red Petya key based on genetic algorithms.
 

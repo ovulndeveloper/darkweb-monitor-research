@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/savaskarofficial/savaskarofficial>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 My projects, Android apps and security tools. I'm Sharodshahi Al-Amin, founder of Undercover IT Firm, also known as savaskarofficial.
 

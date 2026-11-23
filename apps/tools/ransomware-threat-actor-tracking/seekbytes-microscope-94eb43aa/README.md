@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/seekbytes/MicroSCOPE>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 22
-- **License:** BSD-3-Clause
+- **Reviewed:** 2026-11-23
 
 Static analysis tool that detects potential ransomware in PE and ELF files through heuristic analysis
 

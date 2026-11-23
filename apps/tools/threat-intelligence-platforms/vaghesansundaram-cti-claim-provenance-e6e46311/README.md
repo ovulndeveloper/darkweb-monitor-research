@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/VaghesanSundaram/cti-claim-provenance>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 Point-in-time CTI claim-provenance benchmark and privacy-safe 192-cell model evaluation.
 

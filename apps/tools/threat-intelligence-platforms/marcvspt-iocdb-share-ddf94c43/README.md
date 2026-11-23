@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/marcvspt/iocdb-share>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 IoCDB Share project repository, a CTI platform that collects data from VirusTotal, AlienVault OTX, PolySwarm and AbuseIPDB APIs for hashes, domains and IPs.
 

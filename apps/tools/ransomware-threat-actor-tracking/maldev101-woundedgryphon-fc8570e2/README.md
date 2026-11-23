@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/MalDev101/WoundedGryphon>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 20
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Bash script to show how viruses spread and to demonstrate how ransomware works.
 

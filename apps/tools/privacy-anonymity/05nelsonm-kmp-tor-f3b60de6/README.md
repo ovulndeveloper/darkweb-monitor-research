@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/05nelsonm/kmp-tor>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 49
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 Kotlin Multiplatform Library for embedding Tor into your application
 

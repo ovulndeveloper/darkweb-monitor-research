@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/redhuntlabs/BurpSuite-Asset_Discover>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 235
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Burp Suite extension to discover assets from HTTP response.
 

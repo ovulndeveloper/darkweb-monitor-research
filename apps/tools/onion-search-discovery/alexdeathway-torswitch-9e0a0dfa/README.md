@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/alexdeathway/torswitch>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Python wrapper for an easy-to-use interaction with the Tor proxy and controlling IP address rotations.
 

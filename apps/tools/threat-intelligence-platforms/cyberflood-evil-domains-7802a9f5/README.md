@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/CyberFlooD/Evil-Domains>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 5
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 La liste de domaines malveillants collectés par DUDIX CTI
 

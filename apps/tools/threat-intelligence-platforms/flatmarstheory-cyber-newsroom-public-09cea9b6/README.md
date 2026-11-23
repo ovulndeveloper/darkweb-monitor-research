@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/flatmarstheory/Cyber-Newsroom-Public>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** Unlicense
+- **Reviewed:** 2026-11-23
 
 Cyber Newsroom is a local-first AI cybersecurity newsroom that turns trusted feeds into competing editorial voices.
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/smidrkal/OpenCTI>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** Unlicense
+- **Reviewed:** 2026-11-23
 
 Docker Compose template for an OpenCTI Demo
 

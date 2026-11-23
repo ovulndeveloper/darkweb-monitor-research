@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/curated-intel/Threat-Actor-Profile-Guide>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 122
+- **Reviewed:** 2026-11-23
 
 The Threat Actor Profile Guide for CTI Analysts
 

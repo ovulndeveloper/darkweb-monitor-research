@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/yogsec/People-Search>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 8
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 People Search is a web-based OSINT tool that generates Google dorks to find people using their name and a clue.
 

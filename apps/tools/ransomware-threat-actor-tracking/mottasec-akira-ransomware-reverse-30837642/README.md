@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/MottaSec/akira-ransomware-reverse>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 7
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Comprehensive reverse engineering analysis of Akira ransomware: cryptography, threading architecture, vulnerabilities (CVSS 9.1), IOCs, and detection strategies
 

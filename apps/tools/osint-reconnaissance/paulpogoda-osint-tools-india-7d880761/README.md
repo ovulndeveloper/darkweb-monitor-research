@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/paulpogoda/OSINT-Tools-India>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 65
+- **Reviewed:** 2026-11-23
 
 A list of OSINT resources and tools that may be useful to you when conducting investigations related to the Republic of India
 

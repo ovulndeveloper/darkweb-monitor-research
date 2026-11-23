@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/unicodeveloper/globalthreatmap>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1876
+- **Reviewed:** 2026-11-23
 
 Global threat map. Learn wars, conflicts, military bases and history of nations.
 

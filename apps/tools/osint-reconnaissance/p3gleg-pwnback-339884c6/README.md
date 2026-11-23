@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/P3GLEG/PwnBack>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 227
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Burp Extender plugin that generates a sitemap of a website using Wayback Machine
 

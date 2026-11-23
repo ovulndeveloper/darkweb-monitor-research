@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/maceip/trap>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 android browser for darknet markets
 

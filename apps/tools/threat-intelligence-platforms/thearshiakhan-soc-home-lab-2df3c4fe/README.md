@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/TheArshiaKhan/SOC-home-lab>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 Educational Wazuh SOC home lab for security monitoring, alert triage, log analysis, incident response and CTI enrichment.
 

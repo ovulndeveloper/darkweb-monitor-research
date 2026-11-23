@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ares-369/zarqa>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 Open-source, AI-powered threat intelligence: collect from the internet and your platforms, extract sourced intel, rank it by relevance to your organization, answer questions with cited evidence.
 

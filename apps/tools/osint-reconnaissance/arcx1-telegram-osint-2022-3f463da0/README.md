@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/arcx1/Telegram-OSINT-2022>
 - **Sources:** `github-search:topic:osint-framework`, `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 16
+- **Reviewed:** 2026-11-23
 
 A curated list of awesome telegram osint resources.
 

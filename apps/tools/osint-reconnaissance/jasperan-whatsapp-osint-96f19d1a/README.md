@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/jasperan/whatsapp-osint>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1623
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 WhatsApp spy - logs online/offline events from ANYONE in the world
 

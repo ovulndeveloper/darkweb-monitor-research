@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/DennisFeldbusch/CheatSheet>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 51
+- **Reviewed:** 2026-11-23
 
 This is a simple Cheat Sheet which can be helpful while pentesting
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/conflict-investigations/media-search-engine>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 117
+- **Reviewed:** 2026-11-23
 
 Search geolocations for (social) media posts in databases like Bellingcat, Cen4InfoRes etc.
 

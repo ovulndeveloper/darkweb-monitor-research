@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/HeightCoder/ZagreuS-Ransomware-Builder>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 9
+- **Reviewed:** 2026-11-23
 
 Source code of the ZagreuS RaaS/Builder, also known as ESCANOR or Red3v1l.
 

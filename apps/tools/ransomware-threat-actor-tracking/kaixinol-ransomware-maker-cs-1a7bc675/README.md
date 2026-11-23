@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/kaixinol/Ransomware-Maker.cs>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 12
-- **License:** Unlicense
+- **Reviewed:** 2026-11-23
 
 A ransomware generator written in C# WPF, using the RC4 encryption algorithm, will generate C++11 code and C# code
 

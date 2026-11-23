@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/cmars/ormesh>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 63
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 [UNMAINTAINED: Try https://github.com/cmars/oniongrok instead] onion-routed mesh
 

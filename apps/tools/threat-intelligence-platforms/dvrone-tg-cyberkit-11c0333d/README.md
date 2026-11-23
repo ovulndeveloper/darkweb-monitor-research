@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/dvrone/tg-cyberkit>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Telegram cybersecurity toolkit for collection, analysis, and human-in-the-loop threat monitoring.
 

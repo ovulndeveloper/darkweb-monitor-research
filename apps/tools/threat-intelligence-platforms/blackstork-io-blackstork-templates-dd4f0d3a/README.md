@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/blackstork-io/blackstork-templates>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 34
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Open-source BlackStork templates for cybersecurity use cases
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/codingo/Ransomware-Json-Dataset>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 74
+- **Reviewed:** 2026-11-23
 
 Compiles a json dataset using public sources that contains properties to aid in the detection and mitigation of over 1000 variants of ransomware.
 

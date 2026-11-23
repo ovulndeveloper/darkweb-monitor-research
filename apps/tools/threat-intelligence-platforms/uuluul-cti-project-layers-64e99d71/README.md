@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/uuluul/CTI_Project_Layers>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Automated CTI to STIX pipeline with OpenSearch detection.
 

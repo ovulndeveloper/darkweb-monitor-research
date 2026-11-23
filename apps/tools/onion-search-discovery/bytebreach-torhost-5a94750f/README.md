@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ByteBreach/torhost>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 One-command tool to create Tor v3 hidden services (onion services) easily and securely.
 

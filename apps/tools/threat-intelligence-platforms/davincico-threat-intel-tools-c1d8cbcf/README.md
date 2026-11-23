@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/davincico/Threat-Intel-Tools>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 An all in one tool for IP/URL/Domain analysis and enrichment - Apollo.py
 

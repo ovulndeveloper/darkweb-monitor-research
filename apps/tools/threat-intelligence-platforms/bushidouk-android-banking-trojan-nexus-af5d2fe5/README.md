@@ -4,9 +4,8 @@
 - **Type:** [tool](../../../by-type/tool/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/BushidoUK/Android-Banking-Trojan-Nexus>
-- **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 15
+- **Sources:** `github-search:topic:cti`, `github-search:topic:threat-hunting`
+- **Reviewed:** 2026-11-23
 
 Nexus of Android banking Trojans
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/AAH20/Apex_Cyber_Sentinel>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Autonomous Cyber Defense — adversarial co-evolution, attack path mapping, zero-day detection, machine-speed response.
 

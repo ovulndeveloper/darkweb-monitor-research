@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/1337isnot1337/DOPPLERGEIST>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 697
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Python tool for aircraft Doppler audio geolocation using historical ADS-B flight data (Source-available)
 

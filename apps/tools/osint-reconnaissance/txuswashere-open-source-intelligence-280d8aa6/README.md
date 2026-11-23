@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/txuswashere/Open-Source-INTelligence>
 - **Sources:** `github-search:topic:osint-framework`, `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 15
+- **Reviewed:** 2026-11-23
 
 Open-source intelligence (OSINT)
 

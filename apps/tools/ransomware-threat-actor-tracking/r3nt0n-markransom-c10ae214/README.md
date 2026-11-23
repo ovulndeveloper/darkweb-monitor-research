@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/r3nt0n/markransom>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 37
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Simple but sharp ransomware
 

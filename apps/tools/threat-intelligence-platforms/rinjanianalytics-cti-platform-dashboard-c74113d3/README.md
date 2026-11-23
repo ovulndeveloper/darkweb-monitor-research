@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/rinjanianalytics/cti-platform-dashboard>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 7
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Command-center dashboard for the Rinjani CTI platform — Telco-5G · AI · Blockchain verticals, live feeds, Neo4j graph explorer, and an agentic Hunt console. Next.js 16 · Tailwind 4 · shadcn/ui. Paired with cti-platform-api.
 

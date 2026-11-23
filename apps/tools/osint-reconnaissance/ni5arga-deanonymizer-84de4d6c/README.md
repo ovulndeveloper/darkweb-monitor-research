@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ni5arga/deanonymizer>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 368
+- **Reviewed:** 2026-11-23
 
 Deanonymize anyone based on their public commenting or posting history & pattern.
 

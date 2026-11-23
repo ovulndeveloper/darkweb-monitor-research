@@ -4,10 +4,8 @@
 - **Type:** [browser-extension](../../../by-type/browser-extension/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/The-Privacy-Commons-Institute/chrome-mal-ids>
-- **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 77
-- **License:** NOASSERTION
+- **Sources:** `github-search:topic:threat-hunting`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 Effort to list and aggregate known malicious Google Chrome Extension IDs
 

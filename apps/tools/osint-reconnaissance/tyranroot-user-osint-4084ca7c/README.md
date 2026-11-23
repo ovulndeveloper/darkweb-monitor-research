@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/tyranroot/User-Osint>
 - **Sources:** `github-search:topic:osint-framework`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
+- **Reviewed:** 2026-11-23
 
 Username to inFO For Ethical Hacker
 

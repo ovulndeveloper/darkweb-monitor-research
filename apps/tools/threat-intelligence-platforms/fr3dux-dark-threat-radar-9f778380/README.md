@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/fr3dux/dark-threat-radar>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Autonomous Cyber Threat Intelligence (CTI) Aggregator, SOC Radar & Threat Telemetry Hub
 

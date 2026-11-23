@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/drooling/phosint>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 40
+- **Reviewed:** 2026-11-23
 
 Phone number OSINT tool made in python3
 

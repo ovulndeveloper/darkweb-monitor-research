@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/kamehameha-ctrl/sniperscope>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 39
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 SniperScope is a high-performance External Attack Surface Management (EASM), passive/active OSINT intelligence, and forensic reporting workstation designed for cybersecurity auditors, SOC analysts, and penetration testers.
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/dimyme/onion_host>
 - **Sources:** `github-search:topic:darkweb`, `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 15
+- **Reviewed:** 2026-11-23
 
 deploy your own new www tor*.onion in 10 seconds using 1 file only
 

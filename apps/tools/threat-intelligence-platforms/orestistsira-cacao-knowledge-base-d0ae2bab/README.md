@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Orestistsira/cacao-knowledge-base>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 A Knowledge Management System that enables easy storage, retrieval, execution, and sharing of CACAO playbooks.
 

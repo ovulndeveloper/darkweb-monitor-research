@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/EndlessFractal/Threat-Intel-Feed>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:cyber-threat-intelligence`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 42
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Automated threat intel feed parsing and consolidation💻👾🤖
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/testpilot8105/barghest>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Local-AI intelligence workbench: documents in, a cited ontology out, nothing leaves the computer.
 

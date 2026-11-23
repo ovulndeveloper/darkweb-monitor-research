@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/CitkaneArchive/onion-tests>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
-- **License:** AGPL-3.0
+- **Reviewed:** 2026-11-23
 
 Comparing the performance of various transport protocols over the TOR network.
 

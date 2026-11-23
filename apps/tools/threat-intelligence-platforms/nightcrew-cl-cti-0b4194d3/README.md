@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/NIGHTCREW-CL/CTI>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 Inteligencia de amenazas: análisis trazable, contexto y conocimiento abierto para la defensa digital.
 

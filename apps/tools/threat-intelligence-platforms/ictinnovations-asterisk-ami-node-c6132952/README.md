@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ictinnovations/asterisk-ami-node>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 14
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Dependency-free Asterisk Manager Interface (AMI) client for Node.js. TypeScript, event streaming, auto-reconnect, ESM + CommonJS.
 

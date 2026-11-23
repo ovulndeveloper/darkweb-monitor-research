@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/graph90/openclaw-darknet-fetch>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Agent-oriented Python web fetcher for OpenClaw with clearnet, Tor, and I2P support via local proxies.
 

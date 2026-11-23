@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/deniss-eh/OSINT_RESOURCES>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Collection of OSINT resources together.
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Ganatra-Ruchir/ransomware-canary-detector>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 11
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 A Python-based defensive cybersecurity tool that detects potential ransomware activity by monitoring sensitive folders and alerting when canary files are accessed, modified, or deleted. Early-warning ransomware detection tool that monitors sensitive folders using canary files and alerts when they're accessed, modified, or deleted.
 

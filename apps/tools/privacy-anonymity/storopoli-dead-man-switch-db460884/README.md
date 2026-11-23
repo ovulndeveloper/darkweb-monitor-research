@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/storopoli/dead-man-switch>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 63
-- **License:** AGPL-3.0
+- **Reviewed:** 2026-11-23
 
 Rust no-BS Dead Man's Switch library, TUI and Web Interface.
 

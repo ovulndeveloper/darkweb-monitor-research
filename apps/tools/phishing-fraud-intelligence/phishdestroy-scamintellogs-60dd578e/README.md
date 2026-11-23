@@ -4,10 +4,8 @@
 - **Type:** [research-project](../../../by-type/research-project/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/phishdestroy/ScamIntelLogs>
-- **Sources:** `github-search:topic:osint`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 332
-- **License:** NOASSERTION
+- **Sources:** `github-search:topic:osint`, `github-search:topic:phishing`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 Open-source intelligence archive of crypto scam operations — internal chats, admin panels, victim records, and infrastructure data for research and investigation
 

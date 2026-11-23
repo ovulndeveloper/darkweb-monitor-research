@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/yvesstan/SIEM_Solution-Research-Project>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
+- **Reviewed:** 2026-11-23
 
 Focus on an openource SIEM to proactively monitor, detect , analyze and respond to real world attacks.
 

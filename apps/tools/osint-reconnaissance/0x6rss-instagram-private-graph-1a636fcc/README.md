@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/0x6rss/instagram-private-graph>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 475
+- **Reviewed:** 2026-11-23
 
 Analyze the followers and following accounts that a private (hidden) Instagram account interacts with.
 

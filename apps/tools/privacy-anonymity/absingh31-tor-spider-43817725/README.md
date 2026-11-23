@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/absingh31/Tor_Spider>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 70
+- **Reviewed:** 2026-11-23
 
 Python project to crawl and scrap the lesser known deep web or one can say dark web. Just provide the onion link and get started.
 

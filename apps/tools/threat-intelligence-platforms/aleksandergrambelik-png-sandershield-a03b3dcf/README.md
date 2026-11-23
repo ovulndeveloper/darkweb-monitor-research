@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/aleksandergrambelik-png/SanderShield>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 630KB zero-dependency Mobile Security Suite built on Termux. Features: Port Scanner, CVE Checker, Vuln Scanner, Anti-Tracker, and GPS Guard. 100% Native Java, no Gradle, no root required.
 

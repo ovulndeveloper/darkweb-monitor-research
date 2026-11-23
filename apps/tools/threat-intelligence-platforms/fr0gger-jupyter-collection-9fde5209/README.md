@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/fr0gger/jupyter-collection>
 - **Sources:** `github-search:topic:malware-analysis`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 198
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 Collection of Jupyter Notebooks by @fr0gger_
 

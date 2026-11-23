@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/pinkycourse/GhostIntel>
 - **Sources:** `github-search:topic:osint-framework`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 8
+- **Reviewed:** 2026-11-23
 
 Analyze phone numbers, usernames, emails, and IP information with GhostIntel, an open-source OSINT framework built in Python for Indonesia.
 

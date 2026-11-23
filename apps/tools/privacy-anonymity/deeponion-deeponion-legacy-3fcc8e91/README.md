@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/deeponion/deeponion-legacy>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 411
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Official Source Repo for DeepOnion - Anonymous Cryptocurrency on TOR Network (legacy)
 

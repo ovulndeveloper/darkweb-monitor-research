@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/phat0x8/Secbert-cda-attack-classification>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Research project on automated MITRE ATT&CK technique classification using SecBERT and Contextual Data Augmentation (CDA) for handling class imbalance in Cyber Threat Intelligence.
 

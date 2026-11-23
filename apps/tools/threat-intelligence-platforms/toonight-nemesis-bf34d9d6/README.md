@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/toonight/NEMESIS>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Autonomous cyber-adversary pursuit and attribution, built as the limiter an untrusted frontier model drives — not as the model. A closed four-verb seam and pre-signed capability envelopes keep autonomy inside cryptographic bounds. Causes takedowns; never performs them. Synthetic fixtures only.
 

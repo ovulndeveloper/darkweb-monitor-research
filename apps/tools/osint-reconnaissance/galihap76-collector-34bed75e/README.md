@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/galihap76/collector>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 320
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Collector is a OSINT tool and information gathering. This tool can do information gathering phone numbers, github account, ip address and instagram account.
 

@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/sds-osint/transforms>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 Various transforms for use in Maltego
 

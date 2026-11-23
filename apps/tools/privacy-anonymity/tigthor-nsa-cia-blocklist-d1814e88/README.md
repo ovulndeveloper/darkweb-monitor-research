@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/tigthor/NSA-CIA-Blocklist>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 141
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 This is the github repository for all NSA and CIA spying servers, including those revealed by Edward Snowden and other studies we conducted on the whole world's servers, enumerating those that spy on individuals and sell data to the NSA and CIA.
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ickerwx/phishing-botnets-ransomware>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 6
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Ein Awareness-Talk, in dem ich erkläre, was Phishing, Botnets und Ransomware sind, und was man tun kann, um sich zu schützen
 

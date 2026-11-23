@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Hugh-Kumbi/Operation-Phantom-Store>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Evidence-based Cyber Threat Intelligence (CTI) investigation of a multi-domain recruitment fraud campaign using OSINT, MITRE ATT&CK, STIX, MISP, and ATT&CK Navigator.
 

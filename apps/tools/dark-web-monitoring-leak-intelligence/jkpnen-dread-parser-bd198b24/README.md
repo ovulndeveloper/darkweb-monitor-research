@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/jkpnen/dread-parser>
 - **Sources:** `github-search:topic:darkweb`
-- **Indexed:** 2026-11-23
-- **License:** GPL-2.0
+- **Reviewed:** 2026-11-23
 
 Dread Parser is a tool for parsing the Dread's comments section.
 

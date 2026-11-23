@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/lina767/digital-war-room>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 12
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Multi-agent platform using OSINT tools to create geopolitical analysis
 

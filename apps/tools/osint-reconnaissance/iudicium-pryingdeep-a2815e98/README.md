@@ -4,10 +4,8 @@
 - **Type:** [research-project](../../../by-type/research-project/README.md)
 - **Status:** `archived`
 - **URL:** <https://github.com/iudicium/pryingdeep>
-- **Sources:** `github-search:topic:darkweb`, `github-search:topic:onion`, `github-search:topic:osint`, `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 627
-- **License:** GPL-3.0
+- **Sources:** `github-search:topic:darkweb`, `github-search:topic:onion`, `github-search:topic:osint`, `github-search:topic:osint-tools`, `github-search:topic:security-tools`
+- **Reviewed:** 2026-11-23
 
 Prying Deep - An OSINT tool to collect intelligence on the dark web.
 

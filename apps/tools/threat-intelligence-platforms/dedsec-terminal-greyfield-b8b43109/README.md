@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/dedsec-terminal/greyfield>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Real-time cloud honeypot and threat observatory capturing internet attacks, analyzing adversary behavior, producing threat intelligence, and mapping activity to MITRE ATT&CK.
 

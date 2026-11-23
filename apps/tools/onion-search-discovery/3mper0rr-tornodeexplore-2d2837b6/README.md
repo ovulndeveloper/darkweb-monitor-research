@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/3MPER0RR/TorNodeExplore>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 TorNodeExplore is a Ruby script for analyzing and monitoring Tor network nodes using the Onionoo public API. It allows you to filter Exit/Guard nodes, sort by bandwidth, filter by country, and obtain aggregate statistics.
 

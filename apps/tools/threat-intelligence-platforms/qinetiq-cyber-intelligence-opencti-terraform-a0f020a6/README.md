@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/QinetiQ-Cyber-Intelligence/OpenCTI-Terraform>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 38
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 A highly available AWS deployment of the Threat Intelligence platform, OpenCTI using Terraform. Native AWS resources are used where feasible.
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Xquik-dev/x-twitter-advanced-search>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 X (Twitter) advanced search operators to search tweets by date, with tested examples. Not affiliated with X Corp.
 

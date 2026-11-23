@@ -4,10 +4,8 @@
 - **Type:** [cli-tool](../../../by-type/cli-tool/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/AyoobAli/ransomwatch-cli>
-- **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 13
-- **License:** GPL-3.0
+- **Sources:** `github-search:topic:ransomware`, `github-search:topic:threat-hunting`
+- **Reviewed:** 2026-11-23
 
 CLI interface to get Ransomware attacks data from ransomwhat.telemetry.ltd
 

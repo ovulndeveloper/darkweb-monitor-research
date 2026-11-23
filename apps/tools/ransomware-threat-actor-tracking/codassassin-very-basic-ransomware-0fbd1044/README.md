@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/codassassin/very-basic-ransomware>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 This is a very basic ransomware created using Python
 

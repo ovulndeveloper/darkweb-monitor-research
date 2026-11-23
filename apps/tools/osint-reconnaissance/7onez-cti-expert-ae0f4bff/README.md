@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/7onez/cti-expert>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:cyber-threat-intelligence`, `github-search:topic:digital-forensics`, `github-search:topic:osint`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 627
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 CTI Expert — Cyber Threat Intelligence & OSINT analysis skill for Claude Code / Codex. 120+ commands, 57 techniques, 79 typed MCP tools, deterministic case pipeline + ICD-203 reports. No API keys required for core.
 

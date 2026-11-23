@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/akashblackhat/no-infoga.py>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 54
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 This tool gives information about the phone number that you entered.
 

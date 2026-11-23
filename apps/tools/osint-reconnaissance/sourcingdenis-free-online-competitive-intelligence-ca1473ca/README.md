@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/SourcingDenis/free-online-competitive-intelligence>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 209
+- **Reviewed:** 2026-11-23
 
 #OSINT 🔎 40+ open source intelligence tools for various internet investigation.
 

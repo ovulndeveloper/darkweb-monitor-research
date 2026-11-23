@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ThoughtfulDev/SupergirlOnCrypt>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 48
-- **License:** WTFPL
+- **Reviewed:** 2026-11-23
 
 CryptoTrojan in Python (For educational purpose ONLY)
 

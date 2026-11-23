@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Cybersight-Security/OSINT-Toolkit>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 57
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 This repository serves as a comprehensive catalog for tools and websites useful in Open Source Intelligence (OSINT) investigations.
 

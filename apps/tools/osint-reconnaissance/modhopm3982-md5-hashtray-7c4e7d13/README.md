@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/modhopm3982/md5-hashtray>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Optimize security workflows with the MD5 HashTray on GitHub. Advanced features for professional hash generation and checksum automation.
 

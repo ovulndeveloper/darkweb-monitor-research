@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/h6465617468/Happy2EncryptedChat>
 - **Sources:** `github-search:topic:darkweb`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 13
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 This is a secure dark web messaging app that uses end-to-end encryption. Elliptic curve SECP256k1, RSA 4096 Bit, AES-256 Your messages are deleted from the server as soon as they are sent.
 

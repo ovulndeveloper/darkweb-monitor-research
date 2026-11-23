@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/google/threat-team>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 65
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 No longer maintained. Please refer to Google Threat Intelligence / Virus Total collections.
 

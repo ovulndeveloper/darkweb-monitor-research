@@ -4,10 +4,8 @@
 - **Type:** [container](../../../by-type/container/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/crowdsecurity/crowdsec>
-- **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 15760
-- **License:** MIT
+- **Sources:** `awesome:TinuolaRotimi/Awesome-OSINT`, `awesome:jivoi/awesome-osint`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 Open-source IDS/IPS, WAF and bot detection for Linux, Windows, Docker and Kubernetes, with a crowdsourced blocklist of malicious IPs.
 

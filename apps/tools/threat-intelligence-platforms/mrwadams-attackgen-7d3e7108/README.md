@@ -4,10 +4,8 @@
 - **Type:** [framework](../../../by-type/framework/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/mrwadams/attackgen>
-- **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1276
-- **License:** GPL-3.0
+- **Sources:** `github-search:topic:incident-response`, `github-search:topic:security-tools`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 AttackGen is a cybersecurity incident response testing tool that leverages the power of large language models and the comprehensive MITRE ATT&CK framework. The tool generates tailored incident response scenarios based on user-selected threat actor groups and your organisation's details.
 

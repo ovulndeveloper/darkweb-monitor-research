@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/aniketchavan2211/Onion-Sites>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 News | Onion site build with rust lang
 

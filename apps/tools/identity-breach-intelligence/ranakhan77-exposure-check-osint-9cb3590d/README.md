@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/RanaKhan77/Exposure-Check-OSINT>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 22
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 Self-hosted OSINT exposure checker — is your email, username, phone or password leaked? Keyless sources: breaches, infostealer logs, COMB credentials, HIBP k-anonymity, 200-platform username grid. Docker one-command install, no API keys, no AI, Apache-2.0.
 

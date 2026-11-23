@@ -5,8 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/wesinator/ICD203-intel-analysis>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 5
+- **Reviewed:** 2026-11-23
 
 "ICD 203" for intelligence analysis, in consumable form for reference. https://fas.org/irp/dni/icd/icd-203.pdf
 

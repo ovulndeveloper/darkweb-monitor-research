@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/utkusen/wholeaked>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1101
-- **License:** BSD-3-Clause
+- **Reviewed:** 2026-11-23
 
 a file-sharing tool that allows you to find the responsible person in case of a leakage
 

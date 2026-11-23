@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/thunderstornX/dark-web-monitor-lite>
 - **Sources:** `github-search:topic:dark-web`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Defensive Tor-aware keyword-watchlist monitor with per-token min-aggregation fuzzy matching. 59-test pytest. Matcher F1=0.9213 across 550 labelled cells. Thorough compliance baseline (policy template + 4-jurisdiction legal review).
 

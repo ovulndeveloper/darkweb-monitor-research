@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/JMousqueton/CTI-Teams-Notification>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Teams Notification on closed PR
 

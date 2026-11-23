@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ciehanski/oniongen-hs>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** BSD-3-Clause
+- **Reviewed:** 2026-11-23
 
 v3 onion vanity URL generator written in Haskell.
 

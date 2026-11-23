@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/TomasPhilippart/ebpfangel>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 79
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 🐝 Ransomware Detection using Machine Learning with eBPF for Linux.
 

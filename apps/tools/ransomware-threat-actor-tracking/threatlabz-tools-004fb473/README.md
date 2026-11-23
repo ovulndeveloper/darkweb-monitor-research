@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ThreatLabz/tools>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 112
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Tools developed by the Zscaler ThreatLabz Threat Intelligence team
 

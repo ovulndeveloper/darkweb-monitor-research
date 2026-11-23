@@ -4,10 +4,8 @@
 - **Type:** [dataset](../../../by-type/dataset/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/0xDanielLopez/TweetFeed_code>
-- **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 49
-- **License:** GPL-3.0
+- **Sources:** `github-search:topic:osint-tools`, `github-search:topic:phishing`
+- **Reviewed:** 2026-11-23
 
 Source code used at TweetFeed.live
 

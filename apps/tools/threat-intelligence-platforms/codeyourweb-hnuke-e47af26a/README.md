@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/codeyourweb/hnuke>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Little handy tool to help hash parsing and analysis on VirusTotal with both VirusTotal free and entreprise API
 

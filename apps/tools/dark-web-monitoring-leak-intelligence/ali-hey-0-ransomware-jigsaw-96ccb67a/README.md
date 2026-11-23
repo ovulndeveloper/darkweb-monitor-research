@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Ali-hey-0/Ransomware.Jigsaw>
 - **Sources:** `github-search:topic:darkweb`, `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 9
+- **Reviewed:** 2026-11-23
 
 No description provided by the source.
 

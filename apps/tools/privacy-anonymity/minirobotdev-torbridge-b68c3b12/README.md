@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/MiniRobotDev/TorBridge>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 47
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 a simple script for getting tor bridge from : https://bridges.torproject.org/bridges
 

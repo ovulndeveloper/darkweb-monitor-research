@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/s-r-e-e-r-a-j/NetSpecter>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 NetSpecter is a lightweight yet powerful asynchronous OSINT and reconnaissance engine built in Python.
 

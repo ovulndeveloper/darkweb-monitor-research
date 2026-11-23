@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/carlpit/ioc-extractor>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Extrator de IOCs para CTI: URL, domínio, IP, hashes, e-mail, CVE e MITRE ATT&CK, com defang/refang e allowlist. Sem chamadas de rede.
 

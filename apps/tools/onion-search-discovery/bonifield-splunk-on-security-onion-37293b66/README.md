@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/bonifield/splunk_on_security_onion>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 6
+- **Reviewed:** 2026-11-23
 
 Splunk configs for Security Onion
 

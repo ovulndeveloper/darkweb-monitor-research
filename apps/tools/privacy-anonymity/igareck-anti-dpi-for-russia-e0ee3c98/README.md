@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/igareck/anti-dpi-for-russia>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 151
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Anti-DPI-софт для работы Черных Списков VPN в России / Anti-DPI-Software for restoring VPN access in Russia
 

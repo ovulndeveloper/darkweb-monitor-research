@@ -4,10 +4,8 @@
 - **Type:** [web-platform](../../../by-type/web-platform/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/JMousqueton/IoCManager>
-- **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 22
-- **License:** MIT
+- **Sources:** `github-search:topic:cti`, `github-search:topic:incident-response`, `github-search:topic:threat-hunting`
+- **Reviewed:** 2026-11-23
 
 Web-based IOC management platform with threat intelligence enrichment for SOC teams
 

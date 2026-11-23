@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/dheerajydv19/Social-Media-Osint>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 126
+- **Reviewed:** 2026-11-23
 
 Collection of Most Useful tools for Social Media Intelligence
 

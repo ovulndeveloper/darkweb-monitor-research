@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Nidhzz1005/DigitalFootprint>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 OSINT tool: username, domain, IP, WHOIS and breach checks with a relationship graph and PDF report
 

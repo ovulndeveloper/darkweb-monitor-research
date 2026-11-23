@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/guyfawkesnight1605/website>
 - **Sources:** `github-search:topic:dark-web`, `github-search:topic:darkweb`
-- **Indexed:** 2026-11-23
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 Website for https://libertytown.org/ Dark web
 

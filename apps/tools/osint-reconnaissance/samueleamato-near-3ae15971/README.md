@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/SamueleAmato/Near>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 27
+- **Reviewed:** 2026-11-23
 
 All-in-one OSINT toolkit
 

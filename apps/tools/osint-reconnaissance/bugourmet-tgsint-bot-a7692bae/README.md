@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/bugourmet/tgsint-bot>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 66
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Telegram OSINT Bot
 

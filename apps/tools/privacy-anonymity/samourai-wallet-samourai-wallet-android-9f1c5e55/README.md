@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Samourai-Wallet/samourai-wallet-android>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 693
-- **License:** Unlicense
+- **Reviewed:** 2026-11-23
 
 Bitcoin Wallet strongly focused on privacy when transacting on the bitcoin network
 

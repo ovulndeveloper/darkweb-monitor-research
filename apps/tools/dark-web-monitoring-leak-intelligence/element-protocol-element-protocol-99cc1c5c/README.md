@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/element-protocol/element-protocol>
 - **Sources:** `github-search:topic:darkweb`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 26
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 The decentralized, completely anonymous, lightweight, peer-to-peer network communication protocol.
 

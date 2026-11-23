@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/onionbag2/osint-tools>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **License:** CC-BY-4.0
+- **Reviewed:** 2026-11-23
 
 A hand-checked directory of 210 OSINT tools, sorted by task and labelled Free, Freemium or Paid. Searchable at osintresourcecenter.com
 

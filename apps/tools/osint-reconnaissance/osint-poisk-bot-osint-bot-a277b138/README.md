@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/osint-poisk-bot/osint-bot>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 OSINT бот в Telegram для поиска по номеру, email, username, Telegram ID, фотографии, ФИО и связанным открытым данным.
 

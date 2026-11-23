@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/PwnLabMe-Project/Security-Resources>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:forensics`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 20
+- **Reviewed:** 2026-11-23
 
 Sharing our knowledge and resources in the field of cyber security.
 

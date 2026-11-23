@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/m2gi-duboise/OnionMQ>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 Implémentation d'un réseau virtuel (anneau) sur une topologie physique avec routage en oignon en Java RabbitMQ. Projet réalisé dans le cadre de l'UE Introduction to Distributed Systems.
 

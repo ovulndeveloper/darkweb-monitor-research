@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/cti-cmm/framework>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 52
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Cyber Threat Intelligence Capability Maturity Model (CTI-CMM), a dedicated maturity framework to empower your team. Inspired by industry needs, curated by those in trenches.
 

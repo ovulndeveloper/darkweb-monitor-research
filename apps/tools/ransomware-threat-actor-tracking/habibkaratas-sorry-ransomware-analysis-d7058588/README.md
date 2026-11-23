@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/habibkaratas/sorry-ransomware-analysis>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 6
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Sorry ransomware (.sorry) IOCs, YARA rules and forensic analysis - CVE-2026-41940 cPanel campaign
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/paulpogoda/OSINT-Tools-Iran>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 26
+- **Reviewed:** 2026-11-23
 
 Tools and resources that may be useful to you when conducting investigations related to Islamic Republic of Iran
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/42ways/onion-architecture-blueprint>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 5
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Implementation of the so called "Onion Architecture" in plain Java
 

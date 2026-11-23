@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/AmmarAikan/CTI-Tool-Showcase>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Sanitized architecture, methodology, demo, and evaluation evidence for the ACTIT cyber threat intelligence graduation project
 

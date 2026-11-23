@@ -5,8 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/LabVIEWCommunityTraining/GettingStartedLabVIEW1-Spanish>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
+- **Reviewed:** 2026-11-23
 
 Capacitación en LabVIEW para la comunidad de habla hispana.
 

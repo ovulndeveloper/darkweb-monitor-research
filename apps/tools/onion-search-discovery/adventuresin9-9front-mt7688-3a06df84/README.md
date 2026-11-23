@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/adventuresin9/9front-mt7688>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 17
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 9 Front for the mt7688
 

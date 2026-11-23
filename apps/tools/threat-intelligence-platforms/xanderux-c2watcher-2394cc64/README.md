@@ -4,10 +4,8 @@
 - **Type:** [dataset](../../../by-type/dataset/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/Xanderux/C2watcher>
-- **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 20
-- **License:** NOASSERTION
+- **Sources:** `github-search:topic:cti`, `github-search:topic:threat-hunting`
+- **Reviewed:** 2026-11-23
 
 Daily C2 threat intelligence feed
 

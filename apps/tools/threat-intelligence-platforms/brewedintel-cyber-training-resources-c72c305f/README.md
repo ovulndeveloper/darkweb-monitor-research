@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/BrewedIntel/cyber-training-resources>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
+- **Reviewed:** 2026-11-23
 
 Training datasets, CTF platforms, digital investigation exercises, and cyber labs for CTI analysts, DFIR practitioners, SOC analysts, and educators.
 

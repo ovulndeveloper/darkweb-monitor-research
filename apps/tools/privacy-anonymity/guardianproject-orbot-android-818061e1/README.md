@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/guardianproject/orbot-android>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3727
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 The Github home of Orbot: Tor on Android (Also available on gitlab!)
 

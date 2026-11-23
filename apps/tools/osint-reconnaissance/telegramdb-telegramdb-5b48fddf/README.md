@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/TelegramDB/TelegramDB>
 - **Sources:** `github-search:topic:osint`, `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 223
+- **Reviewed:** 2026-11-23
 
 TelegramDB is a service that allows you to search for channels, groups and their members.
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ninoseki/ioc-extractor>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 63
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 An npm package for extracting common IoC (Indicator of Compromise) from a block of text
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/vinayakcyber/TTP-Mapper>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 No description provided by the source.
 

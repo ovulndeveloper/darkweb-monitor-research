@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/socai-io/jev-social>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 220
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Open-source, local-first social media research agent for Instagram, TikTok, and LinkedIn. Jev routes read-only steps; socai CLI captures cited browser evidence.
 

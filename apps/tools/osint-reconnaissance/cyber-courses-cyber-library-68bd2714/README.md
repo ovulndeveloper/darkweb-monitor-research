@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Cyber-Courses/Cyber-Library>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 231
+- **Reviewed:** 2026-11-23
 
 Cybersecurity in 6 tracks
 

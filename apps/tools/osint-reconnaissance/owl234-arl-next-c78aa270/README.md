@@ -4,10 +4,8 @@
 - **Type:** [container](../../../by-type/container/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/owl234/ARL-Next>
-- **Sources:** `github-search:topic:osint`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 574
-- **License:** GPL-3.0
+- **Sources:** `github-search:topic:osint`, `github-search:topic:security-tools`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 Modern attack-surface reconnaissance & asset monitoring platform — rebuilt from classic ARL with async decoupled scheduling, enterprise asset correlation and native MCP support. Docker-ready.
 

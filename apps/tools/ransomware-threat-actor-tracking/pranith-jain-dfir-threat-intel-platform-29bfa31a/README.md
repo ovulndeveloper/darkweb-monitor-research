@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Pranith-Jain/dfir-threat-intel-platform>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 10
+- **Reviewed:** 2026-11-23
 
 A 135+ tool DFIR toolkit, a live self-updating threat-intel platform, and a 332-tool MCP server — on one Cloudflare Workers deploy. MIT licensed. Portfolio: pranithjain.qzz.io
 

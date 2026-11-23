@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/1paton/nweaRansomware>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
+- **Reviewed:** 2026-11-23
 
 NWEA's Map Test Lock Down Browser that has been reconfigured to be used as Ransomeware(macOS)
 

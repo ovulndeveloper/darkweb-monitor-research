@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/hIMEI29A/gichidan>
 - **Sources:** `github-search:topic:onion`, `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 32
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 Gichidan - CLI wrapper for Ichidan deep-web search engine.
 

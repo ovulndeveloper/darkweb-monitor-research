@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/radmorex/osint-launcher>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 One command, 20 open-source OSINT tools, one clean terminal menu. Multi-search by username, email, phone, domain. macOS + Windows installers.
 

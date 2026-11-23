@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/root-acch/NotInfecktya>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 9
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 Anti-Ransomware Detection Tool
 

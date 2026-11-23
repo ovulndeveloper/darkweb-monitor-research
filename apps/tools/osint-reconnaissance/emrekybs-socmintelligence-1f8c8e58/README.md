@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/emrekybs/SOCMIntelligence>
 - **Sources:** `github-search:topic:osint-framework`, `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 5
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 A modular OSINT & SOCMINT framework for social media intelligence, investigation, and public data analysis.
 

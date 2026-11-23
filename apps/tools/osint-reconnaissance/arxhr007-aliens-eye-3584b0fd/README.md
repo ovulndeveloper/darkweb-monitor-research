@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/arxhr007/Aliens_eye>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4861
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 AI powered OSINT engine to discover and map 7,700+ social media identities across the web
 

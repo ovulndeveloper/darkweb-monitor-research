@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/C3n7ral051nt4g3ncy/WebOSINT>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 515
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 W3b0s1nt (WebOSINT) is a Python tool/script for passive Domain Intelligence gathering.
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Siradankullanici/HaikuRansomware>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 16
-- **License:** GPL-2.0
+- **Reviewed:** 2026-11-23
 
 World's First Haiku Ransomware/Malware
 

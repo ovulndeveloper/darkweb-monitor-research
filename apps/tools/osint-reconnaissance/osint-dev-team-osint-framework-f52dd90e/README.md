@@ -4,10 +4,8 @@
 - **Type:** [container](../../../by-type/container/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/osint-dev-team/osint-framework>
-- **Sources:** `github-search:topic:osint-framework`, `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 48
-- **License:** GPL-2.0
+- **Sources:** `github-search:topic:osint-framework`, `github-search:topic:osint-tools`, `github-search:topic:recon`
+- **Reviewed:** 2026-11-23
 
 fork_and_knife: All-in-one OSINT-RECON Swiss Knife
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/aasimxs/raven>
 - **Sources:** `github-search:topic:osint-framework`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Advanced OSINT platform for high-performance intelligence collection. Features highly concurrent target scanning, automated dossier generation, and a powerful React-based visualizer.
 

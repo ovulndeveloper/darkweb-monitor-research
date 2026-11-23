@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Denoroy737/Telegram_OSINT>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **License:** CC0-1.0
+- **Reviewed:** 2026-11-23
 
 A comprehensive collection of tools, resources, and directories for conducting Open Source Intelligence (OSINT) investigations on Telegram
 

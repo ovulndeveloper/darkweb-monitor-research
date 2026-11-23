@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/james-see/elector>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 31
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 TOR BROWSER IN ELECTRON
 

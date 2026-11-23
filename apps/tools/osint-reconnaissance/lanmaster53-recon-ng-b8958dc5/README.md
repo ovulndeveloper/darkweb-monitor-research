@@ -4,11 +4,8 @@
 - **Type:** [tool](../../../by-type/tool/README.md)
 - **Status:** `primary-verified`
 - **URL:** <https://github.com/lanmaster53/recon-ng>
-- **Sources:** `rsearch-registry`
-- **Indexed:** 2026-11-23
-- **License:** GPL-3.0
-- **Verified registry ID:** `recon-ng`
-- **Primary evidence:** <https://github.com/lanmaster53/recon-ng>
+- **Sources:** `awesome:edwardtay/awesome-OSINT`, `rsearch-registry`
+- **Reviewed:** 2026-11-23
 
 Modular web-based open-source reconnaissance framework with a Metasploit-like console, CLI, and web interface.
 

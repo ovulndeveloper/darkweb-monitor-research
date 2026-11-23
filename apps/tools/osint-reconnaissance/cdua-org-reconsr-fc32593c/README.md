@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/cdua-org/ReconSR>
 - **Sources:** `github-search:topic:osint-framework`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 5
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 ReconSR is an automated OSINT tool designed to provide cybersecurity researchers with a modular framework for mapping and analyzing complex digital footprints and attack surfaces.
 

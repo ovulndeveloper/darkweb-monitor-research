@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/bl4de/research>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 213
+- **Reviewed:** 2026-11-23
 
 Bug Bounty writeups, Vulnerability Research, Tutorials, Tips&Tricks
 

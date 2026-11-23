@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/0x6rss/matkap>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1057
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Matkap - hunt down malicious Telegram bots
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/trimstray/multitor>
 - **Sources:** `github-search:topic:onion`, `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1200
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Create multiple TOR instances with a load-balancing.
 

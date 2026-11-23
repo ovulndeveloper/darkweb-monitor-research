@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/jollncoelho/OsintGodseye>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 16
+- **Reviewed:** 2026-11-23
 
 Real-time tactical OSINT & GEOINT dashboard. Live flight tracking (ADS-B), maritime vessels, satellites, undersea telecom cables & HUD shaders powered by free, keyless open APIs.
 

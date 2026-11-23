@@ -4,12 +4,8 @@
 - **Type:** [tool](../../../by-type/tool/README.md)
 - **Status:** `primary-verified`
 - **URL:** <https://github.com/laramies/theHarvester>
-- **Sources:** `github-search:topic:osint`, `rsearch-registry`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 18391
-- **License:** GPL-2.0
-- **Verified registry ID:** `theharvester`
-- **Primary evidence:** <https://github.com/laramies/theHarvester>
+- **Sources:** `awesome:TinuolaRotimi/Awesome-OSINT`, `awesome:edwardtay/awesome-OSINT`, `awesome:jivoi/awesome-osint`, `github-search:topic:osint`, `github-search:topic:recon`, `rsearch-registry`
+- **Reviewed:** 2026-11-23
 
 Gathers OSINT about a domain or organization from search engines, certificate transparency logs, DNS datasets, code repositories, and threat-intelligence providers; normalizes hostnames, emails, IPs, URLs, ASNs, people, and breach names.
 

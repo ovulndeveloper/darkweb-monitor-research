@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/wolketich/THM-Writeup>
 - **Sources:** `github-search:topic:dark-web`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
+- **Reviewed:** 2026-11-23
 
 Library of CTF Solutions (TryHackMe)
 

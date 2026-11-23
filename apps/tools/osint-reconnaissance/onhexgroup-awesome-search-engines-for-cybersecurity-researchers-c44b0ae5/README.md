@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/onhexgroup/Awesome-Search-Engines-for-Cybersecurity-Researchers>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 372
+- **Reviewed:** 2026-11-23
 
 Awesome list of Search Engines for Cybersecurity Researchers
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/mthbernardes/ipChecker>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 56
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Check if a IP is from tor or is a malicious proxy
 

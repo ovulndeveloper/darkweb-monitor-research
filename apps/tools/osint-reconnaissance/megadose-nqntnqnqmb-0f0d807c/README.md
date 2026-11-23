@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/megadose/nqntnqnqmb>
 - **Sources:** `github-search:topic:osint`, `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 336
+- **Reviewed:** 2026-11-23
 
 Allows you to retrieve information on linkedin profiles, companies on linkedin and search on linkedin companies/persons
 

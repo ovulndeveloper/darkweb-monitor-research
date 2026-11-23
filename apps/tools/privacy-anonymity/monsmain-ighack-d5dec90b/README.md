@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/monsmain/ighack>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 55
+- **Reviewed:** 2026-11-23
 
 Hack Password Instagram No Root | هک پسورد اینستاگرام بدون روت | hack bruteforce Instagram
 

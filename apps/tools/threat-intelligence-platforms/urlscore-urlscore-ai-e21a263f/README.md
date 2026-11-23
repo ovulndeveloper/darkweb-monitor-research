@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/urlscore/Urlscore.ai>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
+- **Reviewed:** 2026-11-23
 
 Python-based application designed to scan URLs and assess website risks through an API
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/pakdekro/DrawMeAStix>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 7
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 The CTI analyst's STIX scratchpad. A local-first investigation canvas
 

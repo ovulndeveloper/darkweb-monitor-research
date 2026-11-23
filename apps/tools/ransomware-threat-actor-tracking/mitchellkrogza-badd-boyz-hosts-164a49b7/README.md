@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/mitchellkrogza/Badd-Boyz-Hosts>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 117
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 A hosts file for use on any operating system to block bad domains out of your servers or devices.
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/lithnet/access-manager>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 266
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Access Manager provides web-based access to local admin (LAPS) passwords, BitLocker recovery keys, and just-in-time administrative access to Windows computers in a modern, secure, and user-friendly way.
 

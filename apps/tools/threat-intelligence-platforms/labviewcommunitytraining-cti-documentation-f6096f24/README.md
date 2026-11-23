@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/LabVIEWCommunityTraining/cti-documentation>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 8
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 This is a multilingual repository to host all of the documentation for the LabVIEW Community Training Initiative.
 

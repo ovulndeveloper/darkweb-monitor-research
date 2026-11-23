@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/atmoner/TwitWork>
 - **Sources:** `github-search:topic:osint`, `github-search:topic:osint-framework`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 276
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 ✨ Monitor twitter stream from nodejs electron
 

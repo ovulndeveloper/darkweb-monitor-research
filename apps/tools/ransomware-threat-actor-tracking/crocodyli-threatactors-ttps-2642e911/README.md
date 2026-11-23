@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/crocodyli/ThreatActors-TTPs>
 - **Sources:** `github-search:topic:ransomware`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 424
+- **Reviewed:** 2026-11-23
 
 Repository created to share information about tactics, techniques and procedures used by threat actors. Initially with ransomware groups and evolving to other types of threats.
 

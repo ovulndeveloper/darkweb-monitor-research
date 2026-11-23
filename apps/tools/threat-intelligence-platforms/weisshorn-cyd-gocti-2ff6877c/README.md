@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/weisshorn-cyd/gocti>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 15
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Unofficial OpenCTI Golang Client
 

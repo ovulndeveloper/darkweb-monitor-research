@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/balestek/medor>
 - **Sources:** `github-search:topic:onion`, `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 20
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 medor is an OSINT tool that enables you to discover a WordPress website IP behind a WAF or behind Onion Services.
 

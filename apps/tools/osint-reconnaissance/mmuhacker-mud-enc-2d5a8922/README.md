@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/mmuhacker/mud-enc>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 أداة تشفير نصوص وأكواد وملفات (أي نوع) بواسطة AES-128 (Fernet) + HMAC-SHA256، بواجهة عربية RTL كاملة، تدعم التشفير بكلمة مرور أو ملف مفتاح، وتعمل على Termux ولينكس. جزء من سلسلة أدوات مدارك (Madarik Tools).
 

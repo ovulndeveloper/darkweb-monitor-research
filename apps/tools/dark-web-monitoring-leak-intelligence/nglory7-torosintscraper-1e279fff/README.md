@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/NGlory7/TorOsintScraper>
 - **Sources:** `github-search:topic:dark-web`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Tor-routed OSINT scraper for .onion services: screenshot archiving, crypto wallet and contact extraction, threat-intel reports
 

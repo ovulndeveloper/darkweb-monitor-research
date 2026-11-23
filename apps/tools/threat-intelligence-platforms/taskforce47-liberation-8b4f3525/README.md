@@ -5,8 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/TaskForce47/Liberation>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
+- **Reviewed:** 2026-11-23
 
 Cooperative capture the island mission for ArmA 3
 

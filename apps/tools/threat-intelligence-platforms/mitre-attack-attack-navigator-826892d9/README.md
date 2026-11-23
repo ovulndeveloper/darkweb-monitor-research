@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/mitre-attack/attack-navigator>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2512
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 Web app that provides basic navigation and annotation of ATT&CK matrices
 

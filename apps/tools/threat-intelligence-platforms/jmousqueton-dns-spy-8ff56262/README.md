@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/JMousqueton/DNS-Spy>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Comprehensive domain intelligence tool — WHOIS, DNS, SSL, WAF, email security, tech stack & more in one click
 

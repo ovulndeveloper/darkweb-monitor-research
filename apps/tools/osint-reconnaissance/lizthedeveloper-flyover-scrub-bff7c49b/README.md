@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/lizTheDeveloper/flyover-scrub>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 465
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Remove aircraft Doppler signatures from audio/video so recordings can't be geolocated from flyovers. Includes a reference attack scorer to measure it.
 

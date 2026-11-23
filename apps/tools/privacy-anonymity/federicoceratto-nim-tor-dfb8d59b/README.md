@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/FedericoCeratto/nim-tor>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 24
-- **License:** MPL-2.0
+- **Reviewed:** 2026-11-23
 
 Nim Tor helper library
 

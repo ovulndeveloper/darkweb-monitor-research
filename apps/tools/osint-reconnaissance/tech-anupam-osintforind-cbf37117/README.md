@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/tech-anupam/OSINTFORIND>
 - **Sources:** `github-search:topic:osint-framework`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 A premium, high-performance, and mobile-first open-source intelligence (OSINT) helper console tailored for investigative analysis, domain mapping, profile correlation, and advanced dork compiling
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/hyundotio/magicpad>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 183
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 MagicPad is an encryption suite for beginners. It is designed to be run standalone via the browser or executable (Electron).
 

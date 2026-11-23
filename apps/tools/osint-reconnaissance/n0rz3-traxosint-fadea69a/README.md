@@ -4,10 +4,8 @@
 - **Type:** [tool](../../../by-type/tool/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/N0rz3/TraxOsint>
-- **Sources:** `github-search:topic:osint`, `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 262
-- **License:** GPL-3.0
+- **Sources:** `github-search:topic:osint`, `github-search:topic:osint-tools`, `github-search:topic:recon`
+- **Reviewed:** 2026-11-23
 
 Osint tool for track ip adress
 

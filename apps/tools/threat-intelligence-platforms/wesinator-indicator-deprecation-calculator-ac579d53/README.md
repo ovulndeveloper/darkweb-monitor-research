@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/wesinator/indicator-deprecation-calculator>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Web app to calculate "indicators of compromise" confidence deprecation timelines (used with threat intel platforms such as ThreatConnect).
 

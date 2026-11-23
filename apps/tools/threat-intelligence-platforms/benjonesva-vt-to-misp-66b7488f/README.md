@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/BenJonesVA/vt-to-misp>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 VirusTotal API proxy that caches results in Redis and writes threat intel to MISP, preserving VT API paths for drop-in client compatibility
 

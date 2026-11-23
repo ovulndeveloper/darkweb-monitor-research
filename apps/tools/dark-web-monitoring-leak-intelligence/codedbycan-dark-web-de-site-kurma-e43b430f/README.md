@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/codedByCan/Dark_Web_de_Site_Kurma>
 - **Sources:** `github-search:topic:dark-web`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
+- **Reviewed:** 2026-11-23
 
 Dark web'de site açma
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/OSINTCabal/DeepSearch>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Terminal wrapper for the DeepSeek Search & Fetch API with ddgr-style paginated search, lazy API loading, SQLite database, and local fetch. Created by OSINTCabal.
 

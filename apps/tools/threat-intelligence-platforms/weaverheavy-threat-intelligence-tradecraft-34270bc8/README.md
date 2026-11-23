@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/WeaverHeavy/Threat-Intelligence-Tradecraft>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 28
+- **Reviewed:** 2026-11-23
 
 No description provided by the source.
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/MrLouisWright/ioc-sentinel>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 IOC extractor for threat intel and incident response: pulls URLs, domains, IPv4/IPv6, emails, MD5/SHA1/SHA256/SHA512, CVEs, ATT&CK IDs, crypto wallets and registry keys from text, logs and reports, refangs defanged IOCs, filters noise and exports JSON, CSV, STIX 2.1 and SARIF. Zero deps.
 

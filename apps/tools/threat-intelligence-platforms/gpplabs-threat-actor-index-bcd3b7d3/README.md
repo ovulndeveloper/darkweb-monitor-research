@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/gpplabs/threat-actor-index>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Threat actor names as they appear in public reporting, resolved to one group using MITRE ATT&CK® and MISP, plus the aliases reports state themselves. Every entry cites its sources. Not attribution.
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/1N3/BlackWidow>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1844
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 A Python based web application scanner to gather OSINT and fuzz for OWASP vulnerabilities on a target website.
 

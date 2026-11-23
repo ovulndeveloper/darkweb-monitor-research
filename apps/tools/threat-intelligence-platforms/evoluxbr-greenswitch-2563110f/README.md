@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/EvoluxBR/greenswitch>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 151
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Battle proven FreeSWITCH Event Socket Protocol client implementation with Gevent
 

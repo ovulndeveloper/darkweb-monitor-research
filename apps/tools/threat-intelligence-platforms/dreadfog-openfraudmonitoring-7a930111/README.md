@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/DreadFog/OpenFraudMonitoring>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 9
-- **License:** AGPL-3.0
+- **Reviewed:** 2026-11-23
 
 Open fraud monitoring: An open source platform that helps domain administrators monitor the behavior of users on their domain to identify malicious usages.
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/sylhetyhackvenger/RootEye>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 RootEye — View Element eXtractor by SYLHETYHACKVENGER (THE-ERROR808): A root-powered, terminal-only Android recon tool for Termux. Live foreground app tracking, UI element extraction, notifications, clipboard, network, and system telemetry — zero files, zero logs, zero traces.
 

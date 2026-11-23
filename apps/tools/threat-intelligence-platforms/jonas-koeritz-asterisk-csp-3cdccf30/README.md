@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/jonas-koeritz/asterisk-csp>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 A CSTA III XML service provider for Asterisk using the Asterisk Manager Interface
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/qeeqbox/woodpecker>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 59
+- **Reviewed:** 2026-11-23
 
 Custom security distro for remote penetration testing
 

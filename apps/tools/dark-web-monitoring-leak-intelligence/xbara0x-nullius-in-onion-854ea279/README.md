@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/xbara0x/nullius-in-onion>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:dark-web`, `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Honest liveness for .onion (and clearnet) addresses you don't own.
 

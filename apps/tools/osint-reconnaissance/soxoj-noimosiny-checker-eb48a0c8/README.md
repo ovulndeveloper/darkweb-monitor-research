@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/soxoj/noimosiny-checker>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 16
+- **Reviewed:** 2026-11-23
 
 Reverse account search by phone number, email address, username
 

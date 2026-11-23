@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Mr-Destroyer/ZimZilla>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 280
+- **Reviewed:** 2026-11-23
 
 THE MOST POWERFUL OFFENSIVE AI AGENT FOR PENTESTING , OSINT , AND ETHICAL HACKING
 

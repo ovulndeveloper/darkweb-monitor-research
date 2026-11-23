@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ckjbug/Hacking>
 - **Sources:** `github-search:topic:darkweb`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2199
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 🌐Collate and develop network security, Hackers technical documentation and tools, code.
 

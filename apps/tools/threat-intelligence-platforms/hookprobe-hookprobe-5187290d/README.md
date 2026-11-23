@@ -4,10 +4,8 @@
 - **Type:** [tool](../../../by-type/tool/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/hookprobe/hookprobe>
-- **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 54
-- **License:** NOASSERTION
+- **Sources:** `github-search:topic:siem`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 🛡️ Free AI that blocks hackers while you sleep. Runs on cheap hardware. When someone in Tokyo gets attacked, you're protected in 30 seconds. No fees. No experts needed. Just protection. One node's detection → everyone's protection.
 

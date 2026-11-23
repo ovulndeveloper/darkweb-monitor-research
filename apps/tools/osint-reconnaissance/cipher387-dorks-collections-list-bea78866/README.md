@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/cipher387/Dorks-collections-list>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2798
+- **Reviewed:** 2026-11-23
 
 List of Github repositories and articles with list of dorks for different search engines
 

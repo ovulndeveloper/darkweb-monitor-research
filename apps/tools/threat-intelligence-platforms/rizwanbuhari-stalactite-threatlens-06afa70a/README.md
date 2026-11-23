@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/RizwanBuhari/Stalactite-ThreatLens>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 ThreatLens (Team Stalactite, IBM Z Datathon 2026): private AI that maps cyber threat reports to MITRE ATT&CK, running entirely on IBM LinuxONE
 

@@ -4,10 +4,8 @@
 - **Type:** [framework](../../../by-type/framework/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/Lucksi/Mr.Holmes>
-- **Sources:** `github-search:topic:osint`, `github-search:topic:osint-framework`, `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4440
-- **License:** GPL-3.0
+- **Sources:** `awesome:edwardtay/awesome-OSINT`, `github-search:topic:osint`, `github-search:topic:osint-framework`, `github-search:topic:osint-tools`
+- **Reviewed:** 2026-11-23
 
 A Complete Osint Tool :mag
 

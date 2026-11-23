@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/bhikandeshmukh/instainsane>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 34
-- **License:** BSD-3-Clause
+- **Reviewed:** 2026-11-23
 
 Instainsane is an Shell Script to perform multi-threaded brute force attack against Instagram
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/dzidulajubilee/OmenWatch>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
+- **Reviewed:** 2026-11-23
 
 Self-hosted threat-intel aggregator: scores feeds, extracts CVEs and IOCs, flags CISA KEV, and serves an IOC lookup API to SIEMs
 

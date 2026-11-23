@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ajmelian/Buscador-de-Vulnerabilidades>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Este script permite buscar información sobre productos informáticos y obtener sus vulnerabilidades conocidas. Utiliza múltiples fuentes y técnicas de scraping para recopilar y presentar la información de manera detallada.
 

@@ -4,10 +4,8 @@
 - **Type:** [research-project](../../../by-type/research-project/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/BRANDEFENSE/Threat-Intelligence-Researches>
-- **Sources:** `github-search:topic:cti`, `github-search:topic:cyber-threat-intelligence`, `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 23
-- **License:** CC-BY-4.0
+- **Sources:** `github-search:topic:cti`, `github-search:topic:cyber-threat-intelligence`, `github-search:topic:incident-response`, `github-search:topic:phishing`, `github-search:topic:ransomware`, `github-search:topic:threat-hunting`
+- **Reviewed:** 2026-11-23
 
 Threat intelligence research reports (PDF) on APT groups, ransomware, malware and phishing from the Brandefense research team.
 

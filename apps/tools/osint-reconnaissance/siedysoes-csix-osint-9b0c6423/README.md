@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/siedysoes/csix-osint>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Free bilingual (EN/ID) OSINT learning base - methodology, ethics, Google dorking, social media, geolocation, metadata, tools, labs, and report writing. MIT licensed.
 

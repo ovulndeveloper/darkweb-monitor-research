@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Speek-App/Speek>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 766
+- **Reviewed:** 2026-11-23
 
 Privacy focused messenger that doesn't trust anyone with your identity, your contact list, or your communications
 

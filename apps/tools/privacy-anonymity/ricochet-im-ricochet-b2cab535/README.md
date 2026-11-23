@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ricochet-im/ricochet>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3920
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Anonymous peer-to-peer instant messaging
 

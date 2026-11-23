@@ -4,10 +4,8 @@
 - **Type:** [api-service](../../../by-type/api-service/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/soxoj/maigret>
-- **Sources:** `github-search:topic:osint`, `github-search:topic:osint-framework`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 41191
-- **License:** MIT
+- **Sources:** `awesome:TinuolaRotimi/Awesome-OSINT`, `awesome:edwardtay/awesome-OSINT`, `awesome:jivoi/awesome-osint`, `awesome:rawfilejson/awesome-osint-arsenal`, `github-search:topic:osint`, `github-search:topic:osint-framework`
+- **Reviewed:** 2026-11-23
 
 🕵️‍♂️ Collect a dossier on a person by username from 6K websites
 

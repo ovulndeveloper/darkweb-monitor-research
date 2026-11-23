@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/grezzled/AutoTor>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 11
+- **Reviewed:** 2026-11-23
 
 AutoTor - Install Tor Client on you mac with one click and set duration to change your ip address periodically
 

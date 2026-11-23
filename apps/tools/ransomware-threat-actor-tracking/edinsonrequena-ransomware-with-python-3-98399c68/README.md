@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/EdinsonRequena/ransomware-with-python-3>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 8
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 A complete ransomware made entirely with python 3
 

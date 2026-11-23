@@ -5,8 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/bencevans/nightlink>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 12
+- **Reviewed:** 2026-11-23
 
 🌃 Start and control a Tor instance.
 

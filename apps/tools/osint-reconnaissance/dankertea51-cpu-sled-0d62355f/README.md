@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/dankertea51-cpu/Sled>
 - **Sources:** `github-search:topic:osint-framework`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 След — OSINT-фреймворк для анализа цифровых следов. Поиск по email, username (80+ платформ), телефону, криптокошелькам. Без API-ключей. CLI + API + Markdown/HTML/PDF отчёты. Риск-скоринг, граф связей, детектор мошеннических паттернов.
 

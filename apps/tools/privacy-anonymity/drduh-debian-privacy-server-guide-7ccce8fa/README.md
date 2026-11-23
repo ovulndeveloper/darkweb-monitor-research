@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/drduh/Debian-Privacy-Server-Guide>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 448
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Guide to using a remote Debian server for security and privacy services
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/foxhole-team/foxhole-guard>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 130
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Privacy-focused Android networking app with VPN, Tor, I2P, firewall, DNS filtering, traffic routing, and FoxHole Sentinel.
 

@@ -5,8 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/Ph055a/OSINT_Collection>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2446
+- **Reviewed:** 2026-11-23
 
 Maintained collection of OSINT related resources. (All Free & Actionable)
 

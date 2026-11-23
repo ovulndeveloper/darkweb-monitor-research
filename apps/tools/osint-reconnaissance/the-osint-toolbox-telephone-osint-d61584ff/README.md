@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/The-Osint-Toolbox/Telephone-OSINT>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 712
+- **Reviewed:** 2026-11-23
 
 Phone lookup tools
 

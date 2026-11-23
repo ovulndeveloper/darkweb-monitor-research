@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/lidless-labs/misp-mcp>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 MISP threat intel lives in tabs you never finish reading. misp-mcp turns events, attributes, and IOC lookups into answers your AI client pulls on demand.
 

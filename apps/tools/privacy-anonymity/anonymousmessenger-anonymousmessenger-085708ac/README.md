@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/AnonymousMessenger/AnonymousMessenger>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 86
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 This is an unofficial repository, for the official repository visit: https://git.anonymousmessenger.ly/dx/AnonymousMessenger
 

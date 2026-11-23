@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/justakazh/LazyWare>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 55
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 A simple Ransomware Generator
 

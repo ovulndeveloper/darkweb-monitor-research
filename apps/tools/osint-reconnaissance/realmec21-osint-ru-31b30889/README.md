@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Realmec21/osint-ru>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Русскоязычный каталог OSINT-инструментов по категориям: пробив, соцсети, утечки, госреестры, гео, форензика
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/n0kovo/n0kovo_subdomains>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 852
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 An extremely effective subdomain enumeration wordlist of 3,000,000 lines, crafted by harvesting SSL certs from the entire IPv4 space.
 

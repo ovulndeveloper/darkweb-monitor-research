@@ -1,12 +1,11 @@
 # apurvsinghgautam/dark-web-osint-tools
 
 - **Category:** [OSINT & Reconnaissance](../../../by-category/osint-reconnaissance/README.md)
-- **Type:** [api-service](../../../by-type/api-service/README.md)
+- **Type:** [awesome-list](../../../by-type/awesome-list/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/apurvsinghgautam/dark-web-osint-tools>
-- **Sources:** `github-search:topic:darkweb`, `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2694
+- **Sources:** `awesome:rawfilejson/awesome-osint-arsenal`, `github-search:topic:darkweb`, `github-search:topic:osint-tools`
+- **Reviewed:** 2026-11-23
 
 OSINT Tools for the Dark Web
 

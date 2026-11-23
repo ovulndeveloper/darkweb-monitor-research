@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ger1e/para11ax>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
+- **Reviewed:** 2026-11-23
 
 Read-only CTI evidence gateway with fixed-source enrichment, provenance-preserving correlation, STIX 2.1 export, and fail-closed egress.
 

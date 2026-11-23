@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/strauss02/scraper-backend>
 - **Sources:** `github-search:topic:darkweb`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
+- **Reviewed:** 2026-11-23
 
 darkweb scraping service API
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ajvb/awesome-tor>
 - **Sources:** `github-search:topic:onion`, `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 522
+- **Reviewed:** 2026-11-23
 
 A list of awesome Tor related projects, articles, papers, etc
 

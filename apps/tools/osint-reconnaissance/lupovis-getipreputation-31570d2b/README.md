@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Lupovis/GetIPReputation>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
+- **Reviewed:** 2026-11-23
 
 Use the Prowl API to obtain IP Reputation, Techniques Tactics and Procedures, Indicators of Attacks and Indicators of Compromise related to a public IP.
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/norpol/opensshd-tor-easy-setup>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 WIP: Quick and easy way to setup a tor .onion ssh service
 

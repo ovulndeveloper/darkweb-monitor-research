@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/osintbrazuca/SimpleReconDorking>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 14
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 Ferramenta de dorking em múltiplos motores de busca para coleta de URLs em operações de OSINT e reconhecimento.
 

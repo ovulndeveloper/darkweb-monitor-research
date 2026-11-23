@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/nyxnor/onionjuggler>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 39
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Manage your Onion Services via CLI or TUI on Unix-like operating system with a POSIX compliant shell.
 

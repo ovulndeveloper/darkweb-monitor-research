@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Hildaboo/BabukRansomware>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 19
+- **Reviewed:** 2026-11-23
 
 Reversed source code of the Babuk Ransomware Version 1
 

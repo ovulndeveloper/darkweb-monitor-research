@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/wolfsecur1ty/InvMap>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 InvMap é uma ferramenta de mapa mental de código aberto, gratuita e totalmente executada no navegador (client-side), desenvolvida como parte do Projeto Sniff.
 

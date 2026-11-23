@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/anavargas071822/mcp-server-bazaar>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 🚀 Top MCP Server Integrations for AI Tools in 2026 – Curated Community Hacks
 

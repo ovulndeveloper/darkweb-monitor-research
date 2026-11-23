@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/astros3x/Astri>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 130
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Astri is a multitool written in python, it contains tools with different applications and is an excellent resource to find reliable sites of different types.
 

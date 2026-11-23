@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/lukechilds/onionite>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 87
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Explore the Tor network
 

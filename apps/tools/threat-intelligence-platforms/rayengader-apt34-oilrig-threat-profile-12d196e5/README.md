@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/RayenGader/apt34-oilrig-threat-profile>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
+- **Reviewed:** 2026-11-23
 
 Threat profile of APT34 / OilRig (G0049): TTPs across the kill chain, malware families, DNS-tunnelling C2 detection and D3FEND countermeasures
 

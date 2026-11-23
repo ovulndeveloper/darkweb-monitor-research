@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/rizl123/onionmint>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Fast Rust generator for custom Tor v3 .onion vanity addresses. Creates Tor-compatible hs_ed25519 key files.
 

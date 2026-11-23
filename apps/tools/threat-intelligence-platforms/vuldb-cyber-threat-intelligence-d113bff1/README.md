@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/vuldb/cyber_threat_intelligence>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:cyber-threat-intelligence`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 122
+- **Reviewed:** 2026-11-23
 
 Cyber Threat Intelligence Data, Indicators, and Analysis
 

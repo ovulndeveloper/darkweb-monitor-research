@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/cretz/bine>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 826
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Go library for accessing and embedding Tor clients and servers
 

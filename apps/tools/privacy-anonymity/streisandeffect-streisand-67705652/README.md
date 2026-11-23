@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/StreisandEffect/streisand>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 23430
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
 

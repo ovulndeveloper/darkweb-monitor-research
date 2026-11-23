@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/UsamaMatrix/ai-threat-intel>
 - **Sources:** `github-search:topic:dark-web`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
+- **Reviewed:** 2026-11-23
 
 ⚠️ Description only - code is confidential. AI-powered threat intelligence aggregator for OSINT and dark web data, with ML-based IOC classification.
 

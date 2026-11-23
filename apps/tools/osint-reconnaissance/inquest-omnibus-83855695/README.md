@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/InQuest/omnibus>
 - **Sources:** `github-search:topic:osint`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 359
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 The OSINT Omnibus (beta release)
 

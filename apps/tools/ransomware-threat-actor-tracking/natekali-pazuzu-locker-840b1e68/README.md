@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/natekali/Pazuzu-Locker>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4
+- **Reviewed:** 2026-11-23
 
 𝔫𝔢𝔵𝔱-𝔤𝔢𝔫 𝔠𝔯𝔶𝔭𝔱𝔬 𝔩𝔬𝔠𝔨𝔢𝔯 - 𝔫𝔬𝔱 𝔣𝔬𝔯 𝔦𝔩𝔩𝔢𝔤𝔞𝔩 𝔭𝔲𝔯𝔭𝔬𝔰𝔢
 

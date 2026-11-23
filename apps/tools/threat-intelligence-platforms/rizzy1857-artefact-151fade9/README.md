@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Rizzy1857/ArteFact>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** MPL-2.0
+- **Reviewed:** 2026-11-23
 
 an open-source digital forensics toolkit
 

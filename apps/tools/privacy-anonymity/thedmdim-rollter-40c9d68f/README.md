@@ -5,8 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/thedmdim/rollter>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 91
+- **Reviewed:** 2026-11-23
 
 IPsec VPN server with i2p, onion and yggdrasil routing
 

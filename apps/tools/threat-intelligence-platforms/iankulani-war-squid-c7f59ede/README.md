@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Iankulani/war_squid>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4
+- **Reviewed:** 2026-11-23
 
 War Squid is a cybersecurity-focused project developed as part of the Accurate Cyber Defense ecosystem. It is designed as a modular security tool for authorized cybersecurity research, security testing, cyber-defense training, and controlled laboratory environments.
 

@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/anpa1200/customer-driven-ai-cti-project-template>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 Docusaurus documentation site for a customer-driven AI-assisted CTI project template.
 

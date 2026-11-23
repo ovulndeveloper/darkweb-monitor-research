@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/3ratic/Whippet>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4
+- **Reviewed:** 2026-11-23
 
 Windows Wiperware created in python
 

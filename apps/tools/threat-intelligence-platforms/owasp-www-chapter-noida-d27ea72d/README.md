@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/OWASP/www-chapter-noida>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
+- **Reviewed:** 2026-11-23
 
 OWASP Foundation Web Respository
 

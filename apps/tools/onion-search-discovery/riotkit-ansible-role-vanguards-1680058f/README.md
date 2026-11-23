@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/RiotKit/ansible-role-vanguards>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 Vanguards help guard you from getting vanned...
 

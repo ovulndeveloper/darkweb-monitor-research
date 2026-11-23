@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/eddiechu/Encrypt-Delete-Test>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 47
+- **Reviewed:** 2026-11-23
 
 Really can protect from ransomware encryption?
 

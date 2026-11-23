@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/jflyup/goMS17-010>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 73
+- **Reviewed:** 2026-11-23
 
 Simple program for detecting if host(s) are vulnerable to SMB exploit(MS17-010)
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/nirizr/vss-ransom-restore>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 5
+- **Reviewed:** 2026-11-23
 
 A VSS-based restoration tool created specifically for restoring files encrypted by ransomware from Windows' Virtual Shadow Service
 

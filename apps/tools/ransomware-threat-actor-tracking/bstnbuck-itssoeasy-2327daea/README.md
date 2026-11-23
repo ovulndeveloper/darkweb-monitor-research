@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/bstnbuck/ItsSoEasy>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 18
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 A Linux/Windows Ransomware PoC written in Python, Go and C
 

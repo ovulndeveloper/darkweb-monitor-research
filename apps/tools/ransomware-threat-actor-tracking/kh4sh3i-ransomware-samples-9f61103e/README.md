@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/kh4sh3i/Ransomware-Samples>
 - **Sources:** `github-search:topic:malware-analysis`, `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 301
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Small collection of Ransomware organized by family.
 

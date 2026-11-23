@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/alecmuffett/real-world-onion-sites>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2266
+- **Reviewed:** 2026-11-23
 
 This is a list of substantial, commercial-or-social-good mainstream websites which provide onion services.
 

@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/michelledelgadob/Visualizaci-n-de-datos>
 - **Sources:** `github-search:topic:dark-web`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 Visualización de datos de los precios dentro de la dark web
 

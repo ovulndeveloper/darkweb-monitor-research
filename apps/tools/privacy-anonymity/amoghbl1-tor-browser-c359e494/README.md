@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/amoghbl1/tor-browser>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 54
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Orfox - A Tor Browser for Android
 

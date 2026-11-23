@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/smolcars/react-native-nitro-tor>
 - **Sources:** `github-search:topic:onion`, `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 25
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 A Tor Daemon and Onion Routing Client for React Native using pure C++ TurboModules (Craby).
 

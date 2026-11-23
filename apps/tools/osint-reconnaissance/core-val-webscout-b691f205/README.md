@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/core-val/webscout>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 An ultra-fast OSINT username scanner written in Go. Hunts for digital footprints across 50+ platforms.
 

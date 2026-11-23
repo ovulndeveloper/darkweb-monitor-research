@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/x1n-Q/OSINT-Hub>
 - **Sources:** `github-search:topic:osint-framework`, `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 All-in-One OSINT Framework with modern GUI and powerful CLI. Username search across 300+ sites, email/domain/IP intel, social media recon, and more.
 

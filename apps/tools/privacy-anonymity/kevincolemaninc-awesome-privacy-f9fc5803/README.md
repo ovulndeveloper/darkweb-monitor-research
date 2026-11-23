@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/KevinColemanInc/awesome-privacy>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1041
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 💡Limiting personal data leaks on the internet
 

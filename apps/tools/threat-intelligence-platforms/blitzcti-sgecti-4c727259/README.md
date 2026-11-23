@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/blitzcti/sgecti>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 5
+- **Reviewed:** 2026-11-23
 
 Sistema de Gerenciamento de Estágio - Blitz - CTI
 

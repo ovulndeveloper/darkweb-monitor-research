@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/jasonsford/intel_collector>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 31
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Python library to query various sources of threat intelligence for data on domains, file hashes, and IP addresses.
 

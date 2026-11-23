@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/mixaoc/Osint-Sync>
 - **Sources:** `github-search:topic:osint-framework`, `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 63
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Extension Osint Sync
 

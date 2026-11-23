@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/HeightCoder/Chaos-Ransomware-Builder>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 18
+- **Reviewed:** 2026-11-23
 
 Source code of the Chaos Ransomware, also known as Ryuk and Yashma.
 

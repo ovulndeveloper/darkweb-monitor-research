@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/MISP/best-practices-in-threat-intelligence>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 49
+- **Reviewed:** 2026-11-23
 
 Best practices in threat intelligence
 

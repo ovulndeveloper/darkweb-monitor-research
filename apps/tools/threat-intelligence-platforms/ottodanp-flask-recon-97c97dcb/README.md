@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ottodanp/flask-recon>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 a recon webapp built with python's Flask designed to gather data about currently used large-scale web attacks and optionally attempt to stall bots.
 

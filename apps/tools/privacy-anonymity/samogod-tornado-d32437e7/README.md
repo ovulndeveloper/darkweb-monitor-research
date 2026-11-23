@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/samogod/tornado>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 544
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Anonymously Reverse Shell over Tor Network using Hidden services without Portforwarding.
 

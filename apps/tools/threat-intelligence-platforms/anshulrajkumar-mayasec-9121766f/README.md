@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Anshulrajkumar/MayaSec>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
+- **Reviewed:** 2026-11-23
 
 MayaSec is a lightweight, zero-config JavaScript SDK that adds an invisible security layer to any website. It silently monitors user behavior, fingerprints devices, detects bots, and blocks attacks like SQL Injection - all from the browser, without touching your backend code.
 

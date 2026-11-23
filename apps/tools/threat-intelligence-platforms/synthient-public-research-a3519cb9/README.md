@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/synthient/public-research>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 132
+- **Reviewed:** 2026-11-23
 
 Open source research and talks on threat intelligence, fingerprinting, and fraud detection.
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/i-hmzakhan/Aegis-AI>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 An AI-powered PE malware classification app with smart database system.
 

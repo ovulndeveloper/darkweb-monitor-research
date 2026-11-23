@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/p2pool-starter-stack/pithead>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 38
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Private Monero + Tari merge mining — the whole stack in one command: full node, P2Pool, XvB optimizer, and a live dashboard, all behind Tor.
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/djkurlander/knock-knock>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 216
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Knock-Knock: A Live, Multi-Protocol Honeypot Dashboard of Internet Break-in Attempts - 13 Protocols, an Extensible Framework, and a Threat-Intelligence Database Serving a Public IP Blocklist Feed
 

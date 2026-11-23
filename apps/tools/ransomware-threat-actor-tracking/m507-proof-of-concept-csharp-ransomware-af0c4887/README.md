@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/M507/Proof-of-Concept-CSharp-Ransomware>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4
+- **Reviewed:** 2026-11-23
 
 Low-hanging fruit deployed in IRSeC 2021
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/termuxhackers-id/sara>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 608
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Simple Android Ransomware Attack
 

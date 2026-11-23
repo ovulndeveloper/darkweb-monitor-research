@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/alireza-rezaee/tor-nodes>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 37
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Up-to-date list of running Tor nodes
 

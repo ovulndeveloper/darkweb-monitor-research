@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/scidsg/hushline>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 139
-- **License:** AGPL-3.0
+- **Reviewed:** 2026-11-23
 
 Anonymous, end-to-end encrypted tip lines and chat for organizations and individuals.
 

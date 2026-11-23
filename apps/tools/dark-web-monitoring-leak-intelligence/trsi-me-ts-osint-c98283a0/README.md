@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/trsi-me/TS-OSINT>
 - **Sources:** `github-search:topic:dark-web`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 67
+- **Reviewed:** 2026-11-23
 
 أداة (استخبارات المصادر المفتوحة-OSINT (Open-Source Intelligence
 

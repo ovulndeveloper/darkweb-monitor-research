@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/tegridydev/python-OSINT-notebook>
 - **Sources:** `github-search:topic:digital-forensics`, `github-search:topic:osint-tools`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 141
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 a rough written "guide" compiled from years of ADHD brain notes - enjoy
 

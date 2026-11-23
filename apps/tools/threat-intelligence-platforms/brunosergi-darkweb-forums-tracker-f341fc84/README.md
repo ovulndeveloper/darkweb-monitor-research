@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/brunosergi/darkweb-forums-tracker>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 63
+- **Reviewed:** 2026-11-23
 
 This is a darkweb forums tracker that monitors forum posts and sends alerts to Discord
 

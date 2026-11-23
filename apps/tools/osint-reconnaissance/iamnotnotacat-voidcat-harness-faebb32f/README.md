@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/iamnotnotacat/VoidCat-Harness>
 - **Sources:** `github-search:topic:osint-framework`, `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 VoidCat Harness is a modular AI orchestration and OSINT framework for autonomous research, entity resolution, lead discovery, and evidence-based investigations. Its Hunter-Seeker system coordinates specialized agents, correlates intelligence across public sources, tracks provenance, and produces confidence-scored findings.
 

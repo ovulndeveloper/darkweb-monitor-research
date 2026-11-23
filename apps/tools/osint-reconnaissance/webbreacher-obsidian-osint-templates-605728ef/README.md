@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/WebBreacher/obsidian-osint-templates>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 818
+- **Reviewed:** 2026-11-23
 
 These templates are suggestions of how the Obsidian notetaking tool can be used during an OSINT investigation. The example data in those files should allow you to make some connections (see what I did there?) between how you record your data during an investigation and some of what the tool can offer FOR FREE!
 

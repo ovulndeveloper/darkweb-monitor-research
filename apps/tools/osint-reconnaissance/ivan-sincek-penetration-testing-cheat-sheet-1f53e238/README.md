@@ -4,10 +4,8 @@
 - **Type:** [tool](../../../by-type/tool/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/ivan-sincek/penetration-testing-cheat-sheet>
-- **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 853
-- **License:** MIT
+- **Sources:** `github-search:topic:bug-bounty`, `github-search:topic:osint`
+- **Reviewed:** 2026-11-23
 
 Work in progress...
 

@@ -4,10 +4,8 @@
 - **Type:** [cli-tool](../../../by-type/cli-tool/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/reconurge/recontrack>
-- **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 16
-- **License:** MIT
+- **Sources:** `github-search:topic:cti`, `github-search:topic:recon`
+- **Reviewed:** 2026-11-23
 
 A CLI tool that sniffs out tracking codes from websites by analyzing their HTML and embedded scripts.
 

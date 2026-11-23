@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/pirate/mesh-networking>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 358
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 globe_with_meridians: LEGO blocks for networking, a Python library to help create and test flexible network topologies across real and simulated physical links.
 

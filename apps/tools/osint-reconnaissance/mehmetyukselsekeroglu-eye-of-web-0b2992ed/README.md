@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/MehmetYukselSekeroglu/eye_of_web>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 344
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 State of the art OSINT tool. | A powerful open-source alternative to other face search engines.
 

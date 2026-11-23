@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/suadatbiniqbal/VeilScrape>
 - **Sources:** `github-search:topic:darkweb`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 A Python GUI tool to scrape text, links, images and files from Tor .onion sites. Runs over SOCKS5 Tor proxy. Educational use only.
 

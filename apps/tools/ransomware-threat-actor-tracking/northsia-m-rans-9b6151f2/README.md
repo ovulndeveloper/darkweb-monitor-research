@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/northsia/M-Rans>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
-- **License:** Unlicense
+- **Reviewed:** 2026-11-23
 
 M-Rans | Ransomware From M-Packs malware Packages, "For security purposes"
 

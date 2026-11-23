@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/a0zhar/babukv3>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 10
+- **Reviewed:** 2026-11-23
 
 A custom version of the previously leaked source code of the Babuk ransomware which will be maintained by me. The purpose of this repo is to create a more easy to understand/maintain version of the original source code
 

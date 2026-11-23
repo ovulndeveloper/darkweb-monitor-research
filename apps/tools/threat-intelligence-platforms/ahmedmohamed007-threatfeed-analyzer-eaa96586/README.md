@@ -4,9 +4,8 @@
 - **Type:** [dataset](../../../by-type/dataset/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/ahmedmohamed007/ThreatFeed-Analyzer>
-- **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 31
+- **Sources:** `github-search:topic:threat-hunting`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 A PowerShell-based Cyber Threat Intelligence aggregator that collects, filters, and analyzes security news from 50+ sources including thehackernews, Kaspersky, Mandiant, CISA & more, with MITRE ATT&CK mapping and one-click AI analysis.
 

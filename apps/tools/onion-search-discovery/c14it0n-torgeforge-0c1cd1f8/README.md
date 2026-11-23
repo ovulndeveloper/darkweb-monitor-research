@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/c14it0n/torgeforge>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 🔥 Generador de alto rendimiento de direcciones .onion v3 personalizadas para Tor con interfaz interactiva
 

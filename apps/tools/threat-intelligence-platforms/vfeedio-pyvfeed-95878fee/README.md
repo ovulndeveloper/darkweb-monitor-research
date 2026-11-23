@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/vfeedio/pyvfeed>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 109
+- **Reviewed:** 2026-11-23
 
 Python API for vFeed Vulnerability & Threat Intelligence Database Enterprise & Pro Editions
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/vsec7/BurpSuite-Xkeys>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 312
+- **Reviewed:** 2026-11-23
 
 A Burp Suite Extension to extract interesting strings (key, secret, token, or etc.) from a webpage.
 

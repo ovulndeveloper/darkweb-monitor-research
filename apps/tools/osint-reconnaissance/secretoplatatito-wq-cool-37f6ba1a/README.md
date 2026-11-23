@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/secretoplatatito-wq/Cool>
 - **Sources:** `github-search:topic:osint-framework`, `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 GEsint
 

@@ -4,10 +4,8 @@
 - **Type:** [library](../../../by-type/library/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/utkusen/baitroute>
-- **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 438
-- **License:** GPL-3.0
+- **Sources:** `github-search:topic:threat-hunting`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 A web honeypot library to create vulnerable-looking endpoints to detect and mislead attackers
 

@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/x-KUNAL-x/CYBERSECURITY-TASK-3>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
+- **Reviewed:** 2026-11-23
 
 This project focuses on performing a basic vulnerability assessment of a local system using a vulnerability scanning tool. The scan helps identify common security weaknesses, outdated software, exposed services, and potential risks. It provides practical experience in vulnerability assessment, security analysis, and system hardening.
 

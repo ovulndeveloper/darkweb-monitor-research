@@ -1,0 +1,12 @@
+# InitRoot/fransRecon
+
+- **Category:** [OSINT & Reconnaissance](../../../by-category/osint-reconnaissance/README.md)
+- **Type:** [tool](../../../by-type/tool/README.md)
+- **Status:** `indexed`
+- **URL:** <https://github.com/InitRoot/fransRecon>
+- **Sources:** `github-search:topic:recon`
+- **Reviewed:** 2026-11-23
+
+Script will enumerate domain name using horizontal enumeration, reverse lookup. Each horziontal domain will then be vertically enumerated using Sublist3r.
+
+[← Category index](../../../by-category/osint-reconnaissance/README.md) · [← Master index](../../../README.md)

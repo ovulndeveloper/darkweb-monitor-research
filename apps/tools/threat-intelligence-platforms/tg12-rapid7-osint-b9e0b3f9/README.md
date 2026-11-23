@@ -5,8 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/tg12/rapid7_OSINT>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 139
+- **Reviewed:** 2026-11-23
 
 All the tools you need to make your own mind up from the Open Data Sets
 

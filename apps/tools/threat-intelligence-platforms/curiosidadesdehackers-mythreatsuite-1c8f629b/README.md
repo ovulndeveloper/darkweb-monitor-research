@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/CuriosidadesDeHackers/MyThreatSuite>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 Portal hub que agrupa las aplicaciones CTI del equipo MyThreatIntel para analistas, hunters y equipos defensivos
 

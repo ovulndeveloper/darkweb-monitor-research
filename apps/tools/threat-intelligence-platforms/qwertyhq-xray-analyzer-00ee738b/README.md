@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/qwertyhq/xray-analyzer>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 31
+- **Reviewed:** 2026-11-23
 
 Real-time analytics для Xray-core access logs с интеграцией Remnawave panel. WebSocket-агенты на нодах → Postgres с partitioning → React-дашборд с threat intel, abuse detection и AI-чатом
 

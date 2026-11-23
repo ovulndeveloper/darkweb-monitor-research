@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/nicdercole/webserver-tor-lighttpd>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Creating a Docker Machine for an .Onion Site with Dockerfile, Security Keys, and Hostname File for Tor
 

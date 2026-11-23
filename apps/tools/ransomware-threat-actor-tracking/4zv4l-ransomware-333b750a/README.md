@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/4zv4l/ransomware>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 5
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Ransomware basique écrit en C, conçu dans le cadre d'un projet en sécurité à des fins éducatives uniquement.
 

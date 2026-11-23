@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ANTISEC12/torforwindows>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 21
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 TOR for Ms-Windows
 

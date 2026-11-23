@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/phishing-hunter/dark-fess>
 - **Sources:** `github-search:topic:darkweb`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 15
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 コンテナ内から安全にダークウェブをクローリングするための環境
 

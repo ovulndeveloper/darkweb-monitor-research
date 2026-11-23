@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/filippofinke/infectio>
 - **Sources:** `github-search:topic:forensics`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 52
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 🦠 A modern, offline static malware analysis tool built with WebAssembly
 

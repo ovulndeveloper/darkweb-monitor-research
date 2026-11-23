@@ -4,10 +4,8 @@
 - **Type:** [plugin](../../../by-type/plugin/README.md)
 - **Status:** `archived`
 - **URL:** <https://github.com/0x0FB0/pulsar>
-- **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 430
-- **License:** Apache-2.0
+- **Sources:** `github-search:topic:osint`, `github-search:topic:recon`
+- **Reviewed:** 2026-11-23
 
 Network footprint scanner platform. Discover domains and run your custom checks periodically.
 

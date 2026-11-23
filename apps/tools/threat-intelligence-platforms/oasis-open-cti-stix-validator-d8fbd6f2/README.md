@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/oasis-open/cti-stix-validator>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 65
-- **License:** BSD-3-Clause
+- **Reviewed:** 2026-11-23
 
 OASIS TC Open Repository: Validator for STIX 2.0 JSON normative requirements and best practices
 

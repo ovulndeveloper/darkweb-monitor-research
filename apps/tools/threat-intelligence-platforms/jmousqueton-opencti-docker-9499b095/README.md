@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/JMousqueton/OpenCTI-Docker>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 6
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 docker-compose configuration to install OpenCTI with connectors (check my blog post for more information)
 

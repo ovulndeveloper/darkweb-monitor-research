@@ -4,10 +4,8 @@
 - **Type:** [framework](../../../by-type/framework/README.md)
 - **Status:** `archived`
 - **URL:** <https://github.com/ecstatic-nobel/Analyst-Arsenal>
-- **Sources:** `github-search:topic:malware-analysis`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 128
-- **License:** GPL-3.0
+- **Sources:** `github-search:topic:malware-analysis`, `github-search:topic:threat-hunting`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 A toolkit for Security Researchers
 

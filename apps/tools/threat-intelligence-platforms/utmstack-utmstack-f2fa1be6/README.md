@@ -4,10 +4,8 @@
 - **Type:** [tool](../../../by-type/tool/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/utmstack/UTMStack>
-- **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 595
-- **License:** AGPL-3.0
+- **Sources:** `github-search:topic:incident-response`, `github-search:topic:security-tools`, `github-search:topic:siem`, `github-search:topic:threat-hunting`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 Enterprise-ready SIEM, SOAR and Compliance powered by real-time correlation and threat intelligence.
 

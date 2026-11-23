@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ncorbuk/Python-Ransomware>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 646
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Python Ransomware Tutorial - YouTube tutorial explaining code + showcasing the ransomware with victim/target roles
 

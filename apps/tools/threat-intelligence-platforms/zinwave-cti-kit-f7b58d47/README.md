@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/zinwave/cti-kit>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Reference implementations of Exotel Passthru and Ozonetel Screen Pop integrations, on a shared vendor-neutral core. Zero runtime dependencies, MIT.
 

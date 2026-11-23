@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/JustThinkingHard/ebpf-antiransomware-rust>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 eBPF/LSM anti-ransomware agent in Rust (aya), real-time entropy detection with synchronous LSM blocking
 

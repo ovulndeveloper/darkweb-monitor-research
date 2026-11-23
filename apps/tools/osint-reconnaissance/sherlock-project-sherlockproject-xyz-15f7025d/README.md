@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/sherlock-project/sherlockproject.xyz>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 578
+- **Reviewed:** 2026-11-23
 
 Sherlock Project's homepage
 

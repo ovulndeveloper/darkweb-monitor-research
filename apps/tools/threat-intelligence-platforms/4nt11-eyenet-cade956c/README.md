@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/4nt11/EYENET>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 3
+- **Reviewed:** 2026-11-23
 
 EYENET: the poor man's CTI platform
 

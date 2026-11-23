@@ -4,9 +4,8 @@
 - **Type:** [tool](../../../by-type/tool/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/AmnestyTech/investigations>
-- **Sources:** `github-search:topic:forensics`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1734
+- **Sources:** `github-search:topic:forensics`, `github-search:topic:threat-hunting`, `github-search:topic:threat-intelligence`
+- **Reviewed:** 2026-11-23
 
 Indicators of Compromise from Amnesty International's cyber investigations
 

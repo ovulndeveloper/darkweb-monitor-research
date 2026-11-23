@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/orchicyb/OrchiCyb-AI-Attack>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Live threat intelligence dashboard: active actors, top techniques, exploited vulnerabilities, and attack trends.
 

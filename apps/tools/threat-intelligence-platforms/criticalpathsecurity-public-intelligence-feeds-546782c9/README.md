@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/CriticalPathSecurity/Public-Intelligence-Feeds>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 135
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Standard-Format Threat Intelligence Feeds
 

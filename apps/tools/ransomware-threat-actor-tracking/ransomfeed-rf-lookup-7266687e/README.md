@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ransomfeed/RF-lookup>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 5
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Ransomfeed Advanced Domain Monitoring Tool, to detect law enforcement and seizures
 

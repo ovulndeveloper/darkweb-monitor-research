@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/roothaxor/Ransom>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 125
+- **Reviewed:** 2026-11-23
 
 Various codes related to Ransomware Developement
 

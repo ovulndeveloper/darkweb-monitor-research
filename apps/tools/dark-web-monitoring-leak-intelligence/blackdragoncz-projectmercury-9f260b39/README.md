@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/BlackDragonCZ/ProjectMercury>
 - **Sources:** `github-search:topic:darkweb`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Project Mercury
 

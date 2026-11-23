@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/wesinator/ergenekon>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
+- **Reviewed:** 2026-11-23
 
 Tracking and timelining historic and ongoing People's Republic of China :cn: malware targeting of Uyghur people
 

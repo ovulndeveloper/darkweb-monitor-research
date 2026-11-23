@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/wireadmin/wireadmin>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 325
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 🐉 WireGuard VPN Server with an web-based admin UI + TOR
 

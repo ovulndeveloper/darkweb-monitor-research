@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/du82/nonograph>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 336
-- **License:** Unlicense
+- **Reviewed:** 2026-11-23
 
 Nonograph is a minimalist anonymous publishing tool that allows you to create richly formatted posts and get a shareable link in just a click.
 

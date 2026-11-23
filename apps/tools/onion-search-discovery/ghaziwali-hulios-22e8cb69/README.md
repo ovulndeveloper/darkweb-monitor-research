@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ghaziwali/Hulios>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 77
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 A Rust-based transparent Tor proxy that routes all system traffic through the Tor network enhanced security, proper DNS isolation, and modern Linux compatibility.
 

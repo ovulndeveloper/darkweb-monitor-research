@@ -1,8 +1,8 @@
 # Dark Web Monitoring & Leak Intelligence
 
-214 entries. Generated from [`apps/data/catalog.json`](../data/catalog.json); do not edit by hand.
+227 dark-web / investigation URLs. Last reviewed 2026-11-23T09:00:17Z.
 
-[← All categories](../CATEGORIES.md) · [Master index](../README.md)
+[← All categories](../../CATEGORIES.md) · [← Master index](../../README.md)
 
 | Name | Type | Status | URL | Directory |
 |---|---|---|---|---|
@@ -18,10 +18,12 @@
 | 99Cryptonic/Tor-Browser-64x68bit | tool | indexed | <https://github.com/99Cryptonic/Tor-Browser-64x68bit> | [dir](../../tools/dark-web-monitoring-leak-intelligence/99cryptonic-tor-browser-64x68bit-01c3f497/README.md) |
 | abdulhamid529589/Learn-Ethical-Hacking | tool | indexed | <https://github.com/abdulhamid529589/Learn-Ethical-Hacking> | [dir](../../tools/dark-web-monitoring-leak-intelligence/abdulhamid529589-learn-ethical-hacking-e2942cde/README.md) |
 | adityaax/darkweb-directory | awesome-list | indexed | <https://github.com/adityaax/darkweb-directory> | [dir](../../tools/dark-web-monitoring-leak-intelligence/adityaax-darkweb-directory-f55ec346/README.md) |
+| Ahmia | tool | legacy | <https://ahmia.fi> | [dir](../../tools/dark-web-monitoring-leak-intelligence/ahmia-fi-9f9da81a/README.md) |
 | ail-project/ail-framework | api-service | indexed | <https://github.com/ail-project/ail-framework> | [dir](../../tools/dark-web-monitoring-leak-intelligence/ail-project-ail-framework-939adb3e/README.md) |
 | ail-project/onion-lookup | tool | indexed | <https://github.com/ail-project/onion-lookup> | [dir](../../tools/dark-web-monitoring-leak-intelligence/ail-project-onion-lookup-451240cc/README.md) |
 | akashblackhat/dark_web.py | framework | indexed | <https://github.com/akashblackhat/dark_web.py> | [dir](../../tools/dark-web-monitoring-leak-intelligence/akashblackhat-dark-web-py-e0227e8f/README.md) |
 | akashblackhat/DarkWeb | tool | indexed | <https://github.com/akashblackhat/DarkWeb> | [dir](../../tools/dark-web-monitoring-leak-intelligence/akashblackhat-darkweb-7cce9d11/README.md) |
+| Aleph Open Search | tool | indexed | <https://open-search.aleph-networks.eu> | [dir](../../tools/dark-web-monitoring-leak-intelligence/open-search-aleph-networks-eu-590489b7/README.md) |
 | AlgorithmCodexIT/MercAI-Darknet | plugin | indexed | <https://github.com/AlgorithmCodexIT/MercAI-Darknet> | [dir](../../tools/dark-web-monitoring-leak-intelligence/algorithmcodexit-mercai-darknet-eff66340/README.md) |
 | Ali-hey-0/Hacking-Tools | tool | indexed | <https://github.com/Ali-hey-0/Hacking-Tools> | [dir](../../tools/dark-web-monitoring-leak-intelligence/ali-hey-0-hacking-tools-0d3fc05f/README.md) |
 | Ali-hey-0/Ransomware.Jigsaw | tool | indexed | <https://github.com/Ali-hey-0/Ransomware.Jigsaw> | [dir](../../tools/dark-web-monitoring-leak-intelligence/ali-hey-0-ransomware-jigsaw-96ccb67a/README.md) |
@@ -65,12 +67,16 @@
 | cynkai/d4d-scce | dashboard | indexed | <https://github.com/cynkai/d4d-scce> | [dir](../../tools/dark-web-monitoring-leak-intelligence/cynkai-d4d-scce-8451fba8/README.md) |
 | cysec-lab/onion-soup | tool | indexed | <https://github.com/cysec-lab/onion-soup> | [dir](../../tools/dark-web-monitoring-leak-intelligence/cysec-lab-onion-soup-8274df55/README.md) |
 | dark-web-tutorials/hidden-wiki | dashboard | indexed | <https://github.com/dark-web-tutorials/hidden-wiki> | [dir](../../tools/dark-web-monitoring-leak-intelligence/dark-web-tutorials-hidden-wiki-47316cc8/README.md) |
+| dark.fail | directory | indexed | <https://dark.fail/> | [dir](../../tools/dark-web-monitoring-leak-intelligence/dark-fail-966626bc/README.md) |
 | DarkHater01/K4L1NUX-DarkWeb-Monitor | tool | indexed | <https://github.com/DarkHater01/K4L1NUX-DarkWeb-Monitor> | [dir](../../tools/dark-web-monitoring-leak-intelligence/darkhater01-k4l1nux-darkweb-monitor-59068954/README.md) |
+| DarkOwl | directory | indexed | <https://www.darkowl.com/> | [dir](../../tools/dark-web-monitoring-leak-intelligence/www-darkowl-com-43587682/README.md) |
+| darksearch.io | api-service | indexed | <https://darksearch.io/> | [dir](../../tools/dark-web-monitoring-leak-intelligence/darksearch-io-d0ca6ad9/README.md) |
 | darkseid-security/darkweb | web-platform | indexed | <https://github.com/darkseid-security/darkweb> | [dir](../../tools/dark-web-monitoring-leak-intelligence/darkseid-security-darkweb-0c701a2b/README.md) |
 | Darkwatch | tool | legacy | <https://github.com/Daemon-VI/darkwatch> | [dir](../../tools/dark-web-monitoring-leak-intelligence/daemon-vi-darkwatch-dc6a249e/README.md) |
 | darkwebjp/darkweb-ready | plugin | indexed | <https://github.com/darkwebjp/darkweb-ready> | [dir](../../tools/dark-web-monitoring-leak-intelligence/darkwebjp-darkweb-ready-4f44fe0f/README.md) |
 | davide-perez/datavisexp-agora | tool | indexed | <https://github.com/davide-perez/datavisexp-agora> | [dir](../../tools/dark-web-monitoring-leak-intelligence/davide-perez-datavisexp-agora-3c4de2ff/README.md) |
 | Debajyoti0-0/HiddenLinks-Explorer | cli-tool | indexed | <https://github.com/Debajyoti0-0/HiddenLinks-Explorer> | [dir](../../tools/dark-web-monitoring-leak-intelligence/debajyoti0-0-hiddenlinks-explorer-0f41353b/README.md) |
+| DedSecInside/TorBot | tool | indexed | <https://github.com/DedSecInside/TorBot> | [dir](../../tools/dark-web-monitoring-leak-intelligence/dedsecinside-torbot-8df33033/README.md) |
 | Dev9269/darkforce | container | indexed | <https://github.com/Dev9269/darkforce> | [dir](../../tools/dark-web-monitoring-leak-intelligence/dev9269-darkforce-e1856683/README.md) |
 | dheeraj-jayaswal/DarkWeb-From-The-Trenches | research-project | indexed | <https://github.com/dheeraj-jayaswal/DarkWeb-From-The-Trenches> | [dir](../../tools/dark-web-monitoring-leak-intelligence/dheeraj-jayaswal-darkweb-from-the-trenches-1c84f6db/README.md) |
 | DimosMellios/DarkShotLearning | tool | indexed | <https://github.com/DimosMellios/DarkShotLearning> | [dir](../../tools/dark-web-monitoring-leak-intelligence/dimosmellios-darkshotlearning-8bfeba15/README.md) |
@@ -109,6 +115,7 @@
 | imvickykumar999/silk-road-on-dark-web | tool | indexed | <https://github.com/imvickykumar999/silk-road-on-dark-web> | [dir](../../tools/dark-web-monitoring-leak-intelligence/imvickykumar999-silk-road-on-dark-web-ccdf8606/README.md) |
 | imvickykumar999/Tesseract-Image-Search | tool | indexed | <https://github.com/imvickykumar999/Tesseract-Image-Search> | [dir](../../tools/dark-web-monitoring-leak-intelligence/imvickykumar999-tesseract-image-search-ea252505/README.md) |
 | imvickykumar999/Vanity-Image | web-platform | indexed | <https://github.com/imvickykumar999/Vanity-Image> | [dir](../../tools/dark-web-monitoring-leak-intelligence/imvickykumar999-vanity-image-97ea2480/README.md) |
+| Intelligence X | tool | legacy | <https://intelx.io> | [dir](../../tools/dark-web-monitoring-leak-intelligence/intelx-io-76a41d31/README.md) |
 | iqlip/Onion_Endpoints_Fetcher | web-platform | indexed | <https://github.com/iqlip/Onion_Endpoints_Fetcher> | [dir](../../tools/dark-web-monitoring-leak-intelligence/iqlip-onion-endpoints-fetcher-e10325c1/README.md) |
 | JacobJandon/OnionClaw | web-platform | indexed | <https://github.com/JacobJandon/OnionClaw> | [dir](../../tools/dark-web-monitoring-leak-intelligence/jacobjandon-onionclaw-0f633e8b/README.md) |
 | JacobJandon/Sicry | web-platform | indexed | <https://github.com/JacobJandon/Sicry> | [dir](../../tools/dark-web-monitoring-leak-intelligence/jacobjandon-sicry-7f1fabe8/README.md) |
@@ -123,6 +130,7 @@
 | JUSTSAIF/28P-Chat | web-platform | indexed | <https://github.com/JUSTSAIF/28P-Chat> | [dir](../../tools/dark-web-monitoring-leak-intelligence/justsaif-28p-chat-23e91a23/README.md) |
 | KaanTuran28/CTI_Scrapper_2 | api-service | indexed | <https://github.com/KaanTuran28/CTI_Scrapper_2> | [dir](../../tools/dark-web-monitoring-leak-intelligence/kaanturan28-cti-scrapper-2-a28789b8/README.md) |
 | KaanTuran28/CTI_Scrapper_3 | container | indexed | <https://github.com/KaanTuran28/CTI_Scrapper_3> | [dir](../../tools/dark-web-monitoring-leak-intelligence/kaanturan28-cti-scrapper-3-06665d8d/README.md) |
+| KatrielMoses/voidaccess | web-platform | indexed | <https://github.com/KatrielMoses/voidaccess> | [dir](../../tools/dark-web-monitoring-leak-intelligence/katrielmoses-voidaccess-43882fe7/README.md) |
 | KingAkeem/TorBotApp | desktop-app | indexed | <https://github.com/KingAkeem/TorBotApp> | [dir](../../tools/dark-web-monitoring-leak-intelligence/kingakeem-torbotapp-6cc43db5/README.md) |
 | kot1lin/cipher-darkweb-websites | web-platform | indexed | <https://github.com/kot1lin/cipher-darkweb-websites> | [dir](../../tools/dark-web-monitoring-leak-intelligence/kot1lin-cipher-darkweb-websites-a9386c55/README.md) |
 | l0lsec/flare-lookup-cli | api-service | indexed | <https://github.com/l0lsec/flare-lookup-cli> | [dir](../../tools/dark-web-monitoring-leak-intelligence/l0lsec-flare-lookup-cli-7332e631/README.md) |
@@ -154,6 +162,7 @@
 | PabloChatTR/deep-web-siteler-2023 | tool | indexed | <https://github.com/PabloChatTR/deep-web-siteler-2023> | [dir](../../tools/dark-web-monitoring-leak-intelligence/pablochattr-deep-web-siteler-2023-7d5c1218/README.md) |
 | Pandya-mayur/GhostCrawler | tool | indexed | <https://github.com/Pandya-mayur/GhostCrawler> | [dir](../../tools/dark-web-monitoring-leak-intelligence/pandya-mayur-ghostcrawler-4c88dc91/README.md) |
 | panzertime/dw-findingstore | tool | indexed | <https://github.com/panzertime/dw-findingstore> | [dir](../../tools/dark-web-monitoring-leak-intelligence/panzertime-dw-findingstore-ac809c9a/README.md) |
+| PasteHunter | tool | indexed | <https://github.com/kevthehermit/PasteHunter> | [dir](../../tools/dark-web-monitoring-leak-intelligence/kevthehermit-pastehunter-aa31e8a8/README.md) |
 | paulveillard/cybersecurity-dark-web | awesome-list | indexed | <https://github.com/paulveillard/cybersecurity-dark-web> | [dir](../../tools/dark-web-monitoring-leak-intelligence/paulveillard-cybersecurity-dark-web-0c3ad116/README.md) |
 | phantomx39/Scraper | api-service | indexed | <https://github.com/phantomx39/Scraper> | [dir](../../tools/dark-web-monitoring-leak-intelligence/phantomx39-scraper-e5f1e846/README.md) |
 | phishing-hunter/dark-fess | container | indexed | <https://github.com/phishing-hunter/dark-fess> | [dir](../../tools/dark-web-monitoring-leak-intelligence/phishing-hunter-dark-fess-534ef0b3/README.md) |
@@ -162,8 +171,11 @@
 | PritamSarbajna/dark-web-scraper | tool | indexed | <https://github.com/PritamSarbajna/dark-web-scraper> | [dir](../../tools/dark-web-monitoring-leak-intelligence/pritamsarbajna-dark-web-scraper-15c6e191/README.md) |
 | Priteshmane7895/dark-web-threat-intelligence-crawler | tool | indexed | <https://github.com/Priteshmane7895/dark-web-threat-intelligence-crawler> | [dir](../../tools/dark-web-monitoring-leak-intelligence/priteshmane7895-dark-web-threat-intelligence-crawler-8e388a1f/README.md) |
 | PROxZIMA/DarkSpider | tool | indexed | <https://github.com/PROxZIMA/DarkSpider> | [dir](../../tools/dark-web-monitoring-leak-intelligence/proxzima-darkspider-3896182b/README.md) |
+| psbdmp | tool | indexed | <https://psbdmp.ws/> | [dir](../../tools/dark-web-monitoring-leak-intelligence/psbdmp-ws-a6f448dc/README.md) |
 | punyamsingh/Dark-Web-Reporting-System | tool | indexed | <https://github.com/punyamsingh/Dark-Web-Reporting-System> | [dir](../../tools/dark-web-monitoring-leak-intelligence/punyamsingh-dark-web-reporting-system-b63e4bab/README.md) |
 | pushprajthakre/CounterIntelCTI | tool | indexed | <https://github.com/pushprajthakre/CounterIntelCTI> | [dir](../../tools/dark-web-monitoring-leak-intelligence/pushprajthakre-counterintelcti-2d4b9e7a/README.md) |
+| pwndb | web-platform | indexed | <https://github.com/davidtavarez/pwndb> | [dir](../../tools/dark-web-monitoring-leak-intelligence/davidtavarez-pwndb-a9cb61e3/README.md) |
+| pystemon | tool | indexed | <https://github.com/cvandeplas/pystemon> | [dir](../../tools/dark-web-monitoring-leak-intelligence/cvandeplas-pystemon-0e6c4a79/README.md) |
 | qompassai/ghost | tool | indexed | <https://github.com/qompassai/ghost> | [dir](../../tools/dark-web-monitoring-leak-intelligence/qompassai-ghost-51947015/README.md) |
 | qompassai/tor | tool | indexed | <https://github.com/qompassai/tor> | [dir](../../tools/dark-web-monitoring-leak-intelligence/qompassai-tor-848f9cd4/README.md) |
 | Rajveer2009/Dark-Website | tool | indexed | <https://github.com/Rajveer2009/Dark-Website> | [dir](../../tools/dark-web-monitoring-leak-intelligence/rajveer2009-dark-website-cca62eb7/README.md) |
@@ -205,6 +217,7 @@
 | trsi-me/TS-OSINT | api-service | indexed | <https://github.com/trsi-me/TS-OSINT> | [dir](../../tools/dark-web-monitoring-leak-intelligence/trsi-me-ts-osint-c98283a0/README.md) |
 | Tweacked/bone-browser | tool | indexed | <https://github.com/Tweacked/bone-browser> | [dir](../../tools/dark-web-monitoring-leak-intelligence/tweacked-bone-browser-60c64c4e/README.md) |
 | unicxa/OpenJavaTerm | web-platform | indexed | <https://github.com/unicxa/OpenJavaTerm> | [dir](../../tools/dark-web-monitoring-leak-intelligence/unicxa-openjavaterm-0b1ac8e0/README.md) |
+| urbanadventurer/WhatWeb | tool | indexed | <https://github.com/urbanadventurer/WhatWeb> | [dir](../../tools/dark-web-monitoring-leak-intelligence/urbanadventurer-whatweb-7e9b9637/README.md) |
 | UsamaMatrix/ai-threat-intel | tool | indexed | <https://github.com/UsamaMatrix/ai-threat-intel> | [dir](../../tools/dark-web-monitoring-leak-intelligence/usamamatrix-ai-threat-intel-3e9dc317/README.md) |
 | Vampsecure-Labs/vamp-darkweb-intel | cli-tool | indexed | <https://github.com/Vampsecure-Labs/vamp-darkweb-intel> | [dir](../../tools/dark-web-monitoring-leak-intelligence/vampsecure-labs-vamp-darkweb-intel-b1a318e3/README.md) |
 | Viralmaniar/DDWPasteRecon | directory | indexed | <https://github.com/Viralmaniar/DDWPasteRecon> | [dir](../../tools/dark-web-monitoring-leak-intelligence/viralmaniar-ddwpasterecon-a1f25c81/README.md) |

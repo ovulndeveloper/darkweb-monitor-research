@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/expose-team/zapier>
 - **Sources:** `github-search:topic:osint-framework`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
+- **Reviewed:** 2026-11-23
 
 zapier integration - search people, companies, and school and enrich your data with the tools you already use.
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/echelongraph/echelongraph-mcp>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 25
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 MCP server for CVE intelligence: 16 read-only tools for CVE records, CISA KEV, EPSS history, exploits, fix guidance as sources state it, version, SBOM and lockfile checks, vendor advisories, and per-CVE exposure from Shodan data (© Shodan). Free and keyless.
 

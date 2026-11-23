@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/had-nu/brimmed-hat>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** AGPL-3.0
+- **Reviewed:** 2026-11-23
 
 CTI aggregator with temporal knowledge graph.
 

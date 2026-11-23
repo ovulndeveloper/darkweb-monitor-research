@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/cwbae10-purdue/CTI-EACL24>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4
+- **Reviewed:** 2026-11-23
 
 Dataset Release on our paper, Threat Behavior Textual Search by Attention Graph Ismorphism
 

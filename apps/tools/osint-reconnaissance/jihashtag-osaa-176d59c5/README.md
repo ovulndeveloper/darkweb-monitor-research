@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Jihashtag/osaa>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 Osint Scraper AI Assisted (osaa). It triggers multiple OSINT tools in parallel, aggregates discovered artifacts, and leverages local LLMs to identify identities and generate investigation leads.
 

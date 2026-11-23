@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Paper-Pen/GatherInfo>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 923
+- **Reviewed:** 2026-11-23
 
 信息收集 OR 信息搜集
 

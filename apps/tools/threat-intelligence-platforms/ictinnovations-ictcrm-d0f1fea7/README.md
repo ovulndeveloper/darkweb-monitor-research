@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ictinnovations/ictcrm>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 28
-- **License:** AGPL-3.0
+- **Reviewed:** 2026-11-23
 
 Customer Relation Management Software with CTI integration support
 

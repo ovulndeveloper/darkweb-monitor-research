@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ivre/obsidian-ivre-plugin>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 36
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Grabs data from IVRE and brings it into Obsidian notes
 

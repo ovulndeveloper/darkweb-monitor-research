@@ -4,9 +4,8 @@
 - **Type:** [cli-tool](../../../by-type/cli-tool/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/calinux-py/PowerShell>
-- **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 13
+- **Sources:** `github-search:topic:phishing`, `github-search:topic:ransomware`
+- **Reviewed:** 2026-11-23
 
 PowerShell - Mixture of scripts. Some designed for ethical hackers.
 

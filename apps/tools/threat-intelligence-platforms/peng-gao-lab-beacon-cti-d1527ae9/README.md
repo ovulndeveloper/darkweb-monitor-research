@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/peng-gao-lab/beacon-cti>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Official implementation and datasets for BEACON (WSDM 2027): behavior-anchored cross-source knowledge graph construction for cyber threat intelligence.
 

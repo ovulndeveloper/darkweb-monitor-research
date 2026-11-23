@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/aseemselim45-afk/synthesia-newest>
 - **Sources:** `github-search:topic:onion`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 Organize Synthesia video projects with script management, asset tracking, and workflow planning for creators, educators, and teams.
 

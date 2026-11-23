@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/The-Osint-Toolbox/Darkweb-OSINT>
 - **Sources:** `github-search:topic:darkweb`, `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 154
+- **Reviewed:** 2026-11-23
 
 DarkWeb Resources
 

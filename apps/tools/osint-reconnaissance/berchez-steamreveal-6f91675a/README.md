@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Berchez/SteamReveal>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 30
+- **Reviewed:** 2026-11-23
 
 Discover a Steam player's likely location and closest friends through social graph analysis — plus AI-based cheater probability for CS players, weighing profile comments, ban history, account age and in-game stats.
 

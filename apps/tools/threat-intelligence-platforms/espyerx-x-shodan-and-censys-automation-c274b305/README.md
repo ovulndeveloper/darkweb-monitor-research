@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/espyerx-x/Shodan-and-Censys-automation>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 an IPEnumerationTool combining Shodan and Censys APIs for comprehensive insights. Uncover vulnerabilities, enhance cybersecurity, and streamline analysis with merged results and deduplication.
 

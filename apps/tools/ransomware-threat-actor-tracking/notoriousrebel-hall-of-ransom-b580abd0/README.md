@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/NotoriousRebel/Hall-of-Ransom>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 4
+- **Reviewed:** 2026-11-23
 
 Assortment of ransomware in different languages
 

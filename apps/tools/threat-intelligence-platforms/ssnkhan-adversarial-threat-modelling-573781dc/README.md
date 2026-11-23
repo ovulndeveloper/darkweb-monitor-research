@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ssnkhan/adversarial-threat-modelling>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 80
+- **Reviewed:** 2026-11-23
 
 Supporting materials for my "Intelligence-Led Adversarial Threat Modelling with VECTR" workshop
 

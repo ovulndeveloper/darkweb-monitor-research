@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/subzeroid/instagrapi>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 7183
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 🔥 The fastest and powerful Python library for Instagram Private API 2026 with HikerAPI SaaS
 

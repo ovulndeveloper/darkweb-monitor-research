@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/ritchiemwewa/oxdork>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 254
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Google dorking tool
 

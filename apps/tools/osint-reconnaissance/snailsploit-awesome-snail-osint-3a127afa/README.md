@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/SnailSploit/Awesome-Snail-OSINT>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 24
+- **Reviewed:** 2026-11-23
 
 an Awesome List of OSINT Resources
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ComradOrg/Comrad>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 201
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 A socialist network: encrypted, insurveillable, unmontizeable, and self-governing. App is written in Python. (Calling all socialist programmers for help!)
 

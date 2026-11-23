@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/3xploitGuy/torwebsite>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 21
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 A container to host website on Tor hidden service with .onion address.
 

@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/jermiDEV/pikmist>
 - **Sources:** `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 OSINT search across 695+ sites — web UI, digital passport, PDF exports and free AI analysis
 

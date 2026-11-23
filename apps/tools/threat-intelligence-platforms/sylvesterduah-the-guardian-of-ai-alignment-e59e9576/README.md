@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/SylvesterDuah/The_Guardian_of_AI_Alignment>
 - **Sources:** `github-search:topic:cyber-threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 1
-- **License:** Apache-2.0
+- **Reviewed:** 2026-11-23
 
 This project is about AI Alignment where I source data from history of AI incidents occurred and learn about it to provide a solution to mitigate any future occurrences again
 

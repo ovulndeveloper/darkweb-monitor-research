@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/ma111e/melody>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 139
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Melody is a transparent internet sensor built for threat intelligence. Supports custom tagging rules and vulnerable application simulation.
 

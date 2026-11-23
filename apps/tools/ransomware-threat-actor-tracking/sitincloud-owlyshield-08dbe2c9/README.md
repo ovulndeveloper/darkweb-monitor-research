@@ -4,10 +4,8 @@
 - **Type:** [framework](../../../by-type/framework/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/SitinCloud/Owlyshield>
-- **Sources:** `github-search:topic:malware-analysis`, `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 438
-- **License:** EUPL-1.2
+- **Sources:** `github-search:topic:malware-analysis`, `github-search:topic:ransomware`, `github-search:topic:threat-hunting`
+- **Reviewed:** 2026-11-23
 
 Owlyshield is an EDR framework designed to safeguard vulnerable applications from potential exploitation (C&C, exfiltration and impact).
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/CyberDataLab/disinfox>
 - **Sources:** `github-search:topic:cti`, `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 52
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 🦊 DISINFOX is a threat intelligence exchange platform for disinformation implementing the DISARM framework at its core.
 

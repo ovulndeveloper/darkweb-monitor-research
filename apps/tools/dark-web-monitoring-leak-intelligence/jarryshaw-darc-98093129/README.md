@@ -4,10 +4,8 @@
 - **Type:** [tool](../../../by-type/tool/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/JarryShaw/darc>
-- **Sources:** `github-search:topic:darkweb`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 242
-- **License:** BSD-3-Clause
+- **Sources:** `awesome:edwardtay/awesome-OSINT`, `github-search:topic:darkweb`
+- **Reviewed:** 2026-11-23
 
 Darkweb Crawler Project
 

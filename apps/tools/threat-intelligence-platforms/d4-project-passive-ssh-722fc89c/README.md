@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/D4-project/passive-ssh>
 - **Sources:** `github-search:topic:threat-intelligence`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 107
-- **License:** AGPL-3.0
+- **Reviewed:** 2026-11-23
 
 A Passive SSH back-end and scanner.
 

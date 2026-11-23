@@ -4,10 +4,8 @@
 - **Type:** [api-service](../../../by-type/api-service/README.md)
 - **Status:** `indexed`
 - **URL:** <https://github.com/sharsil/mailcat>
-- **Sources:** `github-search:topic:osint`, `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 968
-- **License:** Apache-2.0
+- **Sources:** `github-search:topic:osint`, `github-search:topic:recon`, `github-search:topic:tor`
+- **Reviewed:** 2026-11-23
 
 Find existing email addresses by nickname using API/SMTP checking methods without user notification. Please, don't hesitate to improve cat's job! 🐱🔎 📬
 

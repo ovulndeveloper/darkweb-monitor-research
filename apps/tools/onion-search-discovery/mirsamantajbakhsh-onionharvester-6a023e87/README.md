@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/mirsamantajbakhsh/OnionHarvester>
 - **Sources:** `github-search:topic:onion`, `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 75
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 A small TOR Onion Address harvester for checking if the address is available or not.
 

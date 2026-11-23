@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/osservatorionessuno/patela>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 41
-- **License:** WTFPL
+- **Reviewed:** 2026-11-23
 
 client and server for disk-less tor configuration
 

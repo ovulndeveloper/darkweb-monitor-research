@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/imvickykumar999/Flask-XAMPP-Onion-Host>
 - **Sources:** `github-search:topic:darkweb`, `github-search:topic:onion`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
+- **Reviewed:** 2026-11-23
 
 pip install VicksTor --upgrade https://imvickykumar999.github.io/Flask-XAMPP-Onion-Host/
 

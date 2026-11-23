@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ail-project/onion-lookup>
 - **Sources:** `github-search:topic:darkweb`, `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 66
-- **License:** AGPL-3.0
+- **Reviewed:** 2026-11-23
 
 Tor onion address lookup
 

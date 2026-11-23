@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/SimonDaNinja/youtube_rss>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 52
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 A YouTube-client for managing subscriptions and watching videos anonymously over Tor without a Google account.
 

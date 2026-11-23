@@ -5,7 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/sakuraven/artigo-deep-web>
 - **Sources:** `github-search:topic:dark-web`
-- **Indexed:** 2026-11-23
+- **Reviewed:** 2026-11-23
 
 Artigo com o objetivo de desmisticar e explicar os conceitos de Deep Web, Dark Web e Surface Web, feito para a Revista HackoonSpace 2022
 

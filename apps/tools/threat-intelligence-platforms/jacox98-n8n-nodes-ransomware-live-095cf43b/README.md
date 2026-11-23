@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Jacox98/n8n-nodes-ransomware-live>
 - **Sources:** `github-search:topic:cti`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Custom n8n node for exploring the ransomware.live intelligence API. The node wraps the public PRO endpoints and exposes friendly parameters so you can query victims, negotiations, indicators of compromise, press coverage, and more without hand-crafting HTTP requests.
 

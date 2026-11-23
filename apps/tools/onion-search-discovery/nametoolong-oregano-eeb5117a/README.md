@@ -5,9 +5,7 @@
 - **Status:** `archived`
 - **URL:** <https://github.com/nametoolong/oregano>
 - **Sources:** `github-search:topic:onion`, `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 25
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 Man-in-the-middle against Tor bridges
 

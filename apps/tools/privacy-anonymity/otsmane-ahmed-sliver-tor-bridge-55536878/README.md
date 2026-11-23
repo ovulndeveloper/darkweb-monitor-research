@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Otsmane-Ahmed/sliver-tor-bridge>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 62
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Tor transport bridge for Sliver C2 - anonymous command and control
 

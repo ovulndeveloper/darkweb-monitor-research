@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/Inforensics/osint-vm>
 - **Sources:** `github-search:topic:osint-framework`, `github-search:topic:osint-tools`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 22
-- **License:** GPL-3.0
+- **Reviewed:** 2026-11-23
 
 VM for OSINT investigators that is a test-bed for using AI tools and agents to improve investigations. No out-of-date and unmaintained tools are used!
 

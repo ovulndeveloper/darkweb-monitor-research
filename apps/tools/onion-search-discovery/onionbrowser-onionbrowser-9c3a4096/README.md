@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/OnionBrowser/OnionBrowser>
 - **Sources:** `github-search:topic:onion`, `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 2721
-- **License:** NOASSERTION
+- **Reviewed:** 2026-11-23
 
 An open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymity network
 

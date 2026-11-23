@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/retr00exe/pyransom>
 - **Sources:** `github-search:topic:ransomware`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 15
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Ransomware script based on AES-CBC (Fernet Token) and RSA (PKCS1-OAEP) cryptosystem.
 

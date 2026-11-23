@@ -5,8 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/ANG13T/netspionage>
 - **Sources:** `github-search:topic:forensics`, `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 306
+- **Reviewed:** 2026-11-23
 
 Network Forensics CLI utility that performs Network Scanning, OSINT, and Attack Detection
 

@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/KTZgraph/sarenka>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 676
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 OSINT tool - gets data from services like shodan, censys etc. in one app
 

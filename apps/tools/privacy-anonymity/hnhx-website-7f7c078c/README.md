@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/hnhx/website>
 - **Sources:** `github-search:topic:tor`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 20
-- **License:** WTFPL
+- **Reviewed:** 2026-11-23
 
 My personal website
 

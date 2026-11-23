@@ -5,9 +5,7 @@
 - **Status:** `indexed`
 - **URL:** <https://github.com/mattwright324/youtube-comment-suite>
 - **Sources:** `github-search:topic:osint`
-- **Indexed:** 2026-11-23
-- **GitHub stars at index time:** 323
-- **License:** MIT
+- **Reviewed:** 2026-11-23
 
 Download YouTube comments from numerous videos, playlists, and channels for archiving, general search, and showing activity.
 
