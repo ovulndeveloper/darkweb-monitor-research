@@ -24,12 +24,12 @@ A comprehensive, constantly-updated catalog of dark web monitoring tools with ra
 
 ### 📋 Category Breakdowns
 
-- [OSINT Frameworks](categories/osint_tools.md) - SpiderFoot, Darkdump, TorBot
-- [Exposure Monitoring](categories/monitoring_tools.md) - Darkwatch, TorBot
-- [Search Engines](categories/search_engines.md) - Ahmia, Torch, NotEvil, HaveIBeenPwned, Intelligence X
-- [Commercial Solutions](commercial_solutions.md) - ZeroFox, Recorded Future, Flashpoint
-- [Breach Monitoring](breach_monitoring.md) - HaveIBeenPwned, Intelligence X
-- [Research Directory](research/) - Ongoing research and automation
+- [📁 OSINT Frameworks](categories/osint_tools.md) - SpiderFoot, Darkdump, TorBot
+- [📁 Exposure Monitoring](categories/monitoring_tools.md) - Darkwatch, TorBot
+- [📁 Search Engines](categories/search_engines.md) - Ahmia, Torch, NotEvil, HaveIBeenPwned, Intelligence X
+- [📁 Commercial Solutions](commercial_solutions.md) - ZeroFox, Recorded Future, Flashpoint
+- [📁 Breach Monitoring](breach_monitoring.md) - HaveIBeenPwned, Intelligence X
+- [📁 Research Directory](research/) - Ongoing research and automation scripts
 
 ### 📈 Ranking System
 
@@ -64,7 +64,7 @@ Tools evaluated on 5 criteria (each 20%):
 ```text
 darkweb-monitor-research/
 ├── README.md - This file - overview and categories
-├── tools_catalog.md - Detailed tool catalog (20+ tools)
+├── tools_catalog.md - Detailed tool catalog (25+ tools)
 ├── .gitignore - Git ignore rules
 ├── research/
 │   └── automation_scripts.md - Scripts for updating tools
