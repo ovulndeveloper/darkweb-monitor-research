@@ -1,0 +1,17 @@
+# Dark Web Monitor Research Repo gitignore
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.key
+# Tor related
+tor*
+# OSINT data
+data/
+# Output files
+output/
+# Reports
+*.pdf
+*.txt
