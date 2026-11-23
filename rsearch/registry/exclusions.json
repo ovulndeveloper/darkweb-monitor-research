@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "purpose": "Tools already present in README.md, tools_catalog.md, or categories/. The automation refuses to add these to the rsearch registry, preventing duplicates.",
+  "source_files": ["README.md", "tools_catalog.md", "categories/monitoring_tools.md", "categories/search_engines.md", "categories/osint_tools.md"],
+  "tools": [
+    {"name": "SpiderFoot", "aliases": ["spiderfoot", "https://github.com/smicallef/spiderfoot"]},
+    {"name": "Darkdump", "aliases": ["darkdump", "https://github.com/josh0xA/darkdump"]},
+    {"name": "Darkwatch", "aliases": ["darkwatch", "https://github.com/Daemon-VI/darkwatch"]},
+    {"name": "TorBot", "aliases": ["torbot", "https://github.com/A-deker0/TorBot"]},
+    {"name": "Ahmia", "aliases": ["ahmia", "https://ahmia.fi"]},
+    {"name": "Torch", "aliases": ["torch", "http://xmh57jrzrnw6iuq7.onion"]},
+    {"name": "NotEvil", "aliases": ["not evil", "notevil", "http://noteilv6w5w.onion"]},
+    {"name": "HaveIBeenPwned Integration", "aliases": ["haveibeenpwned", "hibp", "https://haveibeenpwned.com"]},
+    {"name": "Intelligence X", "aliases": ["intelx", "intelligence x", "https://intelx.io"]},
+    {"name": "ZeroFox", "aliases": ["zerofox", "https://www.zeroxfox.com", "https://www.zerofox.com"]},
+    {"name": "Recorded Future", "aliases": ["recorded future", "https://www.recordedfuture.com"]},
+    {"name": "Flashpoint", "aliases": ["flashpoint", "https://flashpointintel.com"]}
+  ]
+}
