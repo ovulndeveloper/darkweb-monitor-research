@@ -208,6 +208,7 @@ darkweb-monitor-research/
 ├── breach_monitoring.md              # legacy breach category
 ├── ranking_criteria.md               # ranking methodology
 ├── research/
+│   ├── README.md                     # research index
 │   └── automation_scripts.md         # automation usage notes
 ├── categories/
 │   ├── osint_tools.md
