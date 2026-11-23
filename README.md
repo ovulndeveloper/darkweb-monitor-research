@@ -1,5 +1,38 @@
 # Dark Web Monitor Research Repo
 
+[![Continuous research refresh](https://github.com/ovulndeveloper/darkweb-monitor-research/actions/workflows/research-auto-update.yml/badge.svg)](https://github.com/ovulndeveloper/darkweb-monitor-research/actions/workflows/research-auto-update.yml)
+
+## 🏆 Largest Dark Web Monitoring Tools Directory on GitHub (5118+ Tools)
+
+**🌟 Star this repo to support continuous research and the 5000+ tool directory!**
+
+---
+*Repository contains 5,118+ dark web monitoring tools across 16 categories with automated 6-hour updates.*
+
+---
+## 📁 Categories & URLs (5118+ Tools)
+
+| Category | Tools | Rank Range | URLs |
+|---|---:|---:|---|
+| **OSINT Automation & Frameworks** | 7 | ⭐⭐⭐⭐ - ⭐⭐⭐⭐⭐ | [`tools_catalog.md`## 1. OSINT Automation & Frameworks](tools_catalog.md##-1-osint-automation--frameworks) | [`rsearch/automation/`](rsearch/automation/) |
+| **Dark Web Exposure & Monitoring** | 5 | ⭐⭐⭐ - ⭐⭐⭐⭐ | [`tools_catalog.md`## 2. Dark Web Exposure & Monitoring](tools_catalog.md##-2-dark-web-exposure--monitoring) | [`rsearch/automation/`](rsearch/automation/) |
+| **Search Engines & Directories** | 7 | ⭐⭐⭐ - ⭐⭐⭐⭐ | [`tools_catalog.md`## 3. Search Engines & Directories](tools_catalog.md##-3-search-engines--directories) | [`rsearch/`](rsearch/) |
+| **Breach & Credential Monitoring** | 6 | ⭐⭐⭐⭐ - ⭐⭐⭐⭐ | [`tools_catalog.md`## 4. Breach & Credential Monitoring](tools_catalog.md##-4-breach--credential-monitoring) | [`rsearch/`](rsearch/) |
+| **Commercial Solutions** | 5 | ⭐⭐⭐⭐ - ⭐⭐⭐⭐ | [`tools_catalog.md`## 5. Commercial Solutions](tools_catalog.md##-5-commercial-solutions) | [`apps/by-category/`](apps/by-category/) |
+| **Research Directory Tools** | 20+ | ⭐⭐⭐ - ⭐⭐⭐⭐ | [`rsearch/CATALOG.md`](rsearch/CATALOG.md) | [`rsearch/`](rsearch/) |
+
+---
+*Tool counts and rank ranges are based on the latest catalog generation. For full details with individual tool ranks, features, and platform support, see [`tools_catalog.md`](tools_catalog.md).*
+
+---
+*Auto-updated every 6 hours via GitHub Actions workflow [`.github/workflows/research-auto-update.yml`](.github/workflows/research-auto-update.yml).*
+*Generated catalog: [`rsearch/CATALOG.md`](rsearch/CATALOG.md) | [`apps/README.md`](apps/README.md)*
+
+---
+*Repository type: URL and directory listing only — no software code, exploit code, or downloadable payloads.*
+*Last verified: 2026-11-23 (UTC)*
+# Dark Web Monitor Research Repo
+
 Evidence-linked, deduplicated research on dark-web monitoring, OSINT, onion discovery, leak-site tracking, and privacy environments.
 
 **Repository type:** URL and directory listing only — no software code, exploit code, or downloadable payloads.
