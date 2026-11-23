@@ -26,12 +26,6 @@ Each tool entry includes:
    - Breach database monitoring
    - Custom module development
 • Best For: Comprehensive OSINT investigations, threat intelligence gathering, attack surface mapping
-   - Integrates with 100+ data sources including dark web sites
-   - Web-based interface and CLI
-   - Tor exit node detection
-   - Breach database monitoring
-   - Custom module development
-• Best For: Comprehensive OSINT investigations, threat intelligence gathering, attack surface mapping
 
 ### Darkdump
 • GitHub: https://github.com/josh0xA/darkdump

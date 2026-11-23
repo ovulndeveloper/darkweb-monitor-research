@@ -1,246 +1,351 @@
 # Dark Web Monitor Research Repo
 
-## 🏆 Best Dark Web Monitoring Tools Research Repository on GitHub
+[![Continuous research refresh](https://github.com/ovulndeveloper/darkweb-monitor-research/actions/workflows/research-auto-update.yml/badge.svg)](https://github.com/ovulndeveloper/darkweb-monitor-research/actions/workflows/research-auto-update.yml)
 
-A comprehensive, constantly-updated catalog of dark web monitoring tools with rankings, categories, platform support (Windows/Linux), and research capabilities.
+Evidence-linked, deduplicated research on dark-web monitoring, OSINT, onion discovery, leak-site tracking, and privacy environments.
 
-## 📊 Repository Overview
-
-- **Total Tools**: 25+ dark web monitoring tools
-- **Categories**: 6 major categories
-- **Platform Support**: Windows, Linux, and Tor Browser cross-platform
-- **Ranking System**: ⭐ 1-5 star rating based on verified criteria
-- **Update Frequency**: Monthly tool reviews, quarterly ranking updates
-- **Last Updated**: November 2026
-
-## 🛠️ Features
-
-### 🔍 Comprehensive Tool Catalog
-
-- 25+ dark web monitoring tools with full specifications
-- Windows and Linux platform support for each tool
-- Detailed rankings with ⭐ system
-- Key features and best use cases
-
-### 📋 Category Breakdowns
-
-- [📁 OSINT Frameworks](categories/osint_tools.md) - SpiderFoot, Darkdump, TorBot
-- [📁 Exposure Monitoring](categories/monitoring_tools.md) - Darkwatch, TorBot
-- [📁 Search Engines](categories/search_engines.md) - Ahmia, Torch, NotEvil, HaveIBeenPwned, Intelligence X
-- [📁 Commercial Solutions](commercial_solutions.md) - ZeroFox, Recorded Future, Flashpoint
-- [📁 Breach Monitoring](breach_monitoring.md) - HaveIBeenPwned, Intelligence X
-- [📁 Research Directory](research/) - Ongoing research and automation scripts
-
-### 📈 Ranking System
-
-Tools evaluated on 5 criteria (each 20%):
-
-1. **Feature Completeness** - Capabilities, integration, automation
-2. **Platform Compatibility** - Windows/Linux support quality
-3. **Community Adoption** - Stars, forks, user base, reviews
-4. **Update Frequency** - Active maintenance, new features
-5. **Documentation Quality** - Clarity, tutorials, API docs
-
-**Ranking Scale:**
-
-- ⭐⭐⭐⭐⭐ Excellent across all criteria
-- ⭐⭐⭐⭐ Strong in most criteria, minor limitations
-- ⭐⭐⭐ Good for specific use cases
-- ⭐⭐ Basic functionality, limited features
-- ⭐ Experimental or very niche
-
-### 🖥️ Platform Support Matrix
-
-| Category | Windows Tools | Linux Tools |
-| ----------- | ------------ | ----------- |
-| OSINT Frameworks | SpiderFoot (✅) | SpiderFoot, Darkdump (✅) |
-| Exposure Monitoring | Darkwatch (✅) | Darkwatch (✅) |
-| Search Engines | All via Tor Browser | All via Tor Browser |
-| Breach Monitoring | HaveIBeenPwned (✅) | HaveIBeenPwned (✅) |
-| Commercial Solutions | All support (✅) | All support (✅) |
-
-### 📂 Repository Structure
-
-```text
-darkweb-monitor-research/
-├── README.md - This file - overview and categories
-├── tools_catalog.md - Detailed tool catalog (25+ tools)
-├── .gitignore - Git ignore rules
-├── research/
-│   └── automation_scripts.md - Scripts for updating tools
-├── categories/
-│   ├── osint_tools.md - OSINT framework details
-│   ├── monitoring_tools.md - Exposure monitoring tools
-│   ├── search_engines.md - Dark web search engine details
-│   ├── commercial_solutions.md - Enterprise solutions
-│   └── breach_monitoring.md - Breach monitoring tools
-├── commercial_solutions.md - Commercial solution details
-└── CONTRIBUTING.md - Guidelines for contributing
-```
-
-## 🔄 How to Keep This repo Updated
-
-### Manual Update Process
-
-1. **Check for new tools**: Review dark web security news and GitHub for new repositories
-2. **Add new tools**: Follow CONTRIBUTING.md to add tools via Pull Request
-3. **Update rankings**: Re-evaluate tools based on new features and community adoption
-4. **Update platform support**: Verify Windows/Linux support for existing tools
-
-### Automated Update Scripts (Coming Soon)
-
-- `research/automation_scripts.md` - Scripts to check for new tools
-- GitHub Actions workflows for automated checks
-- Weekly issue labels for tools needing review
-
-## 🤝 Contributing
-
-### Adding New Tools
-
-1. Fork the repository
-2. Add tool to the appropriate category in `tools_catalog.md` or category files
-3. Follow the existing format and ranking criteria
-4. Submit a Pull Request
-
-### Updating Tool Information
-
-1. Check if tool has new features or platform support
-2. Update the relevant tool entry
-3. Update rankings if criteria have changed
-4. Submit Pull Request
-
-### Improving Documentation
-
-1. Add missing tool categories
-2. Enhance ranking criteria documentation
-3. Add automation script examples
-4. Submit Pull Request
-
-### Reporting Issues
-
-1. Open an Issue for bugs or missing information
-2. Suggest new tool categories
-3. Propose ranking criterion improvements
-
-Please ensure contributions:
-
-- Are relevant to dark web monitoring
-- Have documentation or open-source availability
-- Support Windows and/or Linux (or clearly note platform limitations)
-- Follow the existing format and ranking criteria
-
-## ⚠️ Legal & Ethical Notice
-
-- Only monitor dark web content you have permission to access
-- Comply with all applicable laws and regulations
-- Use tools responsibly for legitimate security research and defense purposes
-- Respect privacy and legal boundaries when accessing dark web content
-
-## 📬 Contact & Support
-
-- **Issues**: Use GitHub Issues for bugs and feature requests
-- **Discussions**: GitHub Discussions for questions and ideas
-- **Email**: security-research@ovulndeveloper.com (if available)
-- **Twitter**: [@DarkWebMonitor](https://twitter.com/DarkWebMonitor) (if available)
+**Last verified:** 2026-11-23 (UTC)  
+**Canonical research section:** [`rsearch/`](rsearch/README.md)  
+**Generated catalog:** [`rsearch/CATALOG.md`](rsearch/CATALOG.md)
 
 ---
 
-*🌟 This repository is maintained with the goal of being the best dark web monitoring tools research resource on GitHub. Star ⭐ the repo to support ongoing maintenance and updates!*
+## Contents
 
-*Last updated: November 2026*
+- [At a glance](#at-a-glance)
+- [Legacy categories and URLs](#legacy-categories-and-urls)
+- [New `rsearch` categories and URLs](#new-rsearch-categories-and-urls)
+- [Research documents and source URLs](#research-documents-and-source-urls)
+- [Repository structure](#repository-structure)
+- [Automatic updates](#automatic-updates)
+- [Ranking system](#ranking-system)
+- [Platform support](#platform-support)
+- [Deduplication policy](#deduplication-policy)
+- [Contributing](#contributing)
+- [Legal and ethical notice](#legal-and-ethical-notice)
 
-## Purpose
+---
 
-This repository serves as a research resource for comparing dark web monitoring tools by category and capability, finding tools compatible with Windows and Linux platforms, understanding tool rankings and focus areas, and researching open-source and commercial dark web monitoring solutions.
+## At a glance
 
-## Tool Categories
+| Area | Legacy repo | New `rsearch/` | Total unique |
+|---|---:|---:|---:|
+| Tools | 12 | 20 | 32 |
+| Categories | 5 | 6 | 11 |
+| Generated catalog | `tools_catalog.md` | `rsearch/CATALOG.md` | both |
+| Update method | manual PRs | 6-hour GitHub Actions + local watcher | continuous |
+| Dedupe enforcement | none | tests + exclusion registry | enforced |
+
+Legacy tool counts treat cross-listed tools (`TorBot`, `HaveIBeenPwned Integration`, `Intelligence X`) as one unique tool each.
+
+---
+
+## Legacy categories and URLs
+
+These tools were already present in the repository and are deliberately **not repeated** in `rsearch/`. Their URLs are listed here so every legacy category has a working link.
 
 ### 1. OSINT Automation & Frameworks
 
-Tools that provide comprehensive OSINT automation and data aggregation.
+Documentation: [`categories/osint_tools.md`](categories/osint_tools.md)
 
-| Tool | Rank | Primary Focus | Windows | Linux | Description |
-|------|------|--------------|---------|-------|-------------|
-| SpiderFoot | ⭐⭐⭐⭐⭐ | General OSINT, threat intelligence | ✅ | ✅ | Automates OSINT for threat intelligence and attack surface mapping. Integrates with 100+ data sources including dark web sites, breach databases, and Tor exit nodes. |
-| Darkdump | ⭐⭐⭐⭐ | Deep web scraping, search | ❌ | ✅ | OSINT interface for deep web scraping. Fetches results from multiple dark web search engines, supports deep scraping, and includes breach intelligence mode. |
+| Tool | Rank | Primary focus | Windows | Linux | URL |
+|---|---|---|---|---|---|
+| [SpiderFoot](https://github.com/smicallef/spiderfoot) | ⭐⭐⭐⭐⭐ | General OSINT, threat intelligence | ✅ | ✅ | https://github.com/smicallef/spiderfoot |
+| [Darkdump](https://github.com/josh0xA/darkdump) | ⭐⭐⭐⭐ | Deep web scraping, search aggregation | ❌ | ✅ | https://github.com/josh0xA/darkdump |
+| [TorBot](https://github.com/A-deker0/TorBot) | ⭐⭐⭐ | Onion service crawling | ❌ | ✅ | https://github.com/A-deker0/TorBot |
 
 ### 2. Dark Web Exposure & Monitoring
 
-Tools specifically focused on monitoring ransomware leak sites, breach data, and exposure.
+Documentation: [`categories/monitoring_tools.md`](categories/monitoring_tools.md)
 
-| Tool | Rank | Primary Focus | Windows | Linux | Description |
-|------|------|--------------|---------|-------|-------------|
-| Darkwatch | ⭐⭐⭐⭐ | Ransomware leak sites, breach monitoring | ✅ | ✅ | Dark web exposure monitor that watches ransomware leak sites, breach/paste data, and onion pages over managed Tor. Scores every hit and provides remediation recommendations. |
-| TorBot | ⭐⭐⭐ | Onion service crawling | ❌ | ✅ | Python-based crawler for onion services. Can be used for dark web monitoring and data collection. |
+| Tool | Rank | Primary focus | Windows | Linux | URL |
+|---|---|---|---|---|---|
+| [Darkwatch](https://github.com/Daemon-VI/darkwatch) | ⭐⭐⭐⭐ | Ransomware leak sites, breach exposure | ✅ | ✅ | https://github.com/Daemon-VI/darkwatch |
+| TorBot *(cross-listed above)* | ⭐⭐⭐ | Onion crawling for monitoring | ❌ | ✅ | https://github.com/A-deker0/TorBot |
 
 ### 3. Search Engines & Directories
 
-Tools for searching and discovering dark web content.
+Documentation: [`categories/search_engines.md`](categories/search_engines.md)
 
-| Tool | Rank | Primary Focus | Windows | Linux | Description |
-|------|------|--------------|---------|-------|-------------|
-| Ahmia | ⭐⭐⭐⭐⭐ | Dark web search engine | ✅ (via Tor Browser) | ✅ (via Tor Browser) | Clearnet-accessible dark web search engine with filtering. Indexes Tor hidden services with strict abuse filtering. |
-| Torch | ⭐⭐⭐⭐ | General dark web search | ✅ (via Tor Browser) | ✅ (via Tor Browser) | One of the oldest and largest dark web search engines. |
+| Tool | Rank | Primary focus | Windows | Linux | URL / address |
+|---|---|---|---|---|---|
+| [Ahmia](https://ahmia.fi) | ⭐⭐⭐⭐⭐ | Filtered onion search | ✅ via Tor | ✅ via Tor | https://ahmia.fi |
+| Torch | ⭐⭐⭐⭐ | General onion search | ✅ via Tor | ✅ via Tor | `http://xmh57jrzrnw6iuq7.onion` |
+| NotEvil *(status disputed)* | ⭐⭐⭐ | Privacy-focused search | ✅ via Tor | ✅ via Tor | `http://noteilv6w5w.onion` |
+| [HaveIBeenPwned](https://haveibeenpwned.com) | ⭐⭐⭐⭐⭐ | Breach data | ✅ | ✅ | https://haveibeenpwned.com |
+| [Intelligence X](https://intelx.io) | ⭐⭐⭐⭐ | Historical/breach data search | ✅ | ✅ | https://intelx.io |
+
+> `NotEvil` is retained here for historical accuracy. New research reports it offline or unreliable; see [`rsearch/RECONCILIATION.md`](rsearch/RECONCILIATION.md).
 
 ### 4. Breach & Credential Monitoring
 
-Tools and services focused on compromised data monitoring.
+Documentation: [`breach_monitoring.md`](breach_monitoring.md)
 
-| Tool | Rank | Primary Focus | Windows | Linux | Description |
-|------|------|--------------|---------|-------|-------------|
-| HaveIBeenPwned Integration | ⭐⭐⭐⭐⭐ | Breach data monitoring | ✅ | ✅ | Industry-standard breach monitoring service. API available for integration. |
-| Intelligence X | ⭐⭐⭐⭐ | Historical data search | ✅ | ✅ | Search engine for breached data, leaked documents, and dark web content. |
+| Tool | Rank | Primary focus | Windows | Linux | URL |
+|---|---|---|---|---|---|
+| [HaveIBeenPwned](https://haveibeenpwned.com) | ⭐⭐⭐⭐⭐ | Breach checking, domain monitoring | ✅ | ✅ | https://haveibeenpwned.com |
+| [Intelligence X](https://intelx.io) | ⭐⭐⭐⭐ | Breached documents, historical data | ✅ | ✅ | https://intelx.io |
 
-### 5. Commercial/Enterprise Solutions
+### 5. Commercial / Enterprise Solutions
 
-(Note: These are commercial services, not open-source tools)
+Documentation: [`commercial_solutions.md`](commercial_solutions.md)
 
-| Tool | Rank | Primary Focus | Windows | Linux | Description |
-|------|------|--------------|---------|-------|-------------|
-| ZeroFox | ⭐⭐⭐⭐⭐ | Enterprise dark web monitoring | ✅ | ✅ | Comprehensive dark web monitoring with credential, personal info, and IP monitoring. |
-| Recorded Future | ⭐⭐⭐⭐⭐ | Threat intelligence | ✅ | ✅ | AI-powered threat intelligence platform with dark web monitoring capabilities. |## 📈 Ranking System
-Tools are ranked based on:
-- ⭐⭐⭐⭐⭐ (5 stars): Industry-leading, comprehensive coverage, highly rated
-- ⭐⭐⭐⭐ (4 stars): Strong capabilities, good reputation
-- ⭐⭐ (2 stars): Basic functionality, limited features
-- ⭐⭐⭐ (3 stars): Functional, niche-focused
-- ⭐ (1 star): Experimental or very specialized
-Ranking considers: features, user reviews, platform support, integration capabilities, and community adoption.
+| Tool | Rank | Primary focus | Windows | Linux | URL |
+|---|---|---|---|---|---|
+| [ZeroFox](https://www.zerofox.com) | ⭐⭐⭐⭐⭐ | Enterprise digital-risk monitoring | ✅ | ✅ | https://www.zerofox.com |
+| [Recorded Future](https://www.recordedfuture.com) | ⭐⭐⭐⭐⭐ | Threat intelligence platform | ✅ | ✅ | https://www.recordedfuture.com |
+| [Flashpoint](https://flashpointintel.com) | ⭐⭐⭐⭐ | Cybercrime intelligence | ✅ | ✅ | https://flashpointintel.com |
 
-## 🖥️ Platform Support Legend
-- ✅ Full support - Tool officially supports or works well on this platform
-- ❌ No support - Tool does not support this platform
-- 🌐 Via Tor Browser - Accessible through Tor browser on any platform
+The full legacy detail view is [`tools_catalog.md`](tools_catalog.md).
 
-## 🔍 How to Use This Repository
-1. Browse categories above to find tools matching your needs
-2. Check platform compatibility column for Windows/Linux support
-3. Review rankings to prioritize tools
-4. Follow links to GitHub repos or official sites for more details
-5. Contribute - Add new tools or update existing entries via Pull Requests
+---
 
-## 📂 Repository Structure
-- `README.md` - This file - overview and categories
-- `tools_catalog.md` - Detailed tool catalog (will be created)
-- `categories/` - Category-specific documentation
-- `ranking_criteria.md` - How tools are ranked
-- `CONTRIBUTING.md` - Guidelines for contributing
+## New `rsearch` categories and URLs
 
-## 🤝 Contributing
-We welcome contributions! To add or update tools:
-1. Fork the repository
-2. Add tool to the appropriate category in `tools_catalog.md`
-3. Follow the existing format and ranking criteria
-4. Submit a Pull Request
+`rsearch/` adds 20 tools across 6 categories. Every entry is in [`rsearch/registry/tools.json`](rsearch/registry/tools.json) and rendered into [`rsearch/CATALOG.md`](rsearch/CATALOG.md).
 
-Please ensure tools are:
-- Relevant to dark web monitoring
-- Have documentation or open-source availability
-- Support Windows and/or Linux (or clearly note platform limitations)
+### 1. OSINT & Reconnaissance
 
-## ⚠️ Legal & Ethical Notice
-- Only monitor dark web content you have permission to access
-- Comply with all applicable laws and regulations
-- Use tools responsibly for legitimate security research and defense purposes
-- Respect privacy and legal boundaries when accessing dark web content
-*Last updated: November 2026*
+| Tool | Type | Rank | URL |
+|---|---|---:|---|
+| [theHarvester](https://github.com/laramies/theHarvester) | open-source | 5 | https://github.com/laramies/theHarvester |
+| [Recon-ng](https://github.com/lanmaster53/recon-ng) | open-source | 4 | https://github.com/lanmaster53/recon-ng |
+| [Maltego](https://www.maltego.com/) | commercial/freemium | 5 | https://www.maltego.com/ |
+| [OSINT Framework](https://osintframework.com/) | directory | 4 | https://osintframework.com/ |
+
+### 2. Attack Surface & Internet Intelligence
+
+| Tool | Type | Rank | URL |
+|---|---|---:|---|
+| [Shodan](https://www.shodan.io/) | commercial/freemium | 5 | https://www.shodan.io/ |
+| [Censys](https://censys.io/) | commercial/freemium | 5 | https://censys.io/ |
+
+### 3. Onion Service Assessment
+
+| Tool | Type | Rank | URL |
+|---|---|---:|---|
+| [OnionScan](https://github.com/s-rah/onionscan) | open-source | 4 | https://github.com/s-rah/onionscan |
+
+### 4. Leak Site & Ransomware Tracking
+
+| Tool | Type | Rank | URL |
+|---|---|---:|---|
+| [ransomware.live](https://www.ransomware.live/) | open-source + service | 5 | https://www.ransomware.live/ |
+| [dls-monitor](https://github.com/cyberiskvision/dls-monitor) | open-source | 4 | https://github.com/cyberiskvision/dls-monitor |
+
+### 5. Onion Search & Discovery
+
+| Tool | Type | Rank | URL / address |
+|---|---|---:|---|
+| [DuckDuckGo Onion Service](https://duckduckgo.com/onion) | search engine | 4 | https://duckduckgo.com/onion |
+| Haystak | search engine | 4 | https://haystak.com/ *(HTTP 404 at verification; re-check address)* |
+| OnionLand | search engine | 3 | https://onionland.io *(verify independently)* |
+| Tor66 | search/directory | 3 | verify via trusted directory |
+| Excavator | search engine | 3 | verify via trusted directory |
+| VormWeb | search engine | 3 | verify via trusted directory |
+| The Hidden Wiki | directory | 2 | verify via trusted directory |
+
+No unverified `.onion` mirrors are hard-coded in the registry. Addresses that churn are marked `address-verify-needed` or `verify-independently`.
+
+### 6. Privacy & Research Environment
+
+| Tool | Type | Rank | URL |
+|---|---|---:|---|
+| [Tor Browser](https://www.torproject.org/download/) | open-source | 5 | https://www.torproject.org/download/ |
+| [Tails](https://tails.net/) | open-source | 5 | https://tails.net/ |
+| [Whonix](https://www.whonix.org/) | open-source | 5 | https://www.whonix.org/ |
+| [Qubes OS](https://www.qubes-os.org/) | open-source | 5 | https://www.qubes-os.org/ |
+
+---
+
+## Research documents and source URLs
+
+| Document | Purpose |
+|---|---|
+| [`rsearch/README.md`](rsearch/README.md) | Research pack overview and usage |
+| [`rsearch/CATALOG.md`](rsearch/CATALOG.md) | Generated, evidence-linked catalog |
+| [`rsearch/RESEARCH_PROPOSAL.md`](rsearch/RESEARCH_PROPOSAL.md) | Research questions, method, metrics, roadmap |
+| [`rsearch/SOURCES.md`](rsearch/SOURCES.md) | Every source URL found, with confidence notes |
+| [`rsearch/RECONCILIATION.md`](rsearch/RECONCILIATION.md) | Conflicts with legacy catalog and resolutions |
+| [`rsearch/STATUS.json`](rsearch/STATUS.json) | Last run, counts, categories, validation state |
+| [`rsearch/CHANGELOG.md`](rsearch/CHANGELOG.md) | Generated update log |
+| [`rsearch/registry/tools.json`](rsearch/registry/tools.json) | Human-maintained source of truth |
+| [`rsearch/registry/exclusions.json`](rsearch/registry/exclusions.json) | Legacy tools blocked from re-entry |
+| [`research/automation_scripts.md`](research/automation_scripts.md) | Automation usage notes |
+| [`ranking_criteria.md`](ranking_criteria.md) | Ranking methodology |
+| [`CONTRIBUTING.md`](CONTRIBUTING.md) | Contribution and promotion rules |
+
+Primary source hubs used for verification:
+
+- GitHub API: https://api.github.com/
+- theHarvester: https://github.com/laramies/theHarvester
+- Recon-ng: https://github.com/lanmaster53/recon-ng
+- OnionScan: https://github.com/s-rah/onionscan
+- dls-monitor: https://github.com/cyberiskvision/dls-monitor
+- ransomware.live: https://www.ransomware.live/
+- Shodan: https://www.shodan.io/
+- Censys: https://censys.io/
+- Maltego: https://www.maltego.com/
+- OSINT Framework: https://osintframework.com/
+- Tor Project: https://www.torproject.org/
+- Tails: https://tails.net/
+- Whonix: https://www.whonix.org/
+- Qubes OS: https://www.qubes-os.org/
+- DuckDuckGo onion service: https://duckduckgo.com/onion
+
+The complete set of primary, cross-check, discovery-only, and rejected URLs is in [`rsearch/SOURCES.md`](rsearch/SOURCES.md).
+
+---
+
+## Repository structure
+
+```text
+darkweb-monitor-research/
+├── README.md                         # this file
+├── CONTRIBUTING.md                   # contribution and promotion rules
+├── tools_catalog.md                  # legacy detailed catalog
+├── commercial_solutions.md           # legacy commercial category
+├── breach_monitoring.md              # legacy breach category
+├── ranking_criteria.md               # ranking methodology
+├── research/
+│   └── automation_scripts.md         # automation usage notes
+├── categories/
+│   ├── osint_tools.md
+│   ├── monitoring_tools.md
+│   └── search_engines.md
+├── rsearch/
+│   ├── README.md
+│   ├── CATALOG.md                    # generated
+│   ├── STATUS.json                   # generated
+│   ├── CHANGELOG.md                  # generated
+│   ├── RESEARCH_PROPOSAL.md
+│   ├── SOURCES.md
+│   ├── RECONCILIATION.md
+│   ├── registry/
+│   │   ├── tools.json
+│   │   └── exclusions.json
+│   ├── automation/
+│   │   ├── refresh_catalog.py
+│   │   ├── discover_candidates.py
+│   │   ├── queries.json
+│   │   ├── test_research.py
+│   │   └── watch.sh
+│   └── candidates/                   # staged, review-only
+└── .github/workflows/
+    └── research-auto-update.yml      # cron: every 6 hours
+```
+
+---
+
+## Automatic updates
+
+### Hosted automation
+
+[`.github/workflows/research-auto-update.yml`](.github/workflows/research-auto-update.yml) runs every 6 hours (`17 */6 * * *`, UTC). On each run it:
+
+1. Runs offline unit tests.
+2. Refreshes GitHub/HTTP metadata for verified tools.
+3. Discovers new candidates from GitHub search and DuckDuckGo HTML.
+4. Writes candidates to `rsearch/candidates/` for human review.
+5. Regenerates `CATALOG.md`, `STATUS.json`, and `CHANGELOG.md`.
+6. Commits only when generated output actually changes.
+
+New candidates are **never** auto-promoted into the verified registry.
+
+### Local commands
+
+```sh
+# Offline validation and rendering
+python3 -m unittest discover -s rsearch/automation -p 'test_*.py' -v
+python3 rsearch/automation/refresh_catalog.py --offline
+
+# Live refresh (GITHUB_TOKEN optional, raises rate limits)
+GITHUB_TOKEN=... python3 rsearch/automation/refresh_catalog.py
+python3 rsearch/automation/discover_candidates.py
+
+# Local continuous loop, 6-hour interval by default
+INTERVAL=21600 sh rsearch/automation/watch.sh
+```
+
+---
+
+## Ranking system
+
+Each tool is scored on five equally weighted criteria:
+
+1. Feature completeness
+2. Platform compatibility
+3. Community adoption
+4. Update frequency
+5. Documentation quality
+
+| Score | Meaning |
+|---|---|
+| ⭐⭐⭐⭐⭐ / 5 | Excellent across all criteria, primary-source verified |
+| ⭐⭐⭐⭐ / 4 | Strong with minor limitations |
+| ⭐⭐⭐ / 3 | Useful niche tool |
+| ⭐⭐ / 2 | Basic or orientation-only |
+| ⭐ / 1 | Experimental or very specialized |
+
+Full methodology: [`ranking_criteria.md`](ranking_criteria.md).
+
+---
+
+## Platform support
+
+| Category | Windows | Linux | Notes |
+|---|---|---|---|
+| OSINT Automation & Frameworks | SpiderFoot | SpiderFoot, Darkdump, TorBot | Darkdump is Linux-first |
+| Exposure Monitoring | Darkwatch | Darkwatch, TorBot | TorBot is cross-listed |
+| Search Engines & Directories | via Tor Browser | via Tor Browser | Onion addresses churn |
+| Breach & Credential Monitoring | web/API | web/API | HIBP, Intelligence X |
+| Commercial Solutions | dashboards/API | dashboards/API | web-based |
+| OSINT & Reconnaissance | Python/web | native | theHarvester, Recon-ng, Maltego, OSINT Framework |
+| Attack Surface Intelligence | web/API | web/API | Shodan, Censys |
+| Onion Service Assessment | limited | native | OnionScan uses Go + Tor |
+| Leak Site Tracking | web/API | native/container | dls-monitor uses GitHub Actions |
+| Onion Search & Discovery | via Tor Browser | via Tor Browser | verify addresses first |
+| Privacy & Research Environment | Tor Browser, Tails host | all tools | Qubes is Linux-host only |
+
+Platform legend: ✅ full support · ❌ unsupported · 🌐 via browser/Tor · ⚠️ verify before use.
+
+---
+
+## Deduplication policy
+
+1. Identity is normalized from name, canonical URL, GitHub `owner/repo`, and aliases.
+2. Every new tool is checked against `rsearch/registry/tools.json` **and** `rsearch/registry/exclusions.json`.
+3. Any collision fails the offline test suite and blocks catalog generation.
+4. Discovery output is staged only; a human promotes entries after primary-source verification.
+
+Current state: 0 duplicate collisions, 20/20 new tools with evidence URLs.
+
+---
+
+## Contributing
+
+See [`CONTRIBUTING.md`](CONTRIBUTING.md). In short:
+
+1. Check the exclusion registry first.
+2. Add or update a JSON record in `rsearch/registry/tools.json`.
+3. Include at least one primary-source `https://` URL and a verification date.
+4. Run the offline tests and refresh script.
+5. Commit the registry and regenerated catalog files together.
+
+Legacy files may still be edited directly, but conflicts should be recorded in [`rsearch/RECONCILIATION.md`](rsearch/RECONCILIATION.md).
+
+---
+
+## Legal and ethical notice
+
+- Research, defensive security, and journalism only.
+- No weaponized exploit code, stolen data, or instructions for unauthorized access.
+- Access only content you are permitted to access; comply with all applicable laws.
+- Leak-site metadata is for exposure awareness, not for retrieving or redistributing leaked content.
+- Scan onion services only when you operate them or have explicit authorization.
+
+---
+
+*Maintained with the goal of being the most transparent, reproducible dark-web research catalog on GitHub. Star ⭐ the repo to support continuous verification.*
+
+*Last updated: 2026-11-23 (UTC)*

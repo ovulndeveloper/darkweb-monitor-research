@@ -1,62 +1,30 @@
-# Automation Scripts for Dark Web Monitor Repo
+# Automation Scripts
 
-## Purpose
+The placeholder scripts below were replaced by a real, testable pipeline in [`rsearch/`](../rsearch/README.md).
 
-Automated scripts to keep the dark web monitor research repository updated with the latest tools and information.
+## Live scripts
 
-## Available Scripts
+| Script | Purpose |
+|---|---|
+| [`rsearch/automation/refresh_catalog.py`](../rsearch/automation/refresh_catalog.py) | Validates the registry, refreshes GitHub/HTTP metadata, renders `CATALOG.md`, `STATUS.json`, and `CHANGELOG.md` |
+| [`rsearch/automation/discover_candidates.py`](../rsearch/automation/discover_candidates.py) | Discovers candidates from GitHub search and DuckDuckGo HTML, deduplicates, and stages them in `rsearch/candidates/` |
+| [`rsearch/automation/test_research.py`](../rsearch/automation/test_research.py) | Offline tests for normalization, dedupe, exclusions, evidence, and catalog completeness |
+| [`rsearch/automation/watch.sh`](../rsearch/automation/watch.sh) | Optional local infinite loop for continuous refreshes |
+| [`.github/workflows/research-auto-update.yml`](../.github/workflows/research-auto-update.yml) | Hosted 6-hour schedule with conditional commit |
 
-### update_tools_catalog.py
+## Usage
 
-```python
-#!/usr/bin/env python3
-"""Update the tools_catalog.md with latest dark web monitoring tools."""
-
-import json
-import re
-from datetime import datetime
-
-
-def update_catalog():
-    """Fetch and update tool data from various sources."""
-    # TODO: Implement automated tool fetching
-    pass
-
-
-if __name__ == "__main__":
-    update_catalog()
+```sh
+# From the repository root
+python3 -m unittest discover -s rsearch/automation -p 'test_*.py' -v
+python3 rsearch/automation/refresh_catalog.py --offline
+GITHUB_TOKEN=... python3 rsearch/automation/refresh_catalog.py
+python3 rsearch/automation/discover_candidates.py
+INTERVAL=21600 sh rsearch/automation/watch.sh
 ```
 
-### check_updates.sh
+## Promotion gate
 
-```bash
-#!/bin/bash
-# Check for new dark web monitoring tools
-# - Search GitHub for new OSINT tools
-# - Verify platform support (Windows/Linux)
-# - Update rankings based on recent activity
-# - Generate updated tools_catalog.md
+Discovery never edits the verified registry. A human must check the primary source, assign an evidence URL and verification date, then add the tool to `rsearch/registry/tools.json`. The offline tests block duplicate or evidence-free entries.
 
-echo "Checking for dark web monitoring tool updates..."
-echo "Last check: $(date)"
-```
-
-## How to Use
-
-1. Run `bash research/automation_scripts.sh` to check for updates
-2. Review any new tools found
-3. Submit Pull Request to add/update tools
-4. Update the README with new information
-
-## Contributing Scripts
-
-- Fork the repository
-- Add your automation script in `research/automation_scripts.md`
-- Submit Pull Request with improved update mechanisms
-
-## Supported Automation
-
-- GitHub API searching for new repositories
-- Dark web tool databases
-- Community submissions via Issues
-- Weekly update checks
+*Last verified: 2026-11-23 (UTC)*
