@@ -209,3 +209,30 @@ Ranking scale:
 - ⭐ Experimental or very niche
 
 *Last verified: 2026-11-23 (UTC)*
+### Photon
+• GitHub: https://github.com/icyPhoton/Photon
+• Rank: ⭐⭐⭐⭐
+• Primary Focus: Advanced web crawling and analysis
+• Windows: ✅ (via Python)
+• Linux: ✅ (native)
+• Key Features:
+   - Advanced web crawling capabilities
+   - JavaScript rendering
+   - URL parameter extraction
+   - Dark web support via Tor
+   - Export to multiple formats
+• Best For: Advanced web intelligence, JavaScript-heavy dark web sites, SEO analysis
+
+### WeLeakInfo
+• Website: https://weleakinfo.com
+• Rank: ⭐⭐⭐
+• Primary Focus: Breach data lookup and verification
+• Windows: ✅ (web interface)
+• Linux: ✅ (web interface)
+• Key Features:
+   - Verified breach data database
+   - Email and password combination search
+   - Subscription-based access
+   - Daily updates
+   - Search history
+• Best For: Breach data verification, checking specific email/password combinations
