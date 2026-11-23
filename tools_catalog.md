@@ -432,3 +432,38 @@ Ranking scale:
    - Email and password search
    - Subscription-based
 • Best For: Breach data lookup, password checks
+### Spot-On
+• Website: https://spot-on.medium.com
+• Rank: ⭐⭐⭐
+• Primary Focus: Ransomware leak site monitoring
+• Windows: ✅ (web interface)
+• Linux: ✅ (web interface)
+• Key Features:
+   - Real-time leak site monitoring
+   - Keyword alerts
+   - Risk scoring
+• Best For: Ransomware leak site monitoring
+
+### DarkLayer
+• Website: https://darklayer.net
+• Rank: ⭐⭐⭐
+• Primary Focus: Dark web exposure monitoring
+• Windows: ✅ (web interface)
+• Linux: ✅ (web interface)
+• Key Features:
+   - Exposure monitoring
+   - Leak site tracking
+   - Risk assessment
+• Best For: Dark web exposure monitoring
+
+### OnionShare
+• GitHub: https://github.com/OnionShare
+• Rank: ⭐⭐⭐⭐
+• Primary Focus: Secure file sharing on Tor
+• Windows: ✅
+• Linux: ✅
+• Key Features:
+   - Secure file transfer over Tor
+   - Hosting anonymous websites
+   - Chat functionality
+• Best For: Secure file sharing, anonymous hosting
