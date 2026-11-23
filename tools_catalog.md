@@ -565,3 +565,16 @@ Ranking scale:
    - Email and password search
    - Subscription-based
 • Best For: Breach data lookup, password checks
+### BloodHound
+• GitHub: https://github.com/BloodHoundAD/BloodHound
+• Rank: ⭐⭐⭐⭐
+• Primary Focus: Active directory attack path mapping and monitoring
+• Windows: ✅ (native)
+• Linux: ✅ (via Mono)
+• Key Features:
+   - Attack path visualization
+   - Active directory reconnaissance
+   - Credential harvesting detection
+   - Graph database storage
+   - Neo4j backend
+• Best For: AD security assessment, attack path analysis, credential monitoring
