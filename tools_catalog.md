@@ -516,3 +516,52 @@ Ranking scale:
    - Email and password search
    - Subscription-based
 • Best For: Breach data lookup, password checks
+### theHarvester
+• GitHub: https://github.com/laramnesis/theHarvester
+• Rank: ⭐⭐⭐⭐
+• Primary Focus: Email extraction and reconnaissance
+• Windows: ✅ (via Python)
+• Linux: ✅ (native)
+• Key Features:
+   - Email extraction from search engines
+   - DNS enumeration
+   - Crawler for harvesting emails
+   - Multiple output formats
+• Best For: Email reconnaissance, footprinting, OSINT gathering
+
+### Recon-ng
+• GitHub: https://github.com/lanjelot/recon-ng
+• Rank: ⭐⭐⭐⭐
+• Primary Focus: Modular OSINT framework
+• Windows: ✅ (via Wine)
+• Linux: ✅ (native)
+• Key Features:
+   - Modular framework with plugins
+   - Database management
+   - Module system for extended functionality
+   - Dark web support via Tor
+• Best For: Comprehensive OSINT framework, modular reconnaissance
+
+### OSRFramework
+• GitHub: https://github.com/OSRFramework
+• Rank: ⭐⭐⭐
+• Primary Focus: OSINT tools collection
+• Windows: ✅ (via Python)
+• Linux: ✅ (native)
+• Key Features:
+   - Collection of OSINT tools
+   - Multiple data sources
+   - Command line interface
+• Best For: OSINT tool collection, various data sources
+
+### We Leak Info
+• Website: https://weleakinfo.com
+• Rank: ⭐⭐⭐
+• Primary Focus: Breach data lookup
+• Windows: ✅ (web interface)
+• Linux: ✅ (web interface)
+• Key Features:
+   - Verified breach database
+   - Email and password search
+   - Subscription-based
+• Best For: Breach data lookup, password checks
