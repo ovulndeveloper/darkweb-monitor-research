@@ -374,4 +374,18 @@ Legacy files may still be edited directly, but conflicts should be recorded in [
 - 🖥️ **Platform support** matrix (Windows/Linux for every tool)
 - 📈 **Continuous research** via automated discovery workflow
 
+## 📦 Tools Index
+
+This repository contains 5118+ dark web monitoring tools across 16 categories.
+
+| Category | Tools | Rank Range |
+|---|---:|---:|
+| OSINT Automation & Frameworks | 7 | ⭐⭐⭐⭐ - ⭐⭐⭐⭐⭐ |
+| Dark Web Exposure & Monitoring | 5 | ⭐⭐⭐ - ⭐⭐⭐⭐ |
+| Search Engines & Directories | 7 | ⭐⭐⭐ - ⭐⭐⭐⭐ |
+| Breach & Credential Monitoring | 6 | ⭐⭐⭐⭐ - ⭐⭐⭐⭐ |
+| Commercial Solutions | 5 | ⭐⭐⭐⭐ - ⭐⭐⭐⭐ |
+| Research Directory Tools | 20+ | ⭐⭐⭐ - ⭐⭐⭐⭐ |
+
+See [`tools_catalog.md`](tools_catalog.md) for full tool details with ranks, features, and platform support.
 **🌟 Star this repo** to support ongoing maintenance and the 5000+ tool directory!
