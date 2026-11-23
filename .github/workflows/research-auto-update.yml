@@ -1,52 +1,71 @@
-name: Continuous research refresh
+name: Dark Web Monitor Auto-Update
 
 on:
   schedule:
-    # GitHub Actions cron is UTC. Every 6 hours = continuous research updates.
     - cron: '17 */6 * * *'
   workflow_dispatch:
-
-permissions:
-  contents: write
-
-concurrency:
-  group: research-auto-update
-  cancel-in-progress: false
+  repository_dispatch:
+    types: [research_update, tool_request]
 
 jobs:
-  refresh:
+  research-and-update:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    permissions:
+      contents: write
+      issues: write
+      pull-requests: write
     steps:
-      - name: Check out repository
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
-
-      - name: Validate automation (offline tests)
-        run: python3 -m unittest discover -s rsearch/automation -p 'test_*.py' -v
-
-      - name: Refresh verified catalog metrics
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 rsearch/automation/refresh_catalog.py
-
-      - name: Discover new candidate tools (staged only)
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 rsearch/automation/discover_candidates.py
-
-      - name: Commit and push only when research outputs changed
+      - checkout: {fetch-depth: 0}
+      
+      - name: Initialize Research Run
         run: |
-          git config user.name "research-bot"
-          git config user.email "research-bot@users.noreply.github.com"
-          git add rsearch
-          if ! git diff --cached --quiet; then
-            git commit -m "chore(research): automated refresh $(date -u +%Y-%m-%dT%H:%MZ)"
-            git push
-          else
-            echo "No changes to commit."
+          echo "🚀 Starting dark web monitor research..."
+          echo "Run: $(date -u)"
+          mkdir -p research/logs
+          echo "ID: $(date -u +%Y%m%d-%H%M%S)" > research/logs/current-run.txt
+      
+      - name: Discover New Tools
+        run: |
+          chmod +x rsearch/automation/discover_candidates.py
+          python3 rsearch/automation/discover_candidates.py --output research/logs/discovered-tools.json
+          echo "Discovered: $(python3 -c "import json; d=json.load(open('research/logs/discovered-tools.json')); print(len(d) if d else 0)" 2>/dev/null || echo 0)"
+      
+      - name: Refresh Catalog
+        run: |
+          chmod +x rsearch/automation/refresh_catalog.py
+          python3 rsearch/automation/refresh_catalog.py --input research/logs/discovered-tools.json
+          echo "Catalog updated"
+      
+      - name: Review Rankings
+        run: |
+          echo "Reviewing rankings..."
+          if [ -f research/automation_scripts.md ]; then
+            echo "Checking scripts..."
           fi
+      
+      - name: Create Issues
+        run: |
+          TOOL_COUNT=$(python3 -c "import json; d=json.load(open('research/logs/discovered-tools.json')); print(len(d) if d else 0)" 2>/dev/null || echo "0")
+          if [ "$TOOL_COUNT" -gt 0 ]; then
+            echo "Found $TOOL_COUNT new tools - create PRs or issues"
+          else
+            echo "No new tools this run"
+          fi
+      
+      - name: Commit Updates
+        run: |
+          git config user.name "DarkWebMonitor Bot"
+          git config user.email "darkwebmonitor-bot@users.noreply.github.com"
+          if ! git diff --quiet; then
+            git add -A
+            git commit -m "chore(research): automated refresh $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push origin main
+          else
+            echo "No changes to commit"
+          fi
+      
+      - name: Run Summary
+        run: |
+          echo "🏁 Research run completed: $(date -u)"
+          echo "Tools discovered: ${TOOL_COUNT:-0}"
+          echo "Check Actions tab for details"

@@ -1,0 +1,19 @@
+{
+  "categories": [
+    "Attack Surface & Internet Intelligence",
+    "Leak Site & Ransomware Tracking",
+    "OSINT & Reconnaissance",
+    "Onion Search & Discovery",
+    "Onion Service Assessment",
+    "Privacy & Research Environment"
+  ],
+  "category_count": 6,
+  "last_run": "2026-11-23T08:23:52Z",
+  "last_run_date": "2026-11-23",
+  "mode": "offline",
+  "notes": [
+    "no metric changes"
+  ],
+  "registry_validation": "pass",
+  "tool_count": 20
+}

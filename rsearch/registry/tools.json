@@ -1,364 +1,716 @@
 {
-  "schema_version": 1,
-  "description": "New tools researched for rsearch/. Entries must not duplicate tools already documented in README.md, tools_catalog.md, or categories/.",
   "compiled": "2026-11-23",
+  "description": "New tools researched for rsearch/. Entries must not duplicate tools already documented in README.md, tools_catalog.md, or categories/.",
+  "schema_version": 1,
   "tools": [
     {
-      "id": "theharvester",
-      "name": "theHarvester",
+      "aliases": [
+        "theHarvester",
+        "the harvester",
+        "https://www.edge-security.com/"
+      ],
+      "capabilities": [
+        "67 discovery sources in current README",
+        "P0 passive / P1 DNS / P2 active activity classes",
+        "CLI, local REST API, HarvestView UI",
+        "JSONL + SQLite evidence store",
+        "Optional Shodan, Censys, HIBP, Intelligence X integrations"
+      ],
       "category": "OSINT & Reconnaissance",
+      "evidence": [
+        "https://github.com/laramies/theHarvester"
+      ],
+      "id": "theharvester",
+      "license": "GPL-2.0",
+      "metrics": {
+        "forks": 2753,
+        "source": "GitHub API, 2026-11-23",
+        "stars": 18390
+      },
+      "name": "theHarvester",
+      "platforms": {
+        "linux": "yes",
+        "macos": "yes",
+        "windows": "via Python/uv"
+      },
+      "rank": 5,
+      "repo": "laramies/theHarvester",
+      "safety_note": "Run only against targets you own or have explicit authorization to assess.",
+      "status": "active",
+      "summary": "Gathers OSINT about a domain or organization from search engines, certificate transparency logs, DNS datasets, code repositories, and threat-intelligence providers; normalizes hostnames, emails, IPs, URLs, ASNs, people, and breach names.",
       "type": "open-source",
       "url": "https://github.com/laramies/theHarvester",
-      "repo": "laramies/theHarvester",
-      "aliases": ["theHarvester", "the harvester", "https://www.edge-security.com/"],
-      "platforms": {"windows": "via Python/uv", "linux": "yes", "macos": "yes"},
-      "license": "GPL-2.0",
-      "rank": 5,
-      "summary": "Gathers OSINT about a domain or organization from search engines, certificate transparency logs, DNS datasets, code repositories, and threat-intelligence providers; normalizes hostnames, emails, IPs, URLs, ASNs, people, and breach names.",
-      "capabilities": ["67 discovery sources in current README", "P0 passive / P1 DNS / P2 active activity classes", "CLI, local REST API, HarvestView UI", "JSONL + SQLite evidence store", "Optional Shodan, Censys, HIBP, Intelligence X integrations"],
-      "evidence": ["https://github.com/laramies/theHarvester"],
-      "metrics": {"stars": 18390, "forks": 2753, "source": "GitHub API, 2026-11-23"},
-      "verified": "2026-11-23",
-      "status": "active",
-      "safety_note": "Run only against targets you own or have explicit authorization to assess."
+      "verified": "2026-11-23"
     },
     {
-      "id": "recon-ng",
-      "name": "Recon-ng",
+      "aliases": [
+        "Recon-ng",
+        "recon_ng",
+        "ReconNG"
+      ],
+      "capabilities": [
+        "Modular recon framework",
+        "CLI and recon-web",
+        "Python module development",
+        "Explicitly scoped to open-source reconnaissance, not exploitation"
+      ],
       "category": "OSINT & Reconnaissance",
+      "evidence": [
+        "https://github.com/lanmaster53/recon-ng"
+      ],
+      "id": "recon-ng",
+      "license": "GPL-3.0",
+      "metrics": {
+        "forks": 946,
+        "source": "GitHub API, 2026-11-23",
+        "stars": 6065
+      },
+      "name": "Recon-ng",
+      "platforms": {
+        "linux": "yes",
+        "macos": "yes",
+        "windows": "via Python"
+      },
+      "rank": 4,
+      "repo": "lanmaster53/recon-ng",
+      "safety_note": "Use only with authorized scope; the project itself directs exploitation work to other tools.",
+      "status": "active",
+      "summary": "Modular web-based open-source reconnaissance framework with a Metasploit-like console, CLI, and web interface.",
       "type": "open-source",
       "url": "https://github.com/lanmaster53/recon-ng",
-      "repo": "lanmaster53/recon-ng",
-      "aliases": ["Recon-ng", "recon_ng", "ReconNG"],
-      "platforms": {"windows": "via Python", "linux": "yes", "macos": "yes"},
-      "license": "GPL-3.0",
-      "rank": 4,
-      "summary": "Modular web-based open-source reconnaissance framework with a Metasploit-like console, CLI, and web interface.",
-      "capabilities": ["Modular recon framework", "CLI and recon-web", "Python module development", "Explicitly scoped to open-source reconnaissance, not exploitation"],
-      "evidence": ["https://github.com/lanmaster53/recon-ng"],
-      "metrics": {"stars": 6065, "forks": 946, "source": "GitHub API, 2026-11-23"},
-      "verified": "2026-11-23",
-      "status": "active",
-      "safety_note": "Use only with authorized scope; the project itself directs exploitation work to other tools."
+      "verified": "2026-11-23"
     },
     {
-      "id": "maltego",
-      "name": "Maltego",
+      "aliases": [
+        "Maltego Graph",
+        "Maltego Search",
+        "Maltego Monitor",
+        "Transform Hub"
+      ],
+      "capabilities": [
+        "Entity/link graph analysis",
+        "Transform Hub with 120+ data providers",
+        "Real-time monitoring",
+        "Evidence capture",
+        "ISO 27001:2022 certified (vendor claim)"
+      ],
       "category": "OSINT & Reconnaissance",
+      "evidence": [
+        "https://www.maltego.com/",
+        "https://www.maltego.com/transform-hub/",
+        "https://www.maltego.com/monitor/"
+      ],
+      "id": "maltego",
+      "license": "proprietary",
+      "metrics": {
+        "data_partners": "120+ self-reported",
+        "source": "maltego.com homepage, 2026-11-23",
+        "users": "200K+ self-reported"
+      },
+      "name": "Maltego",
+      "platforms": {
+        "linux": "web",
+        "macos": "desktop/web",
+        "windows": "desktop/web"
+      },
+      "rank": 5,
+      "safety_note": "Commercial data access is subject to provider terms and applicable law.",
+      "status": "active",
+      "summary": "Investigation platform for link analysis and OSINT: Search, Graph, Monitor, Evidence, and a Transform Hub connecting 120+ data partners; the vendor describes searches spanning social media, dark web, identity, and breach data.",
       "type": "commercial/freemium",
       "url": "https://www.maltego.com/",
-      "aliases": ["Maltego Graph", "Maltego Search", "Maltego Monitor", "Transform Hub"],
-      "platforms": {"windows": "desktop/web", "linux": "web", "macos": "desktop/web"},
-      "license": "proprietary",
-      "rank": 5,
-      "summary": "Investigation platform for link analysis and OSINT: Search, Graph, Monitor, Evidence, and a Transform Hub connecting 120+ data partners; the vendor describes searches spanning social media, dark web, identity, and breach data.",
-      "capabilities": ["Entity/link graph analysis", "Transform Hub with 120+ data providers", "Real-time monitoring", "Evidence capture", "ISO 27001:2022 certified (vendor claim)"],
-      "evidence": ["https://www.maltego.com/", "https://www.maltego.com/transform-hub/", "https://www.maltego.com/monitor/"],
-      "metrics": {"users": "200K+ self-reported", "data_partners": "120+ self-reported", "source": "maltego.com homepage, 2026-11-23"},
-      "verified": "2026-11-23",
-      "status": "active",
-      "safety_note": "Commercial data access is subject to provider terms and applicable law."
+      "verified": "2026-11-23"
     },
     {
-      "id": "osint-framework",
-      "name": "OSINT Framework",
+      "aliases": [
+        "OSINTFramework",
+        "osintframework.com",
+        "https://github.com/lockfale/osint-framework"
+      ],
+      "capabilities": [
+        "Categorized free OSINT resource directory",
+        "Legend for T/D/R/M resource types",
+        "Issue-based contribution workflow"
+      ],
       "category": "OSINT & Reconnaissance",
+      "evidence": [
+        "https://osintframework.com/",
+        "https://github.com/lockfale/osint-framework"
+      ],
+      "id": "osint-framework",
+      "license": "unspecified",
+      "metrics": {},
+      "name": "OSINT Framework",
+      "platforms": {
+        "linux": "web",
+        "macos": "web",
+        "windows": "web"
+      },
+      "rank": 4,
+      "repo": "lockfale/osint-framework",
+      "status": "active",
+      "summary": "Community-maintained directory of free OSINT tools and resources, with markers for local tools, Google dorks, registration requirements, and manual URL editing.",
       "type": "directory",
       "url": "https://osintframework.com/",
-      "repo": "lockfale/osint-framework",
-      "aliases": ["OSINTFramework", "osintframework.com", "https://github.com/lockfale/osint-framework"],
-      "platforms": {"windows": "web", "linux": "web", "macos": "web"},
-      "license": "unspecified",
-      "rank": 4,
-      "summary": "Community-maintained directory of free OSINT tools and resources, with markers for local tools, Google dorks, registration requirements, and manual URL editing.",
-      "capabilities": ["Categorized free OSINT resource directory", "Legend for T/D/R/M resource types", "Issue-based contribution workflow"],
-      "evidence": ["https://osintframework.com/", "https://github.com/lockfale/osint-framework"],
-      "metrics": {},
-      "verified": "2026-11-23",
-      "status": "active"
+      "verified": "2026-11-23"
     },
     {
-      "id": "shodan",
-      "name": "Shodan",
+      "aliases": [
+        "Shodan Monitor",
+        "shodan.io",
+        "Shodan Search Engine"
+      ],
+      "capabilities": [
+        "Internet-wide device/service search",
+        "Shodan Monitor with real-time notifications",
+        "Developer API, bulk data, images, snippets",
+        "Browser extensions"
+      ],
       "category": "Attack Surface & Internet Intelligence",
+      "evidence": [
+        "https://www.shodan.io/",
+        "https://developer.shodan.io",
+        "https://monitor.shodan.io/"
+      ],
+      "id": "shodan",
+      "license": "proprietary",
+      "metrics": {
+        "source": "shodan.io homepage, 2026-11-23",
+        "users": "3M+ registered self-reported"
+      },
+      "name": "Shodan",
+      "platforms": {
+        "linux": "web/API",
+        "macos": "web/API",
+        "windows": "web/API"
+      },
+      "rank": 5,
+      "safety_note": "Scanning and enrichment must stay inside authorized scope.",
+      "status": "active",
+      "summary": "Search engine for internet-connected devices and services, with monitoring of exposed assets, maps, bulk data, and a developer API. Not an onion crawler; complementary for correlating onion infrastructure with clearnet exposure.",
       "type": "commercial/freemium",
       "url": "https://www.shodan.io/",
-      "aliases": ["Shodan Monitor", "shodan.io", "Shodan Search Engine"],
-      "platforms": {"windows": "web/API", "linux": "web/API", "macos": "web/API"},
-      "license": "proprietary",
-      "rank": 5,
-      "summary": "Search engine for internet-connected devices and services, with monitoring of exposed assets, maps, bulk data, and a developer API. Not an onion crawler; complementary for correlating onion infrastructure with clearnet exposure.",
-      "capabilities": ["Internet-wide device/service search", "Shodan Monitor with real-time notifications", "Developer API, bulk data, images, snippets", "Browser extensions"],
-      "evidence": ["https://www.shodan.io/", "https://developer.shodan.io", "https://monitor.shodan.io/"],
-      "metrics": {"users": "3M+ registered self-reported", "source": "shodan.io homepage, 2026-11-23"},
-      "verified": "2026-11-23",
-      "status": "active",
-      "safety_note": "Scanning and enrichment must stay inside authorized scope."
+      "verified": "2026-11-23"
     },
     {
-      "id": "censys",
-      "name": "Censys",
+      "aliases": [
+        "Censys Search",
+        "censys.com",
+        "Censys ARC",
+        "https://censys.com/"
+      ],
+      "capabilities": [
+        "Censys Search",
+        "Attack Surface Management",
+        "Adversary Investigation",
+        "Internet Map",
+        "ARC threat research and advisories"
+      ],
       "category": "Attack Surface & Internet Intelligence",
+      "evidence": [
+        "https://censys.io/",
+        "https://censys.com/product/censys-search/",
+        "https://censys.com/product/adversary-investigation/"
+      ],
+      "id": "censys",
+      "license": "proprietary",
+      "metrics": {},
+      "name": "Censys",
+      "platforms": {
+        "linux": "web/API",
+        "macos": "web/API",
+        "windows": "web/API"
+      },
+      "rank": 5,
+      "status": "active",
+      "summary": "Internet intelligence and exposure-management platform covering IPs, ports/services, certificates, websites, and DNS, with adversary investigation and rapid-response research.",
       "type": "commercial/freemium",
       "url": "https://censys.io/",
-      "aliases": ["Censys Search", "censys.com", "Censys ARC", "https://censys.com/"],
-      "platforms": {"windows": "web/API", "linux": "web/API", "macos": "web/API"},
-      "license": "proprietary",
-      "rank": 5,
-      "summary": "Internet intelligence and exposure-management platform covering IPs, ports/services, certificates, websites, and DNS, with adversary investigation and rapid-response research.",
-      "capabilities": ["Censys Search", "Attack Surface Management", "Adversary Investigation", "Internet Map", "ARC threat research and advisories"],
-      "evidence": ["https://censys.io/", "https://censys.com/product/censys-search/", "https://censys.com/product/adversary-investigation/"],
-      "metrics": {},
-      "verified": "2026-11-23",
-      "status": "active"
+      "verified": "2026-11-23"
     },
     {
-      "id": "onionscan",
-      "name": "OnionScan",
+      "aliases": [
+        "OnionScan",
+        "onion scan",
+        "OnionScan Correlation Lab"
+      ],
+      "capabilities": [
+        "Privacy/opsec misconfiguration checks",
+        "JSON reports",
+        "Configurable scans via Tor SOCKS proxy",
+        "Correlation Lab for tagging identity correlations"
+      ],
       "category": "Onion Service Assessment",
+      "evidence": [
+        "https://github.com/s-rah/onionscan"
+      ],
+      "id": "onionscan",
+      "license": "NOASSERTION (check repository LICENSE)",
+      "metrics": {
+        "forks": 625,
+        "source": "GitHub API, 2026-11-23",
+        "stars": 3323
+      },
+      "name": "OnionScan",
+      "platforms": {
+        "linux": "yes",
+        "macos": "yes",
+        "windows": "limited (Go/Tor)"
+      },
+      "rank": 4,
+      "repo": "s-rah/onionscan",
+      "safety_note": "README references Go 1.6/1.7; verify modern build support. Only assess services you operate or are authorized to test.",
+      "status": "active-but-old-toolchain",
+      "summary": "Open-source tool for investigating onion services: detects operational-security leaks and misconfigurations and supports researchers tracking dark web sites; includes a correlation lab.",
       "type": "open-source",
       "url": "https://github.com/s-rah/onionscan",
-      "repo": "s-rah/onionscan",
-      "aliases": ["OnionScan", "onion scan", "OnionScan Correlation Lab"],
-      "platforms": {"windows": "limited (Go/Tor)", "linux": "yes", "macos": "yes"},
-      "license": "NOASSERTION (check repository LICENSE)",
-      "rank": 4,
-      "summary": "Open-source tool for investigating onion services: detects operational-security leaks and misconfigurations and supports researchers tracking dark web sites; includes a correlation lab.",
-      "capabilities": ["Privacy/opsec misconfiguration checks", "JSON reports", "Configurable scans via Tor SOCKS proxy", "Correlation Lab for tagging identity correlations"],
-      "evidence": ["https://github.com/s-rah/onionscan"],
-      "metrics": {"stars": 3323, "forks": 625, "source": "GitHub API, 2026-11-23"},
-      "verified": "2026-11-23",
-      "status": "active-but-old-toolchain",
-      "safety_note": "README references Go 1.6/1.7; verify modern build support. Only assess services you operate or are authorized to test."
+      "verified": "2026-11-23"
     },
     {
-      "id": "ransomware-live",
-      "name": "ransomware.live",
+      "aliases": [
+        "ransomware.live",
+        "Ransomware.live",
+        "https://github.com/jmousqueton/ransomware.live",
+        "https://www.ransomware.live/api"
+      ],
+      "capabilities": [
+        "24/7 leak-site monitoring",
+        "Victim/group/activity dashboards",
+        "API and RSS",
+        "Infostealer and disclosure datasets",
+        "Self-hostable scraper/parser (repo)"
+      ],
       "category": "Leak Site & Ransomware Tracking",
+      "evidence": [
+        "https://www.ransomware.live/",
+        "https://www.ransomware.live/api",
+        "https://github.com/JMousqueton/ransomware.live"
+      ],
+      "id": "ransomware-live",
+      "license": "Unlicense",
+      "metrics": {
+        "groups": 428,
+        "source": "site + GitHub API, 2026-11-23",
+        "stars": 374,
+        "victims": 34452
+      },
+      "name": "ransomware.live",
+      "platforms": {
+        "linux": "web/API + local scraper",
+        "macos": "web/API + local scraper",
+        "windows": "web/API"
+      },
+      "rank": 5,
+      "repo": "JMousqueton/ransomware.live",
+      "safety_note": "Do not download or redistribute leaked material; use metadata for defensive monitoring only.",
+      "status": "active",
+      "summary": "Public leak-site monitor with victim and group databases, negotiation and ransom-note sections, YARA/KQL/IoC/vulnerability resources, RSS, and an API. Site reported 34,452 victims and 428 groups on 2026-11-23.",
       "type": "open-source + public service",
       "url": "https://www.ransomware.live/",
-      "repo": "JMousqueton/ransomware.live",
-      "aliases": ["ransomware.live", "Ransomware.live", "https://github.com/jmousqueton/ransomware.live", "https://www.ransomware.live/api"],
-      "platforms": {"windows": "web/API", "linux": "web/API + local scraper", "macos": "web/API + local scraper"},
-      "license": "Unlicense",
-      "rank": 5,
-      "summary": "Public leak-site monitor with victim and group databases, negotiation and ransom-note sections, YARA/KQL/IoC/vulnerability resources, RSS, and an API. Site reported 34,452 victims and 428 groups on 2026-11-23.",
-      "capabilities": ["24/7 leak-site monitoring", "Victim/group/activity dashboards", "API and RSS", "Infostealer and disclosure datasets", "Self-hostable scraper/parser (repo)"],
-      "evidence": ["https://www.ransomware.live/", "https://www.ransomware.live/api", "https://github.com/JMousqueton/ransomware.live"],
-      "metrics": {"victims": 34452, "groups": 428, "stars": 374, "source": "site + GitHub API, 2026-11-23"},
-      "verified": "2026-11-23",
-      "status": "active",
-      "safety_note": "Do not download or redistribute leaked material; use metadata for defensive monitoring only."
+      "verified": "2026-11-23"
     },
     {
-      "id": "dls-monitor",
-      "name": "dls-monitor",
+      "aliases": [
+        "dls-monitor",
+        "DLS-MONITOR",
+        "Data Leak Sites monitor"
+      ],
+      "capabilities": [
+        "GitHub Actions + service container automation",
+        "groups.json / posts.json structured outputs",
+        "Docsify frontend",
+        "Parser health checks and Uptime Kuma import"
+      ],
       "category": "Leak Site & Ransomware Tracking",
+      "evidence": [
+        "https://github.com/cyberiskvision/dls-monitor"
+      ],
+      "id": "dls-monitor",
+      "license": "MIT (API metadata); README also says unlicense - verify",
+      "metrics": {
+        "forks": 3,
+        "source": "GitHub API, 2026-11-23",
+        "stars": 33
+      },
+      "name": "dls-monitor",
+      "platforms": {
+        "linux": "native/container",
+        "macos": "container",
+        "windows": "GitHub Actions/container"
+      },
+      "rank": 4,
+      "repo": "cyberiskvision/dls-monitor",
+      "safety_note": "Repository warns its generated content reflects real threat-actor hosting; view at your own risk and avoid direct interaction.",
+      "status": "active",
+      "summary": "Continuously visits and parses public ransomware Data Leak Sites via GitHub Actions, publishing groups.json and posts.json with near-real-time claim feeds and optional screenshots/graphs.",
       "type": "open-source",
       "url": "https://github.com/cyberiskvision/dls-monitor",
-      "repo": "cyberiskvision/dls-monitor",
-      "aliases": ["dls-monitor", "DLS-MONITOR", "Data Leak Sites monitor"],
-      "platforms": {"windows": "GitHub Actions/container", "linux": "native/container", "macos": "container"},
-      "license": "MIT (API metadata); README also says unlicense - verify",
-      "rank": 4,
-      "summary": "Continuously visits and parses public ransomware Data Leak Sites via GitHub Actions, publishing groups.json and posts.json with near-real-time claim feeds and optional screenshots/graphs.",
-      "capabilities": ["GitHub Actions + service container automation", "groups.json / posts.json structured outputs", "Docsify frontend", "Parser health checks and Uptime Kuma import"],
-      "evidence": ["https://github.com/cyberiskvision/dls-monitor"],
-      "metrics": {"stars": 33, "forks": 3, "source": "GitHub API, 2026-11-23"},
-      "verified": "2026-11-23",
-      "status": "active",
-      "safety_note": "Repository warns its generated content reflects real threat-actor hosting; view at your own risk and avoid direct interaction."
+      "verified": "2026-11-23"
     },
     {
-      "id": "haystak",
-      "name": "Haystak",
+      "aliases": [
+        "Haystak",
+        "haystak"
+      ],
+      "capabilities": [
+        "V3 onion indexing",
+        "Content-type filtering",
+        "Clearnet and Tor access claimed",
+        "Premium tier"
+      ],
       "category": "Onion Search & Discovery",
+      "evidence": [
+        "https://socradar.io/blog/top-10-dark-web-search-engines-in-2025/",
+        "https://factually.co/fact-checks/technology/active-verified-dark-web-search-engine-onion-mirrors-8af36f"
+      ],
+      "id": "haystak",
+      "license": "service",
+      "metrics": {
+        "self_reported_onion_sites": "260K+",
+        "self_reported_pages": "1.5B+"
+      },
+      "name": "Haystak",
+      "platforms": {
+        "linux": "via Tor/browser",
+        "macos": "via Tor/browser",
+        "windows": "via Tor/browser"
+      },
+      "rank": 4,
+      "safety_note": "https://haystak.com/ returned HTTP 404 during verification; re-verify the current address from a trusted directory before use.",
+      "status": "address-verify-needed",
+      "summary": "Onion search engine with V3 support and filter options; premium tier adds depth and filtering. Self-reported index of 1.5B+ pages / 260K+ onion sites is not independently verified.",
       "type": "search engine",
       "url": "https://haystak.com/",
-      "aliases": ["Haystak", "haystak"],
-      "platforms": {"windows": "via Tor/browser", "linux": "via Tor/browser", "macos": "via Tor/browser"},
-      "license": "service",
-      "rank": 4,
-      "summary": "Onion search engine with V3 support and filter options; premium tier adds depth and filtering. Self-reported index of 1.5B+ pages / 260K+ onion sites is not independently verified.",
-      "capabilities": ["V3 onion indexing", "Content-type filtering", "Clearnet and Tor access claimed", "Premium tier"],
-      "evidence": ["https://socradar.io/blog/top-10-dark-web-search-engines-in-2025/", "https://factually.co/fact-checks/technology/active-verified-dark-web-search-engine-onion-mirrors-8af36f"],
-      "metrics": {"self_reported_pages": "1.5B+", "self_reported_onion_sites": "260K+"},
-      "verified": "2026-11-23",
-      "status": "address-verify-needed",
-      "safety_note": "https://haystak.com/ returned HTTP 404 during verification; re-verify the current address from a trusted directory before use."
+      "verified": "2026-11-23"
     },
     {
-      "id": "duckduckgo-onion-service",
-      "name": "DuckDuckGo Onion Service",
+      "aliases": [
+        "DuckDuckGo onion",
+        "DDG onion mirror",
+        "http://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion"
+      ],
+      "capabilities": [
+        "Official V3 onion address",
+        "No-log search policy (vendor claim)",
+        "Default search in Tor Browser"
+      ],
       "category": "Onion Search & Discovery",
+      "evidence": [
+        "https://duckduckgo.com/onion",
+        "https://socradar.io/blog/top-10-dark-web-search-engines-in-2025/",
+        "https://factually.co/fact-checks/technology/active-verified-dark-web-search-engine-onion-mirrors-8af36f"
+      ],
+      "id": "duckduckgo-onion-service",
+      "license": "service",
+      "metrics": {},
+      "name": "DuckDuckGo Onion Service",
+      "platforms": {
+        "linux": "via Tor/browser",
+        "macos": "via Tor/browser",
+        "windows": "via Tor/browser"
+      },
+      "rank": 4,
+      "status": "active",
+      "summary": "Official V3 .onion endpoint for privacy-focused general web search, default in Tor Browser. Onion-specific indexing is limited; use dedicated engines for .onion discovery.",
       "type": "search engine",
       "url": "https://duckduckgo.com/onion",
-      "aliases": ["DuckDuckGo onion", "DDG onion mirror", "http://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion"],
-      "platforms": {"windows": "via Tor/browser", "linux": "via Tor/browser", "macos": "via Tor/browser"},
-      "license": "service",
-      "rank": 4,
-      "summary": "Official V3 .onion endpoint for privacy-focused general web search, default in Tor Browser. Onion-specific indexing is limited; use dedicated engines for .onion discovery.",
-      "capabilities": ["Official V3 onion address", "No-log search policy (vendor claim)", "Default search in Tor Browser"],
-      "evidence": ["https://duckduckgo.com/onion", "https://socradar.io/blog/top-10-dark-web-search-engines-in-2025/", "https://factually.co/fact-checks/technology/active-verified-dark-web-search-engine-onion-mirrors-8af36f"],
-      "metrics": {},
-      "verified": "2026-11-23",
-      "status": "active"
+      "verified": "2026-11-23"
     },
     {
-      "id": "tor66",
-      "name": "Tor66",
+      "aliases": [
+        "Tor66",
+        "tor66"
+      ],
+      "capabilities": [
+        "Categorized/sortable results",
+        "Fresh onions feed",
+        "User-submitted URLs",
+        "Dead-link pruning claimed"
+      ],
       "category": "Onion Search & Discovery",
+      "evidence": [
+        "https://socradar.io/blog/top-10-dark-web-search-engines-in-2025/",
+        "https://factually.co/fact-checks/technology/active-verified-dark-web-search-engine-onion-mirrors-8af36f"
+      ],
+      "id": "tor66",
+      "license": "service",
+      "metrics": {},
+      "name": "Tor66",
+      "platforms": {
+        "linux": "via Tor/browser",
+        "macos": "via Tor/browser",
+        "windows": "via Tor/browser"
+      },
+      "rank": 3,
+      "safety_note": "Verify the current address via a trusted directory; do not trust static mirror lists.",
+      "status": "address-verify-needed",
+      "summary": "Categorized onion index combining crawling with user submissions; useful for cross-verification and browsing by category. Mirrors change over time.",
       "type": "search engine/directory",
       "url": null,
-      "aliases": ["Tor66", "tor66"],
-      "platforms": {"windows": "via Tor/browser", "linux": "via Tor/browser", "macos": "via Tor/browser"},
-      "license": "service",
-      "rank": 3,
-      "summary": "Categorized onion index combining crawling with user submissions; useful for cross-verification and browsing by category. Mirrors change over time.",
-      "capabilities": ["Categorized/sortable results", "Fresh onions feed", "User-submitted URLs", "Dead-link pruning claimed"],
-      "evidence": ["https://socradar.io/blog/top-10-dark-web-search-engines-in-2025/", "https://factually.co/fact-checks/technology/active-verified-dark-web-search-engine-onion-mirrors-8af36f"],
-      "metrics": {},
-      "verified": "2026-11-23",
-      "status": "address-verify-needed",
-      "safety_note": "Verify the current address via a trusted directory; do not trust static mirror lists."
+      "verified": "2026-11-23"
     },
     {
-      "id": "excavator",
-      "name": "Excavator",
+      "aliases": [
+        "Excavator",
+        "excavator onion search"
+      ],
+      "capabilities": [
+        "No JavaScript",
+        "Freshness-oriented index",
+        "V3 support reported"
+      ],
       "category": "Onion Search & Discovery",
+      "evidence": [
+        "https://socradar.io/blog/top-10-dark-web-search-engines-in-2025/",
+        "https://factually.co/fact-checks/technology/active-verified-dark-web-search-engine-onion-mirrors-8af36f"
+      ],
+      "id": "excavator",
+      "license": "service",
+      "metrics": {},
+      "name": "Excavator",
+      "platforms": {
+        "linux": "via Tor/browser",
+        "macos": "via Tor/browser",
+        "windows": "via Tor/browser"
+      },
+      "rank": 3,
+      "safety_note": "Unfiltered results and reported ad abuse; not suitable for general or compliance-sensitive use.",
+      "status": "address-verify-needed",
+      "summary": "JavaScript-free onion search engine focused on index freshness. No content filtering; secondary sources report abusive paid ad slots. For experienced analysts with defined authorization only.",
       "type": "search engine",
       "url": null,
-      "aliases": ["Excavator", "excavator onion search"],
-      "platforms": {"windows": "via Tor/browser", "linux": "via Tor/browser", "macos": "via Tor/browser"},
-      "license": "service",
-      "rank": 3,
-      "summary": "JavaScript-free onion search engine focused on index freshness. No content filtering; secondary sources report abusive paid ad slots. For experienced analysts with defined authorization only.",
-      "capabilities": ["No JavaScript", "Freshness-oriented index", "V3 support reported"],
-      "evidence": ["https://socradar.io/blog/top-10-dark-web-search-engines-in-2025/", "https://factually.co/fact-checks/technology/active-verified-dark-web-search-engine-onion-mirrors-8af36f"],
-      "metrics": {},
-      "verified": "2026-11-23",
-      "status": "address-verify-needed",
-      "safety_note": "Unfiltered results and reported ad abuse; not suitable for general or compliance-sensitive use."
+      "verified": "2026-11-23"
     },
     {
-      "id": "onionland",
-      "name": "OnionLand",
+      "aliases": [
+        "OnionLand",
+        "OnionDir",
+        "onionland.io"
+      ],
+      "capabilities": [
+        "Tor + I2P + clearnet indexing",
+        "Online/offline link indicators",
+        "Autocomplete"
+      ],
       "category": "Onion Search & Discovery",
+      "evidence": [
+        "https://socradar.io/blog/top-10-dark-web-search-engines-in-2025/",
+        "https://factually.co/fact-checks/technology/active-verified-dark-web-search-engine-onion-mirrors-8af36f"
+      ],
+      "id": "onionland",
+      "license": "service",
+      "metrics": {},
+      "name": "OnionLand",
+      "platforms": {
+        "linux": "web/Tor",
+        "macos": "web/Tor",
+        "windows": "web/Tor"
+      },
+      "rank": 3,
+      "status": "verify-independently",
+      "summary": "Multi-network search indexing Tor onion sites, I2P, and some clearnet content with link status indicators. Some features require JavaScript, and secondary reviews flag elevated scam prevalence.",
       "type": "search engine",
       "url": "https://onionland.io",
-      "aliases": ["OnionLand", "OnionDir", "onionland.io"],
-      "platforms": {"windows": "web/Tor", "linux": "web/Tor", "macos": "web/Tor"},
-      "license": "service",
-      "rank": 3,
-      "summary": "Multi-network search indexing Tor onion sites, I2P, and some clearnet content with link status indicators. Some features require JavaScript, and secondary reviews flag elevated scam prevalence.",
-      "capabilities": ["Tor + I2P + clearnet indexing", "Online/offline link indicators", "Autocomplete"],
-      "evidence": ["https://socradar.io/blog/top-10-dark-web-search-engines-in-2025/", "https://factually.co/fact-checks/technology/active-verified-dark-web-search-engine-onion-mirrors-8af36f"],
-      "metrics": {},
-      "verified": "2026-11-23",
-      "status": "verify-independently"
+      "verified": "2026-11-23"
     },
     {
-      "id": "vormweb",
-      "name": "VormWeb",
+      "aliases": [
+        "VormWeb",
+        "vormweb"
+      ],
+      "capabilities": [
+        "Risk-labeled results",
+        "No JavaScript or tracking claimed",
+        "Clearnet and onion access reported",
+        "Privacy blog/news"
+      ],
       "category": "Onion Search & Discovery",
+      "evidence": [
+        "https://socradar.io/blog/top-10-dark-web-search-engines-in-2025/"
+      ],
+      "id": "vormweb",
+      "license": "service",
+      "metrics": {},
+      "name": "VormWeb",
+      "platforms": {
+        "linux": "web/Tor",
+        "macos": "web/Tor",
+        "windows": "web/Tor"
+      },
+      "rank": 3,
+      "status": "verify-independently",
+      "summary": "Onion search engine that labels results as verified/warning/risky and avoids JavaScript and tracking; labeling is a navigation aid, not hard filtering.",
       "type": "search engine",
       "url": null,
-      "aliases": ["VormWeb", "vormweb"],
-      "platforms": {"windows": "web/Tor", "linux": "web/Tor", "macos": "web/Tor"},
-      "license": "service",
-      "rank": 3,
-      "summary": "Onion search engine that labels results as verified/warning/risky and avoids JavaScript and tracking; labeling is a navigation aid, not hard filtering.",
-      "capabilities": ["Risk-labeled results", "No JavaScript or tracking claimed", "Clearnet and onion access reported", "Privacy blog/news"],
-      "evidence": ["https://socradar.io/blog/top-10-dark-web-search-engines-in-2025/"],
-      "metrics": {},
-      "verified": "2026-11-23",
-      "status": "verify-independently"
+      "verified": "2026-11-23"
     },
     {
-      "id": "hidden-wiki",
-      "name": "The Hidden Wiki",
+      "aliases": [
+        "Hidden Wiki",
+        "the hidden wiki"
+      ],
+      "capabilities": [
+        "Categorized link directory",
+        "Availability checks claimed",
+        "Orientation before targeted search"
+      ],
       "category": "Onion Search & Discovery",
+      "evidence": [
+        "https://socradar.io/blog/top-10-dark-web-search-engines-in-2025/",
+        "https://factually.co/fact-checks/technology/active-verified-dark-web-search-engine-onion-mirrors-8af36f"
+      ],
+      "id": "hidden-wiki",
+      "license": "community",
+      "metrics": {},
+      "name": "The Hidden Wiki",
+      "platforms": {
+        "linux": "via Tor/browser",
+        "macos": "via Tor/browser",
+        "windows": "via Tor/browser"
+      },
+      "rank": 2,
+      "safety_note": "Fake versions are common; never treat a directory link as verified.",
+      "status": "verify-independently",
+      "summary": "Community-maintained category directory of onion links, not a crawl-based search engine. Useful for orientation only; multiple competing instances and outdated links exist.",
       "type": "directory",
       "url": null,
-      "aliases": ["Hidden Wiki", "the hidden wiki"],
-      "platforms": {"windows": "via Tor/browser", "linux": "via Tor/browser", "macos": "via Tor/browser"},
-      "license": "community",
-      "rank": 2,
-      "summary": "Community-maintained category directory of onion links, not a crawl-based search engine. Useful for orientation only; multiple competing instances and outdated links exist.",
-      "capabilities": ["Categorized link directory", "Availability checks claimed", "Orientation before targeted search"],
-      "evidence": ["https://socradar.io/blog/top-10-dark-web-search-engines-in-2025/", "https://factually.co/fact-checks/technology/active-verified-dark-web-search-engine-onion-mirrors-8af36f"],
-      "metrics": {},
-      "verified": "2026-11-23",
-      "status": "verify-independently",
-      "safety_note": "Fake versions are common; never treat a directory link as verified."
+      "verified": "2026-11-23"
     },
     {
-      "id": "tor-browser",
-      "name": "Tor Browser",
+      "aliases": [
+        "Tor Browser",
+        "TorBrowser",
+        "tor browser"
+      ],
+      "capabilities": [
+        "Three-layer onion routing",
+        "Per-site isolation",
+        "Fingerprinting resistance",
+        "Censorship circumvention",
+        "Official .onion access"
+      ],
       "category": "Privacy & Research Environment",
+      "evidence": [
+        "https://www.torproject.org/",
+        "https://www.torproject.org/download/"
+      ],
+      "id": "tor-browser",
+      "license": "BSD-style (Tor Project)",
+      "metrics": {},
+      "name": "Tor Browser",
+      "platforms": {
+        "linux": "yes",
+        "macos": "yes",
+        "windows": "yes"
+      },
+      "rank": 5,
+      "status": "active",
+      "summary": "Official privacy browser from the Tor Project: isolates sites, clears cookies/history on exit, blocks trackers, resists fingerprinting, and routes traffic over three relays; required for .onion access.",
       "type": "open-source",
       "url": "https://www.torproject.org/download/",
-      "aliases": ["Tor Browser", "TorBrowser", "tor browser"],
-      "platforms": {"windows": "yes", "linux": "yes", "macos": "yes"},
-      "license": "BSD-style (Tor Project)",
-      "rank": 5,
-      "summary": "Official privacy browser from the Tor Project: isolates sites, clears cookies/history on exit, blocks trackers, resists fingerprinting, and routes traffic over three relays; required for .onion access.",
-      "capabilities": ["Three-layer onion routing", "Per-site isolation", "Fingerprinting resistance", "Censorship circumvention", "Official .onion access"],
-      "evidence": ["https://www.torproject.org/", "https://www.torproject.org/download/"],
-      "metrics": {},
-      "verified": "2026-11-23",
-      "status": "active"
+      "verified": "2026-11-23"
     },
     {
-      "id": "tails",
-      "name": "Tails",
+      "aliases": [
+        "Tails OS",
+        "Tails",
+        "The Amnesic Incognito Live System"
+      ],
+      "capabilities": [
+        "Amnesic live USB",
+        "Tor-by-default networking",
+        "Safe-default communication tools",
+        "Free software, independently verifiable"
+      ],
       "category": "Privacy & Research Environment",
+      "evidence": [
+        "https://tails.net/",
+        "https://tails.net/about/index.en.html"
+      ],
+      "id": "tails",
+      "license": "GPL-3.0+ and others (mixed)",
+      "metrics": {},
+      "name": "Tails",
+      "platforms": {
+        "linux": "live USB host",
+        "macos": "live USB host",
+        "windows": "live USB host"
+      },
+      "rank": 5,
+      "status": "active",
+      "summary": "Portable Debian-based live OS that forces internet traffic through Tor and leaves no trace on the host when shut down; part of the Tor Project since 2024.",
       "type": "open-source",
       "url": "https://tails.net/",
-      "aliases": ["Tails OS", "Tails", "The Amnesic Incognito Live System"],
-      "platforms": {"windows": "live USB host", "linux": "live USB host", "macos": "live USB host"},
-      "license": "GPL-3.0+ and others (mixed)",
-      "rank": 5,
-      "summary": "Portable Debian-based live OS that forces internet traffic through Tor and leaves no trace on the host when shut down; part of the Tor Project since 2024.",
-      "capabilities": ["Amnesic live USB", "Tor-by-default networking", "Safe-default communication tools", "Free software, independently verifiable"],
-      "evidence": ["https://tails.net/", "https://tails.net/about/index.en.html"],
-      "metrics": {},
-      "verified": "2026-11-23",
-      "status": "active"
+      "verified": "2026-11-23"
     },
     {
-      "id": "whonix",
-      "name": "Whonix",
+      "aliases": [
+        "Whonix OS",
+        "Whonix Gateway",
+        "Whonix Workstation"
+      ],
+      "capabilities": [
+        "Gateway/workstation isolation",
+        "Tor-only traffic",
+        "Stream isolation",
+        "Keystroke/time fingerprint mitigations",
+        "Qubes integration"
+      ],
       "category": "Privacy & Research Environment",
+      "evidence": [
+        "https://www.whonix.org/",
+        "https://www.whonix.org/wiki/About"
+      ],
+      "id": "whonix",
+      "license": "OSI-approved mix",
+      "metrics": {},
+      "name": "Whonix",
+      "platforms": {
+        "linux": "VM host",
+        "macos": "VM host",
+        "qubes": "yes",
+        "windows": "VM host"
+      },
+      "rank": 5,
+      "status": "active",
+      "summary": "Dual-VM privacy OS (Gateway + Workstation) that forces all traffic through Tor, provides stream isolation and leak protection, and is based on Kicksecure.",
       "type": "open-source",
       "url": "https://www.whonix.org/",
-      "aliases": ["Whonix OS", "Whonix Gateway", "Whonix Workstation"],
-      "platforms": {"windows": "VM host", "linux": "VM host", "macos": "VM host", "qubes": "yes"},
-      "license": "OSI-approved mix",
-      "rank": 5,
-      "summary": "Dual-VM privacy OS (Gateway + Workstation) that forces all traffic through Tor, provides stream isolation and leak protection, and is based on Kicksecure.",
-      "capabilities": ["Gateway/workstation isolation", "Tor-only traffic", "Stream isolation", "Keystroke/time fingerprint mitigations", "Qubes integration"],
-      "evidence": ["https://www.whonix.org/", "https://www.whonix.org/wiki/About"],
-      "metrics": {},
-      "verified": "2026-11-23",
-      "status": "active"
+      "verified": "2026-11-23"
     },
     {
-      "id": "qubes-os",
-      "name": "Qubes OS",
+      "aliases": [
+        "Qubes",
+        "QubesOS"
+      ],
+      "capabilities": [
+        "Xen-based compartmentalization",
+        "Multiple OS templates",
+        "Whonix/Tor integration",
+        "Security bulletins and research program"
+      ],
       "category": "Privacy & Research Environment",
+      "evidence": [
+        "https://www.qubes-os.org/",
+        "https://www.qubes-os.org/downloads/"
+      ],
+      "id": "qubes-os",
+      "license": "GPL-2.0+ and others (mixed)",
+      "metrics": {
+        "advertised_version": "4.3.2"
+      },
+      "name": "Qubes OS",
+      "platforms": {
+        "linux": "yes (host)",
+        "macos": "no (host)",
+        "windows": "no (host)"
+      },
+      "rank": 5,
+      "status": "active",
+      "summary": "Security-oriented OS using Xen compartments (qubes) to isolate workloads; ships Whonix integration for anonymous Tor use. Version 4.3.2 was advertised on 2026-11-23.",
       "type": "open-source",
       "url": "https://www.qubes-os.org/",
-      "aliases": ["Qubes", "QubesOS"],
-      "platforms": {"windows": "no (host)", "linux": "yes (host)", "macos": "no (host)"},
-      "license": "GPL-2.0+ and others (mixed)",
-      "rank": 5,
-      "summary": "Security-oriented OS using Xen compartments (qubes) to isolate workloads; ships Whonix integration for anonymous Tor use. Version 4.3.2 was advertised on 2026-11-23.",
-      "capabilities": ["Xen-based compartmentalization", "Multiple OS templates", "Whonix/Tor integration", "Security bulletins and research program"],
-      "evidence": ["https://www.qubes-os.org/", "https://www.qubes-os.org/downloads/"],
-      "metrics": {"advertised_version": "4.3.2"},
-      "verified": "2026-11-23",
-      "status": "active"
+      "verified": "2026-11-23"
     }
   ]
 }

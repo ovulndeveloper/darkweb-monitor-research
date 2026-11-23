@@ -59,7 +59,10 @@ def norm_key(value: str) -> str:
     if "github.com/" in text:
         parts = text.split("github.com/", 1)[1].split("/")
         if len(parts) >= 2:
-            return "gh:" + parts[0] + "/" + parts[1]
+            owner = re.sub(r"[^a-z0-9-]", "-", parts[0]).strip("-")
+            repo = re.sub(r"\.git$", "", parts[1])
+            repo = re.sub(r"[^a-z0-9-]", "-", repo).strip("-")
+            return "gh:" + owner + "/" + repo
     return re.sub(r"[^a-z0-9./-]", "", text.replace("_", "-"))
 
 

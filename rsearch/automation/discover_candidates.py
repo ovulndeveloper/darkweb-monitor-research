@@ -17,7 +17,16 @@ import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
 
-from refresh_catalog import EXCLUSIONS, REGISTRY, ROOT, USER_AGENT, load_json, norm_key, write_json
+from refresh_catalog import (
+    EXCLUSIONS,
+    REGISTRY,
+    ROOT,
+    USER_AGENT,
+    load_json,
+    norm_key,
+    tool_keys,
+    write_json,
+)
 
 QUERIES = ROOT / "automation" / "queries.json"
 CANDIDATES = ROOT / "candidates"
