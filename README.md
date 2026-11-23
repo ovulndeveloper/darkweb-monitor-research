@@ -328,9 +328,9 @@ Platform legend: ✅ full support · ❌ unsupported · 🌐 via browser/Tor · 
 2. Every new tool is checked against `rsearch/registry/tools.json` **and** `rsearch/registry/exclusions.json`.
 3. Any collision fails the offline test suite and blocks catalog generation.
 4. Discovery output is staged only; a human promotes entries after primary-source verification.
-5. The generated `apps/` catalog applies the same normalized identity key globally, so each tool gets exactly one directory even when several source indexes list it.
+5. The `apps/` catalog applies the same normalized identity key globally, so each tool gets exactly one directory even when several source indexes list it.
 
-Current state: 0 duplicate collisions in `rsearch/`, 20/20 new tools with evidence URLs; `apps/` uniqueness is enforced by `apps/automation/test_apps.py`.
+Current state: 0 duplicate collisions in `rsearch/`, 20/20 new tools with evidence URLs; `apps/` uniqueness is checked manually before each URL addition.
 
 ---
 
@@ -342,7 +342,7 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md). In short:
 2. Add or update a JSON record in `rsearch/registry/tools.json`.
 3. Include at least one primary-source `https://` URL and a verification date.
 4. Run the offline tests and refresh script.
-5. Commit the registry and regenerated catalog files together.
+5. Commit the registry and all updated catalog/index files together.
 
 Legacy files may still be edited directly, but conflicts should be recorded in [`rsearch/RECONCILIATION.md`](rsearch/RECONCILIATION.md).
 
