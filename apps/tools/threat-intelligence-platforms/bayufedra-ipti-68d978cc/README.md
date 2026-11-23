@@ -1,0 +1,14 @@
+# bayufedra/ipti
+
+- **Category:** [Threat Intelligence Platforms](../../../by-category/threat-intelligence-platforms/README.md)
+- **Type:** [tool](../../../by-type/tool/README.md)
+- **Status:** `indexed`
+- **URL:** <https://github.com/bayufedra/ipti>
+- **Sources:** `github-search:topic:threat-intelligence`
+- **Indexed:** 2026-11-23
+- **GitHub stars at index time:** 37
+- **License:** GPL-3.0
+
+A comprehensive tool for doing threat intelligence againts IP addresses to determine if it's are malicious
+
+[← Category index](../../../by-category/threat-intelligence-platforms/README.md) · [← Master index](../../../README.md)

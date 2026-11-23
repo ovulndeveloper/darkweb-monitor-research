@@ -91,7 +91,7 @@ These appeared in GitHub/Brave/DDG/Yandex searches but were not added because th
 | https://www.youtube.com/watch?v=WHOgdsEiyew | video, not a primary source |
 | https://www.youtube.com/watch?v=usAuIqjHwnM | video, not a primary source |
 
-## Search-engine directory endpoints used by the automation
+## Search endpoints used during research
 
 | URL | Role |
 |---|---|

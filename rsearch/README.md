@@ -1,47 +1,28 @@
 # rsearch — continuous dark-web tool research
 
-This directory is the research layer added on 2026-11-23. It contains **20 new tools** that are not described in the original `README.md`, `tools_catalog.md`, or `categories/` files. Nothing here duplicates those entries; the exclusion list is enforced by tests and by the refresh job.
+This directory is the research layer added on 2026-11-23. It contains **20 new tools** that are not described in the original `README.md`, `tools_catalog.md`, or `categories/` files. Nothing here duplicates those entries; the exclusion list is documented and manually enforced.
+
+This is a URL/documentation section. It does not contain software code.
 
 ## What is here
 
 | Path | Purpose |
 |---|---|
-| `CATALOG.md` | Generated, evidence-linked catalog of new tools (never edit by hand) |
-| `STATUS.json` | Last run metadata, counts, categories, validation state |
-| `CHANGELOG.md` | Append-only log of automated catalog regenerations |
-| `RESEARCH_PROPOSAL.md` | Proposed research program, questions, metrics, roadmap |
+| `CATALOG.md` | Curated, evidence-linked catalog of new tools |
+| `STATUS.json` | Counts, categories, validation state |
+| `CHANGELOG.md` | Update log |
+| `RESEARCH_PROPOSAL.md` | Research questions, method, metrics, roadmap |
 | `SOURCES.md` | Every source URL found during research, with confidence notes |
-| `RECONCILIATION.md` | Conflicts with the legacy catalog and how they were handled |
+| `RECONCILIATION.md` | Conflicts with legacy catalog and resolutions |
 | `registry/tools.json` | Human-maintained, deduplicated source of truth |
 | `registry/exclusions.json` | Legacy tools that must never be re-added here |
-| `automation/refresh_catalog.py` | Renders the catalog and refreshes GitHub/HTTP metadata |
-| `automation/discover_candidates.py` | Continuously stages new candidates from GitHub + DDG |
-| `automation/watch.sh` | Optional local infinite loop (Ctrl-C to stop) |
-| `candidates/` | Staged, deduplicated candidates awaiting human review |
-
-## Quick start
-
-```sh
-# From the repository root — validate and render without network
-python3 -m unittest discover -s rsearch/automation -p 'test_*.py' -v
-python3 rsearch/automation/refresh_catalog.py --offline
-
-# Live refresh (GITHUB_TOKEN optional but raises rate limits)
-GITHUB_TOKEN=... python3 rsearch/automation/refresh_catalog.py
-python3 rsearch/automation/discover_candidates.py
-
-# Local never-stop watcher (6-hour interval by default)
-INTERVAL=21600 sh rsearch/automation/watch.sh
-```
-
-GitHub Actions runs the same validation + refresh + discovery every 6 hours and commits only when outputs actually change.
 
 ## Deduplication policy
 
 1. A tool is identified by normalized name, canonical URL, GitHub `owner/repo`, and aliases.
 2. Identity keys are checked against `registry/tools.json` **and** `registry/exclusions.json`.
-3. Any collision fails the offline test suite and blocks catalog rendering.
-4. Discovery results go to `candidates/` only. A human promotes them into `registry/tools.json` with at least one primary-source URL and a verification date.
+3. A duplicate identity is rejected during manual review.
+4. New entries require a verification date and at least one primary-source URL.
 
 ## Verification levels
 
@@ -58,7 +39,7 @@ GitHub Actions runs the same validation + refresh + discovery every 6 hours and 
 5. Onion Search & Discovery
 6. Privacy & Research Environment
 
-The root `README.md` now links to every category and URL, including these new tools.
+The root `README.md` links to every category and URL, including these new tools. The larger URL-only directory is in [`apps/`](../apps/README.md).
 
 ## Legal and ethical notice
 

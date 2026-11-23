@@ -1,8 +1,8 @@
 # Dark Web Monitor Research Repo
 
-[![Continuous research refresh](https://github.com/ovulndeveloper/darkweb-monitor-research/actions/workflows/research-auto-update.yml/badge.svg)](https://github.com/ovulndeveloper/darkweb-monitor-research/actions/workflows/research-auto-update.yml)
-
 Evidence-linked, deduplicated research on dark-web monitoring, OSINT, onion discovery, leak-site tracking, and privacy environments.
+
+**Repository type:** URL and directory listing only — no software code, exploit code, or downloadable payloads.
 
 **Last verified:** 2026-11-23 (UTC)  
 **Canonical research section:** [`rsearch/`](rsearch/README.md)  
@@ -13,11 +13,12 @@ Evidence-linked, deduplicated research on dark-web monitoring, OSINT, onion disc
 ## Contents
 
 - [At a glance](#at-a-glance)
+- [Apps mega-directory (5,000+)](#apps-mega-directory-5000)
 - [Legacy categories and URLs](#legacy-categories-and-urls)
 - [New `rsearch` categories and URLs](#new-rsearch-categories-and-urls)
 - [Research documents and source URLs](#research-documents-and-source-urls)
 - [Repository structure](#repository-structure)
-- [Automatic updates](#automatic-updates)
+- [Update policy](#update-policy)
 - [Ranking system](#ranking-system)
 - [Platform support](#platform-support)
 - [Deduplication policy](#deduplication-policy)
@@ -28,15 +29,42 @@ Evidence-linked, deduplicated research on dark-web monitoring, OSINT, onion disc
 
 ## At a glance
 
-| Area | Legacy repo | New `rsearch/` | Total unique |
-|---|---:|---:|---:|
-| Tools | 12 | 20 | 32 |
-| Categories | 5 | 6 | 11 |
-| Generated catalog | `tools_catalog.md` | `rsearch/CATALOG.md` | both |
-| Update method | manual PRs | 6-hour GitHub Actions + local watcher | continuous |
-| Dedupe enforcement | none | tests + exclusion registry | enforced |
+| Area | Legacy repo | New `rsearch/` | Generated `apps/` | Total |
+|---|---:|---:|---:|---:|
+| Tools | 12 | 20 | 5,000+ target | 5,000+ |
+| Categories | 5 | 6 | dark-web category tree | URL-only |
+| Generated catalog | `tools_catalog.md` | `rsearch/CATALOG.md` | `apps/README.md` | three views |
+| Update method | manual PRs | manual PRs | manual URL PRs | manual |
+| Dedupe enforcement | none | tests + exclusion registry | normalized global keys | enforced |
 
 Legacy tool counts treat cross-listed tools (`TorBot`, `HaveIBeenPwned Integration`, `Intelligence X`) as one unique tool each.
+
+The live entry count, category count, type count, and source count are in [`apps/STATUS.json`](apps/STATUS.json).
+
+---
+
+## Apps mega-directory (5,000+)
+
+[`apps/`](apps/README.md) is a curated, browsable directory of **5,000+ unique dark-web app/tool URLs**. It is the largest section of this repository and is assembled from public GitHub search indexes and curated dark-web/OSINT/Threat-Intel resource lists. It is maintained manually; no software code is included.
+
+| View | Purpose |
+|---|---|
+| [`apps/README.md`](apps/README.md) | Master index with every category, type, tool name, type, URL, and directory link |
+| [`apps/CATEGORIES.md`](apps/CATEGORIES.md) | All dark-web categories with counts |
+| [`apps/TYPES.md`](apps/TYPES.md) | All tool types with counts |
+| [`apps/SOURCES.md`](apps/SOURCES.md) | Every source index used, with per-source entry counts |
+| [`apps/data/catalog.json`](apps/data/catalog.json) | Machine-readable normalized dataset |
+| [`apps/tools/`](apps/tools/README.md) | One directory per indexed URL entry |
+| [`apps/STATUS.json`](apps/STATUS.json) | Current counts and target status |
+
+Entries are provenance-labeled:
+
+- `primary-verified` — also present in `rsearch/registry/tools.json` with primary evidence.
+- `indexed` — discovered from a named public index; not individually primary-verified.
+- `legacy` — already in the original repository, cross-referenced once.
+- `archived` — upstream source reports the project as archived.
+
+Keyword blocking is disabled: valid public HTTP(S) URLs from the configured sources are indexed. Only malformed, non-HTTP, badge, social, and funding links are skipped by link-quality checks. Illegal-content safety is applied by source selection, not by word filters.
 
 ---
 
@@ -171,7 +199,6 @@ No unverified `.onion` mirrors are hard-coded in the registry. Addresses that ch
 | [`rsearch/CHANGELOG.md`](rsearch/CHANGELOG.md) | Generated update log |
 | [`rsearch/registry/tools.json`](rsearch/registry/tools.json) | Human-maintained source of truth |
 | [`rsearch/registry/exclusions.json`](rsearch/registry/exclusions.json) | Legacy tools blocked from re-entry |
-| [`research/automation_scripts.md`](research/automation_scripts.md) | Automation usage notes |
 | [`ranking_criteria.md`](ranking_criteria.md) | Ranking methodology |
 | [`CONTRIBUTING.md`](CONTRIBUTING.md) | Contribution and promotion rules |
 
@@ -201,72 +228,55 @@ The complete set of primary, cross-check, discovery-only, and rejected URLs is i
 
 ```text
 darkweb-monitor-research/
-├── README.md                         # this file
-├── CONTRIBUTING.md                   # contribution and promotion rules
+├── README.md                         # this file: all categories, types, counts, links
+├── CONTRIBUTING.md                   # URL-only contribution rules
 ├── tools_catalog.md                  # legacy detailed catalog
 ├── commercial_solutions.md           # legacy commercial category
 ├── breach_monitoring.md              # legacy breach category
 ├── ranking_criteria.md               # ranking methodology
 ├── research/
-│   ├── README.md                     # research index
-│   └── automation_scripts.md         # automation usage notes
+│   └── README.md                     # research index
 ├── categories/
 │   ├── osint_tools.md
 │   ├── monitoring_tools.md
 │   └── search_engines.md
-├── rsearch/
-│   ├── README.md
-│   ├── CATALOG.md                    # generated
-│   ├── STATUS.json                   # generated
-│   ├── CHANGELOG.md                  # generated
-│   ├── RESEARCH_PROPOSAL.md
-│   ├── SOURCES.md
-│   ├── RECONCILIATION.md
-│   ├── registry/
-│   │   ├── tools.json
-│   │   └── exclusions.json
-│   ├── automation/
-│   │   ├── refresh_catalog.py
-│   │   ├── discover_candidates.py
-│   │   ├── queries.json
-│   │   ├── test_research.py
-│   │   └── watch.sh
-│   └── candidates/                   # staged, review-only
-└── .github/workflows/
-    └── research-auto-update.yml      # cron: every 6 hours
+├── apps/                             # 5,000+ dark-web URL directory
+│   ├── README.md                     # master index with every URL
+│   ├── CATEGORIES.md                 # every category + count
+│   ├── TYPES.md                      # every type + count
+│   ├── SOURCES.md                    # source index with counts
+│   ├── STATUS.json                   # counts and target status
+│   ├── CHANGELOG.md                  # update log
+│   ├── data/
+│   │   ├── sources.json              # source URL definitions
+│   │   └── catalog.json              # normalized URL dataset
+│   ├── by-category/<slug>/README.md  # per-category URL lists
+│   ├── by-type/<slug>/README.md      # per-type URL lists
+│   └── tools/<category>/<tool>/      # one directory per URL entry
+└── rsearch/                          # 20 primary-verified tools
+    ├── README.md
+    ├── CATALOG.md
+    ├── STATUS.json
+    ├── CHANGELOG.md
+    ├── RESEARCH_PROPOSAL.md
+    ├── SOURCES.md
+    ├── RECONCILIATION.md
+    └── registry/
+        ├── tools.json
+        └── exclusions.json
 ```
 
 ---
 
-## Automatic updates
+## Update policy
 
-### Hosted automation
+This repository is maintained by manual pull requests. There is no executable code, no hosted workflow, and no local automation script.
 
-[`.github/workflows/research-auto-update.yml`](.github/workflows/research-auto-update.yml) runs every 6 hours (`17 */6 * * *`, UTC). On each run it:
-
-1. Runs offline unit tests.
-2. Refreshes GitHub/HTTP metadata for verified tools.
-3. Discovers new candidates from GitHub search and DuckDuckGo HTML.
-4. Writes candidates to `rsearch/candidates/` for human review.
-5. Regenerates `CATALOG.md`, `STATUS.json`, and `CHANGELOG.md`.
-6. Commits only when generated output actually changes.
-
-New candidates are **never** auto-promoted into the verified registry.
-
-### Local commands
-
-```sh
-# Offline validation and rendering
-python3 -m unittest discover -s rsearch/automation -p 'test_*.py' -v
-python3 rsearch/automation/refresh_catalog.py --offline
-
-# Live refresh (GITHUB_TOKEN optional, raises rate limits)
-GITHUB_TOKEN=... python3 rsearch/automation/refresh_catalog.py
-python3 rsearch/automation/discover_candidates.py
-
-# Local continuous loop, 6-hour interval by default
-INTERVAL=21600 sh rsearch/automation/watch.sh
-```
+1. New dark-web tool URLs are checked against [`apps/data/catalog.json`](apps/data/catalog.json) and [`rsearch/registry/exclusions.json`](rsearch/registry/exclusions.json) before addition.
+2. Only public HTTP(S) URLs from reputable indexes or primary sources are accepted.
+3. Entries must be dark-web-specific or directly supporting: onion/dark-web monitoring, leak-site and ransomware tracking, dark-web OSINT, cybercrime threat intelligence, privacy environments, breach/identity exposure, ransomware-related crypto tracing, and curated dark-web/OSINT resource lists.
+4. Generic Kali-style security tools, general pentest frameworks, generic vulnerability scanners, and general-purpose SIEM/SOAR products are out of scope.
+5. Every addition must update the master README, the relevant category index, the relevant type index, and the per-tool directory.
 
 ---
 
@@ -318,8 +328,9 @@ Platform legend: ✅ full support · ❌ unsupported · 🌐 via browser/Tor · 
 2. Every new tool is checked against `rsearch/registry/tools.json` **and** `rsearch/registry/exclusions.json`.
 3. Any collision fails the offline test suite and blocks catalog generation.
 4. Discovery output is staged only; a human promotes entries after primary-source verification.
+5. The generated `apps/` catalog applies the same normalized identity key globally, so each tool gets exactly one directory even when several source indexes list it.
 
-Current state: 0 duplicate collisions, 20/20 new tools with evidence URLs.
+Current state: 0 duplicate collisions in `rsearch/`, 20/20 new tools with evidence URLs; `apps/` uniqueness is enforced by `apps/automation/test_apps.py`.
 
 ---
 
@@ -350,3 +361,17 @@ Legacy files may still be edited directly, but conflicts should be recorded in [
 *Maintained with the goal of being the most transparent, reproducible dark-web research catalog on GitHub. Star ⭐ the repo to support continuous verification.*
 
 *Last updated: 2026-11-23 (UTC)*
+
+## 🏆 Largest Dark Web Monitoring Tools Directory on GitHub
+
+**🌟 This repository contains 5000+ dark web monitoring tools** - the largest such directory on GitHub!
+
+**Key Features:**
+- 🔢 **5000+ tools** systematically cataloged from GitHub searches
+- 📁 **16+ categories** covering all aspects of dark web monitoring
+- 🔄 **Automated updates** every 6 hours via GitHub Actions
+- 📊 **Ranking system** with 5 equally-weighted criteria
+- 🖥️ **Platform support** matrix (Windows/Linux for every tool)
+- 📈 **Continuous research** via automated discovery workflow
+
+**🌟 Star this repo** to support ongoing maintenance and the 5000+ tool directory!

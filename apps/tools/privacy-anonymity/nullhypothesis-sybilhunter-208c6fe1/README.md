@@ -1,0 +1,14 @@
+# NullHypothesis/sybilhunter
+
+- **Category:** [Privacy & Anonymity](../../../by-category/privacy-anonymity/README.md)
+- **Type:** [tool](../../../by-type/tool/README.md)
+- **Status:** `indexed`
+- **URL:** <https://github.com/NullHypothesis/sybilhunter>
+- **Sources:** `github-search:topic:tor`
+- **Indexed:** 2026-11-23
+- **GitHub stars at index time:** 44
+- **License:** BSD-2-Clause
+
+Hunting for Sybils and anomalies in archived Tor network data.
+
+[← Category index](../../../by-category/privacy-anonymity/README.md) · [← Master index](../../../README.md)

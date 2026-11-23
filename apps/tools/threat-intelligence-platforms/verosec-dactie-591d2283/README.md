@@ -1,0 +1,14 @@
+# VeroSec/DACTIE
+
+- **Category:** [Threat Intelligence Platforms](../../../by-category/threat-intelligence-platforms/README.md)
+- **Type:** [tool](../../../by-type/tool/README.md)
+- **Status:** `indexed`
+- **URL:** <https://github.com/VeroSec/DACTIE>
+- **Sources:** `github-search:topic:cti`
+- **Indexed:** 2026-11-23
+- **GitHub stars at index time:** 6
+- **License:** Apache-2.0
+
+DACTIE (Decentralized Anonymous CTI Exchange) is a network for sharing cyber threat information in which the sender stays anonymous unless a threshold of archive operators jointly opens its signature.
+
+[← Category index](../../../by-category/threat-intelligence-platforms/README.md) · [← Master index](../../../README.md)

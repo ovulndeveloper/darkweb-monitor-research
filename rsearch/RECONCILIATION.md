@@ -11,7 +11,7 @@ This file records where new research disagrees with the original repository cont
 | Root category tables had no tool URLs | User request | Updated root README with URL columns for all 11 categories. |
 | README linked `commercial_solutions.md`, `breach_monitoring.md`, and `ranking_criteria.md`, but none existed | File inspection | Created all three files with URLs and ranking methodology. |
 | `tools_catalog.md` listed ZeroFox as `https://www.zeroxfox.com` | Official site `https://www.zerofox.com` | Typo corrected. |
-| `research/automation_scripts.md` contained only TODO placeholders | File inspection | Replaced with links and commands for the real automation pipeline. |
+| `research/automation_scripts.md` contained only TODO placeholders | File inspection | Placeholder page removed; this repository is URL/documentation only, with no executable code. |
 | `dls-monitor` license | GitHub API says MIT; README footer says unlicense | Registry stores both with a "verify" note. |
 | OnionScan install instructions reference Go 1.6/1.7 | Official README | Registry status is `active-but-old-toolchain`. |
 | Haystak showed as active in secondary sources | Direct fetch of `https://haystak.com/` returned 404 | Registry status is `address-verify-needed`; no onion mirror hard-coded. |
@@ -19,4 +19,4 @@ This file records where new research disagrees with the original repository cont
 
 ## Non-duplication guarantee
 
-`rsearch/registry/exclusions.json` contains all 12 legacy tools with aliases. `refresh_catalog.py::validate()` and `test_research.py` both fail if any new tool collides with them. The 20 tools in `rsearch` were selected specifically to fill gaps rather than repeat existing entries.
+`rsearch/registry/exclusions.json` contains all 12 legacy tools with aliases. Manual review rejects any new tool that collides with them. The 20 tools in `rsearch` were selected specifically to fill gaps rather than repeat existing entries. The larger `apps/` directory applies the same normalized identity rule globally so each URL appears once.

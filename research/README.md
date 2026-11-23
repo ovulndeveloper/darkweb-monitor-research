@@ -1,29 +1,30 @@
 # Dark Web Tools Research
 
-This directory contains ongoing research into dark-web monitoring tools, search engines, monitoring platforms, and automation.
+This directory indexes the research documents in this URL-only repository. It contains no software code.
 
 ## Research sections
 
-- [Legacy OSINT frameworks](../categories/osint_tools.md) — comprehensive OSINT automation tools
+- [Apps mega-directory (5,000+ URLs)](../apps/README.md) — generated-by-hand directory tree with one folder per tool
+- [Legacy OSINT frameworks](../categories/osint_tools.md) — comprehensive OSINT tools
 - [Legacy exposure monitoring](../categories/monitoring_tools.md) — ransomware leak-site and breach monitoring
 - [Legacy search engines](../categories/search_engines.md) — dark-web search engines and directories
 - [Legacy commercial solutions](../commercial_solutions.md) — enterprise monitoring services
 - [Legacy breach monitoring](../breach_monitoring.md) — compromised data and credential monitoring
 - [New `rsearch/` pack](../rsearch/README.md) — 20 deduplicated, evidence-linked tools across 6 additional categories
-- [Automation scripts](automation_scripts.md) — live refresh/discovery commands
 
-## Update frequency
+## Update policy
 
-- Hosted workflow checks for changes every 6 hours: [`research-auto-update.yml`](../.github/workflows/research-auto-update.yml)
-- Tool entries are verified against primary sources before promotion into [`rsearch/registry/tools.json`](../rsearch/registry/tools.json)
-- Legacy rankings are reviewed manually and conflicts are recorded in [`rsearch/RECONCILIATION.md`](../rsearch/RECONCILIATION.md)
+- New URLs are added by pull request after a primary-source check.
+- Identity is normalized so the same tool is not listed twice.
+- Primary-verified entries live in [`rsearch/registry/tools.json`](../rsearch/registry/tools.json).
+- Conflicts with the legacy catalog are recorded in [`rsearch/RECONCILIATION.md`](../rsearch/RECONCILIATION.md).
 
 ## Contributing research
 
-1. Submit new tool discoveries via Pull Request.
-2. Check [`rsearch/registry/exclusions.json`](../rsearch/registry/exclusions.json) before adding anything.
-3. Include a primary-source URL, verification date, platform info, and safety note.
-4. Run the offline tests before committing generated catalog changes.
+1. Submit new tool URLs via Pull Request.
+2. Check [`rsearch/registry/exclusions.json`](../rsearch/registry/exclusions.json) and [`apps/data/catalog.json`](../apps/data/catalog.json) before adding anything.
+3. Include a primary-source URL, verification date, type, and safety note where relevant.
+4. Update all affected README indexes so links stay consistent.
 
 ## Research notes
 

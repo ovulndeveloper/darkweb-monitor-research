@@ -1,0 +1,14 @@
+# hedgerow-dev/coldframe
+
+- **Category:** [Threat Intelligence Platforms](../../../by-category/threat-intelligence-platforms/README.md)
+- **Type:** [tool](../../../by-type/tool/README.md)
+- **Status:** `indexed`
+- **URL:** <https://github.com/hedgerow-dev/coldframe>
+- **Sources:** `github-search:topic:threat-intelligence`
+- **Indexed:** 2026-11-23
+- **GitHub stars at index time:** 79
+- **License:** MIT
+
+Low-interaction honeypot for supermarket refrigeration controllers (Danfoss AK-SM 800A, Dixell XWEB 500)
+
+[← Category index](../../../by-category/threat-intelligence-platforms/README.md) · [← Master index](../../../README.md)

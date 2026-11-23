@@ -1,0 +1,12 @@
+# sichutancha/TelegramCommentScraper
+
+- **Category:** [OSINT & Reconnaissance](../../../by-category/osint-reconnaissance/README.md)
+- **Type:** [api-service](../../../by-type/api-service/README.md)
+- **Status:** `indexed`
+- **URL:** <https://github.com/sichutancha/TelegramCommentScraper>
+- **Sources:** `github-search:topic:osint-tools`
+- **Indexed:** 2026-11-23
+
+Telegram Comment Scraper for OSINT
+
+[← Category index](../../../by-category/osint-reconnaissance/README.md) · [← Master index](../../../README.md)

@@ -1,0 +1,14 @@
+# RyanDFIR/hindsight
+
+- **Category:** [Digital Forensics & Incident Response](../../../by-category/digital-forensics-incident-response/README.md)
+- **Type:** [tool](../../../by-type/tool/README.md)
+- **Status:** `indexed`
+- **URL:** <https://github.com/RyanDFIR/hindsight>
+- **Sources:** `github-search:topic:forensics`
+- **Indexed:** 2026-11-23
+- **GitHub stars at index time:** 1566
+- **License:** Apache-2.0
+
+Browser forensics tool for Google Chrome, other Chromium-based browsers, and Mozilla Firefox
+
+[← Category index](../../../by-category/digital-forensics-incident-response/README.md) · [← Master index](../../../README.md)

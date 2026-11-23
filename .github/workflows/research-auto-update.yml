@@ -7,65 +7,58 @@ on:
   repository_dispatch:
     types: [research_update, tool_request]
 
+permissions:
+  contents: write
+
+env:
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 jobs:
   research-and-update:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-      issues: write
-      pull-requests: write
     steps:
-      - checkout: {fetch-depth: 0}
-      
-      - name: Initialize Research Run
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Validate verified registry
         run: |
-          echo "🚀 Starting dark web monitor research..."
-          echo "Run: $(date -u)"
-          mkdir -p research/logs
-          echo "ID: $(date -u +%Y%m%d-%H%M%S)" > research/logs/current-run.txt
-      
-      - name: Discover New Tools
+          echo "Registry validation: $(date -u)"
+          python3 -m unittest discover -s rsearch/automation -p 'test_*.py' -v
+
+      - name: Refresh verified catalog metadata
+        run: python3 rsearch/automation/refresh_catalog.py
+
+      - name: Stage new candidates for review
+        run: python3 rsearch/automation/discover_candidates.py
+
+      - name: Build 5,000+ app directory
+        run: python3 apps/automation/build_apps.py
+
+      - name: Validate generated directory
         run: |
-          chmod +x rsearch/automation/discover_candidates.py
-          python3 rsearch/automation/discover_candidates.py --output research/logs/discovered-tools.json
-          echo "Discovered: $(python3 -c "import json; d=json.load(open('research/logs/discovered-tools.json')); print(len(d) if d else 0)" 2>/dev/null || echo 0)"
-      
-      - name: Refresh Catalog
-        run: |
-          chmod +x rsearch/automation/refresh_catalog.py
-          python3 rsearch/automation/refresh_catalog.py --input research/logs/discovered-tools.json
-          echo "Catalog updated"
-      
-      - name: Review Rankings
-        run: |
-          echo "Reviewing rankings..."
-          if [ -f research/automation_scripts.md ]; then
-            echo "Checking scripts..."
-          fi
-      
-      - name: Create Issues
-        run: |
-          TOOL_COUNT=$(python3 -c "import json; d=json.load(open('research/logs/discovered-tools.json')); print(len(d) if d else 0)" 2>/dev/null || echo "0")
-          if [ "$TOOL_COUNT" -gt 0 ]; then
-            echo "Found $TOOL_COUNT new tools - create PRs or issues"
-          else
-            echo "No new tools this run"
-          fi
-      
-      - name: Commit Updates
+          python3 -m unittest discover -s apps/automation -p 'test_*.py' -v
+          python3 apps/automation/validate_links.py
+
+      - name: Commit generated updates
         run: |
           git config user.name "DarkWebMonitor Bot"
           git config user.email "darkwebmonitor-bot@users.noreply.github.com"
-          if ! git diff --quiet; then
-            git add -A
-            git commit -m "chore(research): automated refresh $(date -u +%Y-%m-%dT%H:%MZ)"
-            git push origin main
-          else
+          git add -A
+          if git diff --cached --quiet; then
             echo "No changes to commit"
+          else
+            git commit -m "chore(research): automated refresh $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push origin HEAD:main
           fi
-      
-      - name: Run Summary
+
+      - name: Run summary
         run: |
-          echo "🏁 Research run completed: $(date -u)"
-          echo "Tools discovered: ${TOOL_COUNT:-0}"
-          echo "Check Actions tab for details"
+          echo "Completed: $(date -u)"
+          python3 -c "import json; d=json.load(open('apps/STATUS.json')); print('Apps entries:', d['entry_count']); print('Categories:', d['category_count']); print('Types:', d['type_count'])"

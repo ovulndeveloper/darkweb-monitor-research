@@ -1,0 +1,14 @@
+# Tsuyoken/kencryptor
+
+- **Category:** [Ransomware & Threat Actor Tracking](../../../by-category/ransomware-threat-actor-tracking/README.md)
+- **Type:** [cli-tool](../../../by-type/cli-tool/README.md)
+- **Status:** `indexed`
+- **URL:** <https://github.com/Tsuyoken/kencryptor>
+- **Sources:** `github-search:topic:ransomware`
+- **Indexed:** 2026-11-23
+- **GitHub stars at index time:** 13
+- **License:** MIT
+
+Windows Encrypt/Decrypt using AES 256 bit keys
+
+[← Category index](../../../by-category/ransomware-threat-actor-tracking/README.md) · [← Master index](../../../README.md)
