@@ -1,0 +1,27 @@
+# Dark Web Tools Research
+
+## Purpose
+This directory contains ongoing research into dark web monitoring tools, search engines, and monitoring platforms.
+
+## Research Categories
+- [OSINT Frameworks](categories/osint_tools.md) - Comprehensive OSINT automation tools
+- [Exposure Monitoring](categories/monitoring_tools.md) - Ransomware leak site and breach monitoring
+- [Search Engines](categories/search_engines.md) - Dark web search engines and directories
+- [Commercial Solutions](commercial_solutions.md) - Enterprise dark web monitoring services
+- [Breach Monitoring](breach_monitoring.md) - Compromised data and credential monitoring
+
+## Update Frequency
+- Tools are reviewed monthly for new features and platform support
+- Rankings updated quarterly based on community adoption and features
+- New tools added when they gain significant traction or unique capabilities
+
+## Contributing Research
+1. Submit new tool discoveries via Pull Request
+2. Update tool rankings based on latest data
+3. Add platform support information (Windows/Linux)
+4. Document new features and capabilities
+
+## Research Notes
+- All tools evaluated on: features, platform support, community adoption, update frequency, documentation quality
+- Ranking scale: ⭐⭐⭐⭐⭐ (excellent) to ⭐ (experimental)
+- Legal/ethical notice applies to all research activities
